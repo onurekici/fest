@@ -106,31 +106,39 @@ def send_batch_to_api(scores_batch):
 def main(instrument_to_scan, access_token, account_id):
     """Ana script fonksiyonu."""
     all_songs = get_all_songs()
-    if not all_songs: return
+    if not all_songs:
+        return
         
-    scores_batch = []; total_songs = len(all_songs)
+    scores_batch = []
+    total_songs = len(all_songs)
+    season_number = SEASON # Sezonu sayı olarak alalım
     
     print(f"\n--- {instrument_to_scan} için {total_songs} şarkı taranacak ---")
     
     for i, song in enumerate(all_songs):
-        song_id, event_id = song.get('sn'), song.get('su')
-        if not event_id or not song_id: continue
+        song_id = song.get('sn')
+        event_id = song.get('su')
+        
+        if not event_id or not song_id:
+            continue
             
         print(f"-> Şarkı {i+1}/{total_songs}: {song.get('tt')} ({instrument_to_scan})")
         
         for page_num in range(PAGES_TO_SCAN):
             try:
-                season_str = f"season{SEASON:03d}"
+                season_str = f"season{season_number:03d}"
                 url = (f"https://events-public-service-live.ol.epicgames.com/api/v1/leaderboards/FNFestival/"
                        f"{season_str}_{event_id}/{event_id}_{instrument_to_scan}/{account_id}?page={page_num}")
                 
                 headers = {'Authorization': f'Bearer {access_token}'}
                 response = session.get(url, headers=headers, timeout=10)
                 
-                if response.status_code == 404: break
+                if response.status_code == 404:
+                    break  # Bu enstrüman için başka sayfa yok
                 response.raise_for_status()
                 raw_entries = response.json().get('entries', [])
-                if not raw_entries: break
+                if not raw_entries:
+                    break  # Sayfa boş
 
                 account_ids = [entry['teamId'] for entry in raw_entries]
                 user_names = get_account_names(account_ids, access_token)
@@ -139,10 +147,19 @@ def main(instrument_to_scan, access_token, account_id):
                     best_run = parse_entry(entry)
                     username = user_names.get(entry['teamId'])
                     if best_run and username and username != 'Bilinmeyen':
-                        all_scores_for_db.append({"userName": username, "song_id": song_id, "instrument": instrument, "season": season_number, **best_run})
+                        # --- HATA BURADAYDI, DÜZELTİLDİ ---
+                        score_data = {
+                            "userName": username,
+                            "song_id": song_id,
+                            "instrument": instrument_to_scan,
+                            "season": season_number,
+                            **best_run
+                        }
+                        scores_batch.append(score_data)
                 
                 if len(scores_batch) >= BATCH_SIZE:
-                    send_batch_to_api(scores_batch); scores_batch = []
+                    send_batch_to_api(scores_batch)
+                    scores_batch = [] # Batch'i temizle
                 
                 time.sleep(1.5) # API'yi yormamak için GÜVENLİK amaçlı bekleme
 
@@ -150,6 +167,7 @@ def main(instrument_to_scan, access_token, account_id):
                 print(f" > Hata: Sayfa {page_num + 1} çekilemedi. Atlanıyor. Hata: {e}")
                 break
 
+    # Döngü bittikten sonra kalan skorları gönder
     if scores_batch:
         send_batch_to_api(scores_batch)
 
@@ -169,4 +187,5 @@ if __name__ == "__main__":
         print("[HATA] Script durduruluyor çünkü geçerli bir token alınamadı."); sys.exit(1)
 
     main(instrument_to_scan, access_token, account_id)
+
 
