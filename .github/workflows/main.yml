@@ -1,0 +1,60 @@
+# Workflow'un adı
+name: Fortnite Festival Scraper
+
+# Bu workflow'u tetikleyecek olaylar
+on:
+  # 1. Actions sekmesinden manuel olarak başlatmanızı sağlar
+  workflow_dispatch:
+
+  # 2. Zamanlanmış görev (schedule)
+ schedule:
+    # Her gün UTC saatiyle 00:00'da çalışır.
+    # Bu, Türkiye saatiyle gece 03:00'a denk gelir.
+    - cron: '0 0 * * *'
+
+# Çalıştırılacak görevler (jobs)
+jobs:
+  # "scrape" adında bir görev tanımlıyoruz
+  scrape:
+    # Görevin çalışacağı sanal sunucu tipi
+    runs-on: ubuntu-latest
+    
+    # Strateji: Bu görev, aşağıdaki matristeki her bir eleman için bir kez çalışacak
+    strategy:
+      matrix:
+        # Taranacak enstrümanların listesi
+        instrument:
+          - 'Solo_Guitar'
+          - 'Solo_Drums'
+          - 'Solo_Bass'
+          - 'Solo_Vocals'
+          - 'Solo_PeripheralGuitar'
+          - 'Solo_PeripheralBass'
+      # Bir enstrüman hata verirse, diğerlerinin çalışmaya devam etmesini sağlar
+      fail-fast: false
+
+    # Görevin adımları
+    steps:
+      # 1. Adım: Depodaki kodları sanal sunucuya indirir
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Adım: Python ortamını kurar
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Adım: Gerekli Python kütüphanesini yükler
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. Adım: Scraper script'ini çalıştırır
+      - name: Run Scraper for ${{ matrix.instrument }}
+        # GitHub Secrets'ta tanımladığımız gizli bilgileri script'e ortam değişkeni olarak verir
+        env:
+          API_URL: ${{ secrets.API_URL }}
+          API_SECRET_KEY: ${{ secrets.API_SECRET_KEY }}
+          EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
+        # Script'i, o anki matris elemanıyla (örn: Solo_Guitar) çalıştırır
+        run: python scraper_actions.py ${{ matrix.instrument }}
