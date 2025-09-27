@@ -12,7 +12,7 @@ EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
 # --- Sabitler ---
 EPIC_BASIC_AUTH = 'ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ='
 SONGS_API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
-SEASON = 5
+SEASON = 10
 PAGES_TO_SCAN = 10  # Top 1000
 BATCH_SIZE = 400   # Sunucuya tek seferde kaç skor gönderilecek
 
@@ -169,3 +169,4 @@ if __name__ == "__main__":
         print("[HATA] Script durduruluyor çünkü geçerli bir token alınamadı."); sys.exit(1)
 
     main(instrument_to_scan, access_token, account_id)
+
