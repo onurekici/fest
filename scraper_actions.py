@@ -91,15 +91,28 @@ def parse_entry(raw_entry):
         return {"accuracy": int(best_run_stats.get("ACCURACY", 0) / 10000),"score": best_run_stats.get("SCORE", 0),"difficulty": best_run_stats.get("DIFFICULTY"),"stars": best_run_stats.get("STARS_EARNED"),"fullcombo": best_run_stats.get("FULL_COMBO") == 1}
     return None
 def send_batch_to_api(scores_batch):
-    # ... (içerik aynı) ...
+    """Biriktirilen skorları PHP API'sine gönderir ve hata durumunda tekrar dener."""
     if not scores_batch: return
+    
     print(f"\n[API] {len(scores_batch)} adet skor sunucuya gönderiliyor...")
     headers = {'Content-Type': 'application/json', 'X-Api-Key': API_SECRET_KEY}
-    try:
-        response = session.post(API_URL, headers=headers, data=json.dumps(scores_batch)); response.raise_for_status()
-        print(f"[API] Sunucu yanıtı: {response.json().get('message', 'Mesaj yok')}")
-    except requests.exceptions.RequestException as e:
-        print(f"[API] HATA: Sunucuya veri gönderilemedi: {e.response.text if e.response else e}")
+    
+    # Tekrar deneme mantığı
+    retries = 3
+    for i in range(retries):
+        try:
+            response = session.post(API_URL, headers=headers, data=json.dumps(scores_batch))
+            response.raise_for_status()
+            print(f"[API] Sunucu yanıtı: {response.json().get('message', 'Mesaj yok')}")
+            return # Başarılı olduysa fonksiyondan çık
+            
+        except requests.exceptions.RequestException as e:
+            print(f"[API] HATA (Deneme {i+1}/{retries}): Sunucuya veri gönderilemedi: {e}")
+            if i < retries - 1: # Son deneme değilse bekle ve tekrar dene
+                print(" > 5 saniye sonra tekrar denenecek...")
+                time.sleep(5)
+            else: # Son deneme de başarısız olduysa
+                print("[API] Tüm denemeler başarısız oldu. Bu batch atlanıyor.")
 
 # --- DEĞİŞTİRİLMİŞ FONKSİYON: main ---
 def main(instrument_to_scan, access_token, account_id):
@@ -193,3 +206,4 @@ if __name__ == "__main__":
     if not access_token or not account_id:
         print("[HATA] Script durduruluyor çünkü geçerli bir token alınamadı."); sys.exit(1)
     main(instrument_to_scan, access_token, account_id)
+
