@@ -3,11 +3,17 @@ name: Fortnite Festival Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Her gün UTC 00:00 (TR 03:00)
+    - cron: '0 0 * * *'
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
+    # --- YENİ EKLENEN BÖLÜM ---
+    # Bu bölüm, iş akışına depoya yazma izni verir.
+    permissions:
+      contents: write
+
     strategy:
       matrix:
         instrument:
@@ -36,7 +42,6 @@ jobs:
           EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
         run: python scraper_actions.py ${{ matrix.instrument }}
 
-      # --- YENİ ADIM: Dosyaları Repoya Commit Etme ---
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
