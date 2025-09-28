@@ -67,31 +67,57 @@ def get_all_songs():
         return None
 
 def get_account_names(account_ids):
-    """Verilen account ID listesi için kullanıcı adlarını çeker."""
+    """Verilen account ID listesi için kullanıcı adlarını çeker ve rate limit'i yönetir."""
     if not account_ids: return {}
     unique_ids = list(set(account_ids))
-    print(f"  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...")
+    print(f"\n  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...", end='', flush=True)
     all_user_names = {}
+    
     try:
         if not refresh_token_if_needed(): raise Exception("Token yenilenemedi.")
+        
         for i in range(0, len(unique_ids), 100):
             batch_ids = unique_ids[i:i + 100]
             params = '&'.join([f'accountId={uid}' for uid in batch_ids])
             url = f'https://account-public-service-prod.ol.epicgames.com/account/api/public/account?{params}'
             headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
-            response = session.get(url, headers=headers, timeout=15)
-            response.raise_for_status()
-            for user in response.json():
-                account_id, display_name = user.get('id'), user.get('displayName')
-                if not display_name and 'externalAuths' in user:
-                    for p_data in user['externalAuths'].values():
-                        if ext_name := p_data.get('externalDisplayName'):
-                            display_name = f"[{p_data.get('type', 'platform').upper()}] {ext_name}"
-                            break
-                if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
+            
+            # --- YENİ: Tekrar deneme ve yavaşlatma mantığı ---
+            retries = 3
+            for attempt in range(retries):
+                response = session.get(url, headers=headers, timeout=20)
+                
+                # Eğer rate limit'e takılırsak...
+                if response.status_code == 429:
+                    wait_time = 30 * (attempt + 1) # Her denemede daha uzun bekle (30s, 60s, 90s)
+                    print(f"\n[RATE LIMIT] Kullanıcı adı API limitine takıldı. {wait_time} saniye bekleniyor...")
+                    time.sleep(wait_time)
+                    if attempt < retries - 1:
+                        print("[BİLGİ] İstek tekrar deneniyor...")
+                        continue # Döngünün bir sonraki adımına geçerek tekrar dene
+                    else:
+                        print("[HATA] Rate limit sonrası tüm denemeler başarısız oldu.")
+                        # Hata ver ama script'i durdurma, devam etsin.
+                        raise requests.exceptions.RequestException("Rate limit after multiple retries")
+
+                response.raise_for_status() # Diğer hataları (401, 500 vb.) fırlat
+                
+                # İstek başarılı olduysa, veriyi işle ve döngüden çık
+                for user in response.json():
+                    account_id, display_name = user.get('id'), user.get('displayName')
+                    if not display_name and 'externalAuths' in user:
+                        for p_data in user['externalAuths'].values():
+                            if ext_name := p_data.get('externalDisplayName'):
+                                display_name = f"[{p_data.get('type', 'platform').upper()}] {ext_name}"
+                                break
+                    if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
+                break # Başarılı olduğu için tekrar deneme döngüsünden çık
+        
+        print(" Tamamlandı.")
         return all_user_names
+        
     except Exception as e:
-        print(f" > Kullanıcı adı alınırken Hata: {e}")
+        print(f" Hata: {e}")
         return {}
 
 def parse_entry(raw_entry):
@@ -185,4 +211,5 @@ if __name__ == "__main__":
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
     main(sys.argv[1])
+
 
