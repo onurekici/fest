@@ -2,10 +2,8 @@ name: Fortnite Festival Scraper
 
 on:
   workflow_dispatch:
-
   schedule:
-    # Her gün UTC saatiyle 00:00'da (Türkiye saatiyle 03:00) çalışır
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Her gün UTC 00:00 (TR 03:00)
 
 jobs:
   scrape:
@@ -35,7 +33,12 @@ jobs:
 
       - name: Run Scraper for ${{ matrix.instrument }}
         env:
-          API_URL: ${{ secrets.API_URL }}
-          API_SECRET_KEY: ${{ secrets.API_SECRET_KEY }}
           EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
         run: python scraper_actions.py ${{ matrix.instrument }}
+
+      # --- YENİ ADIM: Dosyaları Repoya Commit Etme ---
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Data: Update leaderboards for ${{ matrix.instrument }}"
+          file_pattern: "leaderboards/**/*.json"
