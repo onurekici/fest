@@ -127,7 +127,6 @@ def main(instrument_to_scan):
         return
 
     # --- TEST MODU AKTİF ---
-    # Bu satır, tam tarama yapmak istediğinizde silinmeli veya # ile yoruma alınmalıdır.
     all_songs = all_songs[:1]
     
     season_number = SEASON
@@ -135,18 +134,20 @@ def main(instrument_to_scan):
     print(f"\n--- {instrument_to_scan} için {total_songs} şarkı taranacak (TEST MODU) ---")
 
     for i, song in enumerate(all_songs):
-        song_title = song.get('tt', 'unknown_song')
-        song_id_for_db = song.get('sn') # PHP script'inizin bu ID'yi kullanması gerekebilir
+        # --- DEĞİŞİKLİK: Klasör adı için ID'yi kullan ---
+        song_id = song.get('sn')
         event_id = song.get('su')
         
-        if not event_id or not song_id_for_db:
+        if not event_id or not song_id:
             continue
             
-        safe_folder_name = sanitize_filename(song_title)
-        print(f"\n-> Şarkı {i+1}/{total_songs}: {song_title}")
+        # Log'da okunabilir ismi göstermeye devam et
+        print(f"\n-> Şarkı {i+1}/{total_songs}: {song.get('tt')}")
 
         for page_num in range(PAGES_TO_SCAN):
             try:
+                print_progress_bar(page_num + 1, PAGES_TO_SCAN)
+                
                 if not refresh_token_if_needed():
                     raise Exception("Token yenilenemedi, bu şarkı atlanıyor.")
                 
@@ -156,17 +157,13 @@ def main(instrument_to_scan):
                 headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
                 response = session.get(url, headers=headers, timeout=10)
                 
-                if response.status_code == 404:
-                    print(f"  > Sayfa {page_num+1} bulunamadı (404), şarkı bitiriliyor.")
-                    break
-                
+                if response.status_code == 404: break
                 response.raise_for_status()
                 raw_entries = response.json().get('entries', [])
-                if not raw_entries:
-                    print(f"  > Sayfa {page_num+1} boş, şarkı bitiriliyor.")
-                    break
+                if not raw_entries: break
 
-                dir_path = f"leaderboards/season{season_number}/{safe_folder_name}"
+                # --- DEĞİŞİKLİK: Klasör yolu için song_id kullan ---
+                dir_path = f"leaderboards/season{season_number}/{song_id}"
                 os.makedirs(dir_path, exist_ok=True)
                 
                 account_ids = [entry['teamId'] for entry in raw_entries]
@@ -199,3 +196,4 @@ if __name__ == "__main__":
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
     main(sys.argv[1])
+
