@@ -18,30 +18,39 @@ EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
 EPIC_BASIC_AUTH = 'ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ='
 SONGS_API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
 SEASON = 10
-PAGES_TO_SCAN = 5 # Top 500
+PAGES_TO_SCAN = 10  # Top 1000
 
 # --- Global Değişkenler ---
 session = requests.Session()
 session.verify = False
-
 ACCESS_TOKEN = None
 ACCOUNT_ID = None
 TOKEN_EXPIRY_TIME = 0
 
+def print_progress_bar(iteration, total, length=50):
+    """Terminalde kendi kendini güncelleyen bir ilerleme çubuğu çizer."""
+    percent = ("{0:.1f}").format(100 * (iteration / float(total)))
+    filled_length = int(length * iteration // total)
+    bar = '█' * filled_length + '-' * (length - filled_length)
+    sys.stdout.write(f'\r|{bar}| {percent}% Complete')
+    sys.stdout.flush()
+
 def refresh_token_if_needed():
     """Token'ın süresi dolmuşsa veya hiç yoksa yeniler."""
     global ACCESS_TOKEN, ACCOUNT_ID, TOKEN_EXPIRY_TIME
-    
     if time.time() > TOKEN_EXPIRY_TIME:
         print("\n[AUTH] Access token yenileniyor...")
         try:
-            response = session.post('https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token', 
-                                     headers={'Content-Type': 'application/x-www-form-urlencoded', 'Authorization': f'Basic {EPIC_BASIC_AUTH}'}, 
-                                     data={'grant_type': 'refresh_token', 'refresh_token': EPIC_REFRESH_TOKEN, 'token_type': 'eg1'})
+            response = session.post(
+                'https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token',
+                headers={'Content-Type': 'application/x-www-form-urlencoded', 'Authorization': f'Basic {EPIC_BASIC_AUTH}'},
+                data={'grant_type': 'refresh_token', 'refresh_token': EPIC_REFRESH_TOKEN, 'token_type': 'eg1'}
+            )
             response.raise_for_status()
             token_data = response.json()
-            ACCESS_TOKEN, ACCOUNT_ID = token_data.get('access_token'), token_data.get('account_id')
-            TOKEN_EXPIRY_TIME = time.time() + token_data.get('expires_in', 7200) - 200
+            ACCESS_TOKEN = token_data.get('access_token')
+            ACCOUNT_ID = token_data.get('account_id')
+            TOKEN_EXPIRY_TIME = time.time() + (token_data.get('expires_in', 7200) - 200)
             if not ACCESS_TOKEN or not ACCOUNT_ID:
                 print("[HATA] Token yenileme yanıtı beklenen formatta değil.")
                 return False
@@ -67,55 +76,30 @@ def get_all_songs():
         return None
 
 def get_account_names(account_ids):
-    """Verilen account ID listesi için kullanıcı adlarını çeker ve rate limit'i yönetir."""
+    """Verilen account ID listesi için kullanıcı adlarını çeker."""
     if not account_ids: return {}
     unique_ids = list(set(account_ids))
-    print(f"\n  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...", end='', flush=True)
+    print(f"  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...", end='', flush=True)
     all_user_names = {}
-    
     try:
         if not refresh_token_if_needed(): raise Exception("Token yenilenemedi.")
-        
         for i in range(0, len(unique_ids), 100):
             batch_ids = unique_ids[i:i + 100]
             params = '&'.join([f'accountId={uid}' for uid in batch_ids])
             url = f'https://account-public-service-prod.ol.epicgames.com/account/api/public/account?{params}'
             headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
-            
-            # --- YENİ: Tekrar deneme ve yavaşlatma mantığı ---
-            retries = 3
-            for attempt in range(retries):
-                response = session.get(url, headers=headers, timeout=20)
-                
-                # Eğer rate limit'e takılırsak...
-                if response.status_code == 429:
-                    wait_time = 30 * (attempt + 1) # Her denemede daha uzun bekle (30s, 60s, 90s)
-                    print(f"\n[RATE LIMIT] Kullanıcı adı API limitine takıldı. {wait_time} saniye bekleniyor...")
-                    time.sleep(wait_time)
-                    if attempt < retries - 1:
-                        print("[BİLGİ] İstek tekrar deneniyor...")
-                        continue # Döngünün bir sonraki adımına geçerek tekrar dene
-                    else:
-                        print("[HATA] Rate limit sonrası tüm denemeler başarısız oldu.")
-                        # Hata ver ama script'i durdurma, devam etsin.
-                        raise requests.exceptions.RequestException("Rate limit after multiple retries")
-
-                response.raise_for_status() # Diğer hataları (401, 500 vb.) fırlat
-                
-                # İstek başarılı olduysa, veriyi işle ve döngüden çık
-                for user in response.json():
-                    account_id, display_name = user.get('id'), user.get('displayName')
-                    if not display_name and 'externalAuths' in user:
-                        for p_data in user['externalAuths'].values():
-                            if ext_name := p_data.get('externalDisplayName'):
-                                display_name = f"[{p_data.get('type', 'platform').upper()}] {ext_name}"
-                                break
-                    if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
-                break # Başarılı olduğu için tekrar deneme döngüsünden çık
-        
+            response = session.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+            for user in response.json():
+                account_id, display_name = user.get('id'), user.get('displayName')
+                if not display_name and 'externalAuths' in user:
+                    for p_data in user['externalAuths'].values():
+                        if ext_name := p_data.get('externalDisplayName'):
+                            display_name = f"[{p_data.get('type', 'platform').upper()}] {ext_name}"
+                            break
+                if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
         print(" Tamamlandı.")
         return all_user_names
-        
     except Exception as e:
         print(f" Hata: {e}")
         return {}
@@ -147,8 +131,7 @@ def main(instrument_to_scan):
         return
 
     # --- TEST İÇİN YENİ EKLENEN SATIR ---
-    # Bu satır, tüm liste yerine sadece ilk şarkıyı alır.
-    # Tam tarama yapmak istediğinizde bu satırı silin veya başına # koyarak yorum haline getirin.
+    # Bu satır, tam tarama yapmak istediğinizde silinmeli veya # ile yoruma alınmalıdır.
     all_songs = all_songs[:1]
     
     season_number = SEASON
@@ -161,11 +144,13 @@ def main(instrument_to_scan):
             continue
             
         print(f"\n-> Şarkı {i+1}/{total_songs}: {song.get('tt')}")
-
+        
         for page_num in range(PAGES_TO_SCAN):
             try:
-                if not get_token_if_needed():
-                    raise Exception("Token alınamadı, bu şarkı atlanıyor.")
+                print_progress_bar(page_num + 1, PAGES_TO_SCAN)
+                
+                if not refresh_token_if_needed():
+                    raise Exception("Token yenilenemedi, bu şarkı atlanıyor.")
                 
                 season_str = f"season{season_number:03d}"
                 url = f"https://events-public-service-live.ol.epicgames.com/api/v1/leaderboards/FNFestival/{season_str}_{event_id}/{event_id}_{instrument_to_scan}/{ACCOUNT_ID}?page={page_num}"
@@ -173,15 +158,10 @@ def main(instrument_to_scan):
                 headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
                 response = session.get(url, headers=headers, timeout=10)
                 
-                if response.status_code == 404:
-                    print(f"  > Sayfa {page_num+1} bulunamadı (404).")
-                    break
-                
+                if response.status_code == 404: break
                 response.raise_for_status()
                 raw_entries = response.json().get('entries', [])
-                if not raw_entries:
-                    print(f"  > Sayfa {page_num+1} boş.")
-                    break
+                if not raw_entries: break
 
                 dir_path = f"leaderboards/season{season_number}/{song_id}"
                 os.makedirs(dir_path, exist_ok=True)
@@ -199,7 +179,6 @@ def main(instrument_to_scan):
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(parsed_data, f, ensure_ascii=False, indent=4)
                 
-                print(f"  > Sayfa {page_num+1} -> {file_path} dosyasına kaydedildi.")
                 time.sleep(1.5)
 
             except Exception as e:
@@ -215,7 +194,9 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
+    # --- DÜZELTİLDİ: Ana döngüye girmeden önce token al ---
+    print("Script başlatılıyor, ilk token alınıyor...")
+    if not refresh_token_if_needed():
+        print("[HATA] Script durduruluyor çünkü başlangıç token'ı alınamadı."); sys.exit(1)
+
     main(sys.argv[1])
-
-
-
