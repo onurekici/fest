@@ -125,20 +125,16 @@ def parse_entry(raw_entry):
     return None
     
 def send_batch_to_api(scores_batch):
-    # ... (içerik aynı, tekrar deneme mantığı ile) ...
+    # ... (içerik aynı) ...
     if not scores_batch: return
+
     print(f"\n[API] {len(scores_batch)} adet skor sunucuya gönderiliyor...")
     headers = {'Content-Type': 'application/json', 'X-Api-Key': API_SECRET_KEY}
-    retries = 3
-    for i in range(retries):
-        try:
-            response = session.post(API_URL, headers=headers, data=json.dumps(scores_batch)); response.raise_for_status()
-            print(f"[API] Sunucu yanıtı: {response.json().get('message', 'Mesaj yok')}")
-            return
-        except requests.exceptions.RequestException as e:
-            print(f"[API] HATA (Deneme {i+1}/{retries}): {e}")
-            if i < retries - 1: time.sleep(5)
-            else: print("[API] Tüm denemeler başarısız oldu.")
+    try:
+        response = session.post(API_URL, headers=headers, data=json.dumps(scores_batch)); response.raise_for_status()
+        print(f"[API] Sunucu yanıtı: {response.json().get('message', 'Mesaj yok')}")
+    except requests.exceptions.RequestException as e:
+        print(f"[API] HATA: Sunucuya veri gönderilemedi: {e.response.text if e.response else e}")
 
 def main(instrument_to_scan):
     all_songs = get_all_songs()
@@ -205,3 +201,4 @@ if __name__ == "__main__":
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
     main(sys.argv[1])
+
