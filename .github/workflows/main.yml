@@ -6,18 +6,10 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
+  # 1. AŞAMA: HER ENSTRÜMAN İÇİN VERİLERİ ÇEK VE ARŞİVLE
   scrape:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     strategy:
-      # --- ÇÖZÜM BU SATIR ---
-      # Bu satır, matristeki işlerin aynı anda sadece 1 tane çalışmasını sağlar.
-      # Bu sayede "non-fast-forward" hatası önlenir.
-      max-parallel: 1
-      
       matrix:
         instrument:
           - 'Solo_Guitar'
@@ -45,8 +37,35 @@ jobs:
           EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
         run: python scraper_actions.py ${{ matrix.instrument }}
 
+      # Commit adımı yerine, oluşturulan dosyaları bir sonraki iş için artifact olarak yükle
+      - name: Upload leaderboards artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: leaderboards-${{ matrix.instrument }}
+          path: leaderboards/
+
+  # 2. AŞAMA: TÜM TARAMA BİTTİKTEN SONRA DOSYALARI KAYDET
+  commit-files:
+    # Bu iş, 'scrape' işinin tüm matrisleri başarıyla bittikten sonra başlar
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Tüm enstrümanların artifact'larını indir ve birleştir
+      - name: Download all leaderboards artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: leaderboards/
+          pattern: leaderboards-*
+          merge-multiple: true
+
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Data: Update leaderboards for ${{ matrix.instrument }}"
+          commit_message: "Data: Update all leaderboards"
           file_pattern: "leaderboards/**/*.json"
