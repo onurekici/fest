@@ -8,13 +8,12 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
-    # --- YENİ EKLENEN BÖLÜM ---
-    # Bu bölüm, iş akışına depoya yazma izni verir.
-    permissions:
-      contents: write
-
     strategy:
+      # --- YENİ EKLENEN SATIR ---
+      # Bu satır, matristeki işlerin aynı anda sadece 1 tane çalışmasını sağlar.
+      # Bu sayede "non-fast-forward" hatası önlenir.
+      max-parallel: 1
+      
       matrix:
         instrument:
           - 'Solo_Guitar'
