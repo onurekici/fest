@@ -146,9 +146,14 @@ def main(instrument_to_scan):
     if not all_songs:
         return
 
+    # --- TEST İÇİN YENİ EKLENEN SATIR ---
+    # Bu satır, tüm liste yerine sadece ilk şarkıyı alır.
+    # Tam tarama yapmak istediğinizde bu satırı silin veya başına # koyarak yorum haline getirin.
+    all_songs = all_songs[:1]
+    
     season_number = SEASON
     total_songs = len(all_songs)
-    print(f"\n--- {instrument_to_scan} için {total_songs} şarkı taranacak ---")
+    print(f"\n--- {instrument_to_scan} için {total_songs} şarkı taranacak (TEST MODU) ---")
 
     for i, song in enumerate(all_songs):
         song_id, event_id = song.get('sn'), song.get('su')
@@ -159,8 +164,8 @@ def main(instrument_to_scan):
 
         for page_num in range(PAGES_TO_SCAN):
             try:
-                if not refresh_token_if_needed():
-                    raise Exception("Token yenilenemedi, bu şarkı atlanıyor.")
+                if not get_token_if_needed():
+                    raise Exception("Token alınamadı, bu şarkı atlanıyor.")
                 
                 season_str = f"season{season_number:03d}"
                 url = f"https://events-public-service-live.ol.epicgames.com/api/v1/leaderboards/FNFestival/{season_str}_{event_id}/{event_id}_{instrument_to_scan}/{ACCOUNT_ID}?page={page_num}"
@@ -169,13 +174,13 @@ def main(instrument_to_scan):
                 response = session.get(url, headers=headers, timeout=10)
                 
                 if response.status_code == 404:
-                    print(f"  > Sayfa {page_num+1} bulunamadı (404), şarkı bitiriliyor.")
+                    print(f"  > Sayfa {page_num+1} bulunamadı (404).")
                     break
                 
                 response.raise_for_status()
                 raw_entries = response.json().get('entries', [])
                 if not raw_entries:
-                    print(f"  > Sayfa {page_num+1} boş, şarkı bitiriliyor.")
+                    print(f"  > Sayfa {page_num+1} boş.")
                     break
 
                 dir_path = f"leaderboards/season{season_number}/{song_id}"
@@ -202,7 +207,7 @@ def main(instrument_to_scan):
                 break
         print()
 
-    print(f"\n[BİTTİ] {instrument_to_scan} için tarama tamamlandı.")
+    print(f"\n[BİTTİ] {instrument_to_scan} için test taraması tamamlandı.")
 
 if __name__ == "__main__":
     if not EPIC_REFRESH_TOKEN:
@@ -211,5 +216,6 @@ if __name__ == "__main__":
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
     main(sys.argv[1])
+
 
 
