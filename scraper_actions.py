@@ -3,6 +3,7 @@ import sys
 import requests
 import json
 import time
+import re
 
 # SSL uyarılarını gizle
 try:
@@ -18,7 +19,7 @@ EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
 EPIC_BASIC_AUTH = 'ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ='
 SONGS_API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
 SEASON = 10
-PAGES_TO_SCAN = 10  # Top 1000
+PAGES_TO_SCAN = 5
 
 # --- Global Değişkenler ---
 session = requests.Session()
@@ -27,13 +28,9 @@ ACCESS_TOKEN = None
 ACCOUNT_ID = None
 TOKEN_EXPIRY_TIME = 0
 
-def print_progress_bar(iteration, total, length=50):
-    """Terminalde kendi kendini güncelleyen bir ilerleme çubuğu çizer."""
-    percent = ("{0:.1f}").format(100 * (iteration / float(total)))
-    filled_length = int(length * iteration // total)
-    bar = '█' * filled_length + '-' * (length - filled_length)
-    sys.stdout.write(f'\r|{bar}| {percent}% Complete')
-    sys.stdout.flush()
+def sanitize_filename(name):
+    """Bir string'i dosya/klasör adı olarak kullanılabilir hale getirir."""
+    return re.sub(r'[\\/*?:"<>|]', "", name).strip()
 
 def refresh_token_if_needed():
     """Token'ın süresi dolmuşsa veya hiç yoksa yeniler."""
@@ -79,7 +76,7 @@ def get_account_names(account_ids):
     """Verilen account ID listesi için kullanıcı adlarını çeker."""
     if not account_ids: return {}
     unique_ids = list(set(account_ids))
-    print(f"  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...", end='', flush=True)
+    print(f"  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...")
     all_user_names = {}
     try:
         if not refresh_token_if_needed(): raise Exception("Token yenilenemedi.")
@@ -98,10 +95,9 @@ def get_account_names(account_ids):
                             display_name = f"[{p_data.get('type', 'platform').upper()}] {ext_name}"
                             break
                 if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
-        print(" Tamamlandı.")
         return all_user_names
     except Exception as e:
-        print(f" Hata: {e}")
+        print(f" > Kullanıcı adı alınırken Hata: {e}")
         return {}
 
 def parse_entry(raw_entry):
@@ -130,7 +126,7 @@ def main(instrument_to_scan):
     if not all_songs:
         return
 
-    # --- TEST İÇİN YENİ EKLENEN SATIR ---
+    # --- TEST MODU AKTİF ---
     # Bu satır, tam tarama yapmak istediğinizde silinmeli veya # ile yoruma alınmalıdır.
     all_songs = all_songs[:1]
     
@@ -139,16 +135,18 @@ def main(instrument_to_scan):
     print(f"\n--- {instrument_to_scan} için {total_songs} şarkı taranacak (TEST MODU) ---")
 
     for i, song in enumerate(all_songs):
-        song_id, event_id = song.get('sn'), song.get('su')
-        if not event_id or not song_id:
+        song_title = song.get('tt', 'unknown_song')
+        song_id_for_db = song.get('sn') # PHP script'inizin bu ID'yi kullanması gerekebilir
+        event_id = song.get('su')
+        
+        if not event_id or not song_id_for_db:
             continue
             
-        print(f"\n-> Şarkı {i+1}/{total_songs}: {song.get('tt')}")
-        
+        safe_folder_name = sanitize_filename(song_title)
+        print(f"\n-> Şarkı {i+1}/{total_songs}: {song_title}")
+
         for page_num in range(PAGES_TO_SCAN):
             try:
-                print_progress_bar(page_num + 1, PAGES_TO_SCAN)
-                
                 if not refresh_token_if_needed():
                     raise Exception("Token yenilenemedi, bu şarkı atlanıyor.")
                 
@@ -158,12 +156,17 @@ def main(instrument_to_scan):
                 headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
                 response = session.get(url, headers=headers, timeout=10)
                 
-                if response.status_code == 404: break
+                if response.status_code == 404:
+                    print(f"  > Sayfa {page_num+1} bulunamadı (404), şarkı bitiriliyor.")
+                    break
+                
                 response.raise_for_status()
                 raw_entries = response.json().get('entries', [])
-                if not raw_entries: break
+                if not raw_entries:
+                    print(f"  > Sayfa {page_num+1} boş, şarkı bitiriliyor.")
+                    break
 
-                dir_path = f"leaderboards/season{season_number}/{song_id}"
+                dir_path = f"leaderboards/season{season_number}/{safe_folder_name}"
                 os.makedirs(dir_path, exist_ok=True)
                 
                 account_ids = [entry['teamId'] for entry in raw_entries]
@@ -179,6 +182,7 @@ def main(instrument_to_scan):
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(parsed_data, f, ensure_ascii=False, indent=4)
                 
+                print(f"  > Sayfa {page_num+1} -> {file_path} dosyasına kaydedildi.")
                 time.sleep(1.5)
 
             except Exception as e:
@@ -194,9 +198,4 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
-    # --- DÜZELTİLDİ: Ana döngüye girmeden önce token al ---
-    print("Script başlatılıyor, ilk token alınıyor...")
-    if not refresh_token_if_needed():
-        print("[HATA] Script durduruluyor çünkü başlangıç token'ı alınamadı."); sys.exit(1)
-
     main(sys.argv[1])
