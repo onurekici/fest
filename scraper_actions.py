@@ -17,7 +17,8 @@ API_SECRET_KEY = os.getenv('API_SECRET_KEY')
 EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
 
 # --- Sabitler ---
-EPIC_BASIC_AUTH = 'ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzF- ...' # Tam halini kullanın
+# DÜZELTİLDİ: Bu anahtarın tam ve doğru olduğundan emin olundu.
+EPIC_BASIC_AUTH = 'ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ='
 SONGS_API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
 SEASON = 10
 PAGES_TO_SCAN = 10
@@ -28,10 +29,9 @@ INSTRUMENTS_TO_SCAN = ["Solo_Guitar", "Solo_Drums", "Solo_Bass", "Solo_Vocals", 
 session = requests.Session()
 session.verify = False
 
-# --- YENİ: Token Yönetimi için Global Değişkenler ---
 ACCESS_TOKEN = None
 ACCOUNT_ID = None
-TOKEN_EXPIRY_TIME = 0 # Token'ın ne zaman geçersiz olacağını tutar
+TOKEN_EXPIRY_TIME = 0
 
 def print_progress_bar(iteration, total, length=50):
     percent = ("{0:.1f}").format(100 * (iteration / float(total)))
@@ -40,12 +40,10 @@ def print_progress_bar(iteration, total, length=50):
     sys.stdout.write(f'\r|{bar}| {percent}% Complete')
     sys.stdout.flush()
 
-# --- GÜNCELLENDİ: Token Yenileme Fonksiyonu ---
 def refresh_token_if_needed():
     """Token'ın süresi dolmuşsa yeniler."""
     global ACCESS_TOKEN, ACCOUNT_ID, TOKEN_EXPIRY_TIME
     
-    # Eğer mevcut zaman, token'ın son kullanma zamanını geçtiyse...
     if time.time() > TOKEN_EXPIRY_TIME:
         print("\n[AUTH] Access token süresi doldu veya ilk çalıştırma. Yenileniyor...")
         url = 'https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token'
@@ -59,7 +57,6 @@ def refresh_token_if_needed():
             
             ACCESS_TOKEN = token_data.get('access_token')
             ACCOUNT_ID = token_data.get('account_id')
-            # Token ömrünü 2 saatten biraz az (örn: 7000 saniye) olarak ayarla ki tam sınırda sorun çıkmasın
             TOKEN_EXPIRY_TIME = time.time() + (token_data.get('expires_in', 7200) - 200)
             
             if not ACCESS_TOKEN or not ACCOUNT_ID:
@@ -71,11 +68,10 @@ def refresh_token_if_needed():
         except requests.exceptions.RequestException as e:
             print(f"[HATA] Token yenilenemedi: {e.response.text if e.response else e}")
             return False
-    return True # Token hala geçerli
+    return True
 
 def get_all_songs():
     print("[BİLGİ] Tüm şarkıların listesi çekiliyor...")
-    # ... (içerik aynı) ...
     try:
         response = session.get(SONGS_API_URL)
         response.raise_for_status()
@@ -85,7 +81,6 @@ def get_all_songs():
     except requests.exceptions.RequestException as e:
         print(f"[HATA] Şarkı listesi alınamadı: {e}"); return None
 
-# --- GÜNCELLENDİ: Daha Detaylı Hata Mesajı ---
 def get_account_names(account_ids):
     if not account_ids: return {}
     unique_ids = list(set(account_ids)); print(f"  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...", end='', flush=True)
@@ -106,16 +101,11 @@ def get_account_names(account_ids):
                 if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
         print(" Tamamlandı.")
         return all_user_names
-    except requests.exceptions.RequestException as e:
-        # Daha detaylı hata mesajı
-        print(f" Hata: {e}")
-        return {}
     except Exception as e:
-        print(f" Genel Hata: {e}")
+        print(f" Hata: {e}")
         return {}
         
 def parse_entry(raw_entry):
-    # ... (içerik aynı) ...
     best_score = -1; best_run_stats = None
     for session_data in raw_entry.get("sessionHistory", []):
         stats = session_data.get("trackedStats", {}); current_score = stats.get("SCORE", 0)
@@ -125,16 +115,19 @@ def parse_entry(raw_entry):
     return None
     
 def send_batch_to_api(scores_batch):
-    # ... (içerik aynı) ...
     if not scores_batch: return
-
     print(f"\n[API] {len(scores_batch)} adet skor sunucuya gönderiliyor...")
     headers = {'Content-Type': 'application/json', 'X-Api-Key': API_SECRET_KEY}
-    try:
-        response = session.post(API_URL, headers=headers, data=json.dumps(scores_batch)); response.raise_for_status()
-        print(f"[API] Sunucu yanıtı: {response.json().get('message', 'Mesaj yok')}")
-    except requests.exceptions.RequestException as e:
-        print(f"[API] HATA: Sunucuya veri gönderilemedi: {e.response.text if e.response else e}")
+    retries = 3
+    for i in range(retries):
+        try:
+            response = session.post(API_URL, headers=headers, data=json.dumps(scores_batch)); response.raise_for_status()
+            print(f"[API] Sunucu yanıtı: {response.json().get('message', 'Mesaj yok')}")
+            return
+        except requests.exceptions.RequestException as e:
+            print(f"[API] HATA (Deneme {i+1}/{retries}): {e}")
+            if i < retries - 1: time.sleep(5)
+            else: print("[API] Tüm denemeler başarısız oldu.")
 
 def main(instrument_to_scan):
     all_songs = get_all_songs()
@@ -201,4 +194,3 @@ if __name__ == "__main__":
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
     main(sys.argv[1])
-
