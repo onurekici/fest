@@ -155,7 +155,7 @@ def main(instrument_to_scan):
         return
 
     # --- TEST MODU AKTİF ---
-    all_songs = all_songs[:1]
+    # --- all_songs = all_songs[:1] ---
     
     season_number = SEASON
     total_songs = len(all_songs)
