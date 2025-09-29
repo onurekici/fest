@@ -4,7 +4,6 @@ import requests
 import json
 import time
 import re
-import sys # İlerleme çubuğu için gerekli
 
 # SSL uyarılarını gizle
 try:
@@ -17,20 +16,10 @@ except ImportError:
 def print_progress_bar (iteration, total, prefix = 'Progress:', suffix = 'Complete', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
     """
     Terminale ilerleme çubuğu oluşturmak için döngü içinde çağrılır.
-    @params:
-        iteration   - Gerekli  : Mevcut iterasyon (Int)
-        total       - Gerekli  : Toplam iterasyon (Int)
-        prefix      - Opsiyonel : Önek metni (Str)
-        suffix      - Opsiyonel : Sonek metni (Str)
-        decimals    - Opsiyonel : Yüzde tamamlanmada ondalık basamak sayısı (Int)
-        length      - Opsiyonel : Çubuğun karakter uzunluğu (Int)
-        fill        - Opsiyonel : Çubuk dolgu karakteri (Str)
-        printEnd    - Opsiyonel : Satır sonu karakteri (e.g. "\r", "\n") (Str)
     """
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / total))
     filledLength = int(length * iteration // total)
     bar = fill * filledLength + '-' * (length - filledLength)
-    # sys.stdout.write kullanılır ve flush ile hemen ekrana yazılır
     sys.stdout.write(f'\r{prefix} |{bar}| {percent}% {suffix}')
     sys.stdout.flush()
     # Tamamlandığında yeni bir satır yazdır
@@ -38,7 +27,8 @@ def print_progress_bar (iteration, total, prefix = 'Progress:', suffix = 'Comple
         sys.stdout.write(printEnd)
         sys.stdout.write('\n')
         sys.stdout.flush()
-# --- YENİ EKLENEN FONKSİYON BİTİŞİ ---
+# --- İLERLEME ÇUBUĞU BİTİŞİ ---
+
 
 # --- Ayarlar Ortam Değişkenlerinden (GitHub Secrets) Alınacak ---
 EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
@@ -101,20 +91,43 @@ def get_all_songs():
         return None
 
 def get_account_names(account_ids):
-    """Verilen account ID listesi için kullanıcı adlarını çeker."""
+    """Verilen account ID listesi için kullanıcı adlarını çeker (429 Hata çözümü ile)."""
     if not account_ids: return {}
     unique_ids = list(set(account_ids))
     print(f"  > {len(unique_ids)} oyuncunun kullanıcı adı sorgulanıyor...")
     all_user_names = {}
+    
     try:
         if not refresh_token_if_needed(): raise Exception("Token yenilenemedi.")
+        max_retries = 3
+        
         for i in range(0, len(unique_ids), 100):
             batch_ids = unique_ids[i:i + 100]
-            params = '&'.join([f'accountId={uid}' for uid in batch_ids])
-            url = f'https://account-public-service-prod.ol.epicgames.com/account/api/public/account?{params}'
-            headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
-            response = session.get(url, headers=headers, timeout=15)
-            response.raise_for_status()
+            
+            # --- TEKRAR DENEME MANTIĞI (Retry Logic) ---
+            response = None
+            for attempt in range(max_retries):
+                try:
+                    params = '&'.join([f'accountId={uid}' for uid in batch_ids])
+                    url = f'https://account-public-service-prod.ol.epicgames.com/account/api/public/account?{params}'
+                    headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
+                    response = session.get(url, headers=headers, timeout=15)
+                    response.raise_for_status()
+                    break 
+                except requests.exceptions.HTTPError as e:
+                    if e.response is not None and e.response.status_code == 429 and attempt < max_retries - 1:
+                        # Üstel geri çekilme (Exponential Backoff): 5, 10, 20 saniye bekle
+                        wait_time = 2 ** attempt * 5 
+                        print(f"  [429 UYARI] Çok fazla istek. {wait_time} saniye bekleniyor... ({attempt + 1}/{max_retries})")
+                        time.sleep(wait_time)
+                        continue 
+                    else:
+                        raise e
+            else:
+                 # Tüm denemeler başarısız oldu
+                raise Exception(f"Kullanıcı adı API'si {max_retries} denemeden sonra başarısız oldu.")
+            # --- TEKRAR DENEME MANTIĞI BİTİŞİ ---
+
             for user in response.json():
                 account_id, display_name = user.get('id'), user.get('displayName')
                 if not display_name and 'externalAuths' in user:
@@ -123,10 +136,16 @@ def get_account_names(account_ids):
                             display_name = f"[{p_data.get('type', 'platform').upper()}] {ext_name}"
                             break
                 if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
+                
+            # --- ZORUNLU KISA GECİKME ---
+            if i + 100 < len(unique_ids):
+                time.sleep(1) 
+                
         return all_user_names
     except Exception as e:
         print(f" > Kullanıcı adı alınırken Hata: {e}")
         return {}
+
 
 def parse_entry(raw_entry):
     """API'den gelen ham veriyi işleyerek best_run'ı bulur."""
@@ -154,27 +173,25 @@ def main(instrument_to_scan):
     if not all_songs:
         return
 
-    # --- TEST MODU AKTİF ---
-    # --- all_songs = all_songs[:1] ---
+    # --- TEST MODU KAPATILDI ---
+    # all_songs = all_songs[:1] # Bu satır silindi veya yorum satırı yapıldı
     
     season_number = SEASON
     total_songs = len(all_songs)
-    print(f"\n--- {instrument_to_scan} için {total_songs} şarkı taranacak (TEST MODU) ---")
+    print(f"\n--- {instrument_to_scan} için {total_songs} şarkı taranacak ---")
 
     for i, song in enumerate(all_songs):
-        # --- DEĞİŞİKLİK: Klasör adı için ID'yi kullan ---
         song_id = song.get('sn')
         event_id = song.get('su')
         
         if not event_id or not song_id:
             continue
             
-        # Log'da okunabilir ismi göstermeye devam et
         print(f"\n-> Şarkı {i+1}/{total_songs}: {song.get('tt')}")
 
         for page_num in range(PAGES_TO_SCAN):
             try:
-                # Düzeltilen fonksiyon çağrısı:
+                # Sayfa ilerlemesini göster
                 print_progress_bar(page_num + 1, PAGES_TO_SCAN, prefix = f"Sayfa {page_num + 1}:", length = 30)
                 
                 if not refresh_token_if_needed():
@@ -186,17 +203,22 @@ def main(instrument_to_scan):
                 headers = {'Authorization': f'Bearer {ACCESS_TOKEN}'}
                 response = session.get(url, headers=headers, timeout=10)
                 
-                if response.status_code == 404: break
+                if response.status_code == 404: 
+                    # Sayfa bulunamazsa (son sayfa) döngüyü kır
+                    sys.stdout.write('\n')
+                    break 
                 response.raise_for_status()
                 raw_entries = response.json().get('entries', [])
-                if not raw_entries: break
+                if not raw_entries: 
+                    # Boş liste gelirse döngüyü kır
+                    sys.stdout.write('\n')
+                    break
 
-                # --- DEĞİŞİKLİK: Klasör yolu için song_id kullan ---
                 dir_path = f"leaderboards/season{season_number}/{song_id}"
                 os.makedirs(dir_path, exist_ok=True)
                 
                 account_ids = [entry['teamId'] for entry in raw_entries]
-                user_names = get_account_names(account_ids)
+                user_names = get_account_names(account_ids) # Hata yönetimi burada
                 
                 parsed_data = {'entries': []}
                 for entry in raw_entries:
@@ -208,19 +230,21 @@ def main(instrument_to_scan):
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(parsed_data, f, ensure_ascii=False, indent=4)
                 
-                # print_progress_bar'ın üzerine yazmaması için yeni satır yazdırıldı
+                # İlerleme çubuğunun üzerine yazmaması için yeni satır yazdırıldı
                 sys.stdout.write('\n')
                 print(f"  > Sayfa {page_num+1} -> {file_path} dosyasına kaydedildi.")
-                time.sleep(1.5)
+                
+                # Rate limit için sayfa taraması sonrası zorunlu bekleme
+                time.sleep(2) 
 
             except Exception as e:
-                # print_progress_bar'ın üzerine yazmaması için yeni satır yazdırıldı
+                # İlerleme çubuğunun üzerine yazmaması için yeni satır yazdırıldı
                 sys.stdout.write('\n')
-                print(f"\n > Sayfa {page_num + 1} işlenirken hata oluştu: {e}")
+                print(f" > Sayfa {page_num + 1} işlenirken hata oluştu: {e}")
                 break
-        print()
+        print() # Şarkı bittiğinde ek boş satır
 
-    print(f"\n[BİTTİ] {instrument_to_scan} için test taraması tamamlandı.")
+    print(f"\n[BİTTİ] {instrument_to_scan} için tarama tamamlandı.")
 
 if __name__ == "__main__":
     if not EPIC_REFRESH_TOKEN:
