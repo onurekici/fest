@@ -1,4 +1,5 @@
-Name: Fortnite Festival Scraper
+# HATA DÜZELTİLDİ: 'Name:' yerine küçük harflerle 'name:' yazıldı.
+name: Skor Çekme İşlemi
 
 on:
   workflow_dispatch:
@@ -34,7 +35,6 @@ jobs:
 
       - name: Run Scraper for ${{ matrix.instrument }}
         env:
-          # EPIC_REFRESH_TOKEN ve YENİ SECRET'ınız artık GitHub Secrets'tan okunacak.
           EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
           EPIC_BASIC_AUTH: ${{ secrets.EPIC_BASIC_AUTH }}
         run: python scraper_actions.py ${{ matrix.instrument }}
@@ -47,9 +47,8 @@ jobs:
           path: leaderboards/
 
   # 2. AŞAMA: TÜM TARAMA BİTTİKTEN SONRA DOSYALARI KAYDET
-  # main.yml içindeki commit-files işi
-
   commit-files:
+    # Bu iş, 'scrape' işinin tüm matrisleri başarıyla bittikten sonra başlar
     needs: scrape
     runs-on: ubuntu-latest
     permissions:
@@ -59,12 +58,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # TÜM ARTIFACT'LARI İNDİR - DOĞRU YÖNTEM
+      # HATA DÜZELTİLDİ: 'path' parametresi kaldırıldı.
+      # Bu, artifact içeriğinin ('leaderboards' klasörü) doğrudan ana dizine
+      # çıkarılmasını sağlar ve 'leaderboards/leaderboards' gibi iç içe klasör
+      # oluşumunu engeller.
       - name: Download all leaderboards artifacts
         uses: actions/download-artifact@v4
-        # 'path' parametresini buradan kaldırın.
-        # Bu, artifact'lar içindeki 'leaderboards' klasörünün
-        # doğrudan ana dizine çıkarılmasını sağlar.
         with:
           pattern: leaderboards-*
           merge-multiple: true
@@ -73,4 +72,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Data: Update all leaderboards"
-          file_pattern: "leaderboards/**/*.json" # Bu şimdi doğru çalışacaktır
+          file_pattern: "leaderboards/**/*.json"
