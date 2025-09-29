@@ -1,4 +1,4 @@
-name: Fortnite Festival Scraper
+Name: Fortnite Festival Scraper
 
 on:
   workflow_dispatch:
@@ -34,10 +34,12 @@ jobs:
 
       - name: Run Scraper for ${{ matrix.instrument }}
         env:
+          # EPIC_REFRESH_TOKEN ve YENİ SECRET'ınız artık GitHub Secrets'tan okunacak.
           EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
+          EPIC_BASIC_AUTH: ${{ secrets.EPIC_BASIC_AUTH }}
         run: python scraper_actions.py ${{ matrix.instrument }}
 
-      # Commit adımı yerine, oluşturulan dosyaları bir sonraki iş için artifact olarak yükle
+      # Oluşturulan dosyaları bir sonraki iş için artifact olarak yükle
       - name: Upload leaderboards artifact
         uses: actions/upload-artifact@v4
         with:
