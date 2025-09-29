@@ -47,8 +47,9 @@ jobs:
           path: leaderboards/
 
   # 2. AŞAMA: TÜM TARAMA BİTTİKTEN SONRA DOSYALARI KAYDET
+  # main.yml içindeki commit-files işi
+
   commit-files:
-    # Bu iş, 'scrape' işinin tüm matrisleri başarıyla bittikten sonra başlar
     needs: scrape
     runs-on: ubuntu-latest
     permissions:
@@ -58,11 +59,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Tüm enstrümanların artifact'larını indir ve birleştir
+      # TÜM ARTIFACT'LARI İNDİR - DOĞRU YÖNTEM
       - name: Download all leaderboards artifacts
         uses: actions/download-artifact@v4
+        # 'path' parametresini buradan kaldırın.
+        # Bu, artifact'lar içindeki 'leaderboards' klasörünün
+        # doğrudan ana dizine çıkarılmasını sağlar.
         with:
-          path: leaderboards/
           pattern: leaderboards-*
           merge-multiple: true
 
@@ -70,4 +73,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Data: Update all leaderboards"
-          file_pattern: "leaderboards/**/*.json"
+          file_pattern: "leaderboards/**/*.json" # Bu şimdi doğru çalışacaktır
