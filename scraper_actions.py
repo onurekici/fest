@@ -12,17 +12,14 @@ try:
 except ImportError:
     pass
 
-# --- YENİ EKLENEN FONKSİYON: İlerleme Çubuğu ---
+# --- İLERLEME ÇUBUĞU FONKSİYONU ---
 def print_progress_bar (iteration, total, prefix = 'Progress:', suffix = 'Complete', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
-    """
-    Terminale ilerleme çubuğu oluşturmak için döngü içinde çağrılır.
-    """
+    """Terminale ilerleme çubuğu oluşturmak için döngü içinde çağrılır."""
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / total))
     filledLength = int(length * iteration // total)
     bar = fill * filledLength + '-' * (length - filledLength)
     sys.stdout.write(f'\r{prefix} |{bar}| {percent}% {suffix}')
     sys.stdout.flush()
-    # Tamamlandığında yeni bir satır yazdır
     if iteration == total: 
         sys.stdout.write(printEnd)
         sys.stdout.write('\n')
@@ -32,9 +29,9 @@ def print_progress_bar (iteration, total, prefix = 'Progress:', suffix = 'Comple
 
 # --- Ayarlar Ortam Değişkenlerinden (GitHub Secrets) Alınacak ---
 EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
+EPIC_BASIC_AUTH = os.getenv('EPIC_BASIC_AUTH') # Artık Secret'tan okunuyor
 
 # --- Sabitler ---
-EPIC_BASIC_AUTH = 'ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ='
 SONGS_API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
 SEASON = 10
 PAGES_TO_SCAN = 5
@@ -173,8 +170,7 @@ def main(instrument_to_scan):
     if not all_songs:
         return
 
-    # --- TEST MODU KAPATILDI ---
-    # all_songs = all_songs[:1] # Bu satır silindi veya yorum satırı yapıldı
+    # --- TEST MODU KAPALI: TÜM ŞARKILAR TARANACAK ---
     
     season_number = SEASON
     total_songs = len(all_songs)
@@ -191,7 +187,7 @@ def main(instrument_to_scan):
 
         for page_num in range(PAGES_TO_SCAN):
             try:
-                # Sayfa ilerlemesini göster
+                # İlerleme çubuğunu kullan
                 print_progress_bar(page_num + 1, PAGES_TO_SCAN, prefix = f"Sayfa {page_num + 1}:", length = 30)
                 
                 if not refresh_token_if_needed():
@@ -204,13 +200,11 @@ def main(instrument_to_scan):
                 response = session.get(url, headers=headers, timeout=10)
                 
                 if response.status_code == 404: 
-                    # Sayfa bulunamazsa (son sayfa) döngüyü kır
                     sys.stdout.write('\n')
                     break 
                 response.raise_for_status()
                 raw_entries = response.json().get('entries', [])
                 if not raw_entries: 
-                    # Boş liste gelirse döngüyü kır
                     sys.stdout.write('\n')
                     break
 
@@ -218,7 +212,7 @@ def main(instrument_to_scan):
                 os.makedirs(dir_path, exist_ok=True)
                 
                 account_ids = [entry['teamId'] for entry in raw_entries]
-                user_names = get_account_names(account_ids) # Hata yönetimi burada
+                user_names = get_account_names(account_ids) 
                 
                 parsed_data = {'entries': []}
                 for entry in raw_entries:
@@ -230,25 +224,27 @@ def main(instrument_to_scan):
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(parsed_data, f, ensure_ascii=False, indent=4)
                 
-                # İlerleme çubuğunun üzerine yazmaması için yeni satır yazdırıldı
                 sys.stdout.write('\n')
                 print(f"  > Sayfa {page_num+1} -> {file_path} dosyasına kaydedildi.")
                 
-                # Rate limit için sayfa taraması sonrası zorunlu bekleme
+                # Sayfa taraması sonrası zorunlu bekleme (429 önlemek için)
                 time.sleep(2) 
 
             except Exception as e:
-                # İlerleme çubuğunun üzerine yazmaması için yeni satır yazdırıldı
                 sys.stdout.write('\n')
                 print(f" > Sayfa {page_num + 1} işlenirken hata oluştu: {e}")
                 break
-        print() # Şarkı bittiğinde ek boş satır
+        print() 
 
     print(f"\n[BİTTİ] {instrument_to_scan} için tarama tamamlandı.")
 
 if __name__ == "__main__":
     if not EPIC_REFRESH_TOKEN:
         print("[HATA] Gerekli secret (EPIC_REFRESH_TOKEN) ayarlanmamış."); sys.exit(1)
+        
+    if not EPIC_BASIC_AUTH:
+        print("[HATA] Gerekli secret (EPIC_BASIC_AUTH) ayarlanmamış. Lütfen GitHub Secrets'a ekleyin."); sys.exit(1)
+        
     if len(sys.argv) < 2:
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
