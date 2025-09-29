@@ -4,6 +4,7 @@ import requests
 import json
 import time
 import re
+import sys # İlerleme çubuğu için gerekli
 
 # SSL uyarılarını gizle
 try:
@@ -11,6 +12,33 @@ try:
     requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 except ImportError:
     pass
+
+# --- YENİ EKLENEN FONKSİYON: İlerleme Çubuğu ---
+def print_progress_bar (iteration, total, prefix = 'Progress:', suffix = 'Complete', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
+    """
+    Terminale ilerleme çubuğu oluşturmak için döngü içinde çağrılır.
+    @params:
+        iteration   - Gerekli  : Mevcut iterasyon (Int)
+        total       - Gerekli  : Toplam iterasyon (Int)
+        prefix      - Opsiyonel : Önek metni (Str)
+        suffix      - Opsiyonel : Sonek metni (Str)
+        decimals    - Opsiyonel : Yüzde tamamlanmada ondalık basamak sayısı (Int)
+        length      - Opsiyonel : Çubuğun karakter uzunluğu (Int)
+        fill        - Opsiyonel : Çubuk dolgu karakteri (Str)
+        printEnd    - Opsiyonel : Satır sonu karakteri (e.g. "\r", "\n") (Str)
+    """
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / total))
+    filledLength = int(length * iteration // total)
+    bar = fill * filledLength + '-' * (length - filledLength)
+    # sys.stdout.write kullanılır ve flush ile hemen ekrana yazılır
+    sys.stdout.write(f'\r{prefix} |{bar}| {percent}% {suffix}')
+    sys.stdout.flush()
+    # Tamamlandığında yeni bir satır yazdır
+    if iteration == total: 
+        sys.stdout.write(printEnd)
+        sys.stdout.write('\n')
+        sys.stdout.flush()
+# --- YENİ EKLENEN FONKSİYON BİTİŞİ ---
 
 # --- Ayarlar Ortam Değişkenlerinden (GitHub Secrets) Alınacak ---
 EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
@@ -146,7 +174,8 @@ def main(instrument_to_scan):
 
         for page_num in range(PAGES_TO_SCAN):
             try:
-                print_progress_bar(page_num + 1, PAGES_TO_SCAN)
+                # Düzeltilen fonksiyon çağrısı:
+                print_progress_bar(page_num + 1, PAGES_TO_SCAN, prefix = f"Sayfa {page_num + 1}:", length = 30)
                 
                 if not refresh_token_if_needed():
                     raise Exception("Token yenilenemedi, bu şarkı atlanıyor.")
@@ -179,10 +208,14 @@ def main(instrument_to_scan):
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(parsed_data, f, ensure_ascii=False, indent=4)
                 
+                # print_progress_bar'ın üzerine yazmaması için yeni satır yazdırıldı
+                sys.stdout.write('\n')
                 print(f"  > Sayfa {page_num+1} -> {file_path} dosyasına kaydedildi.")
                 time.sleep(1.5)
 
             except Exception as e:
+                # print_progress_bar'ın üzerine yazmaması için yeni satır yazdırıldı
+                sys.stdout.write('\n')
                 print(f"\n > Sayfa {page_num + 1} işlenirken hata oluştu: {e}")
                 break
         print()
@@ -196,4 +229,3 @@ if __name__ == "__main__":
         print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
     
     main(sys.argv[1])
-
