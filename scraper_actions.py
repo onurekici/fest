@@ -34,7 +34,7 @@ EPIC_BASIC_AUTH = os.getenv('EPIC_BASIC_AUTH') # Artık Secret'tan okunuyor
 # --- Sabitler ---
 SONGS_API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
 SEASON = 10
-PAGES_TO_SCAN = 10
+PAGES_TO_SCAN = 5
 
 # --- Global Değişkenler ---
 session = requests.Session()
