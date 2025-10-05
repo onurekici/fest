@@ -6,18 +6,23 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  scrape-and-commit:
+  # 1. AŞAMA: HER ENSTRÜMAN İÇİN VERİLERİ PARALEL ÇEK VE ARŞİVLE
+  scrape:
     runs-on: ubuntu-latest
-    # Commit yapabilmek için gerekli izin
-    permissions:
-      contents: write
+    strategy:
+      matrix:
+        instrument:
+          - 'Solo_Guitar'
+          - 'Solo_Drums'
+          - 'Solo_Bass'
+          - 'Solo_Vocals'
+          - 'Solo_PeripheralGuitar'
+          - 'Solo_PeripheralBass'
+      fail-fast: false
 
     steps:
       - name: Checkout repository
-        # Token kullanarak checkout yapıyoruz ki push işlemi yapabilelim
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,25 +32,47 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      # BÜTÜN ENSTRÜMANLARI SIRAYLA TARA
-      # Her enstrüman için script'i çalıştıracak ve dosyaları doğrudan checkout edilen klasöre yazacak
-      - name: Run Scraper for all instruments
+      # Her iş için temiz bir çıktı klasörü oluşturuyoruz
+      - name: Create output directory
+        run: mkdir ./output
+
+      - name: Run Scraper for ${{ matrix.instrument }}
         env:
           EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
           EPIC_BASIC_AUTH: ${{ secrets.EPIC_BASIC_AUTH }}
-        run: |
-          python scraper_actions.py Solo_Guitar
-          python scraper_actions.py Solo_Drums
-          python scraper_actions.py Solo_Bass
-          python scraper_actions.py Solo_Vocals
-          python scraper_actions.py Solo_PeripheralGuitar
-          python scraper_actions.py Solo_PeripheralBass
+        # Script'e çıktıları ./output klasörüne yazmasını söylüyoruz
+        run: python scraper_actions.py ${{ matrix.instrument }} ./output
 
-      # DEĞİŞİKLİKLERİ COMMIT'LE
-      # Tüm taramalar bittikten sonra, eğer bir değişiklik varsa (güncelleme veya yeni dosya) commit yap
+      # Sadece oluşturulan dosyaları içeren temiz klasörü artifact olarak yüklüyoruz
+      - name: Upload leaderboards artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: leaderboards-${{ matrix.instrument }}
+          path: ./output/leaderboards/
+
+  # 2. AŞAMA: TÜM TARAMA BİTTİKTEN SONRA DOSYALARI KAYDET
+  commit-files:
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Tüm artifact'leri indir ve birleştir. Bu işlem, mevcut leaderboards klasörünün üzerine
+      # hem güncel verileri yazar hem de yeni şarkıların klasörlerini ekler.
+      - name: Download all leaderboards artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: leaderboards-*
+          merge-multiple: true
+          path: leaderboards/ # İndirilen dosyaları doğrudan leaderboards klasörüne çıkar
+
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Data: Update all leaderboards"
-          # Bu, leaderboards klasöründeki her türlü değişikliği yakalar (yeni, güncel, silinmiş)
-          file_pattern: leaderboards/
+          # leaderboards klasöründeki tüm değişiklikleri (yeni/güncel) yakala
+          file_pattern: leaderboards
