@@ -29,7 +29,7 @@ def print_progress_bar (iteration, total, prefix = 'Progress:', suffix = 'Comple
 
 # --- Ayarlar Ortam Değişkenlerinden (GitHub Secrets) Alınacak ---
 EPIC_REFRESH_TOKEN = os.getenv('EPIC_REFRESH_TOKEN')
-EPIC_BASIC_AUTH = os.getenv('EPIC_BASIC_AUTH') # Artık Secret'tan okunuyor
+EPIC_BASIC_AUTH = os.getenv('EPIC_BASIC_AUTH')
 
 # --- Sabitler ---
 SONGS_API_URL = 'https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks'
@@ -101,7 +101,6 @@ def get_account_names(account_ids):
         for i in range(0, len(unique_ids), 100):
             batch_ids = unique_ids[i:i + 100]
             
-            # --- TEKRAR DENEME MANTIĞI (Retry Logic) ---
             response = None
             for attempt in range(max_retries):
                 try:
@@ -113,7 +112,6 @@ def get_account_names(account_ids):
                     break 
                 except requests.exceptions.HTTPError as e:
                     if e.response is not None and e.response.status_code == 429 and attempt < max_retries - 1:
-                        # Üstel geri çekilme (Exponential Backoff): 5, 10, 20 saniye bekle
                         wait_time = 2 ** attempt * 5 
                         print(f"  [429 UYARI] Çok fazla istek. {wait_time} saniye bekleniyor... ({attempt + 1}/{max_retries})")
                         time.sleep(wait_time)
@@ -121,9 +119,7 @@ def get_account_names(account_ids):
                     else:
                         raise e
             else:
-                 # Tüm denemeler başarısız oldu
                 raise Exception(f"Kullanıcı adı API'si {max_retries} denemeden sonra başarısız oldu.")
-            # --- TEKRAR DENEME MANTIĞI BİTİŞİ ---
 
             for user in response.json():
                 account_id, display_name = user.get('id'), user.get('displayName')
@@ -134,7 +130,6 @@ def get_account_names(account_ids):
                             break
                 if account_id: all_user_names[account_id] = display_name or 'Bilinmeyen'
                 
-            # --- ZORUNLU KISA GECİKME ---
             if i + 100 < len(unique_ids):
                 time.sleep(1) 
                 
@@ -164,13 +159,12 @@ def parse_entry(raw_entry):
         }
     return None
 
-def main(instrument_to_scan):
+# DEĞİŞİKLİK 1: Fonksiyon artık çıktıların yazılacağı ana klasörü parametre olarak alıyor.
+def main(instrument_to_scan, output_base_dir):
     """Ana script fonksiyonu."""
     all_songs = get_all_songs()
     if not all_songs:
         return
-
-    # --- TEST MODU KAPALI: TÜM ŞARKILAR TARANACAK ---
     
     season_number = SEASON
     total_songs = len(all_songs)
@@ -187,7 +181,6 @@ def main(instrument_to_scan):
 
         for page_num in range(PAGES_TO_SCAN):
             try:
-                # İlerleme çubuğunu kullan
                 print_progress_bar(page_num + 1, PAGES_TO_SCAN, prefix = f"Sayfa {page_num + 1}:", length = 30)
                 
                 if not refresh_token_if_needed():
@@ -208,7 +201,9 @@ def main(instrument_to_scan):
                     sys.stdout.write('\n')
                     break
 
-                dir_path = f"leaderboards/season{season_number}/{song_id}"
+                # DEĞİŞİKLİK 2: Dosya yolu, parametre olarak gelen output_base_dir kullanılarak oluşturuluyor.
+                # Örnek: ./output/leaderboards/season10/song_id
+                dir_path = f"{output_base_dir}/leaderboards/season{season_number}/{song_id}"
                 os.makedirs(dir_path, exist_ok=True)
                 
                 account_ids = [entry['teamId'] for entry in raw_entries]
@@ -217,8 +212,9 @@ def main(instrument_to_scan):
                 parsed_data = {'entries': []}
                 for entry in raw_entries:
                     parsed_entry = parse_entry(entry)
-                    parsed_entry['userName'] = user_names.get(entry['teamId'])
-                    parsed_data['entries'].append(parsed_entry)
+                    if parsed_entry: # Sadece geçerli parsed_entry varsa ekle
+                        parsed_entry['userName'] = user_names.get(entry['teamId'])
+                        parsed_data['entries'].append(parsed_entry)
 
                 file_path = f"{dir_path}/{instrument_to_scan}_{page_num}.json"
                 with open(file_path, 'w', encoding='utf-8') as f:
@@ -227,7 +223,6 @@ def main(instrument_to_scan):
                 sys.stdout.write('\n')
                 print(f"  > Sayfa {page_num+1} -> {file_path} dosyasına kaydedildi.")
                 
-                # Sayfa taraması sonrası zorunlu bekleme (429 önlemek için)
                 time.sleep(2) 
 
             except Exception as e:
@@ -238,14 +233,18 @@ def main(instrument_to_scan):
 
     print(f"\n[BİTTİ] {instrument_to_scan} için tarama tamamlandı.")
 
+# DEĞİŞİKLİK 3: Script'in ana çalışma bloğu, komut satırı argümanlarını işleyecek şekilde güncellendi.
 if __name__ == "__main__":
-    if not EPIC_REFRESH_TOKEN:
-        print("[HATA] Gerekli secret (EPIC_REFRESH_TOKEN) ayarlanmamış."); sys.exit(1)
-        
-    if not EPIC_BASIC_AUTH:
-        print("[HATA] Gerekli secret (EPIC_BASIC_AUTH) ayarlanmamış. Lütfen GitHub Secrets'a ekleyin."); sys.exit(1)
+    if not EPIC_REFRESH_TOKEN or not EPIC_BASIC_AUTH:
+        print("[HATA] Gerekli secret'lar (EPIC_REFRESH_TOKEN, EPIC_BASIC_AUTH) ayarlanmamış."); sys.exit(1)
         
     if len(sys.argv) < 2:
-        print("Kullanım: python scraper_actions.py [enstrüman_adı]"); sys.exit(1)
+        print("Kullanım: python scraper_actions.py [enstrüman_adı] [isteğe_bağlı_çıktı_klasörü]"); sys.exit(1)
     
-    main(sys.argv[1])
+    # Argümanları al
+    instrument = sys.argv[1]
+    # Eğer ikinci argüman (çıktı klasörü) verilmişse onu kullan, 
+    # verilmemişse (örneğin yerel test için) mevcut klasörü (.) kullan.
+    output_dir = sys.argv[2] if len(sys.argv) > 2 else "."
+    
+    main(instrument, output_dir)
