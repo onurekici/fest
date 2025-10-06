@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 63468,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Rozzlin"
+        },
+        {
+            "accuracy": 98,
+            "score": 63377,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LightingSlash"
+        },
+        {
             "accuracy": 98,
             "score": 63220,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DarknessSettles"
-        },
-        {
-            "accuracy": 92,
-            "score": 53430,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Betortas4"
-        },
-        {
-            "accuracy": 92,
-            "score": 53390,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BalsamicPen"
         }
     ]
 }

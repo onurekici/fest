@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 93964,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FinFett"
+        },
+        {
+            "accuracy": 100,
             "score": 93884,
             "difficulty": 3,
             "stars": 6,
@@ -729,6 +737,14 @@
             "userName": "VinceCami92"
         },
         {
+            "accuracy": 100,
+            "score": 87157,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Veratoxin"
+        },
+        {
             "accuracy": 99,
             "score": 86908,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PartyMaster420"
-        },
-        {
-            "accuracy": 100,
-            "score": 86310,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ソルティタワーズの管理者BOT"
-        },
-        {
-            "accuracy": 99,
-            "score": 86096,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheMiddleToe_"
         }
     ]
 }

@@ -113,6 +113,14 @@
             "userName": "mystery_fella"
         },
         {
+            "accuracy": 100,
+            "score": 133709,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "otnemem32"
+        },
+        {
             "accuracy": 99,
             "score": 132874,
             "difficulty": 3,
@@ -617,6 +625,14 @@
             "userName": "Gazdad96"
         },
         {
+            "accuracy": 99,
+            "score": 63744,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FeenixFox"
+        },
+        {
             "accuracy": 96,
             "score": 62625,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "lennyrandom"
-        },
-        {
-            "accuracy": 92,
-            "score": 33570,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "GraceReturns"
-        },
-        {
-            "accuracy": 92,
-            "score": 33064,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "bearwithbigclaws"
         }
     ]
 }
