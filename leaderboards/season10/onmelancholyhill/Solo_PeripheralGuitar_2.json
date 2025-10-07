@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 66382,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FireVash"
+        },
+        {
             "accuracy": 93,
             "score": 66278,
             "difficulty": 3,
@@ -778,27 +786,19 @@
         },
         {
             "accuracy": 91,
+            "score": 63397,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BeastMode93xXx"
+        },
+        {
+            "accuracy": 91,
             "score": 63266,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "Walkingoctopus"
-        },
-        {
-            "accuracy": 93,
-            "score": 63166,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Phantomfadez"
-        },
-        {
-            "accuracy": 92,
-            "score": 63157,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "skate sensei"
         }
     ]
 }

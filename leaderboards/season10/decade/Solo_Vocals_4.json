@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 162865,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AkariMT"
+        },
+        {
+            "accuracy": 100,
+            "score": 162862,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "WeetTS"
+        },
+        {
+            "accuracy": 100,
             "score": 162858,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ErraticAir9564"
-        },
-        {
-            "accuracy": 100,
-            "score": 162345,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "The Lurrax"
-        },
-        {
-            "accuracy": 100,
-            "score": 162344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nıccals"
         }
     ]
 }

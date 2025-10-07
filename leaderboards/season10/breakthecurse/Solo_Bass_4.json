@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 169480,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ryan-BigLion"
+        },
+        {
+            "accuracy": 99,
+            "score": 169440,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MRC_0116"
+        },
+        {
             "accuracy": 99,
             "score": 169412,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Mari-ri_Sushi"
-        },
-        {
-            "accuracy": 99,
-            "score": 157624,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Th3KillM0nger"
-        },
-        {
-            "accuracy": 99,
-            "score": 157604,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "loveadriann"
         }
     ]
 }

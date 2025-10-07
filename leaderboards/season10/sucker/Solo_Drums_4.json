@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 175488,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "speck1984"
+        },
+        {
+            "accuracy": 99,
+            "score": 175464,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Veersah"
+        },
+        {
+            "accuracy": 100,
             "score": 175446,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JapaneseCartoons"
-        },
-        {
-            "accuracy": 99,
-            "score": 172446,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FBRWH1"
-        },
-        {
-            "accuracy": 99,
-            "score": 172446,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rivson.Sparda"
         }
     ]
 }

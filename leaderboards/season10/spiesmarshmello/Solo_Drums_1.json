@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 137310,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SarahtheSeaBear"
+        },
+        {
+            "accuracy": 100,
             "score": 137298,
             "difficulty": 3,
             "stars": 6,
@@ -721,6 +729,14 @@
             "userName": "fIaccidfrog"
         },
         {
+            "accuracy": 99,
+            "score": 133338,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RadeWoof"
+        },
+        {
             "accuracy": 100,
             "score": 133278,
             "difficulty": 3,
@@ -735,6 +751,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Luka203L"
+        },
+        {
+            "accuracy": 100,
+            "score": 133266,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SOY_BOCH"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jimpix_1"
-        },
-        {
-            "accuracy": 100,
-            "score": 133086,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MiseMouse"
-        },
-        {
-            "accuracy": 99,
-            "score": 133050,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "enzo-0311"
-        },
-        {
-            "accuracy": 100,
-            "score": 133026,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "nvoystation"
         }
     ]
 }

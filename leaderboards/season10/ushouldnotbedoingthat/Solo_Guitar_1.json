@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 84417,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ninchiito"
+        },
+        {
+            "accuracy": 100,
             "score": 84257,
             "difficulty": 3,
             "stars": 6,
@@ -442,6 +450,14 @@
         },
         {
             "accuracy": 99,
+            "score": 74895,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "queenofbergen"
+        },
+        {
+            "accuracy": 99,
             "score": 74789,
             "difficulty": 3,
             "stars": 6,
@@ -503,6 +519,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "MufasaTheWookiee"
+        },
+        {
+            "accuracy": 98,
+            "score": 72662,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Calilaap"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "deanflur"
-        },
-        {
-            "accuracy": 99,
-            "score": 62314,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ColoringHat685"
-        },
-        {
-            "accuracy": 98,
-            "score": 60828,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "moaymaann"
-        },
-        {
-            "accuracy": 98,
-            "score": 60389,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "slushi133"
         }
     ]
 }

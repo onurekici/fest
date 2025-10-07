@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 89418,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Zertify Frosty"
+        },
+        {
+            "accuracy": 99,
+            "score": 89415,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "female_fatal"
+        },
+        {
             "accuracy": 97,
             "score": 89328,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Sreffes"
-        },
-        {
-            "accuracy": 100,
-            "score": 73435,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "kosterman97"
-        },
-        {
-            "accuracy": 99,
-            "score": 73430,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Duvis1002"
         }
     ]
 }

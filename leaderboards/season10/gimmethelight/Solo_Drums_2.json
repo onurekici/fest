@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 86010,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jake Bottomley"
+        },
+        {
+            "accuracy": 97,
+            "score": 85960,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FallsDusk"
+        },
+        {
             "accuracy": 99,
             "score": 85950,
             "difficulty": 1,
@@ -489,6 +505,14 @@
             "userName": "TOBIAS_EB"
         },
         {
+            "accuracy": 90,
+            "score": 72270,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "SaiyahJin"
+        },
+        {
             "accuracy": 93,
             "score": 71645,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "redcrank101"
-        },
-        {
-            "accuracy": 76,
-            "score": 62055,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "iHave_Aura01"
-        },
-        {
-            "accuracy": 96,
-            "score": 61865,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Z AKIRA"
-        },
-        {
-            "accuracy": 94,
-            "score": 60955,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ᴿᵉᵃᵖᵉʳ_"
         }
     ]
 }

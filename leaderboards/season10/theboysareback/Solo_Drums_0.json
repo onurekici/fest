@@ -601,6 +601,14 @@
             "userName": "Cpt Appleman"
         },
         {
+            "accuracy": 99,
+            "score": 183324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Neco-Arc Chaos"
+        },
+        {
             "accuracy": 100,
             "score": 183294,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ConceptCanine"
-        },
-        {
-            "accuracy": 98,
-            "score": 179364,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gume0"
         }
     ]
 }

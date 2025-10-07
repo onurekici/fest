@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 38378,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bush_wookie318"
+        },
+        {
+            "accuracy": 100,
+            "score": 38378,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dansir101"
+        },
+        {
             "accuracy": 100,
             "score": 38368,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Mr_Kluster"
-        },
-        {
-            "accuracy": 100,
-            "score": 37996,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ryku_JM"
-        },
-        {
-            "accuracy": 100,
-            "score": 37995,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dexter Griff"
         }
     ]
 }

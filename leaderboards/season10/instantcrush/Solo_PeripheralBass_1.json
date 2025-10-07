@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 262746,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HammieTaro"
+        },
+        {
             "accuracy": 100,
             "score": 262429,
             "difficulty": 3,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Vikingsfan869"
+        },
+        {
+            "accuracy": 100,
+            "score": 262022,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "malik_dipowerful"
         },
         {
             "accuracy": 99,
@@ -39,14 +55,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "spookyluke60"
-        },
-        {
-            "accuracy": 100,
-            "score": 261347,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "malik_dipowerful"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KansNur"
-        },
-        {
-            "accuracy": 99,
-            "score": 250282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RoySpammer"
         }
     ]
 }

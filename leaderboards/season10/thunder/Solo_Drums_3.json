@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 99684,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lodergg"
+        },
+        {
+            "accuracy": 100,
+            "score": 99654,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dinizza Pi Pina"
+        },
+        {
             "accuracy": 99,
             "score": 99630,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VictorTheRipper6"
-        },
-        {
-            "accuracy": 99,
-            "score": 98106,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SFD.1234"
-        },
-        {
-            "accuracy": 100,
-            "score": 98088,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rhys_stanley"
         }
     ]
 }

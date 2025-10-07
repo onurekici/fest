@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 608965,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "hirosinagaoka"
+        },
+        {
             "accuracy": 99,
             "score": 608833,
             "difficulty": 3,
@@ -345,6 +353,14 @@
             "userName": "Loona-tic"
         },
         {
+            "accuracy": 99,
+            "score": 602987,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ded676"
+        },
+        {
             "accuracy": 100,
             "score": 602971,
             "difficulty": 3,
@@ -431,6 +447,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "purpletabby24"
+        },
+        {
+            "accuracy": 99,
+            "score": 601981,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LilBeepBop5063"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "12月の雨の日"
-        },
-        {
-            "accuracy": 100,
-            "score": 597821,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Woe Is Me そ"
-        },
-        {
-            "accuracy": 100,
-            "score": 597675,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Spirit Sight"
-        },
-        {
-            "accuracy": 100,
-            "score": 597668,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HarbingerOfHugs"
         }
     ]
 }

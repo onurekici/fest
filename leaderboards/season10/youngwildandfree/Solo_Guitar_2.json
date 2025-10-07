@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123578,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "aussiecarlie"
+        },
+        {
+            "accuracy": 100,
+            "score": 123547,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "МишураDKG"
+        },
+        {
             "accuracy": 100,
             "score": 123479,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Not_Juno_"
-        },
-        {
-            "accuracy": 100,
-            "score": 121398,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Gaberrito8420"
-        },
-        {
-            "accuracy": 100,
-            "score": 121365,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MaTtFire113178"
         }
     ]
 }

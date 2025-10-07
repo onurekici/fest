@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 95059,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "cesablessed"
+        },
+        {
+            "accuracy": 99,
+            "score": 94869,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "rex2019_"
+        },
+        {
             "accuracy": 99,
             "score": 94862,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "LiquidFlash2929"
-        },
-        {
-            "accuracy": 98,
-            "score": 91168,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kidd4Blackk"
-        },
-        {
-            "accuracy": 99,
-            "score": 91147,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GaleoYT1"
         }
     ]
 }

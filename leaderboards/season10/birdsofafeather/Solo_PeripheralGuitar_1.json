@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 90005,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Godieonce"
+        },
+        {
+            "accuracy": 100,
             "score": 89943,
             "difficulty": 3,
             "stars": 6,
@@ -361,6 +369,14 @@
             "userName": "SaucedUpBuns25"
         },
         {
+            "accuracy": 99,
+            "score": 87364,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Perfectilluison0"
+        },
+        {
             "accuracy": 100,
             "score": 87360,
             "difficulty": 3,
@@ -649,6 +665,14 @@
             "userName": "Zirkoel"
         },
         {
+            "accuracy": 98,
+            "score": 85641,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cryyynx"
+        },
+        {
             "accuracy": 99,
             "score": 85595,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "R0cKst4R27"
-        },
-        {
-            "accuracy": 99,
-            "score": 84652,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Maikoukun"
-        },
-        {
-            "accuracy": 99,
-            "score": 84600,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jaxx83"
-        },
-        {
-            "accuracy": 99,
-            "score": 84560,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Count_Malkav"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 188919,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RossySA5"
+        },
+        {
             "accuracy": 99,
             "score": 188829,
             "difficulty": 3,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Twinques"
+        },
+        {
+            "accuracy": 100,
+            "score": 188477,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FloppySquared"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WatchedArrow"
-        },
-        {
-            "accuracy": 99,
-            "score": 184325,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "POKIEMASTER69"
-        },
-        {
-            "accuracy": 99,
-            "score": 184293,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Inte_Viktigt"
         }
     ]
 }

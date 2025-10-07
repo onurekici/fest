@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 67463,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Clownible"
+        },
+        {
+            "accuracy": 98,
+            "score": 67377,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Panini_wrx"
+        },
+        {
+            "accuracy": 100,
             "score": 67289,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BRONSON CH4RLIE"
-        },
-        {
-            "accuracy": 98,
-            "score": 51267,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Chunky_Biscuits"
-        },
-        {
-            "accuracy": 98,
-            "score": 50874,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Askarathol"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jonah Brianez"
+        },
+        {
+            "accuracy": 100,
             "score": 123432,
             "difficulty": 3,
             "stars": 6,
@@ -529,6 +537,14 @@
             "userName": "Hatsune Chrabiii"
         },
         {
+            "accuracy": 99,
+            "score": 119016,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fpx_vieira"
+        },
+        {
             "accuracy": 98,
             "score": 118872,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RaqWinzヤ"
-        },
-        {
-            "accuracy": 99,
-            "score": 116742,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hog Rat Tuna"
-        },
-        {
-            "accuracy": 99,
-            "score": 116670,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GooDPastoR"
         }
     ]
 }

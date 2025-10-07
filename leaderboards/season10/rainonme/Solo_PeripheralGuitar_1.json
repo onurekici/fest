@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 67428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheCodexAstartes"
+        },
+        {
+            "accuracy": 98,
+            "score": 67377,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Something2X7"
+        },
+        {
             "accuracy": 99,
             "score": 67347,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ravidlaz"
-        },
-        {
-            "accuracy": 100,
-            "score": 53834,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "austengause"
-        },
-        {
-            "accuracy": 97,
-            "score": 53708,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "meechthelittle"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 298998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kaycat94"
+        },
+        {
+            "accuracy": 99,
+            "score": 298932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kaptkronic420"
+        },
+        {
             "accuracy": 99,
             "score": 298788,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ulnucky不運"
-        },
-        {
-            "accuracy": 99,
-            "score": 291702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Qkz4"
-        },
-        {
-            "accuracy": 99,
-            "score": 291504,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MegaManFan404"
         }
     ]
 }

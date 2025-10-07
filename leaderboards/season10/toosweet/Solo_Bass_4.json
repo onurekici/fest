@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 120412,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "J-Solidus"
+        },
+        {
+            "accuracy": 100,
+            "score": 120388,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GrandZzodiark"
+        },
+        {
+            "accuracy": 100,
+            "score": 120378,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TenTermit"
+        },
+        {
             "accuracy": 100,
             "score": 120323,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Voorhee5"
-        },
-        {
-            "accuracy": 99,
-            "score": 117711,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AmityParks"
-        },
-        {
-            "accuracy": 99,
-            "score": 117702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CTRLYX"
-        },
-        {
-            "accuracy": 100,
-            "score": 117675,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SurfWitch Heira"
         }
     ]
 }

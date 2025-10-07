@@ -673,6 +673,14 @@
             "userName": "Dr Bob Barker"
         },
         {
+            "accuracy": 99,
+            "score": 90938,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WerewolfArmpits"
+        },
+        {
             "accuracy": 100,
             "score": 90908,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "By_Yours_Truly"
-        },
-        {
-            "accuracy": 100,
-            "score": 90005,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Godieonce"
         }
     ]
 }

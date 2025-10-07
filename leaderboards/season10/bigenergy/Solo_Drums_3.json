@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 106885,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mr snapp"
+        },
+        {
+            "accuracy": 97,
+            "score": 106458,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vercingitorix"
+        },
+        {
             "accuracy": 100,
             "score": 106030,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "chromekiss"
-        },
-        {
-            "accuracy": 96,
-            "score": 89418,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Zertify Frosty"
-        },
-        {
-            "accuracy": 99,
-            "score": 89415,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "female_fatal"
         }
     ]
 }

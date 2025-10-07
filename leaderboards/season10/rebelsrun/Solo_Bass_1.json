@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 112500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "King_Cactus2"
+        },
+        {
+            "accuracy": 99,
+            "score": 112323,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DenimGorillas"
+        },
+        {
+            "accuracy": 100,
+            "score": 112317,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AmazingMuffin99"
+        },
+        {
+            "accuracy": 99,
             "score": 112259,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JanineHeckler"
-        },
-        {
-            "accuracy": 100,
-            "score": 100718,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LizbonaF4"
-        },
-        {
-            "accuracy": 99,
-            "score": 100632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Eldispeldis"
-        },
-        {
-            "accuracy": 99,
-            "score": 100483,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MrDoubleWub"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 80268,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GrizzlySpas"
+        },
+        {
             "accuracy": 99,
             "score": 80178,
             "difficulty": 3,
@@ -289,6 +297,14 @@
             "userName": "Zanngoa"
         },
         {
+            "accuracy": 100,
+            "score": 75403,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Froğ"
+        },
+        {
             "accuracy": 99,
             "score": 75340,
             "difficulty": 2,
@@ -503,6 +519,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "UltimateOC33"
+        },
+        {
+            "accuracy": 100,
+            "score": 73489,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "shotoscreamer"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WAVES 92"
-        },
-        {
-            "accuracy": 98,
-            "score": 69784,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "guizinhenrique"
-        },
-        {
-            "accuracy": 100,
-            "score": 69768,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SakuraRage"
-        },
-        {
-            "accuracy": 100,
-            "score": 69723,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Slowneko"
         }
     ]
 }

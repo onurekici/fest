@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 159420,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kennyoungx"
+        },
+        {
+            "accuracy": 100,
             "score": 156786,
             "difficulty": 3,
             "stars": 6,
@@ -279,6 +287,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Grayhefe"
+        },
+        {
+            "accuracy": 99,
+            "score": 136554,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FluffyOMC"
         },
         {
             "accuracy": 99,
@@ -673,6 +689,14 @@
             "userName": "Undeadninja363"
         },
         {
+            "accuracy": 98,
+            "score": 111534,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Disasterbate96"
+        },
+        {
             "accuracy": 99,
             "score": 109584,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TrashyRingTail"
-        },
-        {
-            "accuracy": 98,
-            "score": 102570,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JohnWickMain"
-        },
-        {
-            "accuracy": 98,
-            "score": 101514,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "jamiewm1993"
-        },
-        {
-            "accuracy": 99,
-            "score": 101460,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HugeQuest"
         }
     ]
 }

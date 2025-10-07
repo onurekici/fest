@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 103707,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nero Ura"
+        },
+        {
+            "accuracy": 99,
+            "score": 103678,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JinxAddams"
+        },
+        {
             "accuracy": 99,
             "score": 103657,
             "difficulty": 3,
@@ -770,35 +786,19 @@
         },
         {
             "accuracy": 99,
+            "score": 100248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "m4ddog_"
+        },
+        {
+            "accuracy": 99,
             "score": 100154,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Brekfastman"
-        },
-        {
-            "accuracy": 99,
-            "score": 100025,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Odi_Glock"
-        },
-        {
-            "accuracy": 99,
-            "score": 99984,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rusor47"
-        },
-        {
-            "accuracy": 99,
-            "score": 99976,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PrinceZuko170"
         }
     ]
 }

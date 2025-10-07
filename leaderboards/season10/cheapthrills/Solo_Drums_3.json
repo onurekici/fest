@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125718,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NL2007"
+        },
+        {
+            "accuracy": 100,
             "score": 125688,
             "difficulty": 3,
             "stars": 6,
@@ -625,6 +633,14 @@
             "userName": "Tᴇɴsʜɪ"
         },
         {
+            "accuracy": 99,
+            "score": 123888,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Rogr24"
+        },
+        {
             "accuracy": 100,
             "score": 123882,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Thejoker 1109"
-        },
-        {
-            "accuracy": 99,
-            "score": 123660,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ForsakenVail"
-        },
-        {
-            "accuracy": 100,
-            "score": 123660,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "My-Cheese-Burger"
         }
     ]
 }

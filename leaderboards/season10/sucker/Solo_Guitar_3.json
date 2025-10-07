@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 120330,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Juan04Alvaro"
+        },
+        {
+            "accuracy": 100,
+            "score": 120324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Perła_Exportowa"
+        },
+        {
             "accuracy": 99,
             "score": 120324,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mystic_jedi"
-        },
-        {
-            "accuracy": 99,
-            "score": 117468,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LBozoFourTwenty"
-        },
-        {
-            "accuracy": 100,
-            "score": 117434,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EnzoBallistic"
         }
     ]
 }

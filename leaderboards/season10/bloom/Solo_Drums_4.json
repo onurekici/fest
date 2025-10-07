@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 39510,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 39215,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 39140,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 39040,
             "difficulty": 1,
@@ -513,6 +537,14 @@
             "userName": null
         },
         {
+            "accuracy": 89,
+            "score": 24402,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 98,
             "score": 24395,
             "difficulty": 0,
@@ -765,38 +797,6 @@
             "score": 20610,
             "difficulty": 0,
             "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 93,
-            "score": 20515,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 100,
-            "score": 20105,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": null
-        },
-        {
-            "accuracy": 98,
-            "score": 20105,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 91,
-            "score": 20090,
-            "difficulty": 1,
-            "stars": 4,
             "fullcombo": false,
             "userName": null
         }

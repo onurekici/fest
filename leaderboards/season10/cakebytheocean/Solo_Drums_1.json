@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 200616,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "king_kero_2000"
+        },
+        {
+            "accuracy": 100,
             "score": 200448,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "coco0813an"
+        },
+        {
+            "accuracy": 100,
+            "score": 200388,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KennyLoggins530"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Badish0"
-        },
-        {
-            "accuracy": 99,
-            "score": 195672,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tripable"
-        },
-        {
-            "accuracy": 99,
-            "score": 195594,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CocaDeVainilla"
         }
     ]
 }

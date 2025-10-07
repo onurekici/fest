@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 100718,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LizbonaF4"
+        },
+        {
+            "accuracy": 99,
+            "score": 100632,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Eldispeldis"
+        },
+        {
+            "accuracy": 99,
+            "score": 100483,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MrDoubleWub"
+        },
+        {
             "accuracy": 99,
             "score": 100476,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MAIRUU007"
-        },
-        {
-            "accuracy": 99,
-            "score": 92560,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Retrovzki"
-        },
-        {
-            "accuracy": 99,
-            "score": 92546,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "zarf20"
-        },
-        {
-            "accuracy": 99,
-            "score": 92514,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheLegendarySofa"
         }
     ]
 }

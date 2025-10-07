@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 81609,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "GSK_APHRODITE"
+        },
+        {
             "accuracy": 99,
             "score": 81490,
             "difficulty": 3,
@@ -417,6 +425,14 @@
             "userName": "[XBL] Ironblade5251"
         },
         {
+            "accuracy": 99,
+            "score": 77276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "bombgat"
+        },
+        {
             "accuracy": 100,
             "score": 77275,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Sonic Hero2019"
-        },
-        {
-            "accuracy": 100,
-            "score": 73212,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Capt_Mojo"
-        },
-        {
-            "accuracy": 99,
-            "score": 73115,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "eXtreme OilRUSH"
         }
     ]
 }

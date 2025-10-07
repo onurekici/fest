@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 42666,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "2TallSanchez"
+        },
+        {
+            "accuracy": 99,
+            "score": 42508,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lastyman"
+        },
+        {
+            "accuracy": 100,
             "score": 42479,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "HookEmHard"
-        },
-        {
-            "accuracy": 96,
-            "score": 38419,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iceejetz"
-        },
-        {
-            "accuracy": 100,
-            "score": 38403,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "holldish24"
         }
     ]
 }

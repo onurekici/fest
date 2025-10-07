@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 62909,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tamed-Dashed"
+        },
+        {
+            "accuracy": 100,
+            "score": 62905,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TeamOn1y"
+        },
+        {
             "accuracy": 100,
             "score": 62902,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Viperin_22"
-        },
-        {
-            "accuracy": 100,
-            "score": 62598,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Timasiko"
-        },
-        {
-            "accuracy": 100,
-            "score": 62597,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kriss_mal"
         }
     ]
 }

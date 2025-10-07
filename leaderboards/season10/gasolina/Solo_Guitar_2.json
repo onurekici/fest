@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 138606,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IceTeaヅ"
+        },
+        {
+            "accuracy": 100,
+            "score": 138594,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "polarismkr"
+        },
+        {
             "accuracy": 100,
             "score": 138594,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "J3rry_m0use"
-        },
-        {
-            "accuracy": 100,
-            "score": 136608,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ro6in92"
-        },
-        {
-            "accuracy": 100,
-            "score": 136590,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zettuu"
         }
     ]
 }

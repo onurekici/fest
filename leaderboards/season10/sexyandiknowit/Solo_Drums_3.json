@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 85380,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Killeure 2.0"
+        },
+        {
+            "accuracy": 98,
+            "score": 85164,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "florez2"
+        },
+        {
             "accuracy": 98,
             "score": 85146,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "LateSean1107"
-        },
-        {
-            "accuracy": 98,
-            "score": 76356,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FollowingData0"
-        },
-        {
-            "accuracy": 98,
-            "score": 76175,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Matahew2"
         }
     ]
 }

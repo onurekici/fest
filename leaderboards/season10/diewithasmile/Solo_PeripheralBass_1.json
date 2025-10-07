@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 39210,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "FreshMeerkat2908"
+        },
+        {
+            "accuracy": 98,
+            "score": 39005,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ononokі"
+        },
+        {
             "accuracy": 96,
             "score": 38956,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "drew.pags671"
-        },
-        {
-            "accuracy": 72,
-            "score": 7290,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "lwood2003"
-        },
-        {
-            "accuracy": 44,
-            "score": 7284,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "ttv_goon_09070"
         }
     ]
 }

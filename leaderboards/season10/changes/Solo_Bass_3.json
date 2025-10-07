@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 78311,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "camfranklin"
+        },
+        {
+            "accuracy": 99,
+            "score": 78280,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MakingSalad"
+        },
+        {
             "accuracy": 100,
             "score": 78268,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Osky_LevelUp"
-        },
-        {
-            "accuracy": 100,
-            "score": 73562,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Slim4hunnidd"
-        },
-        {
-            "accuracy": 100,
-            "score": 73505,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SlimeyNShady"
         }
     ]
 }

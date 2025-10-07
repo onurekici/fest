@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 86070,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Changoleon1551"
+        },
+        {
             "accuracy": 99,
             "score": 86064,
             "difficulty": 3,
@@ -343,6 +351,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Fake Crazh"
+        },
+        {
+            "accuracy": 99,
+            "score": 84324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SHOCKERSx10"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Tannarus"
-        },
-        {
-            "accuracy": 99,
-            "score": 80616,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RatonVaquerouwu"
-        },
-        {
-            "accuracy": 99,
-            "score": 80598,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MajisWaifu"
         }
     ]
 }

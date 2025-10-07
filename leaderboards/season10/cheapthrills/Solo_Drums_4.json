@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123660,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ForsakenVail"
+        },
+        {
+            "accuracy": 100,
+            "score": 123660,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "My-Cheese-Burger"
+        },
+        {
             "accuracy": 100,
             "score": 123612,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NICOchuت"
-        },
-        {
-            "accuracy": 99,
-            "score": 121590,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Totalchaos63"
-        },
-        {
-            "accuracy": 100,
-            "score": 121584,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Prodestroyer012"
         }
     ]
 }

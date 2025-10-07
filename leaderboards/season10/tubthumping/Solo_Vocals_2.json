@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 177320,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sun Haven"
+        },
+        {
+            "accuracy": 100,
+            "score": 177299,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lvscatz"
+        },
+        {
+            "accuracy": 100,
             "score": 177287,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "AhM0zzie"
-        },
-        {
-            "accuracy": 100,
-            "score": 175554,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KineticKeyboard"
-        },
-        {
-            "accuracy": 100,
-            "score": 175553,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "WonderwallbyOasi"
         }
     ]
 }

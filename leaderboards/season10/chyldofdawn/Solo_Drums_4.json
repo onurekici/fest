@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 139032,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OT2020-T"
+        },
+        {
+            "accuracy": 99,
+            "score": 139008,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Twitch Aireiy"
+        },
+        {
+            "accuracy": 100,
             "score": 138960,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wolvesplayer63"
-        },
-        {
-            "accuracy": 100,
-            "score": 137760,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MTC_piederer"
-        },
-        {
-            "accuracy": 100,
-            "score": 137760,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sкуе"
         }
     ]
 }

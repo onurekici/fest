@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123556,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DulaHaunted"
+        },
+        {
+            "accuracy": 100,
             "score": 123551,
             "difficulty": 3,
             "stars": 6,
@@ -465,6 +473,14 @@
             "userName": "MADMAX9818"
         },
         {
+            "accuracy": 99,
+            "score": 122541,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Shadow_master019"
+        },
+        {
             "accuracy": 100,
             "score": 122528,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "nuolipyssy"
-        },
-        {
-            "accuracy": 100,
-            "score": 121710,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Pachonsenpai"
-        },
-        {
-            "accuracy": 100,
-            "score": 121572,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ArtimusPrime84"
         }
     ]
 }

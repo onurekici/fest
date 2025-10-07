@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123558,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rebecca Cruze"
+        },
+        {
+            "accuracy": 100,
+            "score": 123550,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Benio.28"
+        },
+        {
+            "accuracy": 100,
             "score": 123467,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Fateh gards"
-        },
-        {
-            "accuracy": 100,
-            "score": 121769,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DoomSlayerOng"
-        },
-        {
-            "accuracy": 100,
-            "score": 121768,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kopusta_"
         }
     ]
 }

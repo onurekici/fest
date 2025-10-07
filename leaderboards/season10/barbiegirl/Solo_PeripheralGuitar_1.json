@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 113061,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sadarar"
+        },
+        {
+            "accuracy": 100,
+            "score": 112932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "EmperorFriezza"
+        },
+        {
             "accuracy": 99,
             "score": 112592,
             "difficulty": 3,
@@ -9,11 +25,11 @@
             "userName": "Unlovelydead"
         },
         {
-            "accuracy": 100,
-            "score": 112266,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
+            "accuracy": 98,
+            "score": 112447,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
             "userName": "aggresivePenguin"
         },
         {
@@ -287,6 +303,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BraeStreke"
+        },
+        {
+            "accuracy": 99,
+            "score": 104790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Namma_Jeff"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Benporium"
-        },
-        {
-            "accuracy": 100,
-            "score": 74068,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "NinjaPhenom"
-        },
-        {
-            "accuracy": 95,
-            "score": 74030,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ThaTwiztidOne"
-        },
-        {
-            "accuracy": 100,
-            "score": 73326,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "AshleyPanda24"
         }
     ]
 }

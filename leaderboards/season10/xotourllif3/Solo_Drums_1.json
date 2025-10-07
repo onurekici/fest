@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 131700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Der Jeger"
+        },
+        {
+            "accuracy": 100,
+            "score": 131634,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] FishyBoix"
+        },
+        {
             "accuracy": 99,
             "score": 131574,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "larpiee"
-        },
-        {
-            "accuracy": 100,
-            "score": 128574,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Z7 Asbaro"
-        },
-        {
-            "accuracy": 99,
-            "score": 128568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "chrlszy"
         }
     ]
 }

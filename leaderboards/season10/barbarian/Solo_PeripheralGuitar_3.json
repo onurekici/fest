@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 40663,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Random Smells"
+        },
+        {
             "accuracy": 91,
             "score": 40298,
             "difficulty": 2,
@@ -638,7 +646,7 @@
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
-            "userName": "ZiseCat"
+            "userName": "PawjobMaster"
         },
         {
             "accuracy": 95,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "ComputerEmperor"
-        },
-        {
-            "accuracy": 85,
-            "score": 21272,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Col. CopperBeard"
         }
     ]
 }

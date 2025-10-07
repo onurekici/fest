@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 104106,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ConceptCanine"
+        },
+        {
+            "accuracy": 100,
+            "score": 104082,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fallnuon"
+        },
+        {
+            "accuracy": 100,
+            "score": 104070,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kriz69"
+        },
+        {
             "accuracy": 99,
             "score": 104064,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AustinthePerson7"
-        },
-        {
-            "accuracy": 99,
-            "score": 99750,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sackbox"
-        },
-        {
-            "accuracy": 99,
-            "score": 99684,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "patent-Florist"
-        },
-        {
-            "accuracy": 99,
-            "score": 99678,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "フラム03"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 138328,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GambitKirby"
+        },
+        {
             "accuracy": 100,
             "score": 138241,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Brandon 1995"
-        },
-        {
-            "accuracy": 98,
-            "score": 86804,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LordRock.Seed"
         }
     ]
 }

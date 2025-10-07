@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 402875,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "allyoso"
+        },
+        {
             "accuracy": 99,
             "score": 402741,
             "difficulty": 3,
@@ -295,6 +303,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "El Real Agasajo"
+        },
+        {
+            "accuracy": 99,
+            "score": 398485,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AresTheWolf1"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "that_jazz_dude"
-        },
-        {
-            "accuracy": 99,
-            "score": 388948,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JOS3RED"
-        },
-        {
-            "accuracy": 99,
-            "score": 388549,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-9f915f16e0"
         }
     ]
 }

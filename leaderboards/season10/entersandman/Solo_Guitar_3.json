@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 240729,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Alphanan10"
+        },
+        {
+            "accuracy": 100,
+            "score": 240716,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Neto-Valentino"
+        },
+        {
+            "accuracy": 100,
             "score": 240698,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "maple_cl0ud"
-        },
-        {
-            "accuracy": 100,
-            "score": 239668,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Opiskey2000"
-        },
-        {
-            "accuracy": 100,
-            "score": 239659,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "anqeldust"
         }
     ]
 }
