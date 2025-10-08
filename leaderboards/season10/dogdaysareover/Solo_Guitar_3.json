@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 300681,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Juan_9403"
+        },
+        {
+            "accuracy": 99,
+            "score": 300640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tony Páramo"
+        },
+        {
+            "accuracy": 100,
             "score": 300566,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "buck_sb1"
-        },
-        {
-            "accuracy": 100,
-            "score": 297879,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nowhereman321"
-        },
-        {
-            "accuracy": 100,
-            "score": 297861,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "UndatedSummer5"
         }
     ]
 }

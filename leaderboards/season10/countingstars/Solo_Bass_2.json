@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 104881,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Arguementor"
+        },
+        {
             "accuracy": 99,
             "score": 104851,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tycable"
-        },
-        {
-            "accuracy": 99,
-            "score": 101091,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lilfox413"
         }
     ]
 }

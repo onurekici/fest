@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 123789,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "posiden871"
+        },
+        {
+            "accuracy": 97,
+            "score": 123788,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BASKETCASEBUNNIE"
+        },
+        {
             "accuracy": 97,
             "score": 123422,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Fugu187"
-        },
-        {
-            "accuracy": 85,
-            "score": 64499,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ArchSanti"
-        },
-        {
-            "accuracy": 88,
-            "score": 61134,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "00fermast3r"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 100011,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NikyH00000004"
+        },
+        {
             "accuracy": 99,
             "score": 99878,
             "difficulty": 2,
@@ -425,6 +433,14 @@
             "userName": "eLTyTir bouchon"
         },
         {
+            "accuracy": 100,
+            "score": 72390,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "biohazardboy93"
+        },
+        {
             "accuracy": 93,
             "score": 72293,
             "difficulty": 3,
@@ -721,6 +737,14 @@
             "userName": "CBearSweep"
         },
         {
+            "accuracy": 97,
+            "score": 61352,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vallon101"
+        },
+        {
             "accuracy": 99,
             "score": 61158,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "OhHeyItsLT"
-        },
-        {
-            "accuracy": 97,
-            "score": 58698,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "The_Rondoman"
-        },
-        {
-            "accuracy": 94,
-            "score": 58604,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SomeFirewood"
-        },
-        {
-            "accuracy": 97,
-            "score": 58392,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "badboy6569"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 98506,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jaxx83"
+        },
+        {
+            "accuracy": 98,
+            "score": 97979,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheCrimsonTick"
+        },
+        {
             "accuracy": 92,
             "score": 97955,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "JDAVIES94"
-        },
-        {
-            "accuracy": 99,
-            "score": 86112,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "St-Jingus"
-        },
-        {
-            "accuracy": 94,
-            "score": 86094,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MxLazuli"
         }
     ]
 }

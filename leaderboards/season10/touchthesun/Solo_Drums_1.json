@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 149424,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dulce.xx"
+        },
+        {
+            "accuracy": 100,
+            "score": 149160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ittsbouttime"
+        },
+        {
             "accuracy": 100,
             "score": 149142,
             "difficulty": 3,
@@ -39,6 +55,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ConceptCanine"
+        },
+        {
+            "accuracy": 100,
+            "score": 148302,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AMANI_EV"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Juanpalomoy"
-        },
-        {
-            "accuracy": 98,
-            "score": 133884,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "InsigmaSsaem"
-        },
-        {
-            "accuracy": 99,
-            "score": 133818,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ryuji_Daboy"
-        },
-        {
-            "accuracy": 99,
-            "score": 133476,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iIGoldenBugIi"
         }
     ]
 }

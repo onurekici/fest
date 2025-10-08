@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 178260,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 178233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sir_Klonoa"
+        },
+        {
             "accuracy": 100,
             "score": 178223,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Primjack"
-        },
-        {
-            "accuracy": 100,
-            "score": 173291,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Festive yeti"
-        },
-        {
-            "accuracy": 100,
-            "score": 173283,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AMS_Lance"
         }
     ]
 }

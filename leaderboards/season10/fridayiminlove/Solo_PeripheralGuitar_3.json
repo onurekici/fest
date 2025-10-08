@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123152,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kuromi Rose"
+        },
+        {
+            "accuracy": 99,
             "score": 123064,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GamerKilledU"
-        },
-        {
-            "accuracy": 100,
-            "score": 119581,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CharlofStateFarm"
         }
     ]
 }

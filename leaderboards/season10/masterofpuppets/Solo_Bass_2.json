@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 598629,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "itswaasabi"
+        },
+        {
+            "accuracy": 100,
+            "score": 598584,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GuilhermeN5"
+        },
+        {
             "accuracy": 100,
             "score": 598403,
             "difficulty": 3,
@@ -646,7 +662,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "SakuraX.Feenix"
+            "userName": "Feenix.TV"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "skullnight_17"
-        },
-        {
-            "accuracy": 100,
-            "score": 591494,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GarbageGuy222"
-        },
-        {
-            "accuracy": 100,
-            "score": 591468,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "lembot"
         }
     ]
 }

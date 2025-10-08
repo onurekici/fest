@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 73490,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jennyzhii"
+        },
+        {
+            "accuracy": 100,
+            "score": 73487,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "heartofsorrow"
+        },
+        {
+            "accuracy": 100,
             "score": 73464,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Tsak970"
-        },
-        {
-            "accuracy": 99,
-            "score": 66446,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Fabi10001"
-        },
-        {
-            "accuracy": 98,
-            "score": 66416,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kadori-chan"
         }
     ]
 }

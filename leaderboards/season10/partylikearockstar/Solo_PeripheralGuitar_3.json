@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 71460,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "StanleyYelnatsV"
+        },
+        {
             "accuracy": 97,
             "score": 71394,
             "difficulty": 3,
@@ -135,6 +143,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "BeerPongCham09"
+        },
+        {
+            "accuracy": 96,
+            "score": 68196,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "M3RKMADNE555"
         },
         {
             "accuracy": 94,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Wumple"
-        },
-        {
-            "accuracy": 98,
-            "score": 51032,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pojar08"
-        },
-        {
-            "accuracy": 95,
-            "score": 50780,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Kool Kid Karl"
         }
     ]
 }

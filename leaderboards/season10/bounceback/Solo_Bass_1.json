@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 78224,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Skele_Angel"
+        },
+        {
+            "accuracy": 100,
             "score": 78164,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Body_By_Queso"
-        },
-        {
-            "accuracy": 100,
-            "score": 74841,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DipperInTacoBell"
         }
     ]
 }

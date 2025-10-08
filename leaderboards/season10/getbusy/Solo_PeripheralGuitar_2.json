@@ -681,6 +681,14 @@
             "userName": "99.mp4"
         },
         {
+            "accuracy": 88,
+            "score": 58494,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "NoelNathaniel"
+        },
+        {
             "accuracy": 98,
             "score": 58283,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Game_Legend"
-        },
-        {
-            "accuracy": 100,
-            "score": 55284,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Distavoid"
         }
     ]
 }

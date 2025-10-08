@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 42911,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "EternalGhostly"
+        },
+        {
+            "accuracy": 100,
             "score": 42813,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "RazNiagi"
-        },
-        {
-            "accuracy": 90,
-            "score": 8601,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MendingoWarrior"
         }
     ]
 }

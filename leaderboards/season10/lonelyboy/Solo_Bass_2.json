@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 70614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DazedAquarius420"
+        },
+        {
+            "accuracy": 100,
+            "score": 70602,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "onlychillin30"
+        },
+        {
             "accuracy": 100,
             "score": 70575,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Devlin142"
-        },
-        {
-            "accuracy": 100,
-            "score": 64148,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "jmgalea"
-        },
-        {
-            "accuracy": 100,
-            "score": 64048,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Justynm0107"
         }
     ]
 }

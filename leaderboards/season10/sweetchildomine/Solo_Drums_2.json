@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 346244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kingwing189"
+        },
+        {
+            "accuracy": 99,
+            "score": 346181,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jess0"
+        },
+        {
             "accuracy": 99,
             "score": 346125,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ZnutriarojaZ"
-        },
-        {
-            "accuracy": 99,
-            "score": 340391,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RottingEnternal"
-        },
-        {
-            "accuracy": 99,
-            "score": 340368,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BsK-SharkY"
         }
     ]
 }

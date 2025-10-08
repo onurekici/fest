@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 240876,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "reecejemery"
+        },
+        {
+            "accuracy": 99,
+            "score": 240870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sly_Night"
+        },
+        {
+            "accuracy": 100,
             "score": 240864,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "gothvergil"
-        },
-        {
-            "accuracy": 99,
-            "score": 239436,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 100,
-            "score": 239400,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ICRITmPantz"
         }
     ]
 }

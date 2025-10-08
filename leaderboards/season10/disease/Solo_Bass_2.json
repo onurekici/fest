@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 139996,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Aritz Ramos"
+        },
+        {
+            "accuracy": 100,
             "score": 139990,
             "difficulty": 3,
             "stars": 6,
@@ -710,7 +718,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "TT tdvwz"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lucsaki"
-        },
-        {
-            "accuracy": 99,
-            "score": 135255,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "That Big Geek"
         }
     ]
 }

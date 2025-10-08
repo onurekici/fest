@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 49985,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kreyek"
+        },
+        {
+            "accuracy": 100,
             "score": 49848,
             "difficulty": 3,
             "stars": 6,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DKennykinz"
+        },
+        {
+            "accuracy": 100,
+            "score": 48398,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ZypesTheThird"
         },
         {
             "accuracy": 100,
@@ -489,6 +505,14 @@
             "userName": "SlimeyBoi21"
         },
         {
+            "accuracy": 98,
+            "score": 44898,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Chinselor"
+        },
+        {
             "accuracy": 100,
             "score": 44894,
             "difficulty": 1,
@@ -721,14 +745,6 @@
             "userName": "iAmVoltex_"
         },
         {
-            "accuracy": 97,
-            "score": 43072,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ZypesTheThird"
-        },
-        {
             "accuracy": 99,
             "score": 42949,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SynnOCE"
-        },
-        {
-            "accuracy": 98,
-            "score": 42722,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ozeral"
-        },
-        {
-            "accuracy": 100,
-            "score": 42601,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ISA_GOD25"
         }
     ]
 }

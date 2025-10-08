@@ -1,12 +1,20 @@
 {
     "entries": [
         {
-            "accuracy": 95,
-            "score": 110390,
+            "accuracy": 97,
+            "score": 111337,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Miska-Mooska"
+        },
+        {
+            "accuracy": 90,
+            "score": 110652,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "FamousPacman"
+            "userName": "[XBL] HoingaMan887"
         },
         {
             "accuracy": 97,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "O-Athees-O"
-        },
-        {
-            "accuracy": 99,
-            "score": 88476,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheCobblerDr"
         }
     ]
 }

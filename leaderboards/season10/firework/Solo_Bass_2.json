@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 134256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Papa Finn"
+        },
+        {
+            "accuracy": 99,
+            "score": 134254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "wrd2khi"
+        },
+        {
+            "accuracy": 100,
             "score": 134253,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kịdd"
-        },
-        {
-            "accuracy": 99,
-            "score": 130466,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MattElstiq"
-        },
-        {
-            "accuracy": 100,
-            "score": 130436,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[PSN] RaLiEn24"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 388276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kid rei"
+        },
+        {
+            "accuracy": 100,
+            "score": 388271,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DarthR3742"
+        },
+        {
             "accuracy": 98,
             "score": 387950,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EchoBlade24"
-        },
-        {
-            "accuracy": 100,
-            "score": 368892,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Evolify"
-        },
-        {
-            "accuracy": 99,
-            "score": 368704,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "a7x luvr"
         }
     ]
 }

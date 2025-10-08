@@ -130,6 +130,14 @@
         },
         {
             "accuracy": 100,
+            "score": 255833,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hatsune Chayton"
+        },
+        {
+            "accuracy": 100,
             "score": 255792,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ソリセスの守護者"
-        },
-        {
-            "accuracy": 100,
-            "score": 253954,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sofnuuy"
         }
     ]
 }

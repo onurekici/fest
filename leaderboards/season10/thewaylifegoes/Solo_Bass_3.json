@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 14164,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SavageCamacho"
+        },
+        {
+            "accuracy": 98,
+            "score": 14157,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Graspingaura230"
+        },
+        {
             "accuracy": 96,
             "score": 14155,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "4Life_Shadow"
-        },
-        {
-            "accuracy": 100,
-            "score": 13867,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Steman"
-        },
-        {
-            "accuracy": 100,
-            "score": 13866,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BlackShadow1221"
         }
     ]
 }

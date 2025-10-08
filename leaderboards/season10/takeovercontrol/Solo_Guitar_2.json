@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 202426,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JishyJish"
+        },
+        {
+            "accuracy": 99,
+            "score": 202396,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mlrj9124"
+        },
+        {
             "accuracy": 99,
             "score": 202322,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "UlisesARx_"
-        },
-        {
-            "accuracy": 99,
-            "score": 195176,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Javabr_277"
-        },
-        {
-            "accuracy": 99,
-            "score": 194991,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EGGame_r"
         }
     ]
 }

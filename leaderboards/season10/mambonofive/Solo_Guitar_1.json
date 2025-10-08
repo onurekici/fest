@@ -282,6 +282,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Swaqqer McJaqqer"
+        },
+        {
+            "accuracy": 100,
             "score": 123884,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "IzukuRuinedMe"
-        },
-        {
-            "accuracy": 100,
-            "score": 122204,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "kipkip3"
         }
     ]
 }

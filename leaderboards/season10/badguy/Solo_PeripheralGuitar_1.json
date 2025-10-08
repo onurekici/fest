@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 96,
+            "score": 18432,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Rvs_Ryuk"
+        },
+        {
+            "accuracy": 100,
+            "score": 18427,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ChocDeEe"
+        },
+        {
+            "accuracy": 96,
             "score": 18413,
             "difficulty": 3,
             "stars": 5,
@@ -255,6 +271,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "disturbed_p1ayer"
+        },
+        {
+            "accuracy": 99,
+            "score": 16151,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BowieStrong"
         },
         {
             "accuracy": 96,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Brendany1066"
-        },
-        {
-            "accuracy": 98,
-            "score": 11322,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "E.s.h291202"
-        },
-        {
-            "accuracy": 93,
-            "score": 11219,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "wpbillin"
-        },
-        {
-            "accuracy": 93,
-            "score": 11195,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SucculentStench"
         }
     ]
 }

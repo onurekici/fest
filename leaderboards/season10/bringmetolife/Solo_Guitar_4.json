@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 234018,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rämekuukkeli"
+        },
+        {
+            "accuracy": 99,
+            "score": 233948,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Magersenf"
+        },
+        {
             "accuracy": 99,
             "score": 233942,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Darth_Van_lml"
-        },
-        {
-            "accuracy": 100,
-            "score": 232586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MetaLeroHD"
-        },
-        {
-            "accuracy": 100,
-            "score": 232580,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LegendaryELKbr"
         }
     ]
 }

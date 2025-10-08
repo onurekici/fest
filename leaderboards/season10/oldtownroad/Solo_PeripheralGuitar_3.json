@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 73508,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Gnargl3ator"
+        },
+        {
             "accuracy": 98,
             "score": 73437,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bad Ewok"
-        },
-        {
-            "accuracy": 97,
-            "score": 63545,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KamiVarien"
         }
     ]
 }

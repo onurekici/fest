@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 42722,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ozeral"
+        },
+        {
+            "accuracy": 100,
+            "score": 42601,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ISA_GOD25"
+        },
+        {
             "accuracy": 99,
             "score": 42431,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "coollin64"
-        },
-        {
-            "accuracy": 96,
-            "score": 31031,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] Stealtheye_55"
-        },
-        {
-            "accuracy": 94,
-            "score": 30754,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DarkWaffles316"
         }
     ]
 }

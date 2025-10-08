@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 81980,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ArchSanti"
+        },
+        {
+            "accuracy": 88,
+            "score": 81974,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "FalzoneGaming"
+        },
+        {
             "accuracy": 87,
             "score": 81466,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Sukuna-1995"
-        },
-        {
-            "accuracy": 64,
-            "score": 18470,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MilitarySand675"
-        },
-        {
-            "accuracy": 83,
-            "score": 17167,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Rvlpz"
         }
     ]
 }

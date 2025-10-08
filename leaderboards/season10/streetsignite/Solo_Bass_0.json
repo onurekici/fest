@@ -34,6 +34,14 @@
         },
         {
             "accuracy": 100,
+            "score": 103478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AnyMeansYui"
+        },
+        {
+            "accuracy": 100,
             "score": 103344,
             "difficulty": 3,
             "stars": 6,
@@ -95,6 +103,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Hennie Piest"
+        },
+        {
+            "accuracy": 100,
+            "score": 96491,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NekoLittenツ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "SyarLight"
-        },
-        {
-            "accuracy": 99,
-            "score": 18386,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nicholas_M1998"
-        },
-        {
-            "accuracy": 93,
-            "score": 18312,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "JohnnyFish"
         }
     ]
 }

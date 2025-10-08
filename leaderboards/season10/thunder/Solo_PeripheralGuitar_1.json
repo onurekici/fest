@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 34071,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Quarter_Baked"
+        },
+        {
+            "accuracy": 100,
+            "score": 33983,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "2ndCityCrusader"
+        },
+        {
             "accuracy": 94,
             "score": 33600,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Rambuxchess23"
-        },
-        {
-            "accuracy": 76,
-            "score": 16374,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Betortas4"
-        },
-        {
-            "accuracy": 76,
-            "score": 16283,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "52blueroo52"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 95916,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JediMasterJordan"
+        },
+        {
             "accuracy": 100,
             "score": 95880,
             "difficulty": 3,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "M0j0 M4ng0"
+        },
+        {
+            "accuracy": 99,
+            "score": 88368,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "K4M1L0S123"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DaSniper420"
-        },
-        {
-            "accuracy": 100,
-            "score": 68460,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Booyah_177"
-        },
-        {
-            "accuracy": 100,
-            "score": 68170,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Matku05"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 64148,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "jmgalea"
+        },
+        {
+            "accuracy": 100,
+            "score": 64048,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Justynm0107"
+        },
+        {
             "accuracy": 99,
             "score": 64013,
             "difficulty": 2,
@@ -47,6 +63,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TyboPotato"
+        },
+        {
+            "accuracy": 99,
+            "score": 63482,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Poshlyakov"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "DYPSK"
-        },
-        {
-            "accuracy": 99,
-            "score": 59395,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BLTwithNoTomato"
-        },
-        {
-            "accuracy": 100,
-            "score": 59268,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "东方毬败"
-        },
-        {
-            "accuracy": 100,
-            "score": 59226,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Draco_1027"
         }
     ]
 }

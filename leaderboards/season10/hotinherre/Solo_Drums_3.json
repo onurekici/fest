@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 183150,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Choom slayer"
+        },
+        {
+            "accuracy": 99,
+            "score": 183066,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ashimedes-"
+        },
+        {
             "accuracy": 99,
             "score": 183012,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "rellum06"
-        },
-        {
-            "accuracy": 100,
-            "score": 180180,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Perro simio"
-        },
-        {
-            "accuracy": 100,
-            "score": 180174,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BoricuaBeef"
         }
     ]
 }

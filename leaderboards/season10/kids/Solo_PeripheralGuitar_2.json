@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 80142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cabezón_de_kiwi"
+        },
+        {
             "accuracy": 97,
             "score": 79748,
             "difficulty": 3,
@@ -31,6 +39,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RedHorseNoggle"
+        },
+        {
+            "accuracy": 95,
+            "score": 79099,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kerti_Kertész"
         },
         {
             "accuracy": 91,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FrodoGHobbsTTV"
-        },
-        {
-            "accuracy": 91,
-            "score": 71980,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Strizzle-"
-        },
-        {
-            "accuracy": 93,
-            "score": 71899,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ChokingVictim14"
         }
     ]
 }

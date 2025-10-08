@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 131404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NymeriasGhost"
+        },
+        {
+            "accuracy": 99,
             "score": 131337,
             "difficulty": 3,
             "stars": 6,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TCG_Princess"
+        },
+        {
+            "accuracy": 100,
+            "score": 125992,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "foxxpool"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CiriceNocturnal"
-        },
-        {
-            "accuracy": 99,
-            "score": 112240,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Adair E"
-        },
-        {
-            "accuracy": 98,
-            "score": 112096,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MarcyVIX"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 135252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ベカム"
+        },
+        {
+            "accuracy": 100,
             "score": 135246,
             "difficulty": 3,
             "stars": 6,
@@ -47,6 +55,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "axo ponders"
+        },
+        {
+            "accuracy": 99,
+            "score": 135174,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "supernovaliv"
         },
         {
             "accuracy": 100,
@@ -721,6 +737,14 @@
             "userName": "M_B_Vieira"
         },
         {
+            "accuracy": 99,
+            "score": 134184,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ッhazyi"
+        },
+        {
             "accuracy": 100,
             "score": 134166,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kelvitz206"
-        },
-        {
-            "accuracy": 100,
-            "score": 134022,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hyeoniehae"
-        },
-        {
-            "accuracy": 100,
-            "score": 134004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "raylovesmetal"
-        },
-        {
-            "accuracy": 100,
-            "score": 133998,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ChrisTheKoa1a"
         }
     ]
 }

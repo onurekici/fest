@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 80322,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Voorhee5"
+        },
+        {
+            "accuracy": 95,
+            "score": 80262,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "iiToxicAuraii"
+        },
+        {
             "accuracy": 98,
             "score": 79855,
             "difficulty": 2,
@@ -215,6 +231,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "fondsquirrel505"
+        },
+        {
+            "accuracy": 93,
+            "score": 71592,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "xxSPARKPLUG4xx"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "QUAQUAVA1"
-        },
-        {
-            "accuracy": 100,
-            "score": 43755,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nora Gale"
-        },
-        {
-            "accuracy": 100,
-            "score": 43705,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Fuchsdämon"
-        },
-        {
-            "accuracy": 100,
-            "score": 43580,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "DaCloud101"
         }
     ]
 }

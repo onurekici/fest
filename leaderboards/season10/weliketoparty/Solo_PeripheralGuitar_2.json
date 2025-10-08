@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 76440,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SmashinSerjiJam"
+        },
+        {
+            "accuracy": 84,
+            "score": 76260,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FrenchiFriez"
+        },
+        {
             "accuracy": 82,
             "score": 76008,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Shawn_DWMC"
-        },
-        {
-            "accuracy": 92,
-            "score": 56814,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Cheko Legacy"
-        },
-        {
-            "accuracy": 87,
-            "score": 56796,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SeñorCosmos"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 68730,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lofatcat"
+        },
+        {
+            "accuracy": 100,
+            "score": 68724,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "oceania03"
+        },
+        {
             "accuracy": 100,
             "score": 68688,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "natterah"
-        },
-        {
-            "accuracy": 100,
-            "score": 67032,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "long_sleeves"
-        },
-        {
-            "accuracy": 100,
-            "score": 67026,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "faskates"
         }
     ]
 }

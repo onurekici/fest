@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 113712,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Yopsitus"
+        },
+        {
+            "accuracy": 100,
+            "score": 113700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JohnElFan"
+        },
+        {
+            "accuracy": 100,
+            "score": 113574,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SpaceRatSat"
+        },
+        {
             "accuracy": 99,
             "score": 113514,
             "difficulty": 3,
@@ -191,14 +215,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ironmonger2"
-        },
-        {
-            "accuracy": 100,
-            "score": 111348,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lumi-berry"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wong-tastic8"
-        },
-        {
-            "accuracy": 99,
-            "score": 102534,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AwesomeWarZebra"
-        },
-        {
-            "accuracy": 99,
-            "score": 102432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Udderly_Annoyed"
         }
     ]
 }

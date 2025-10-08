@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123892,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "hG_337"
+        },
+        {
+            "accuracy": 100,
             "score": 120599,
             "difficulty": 3,
             "stars": 6,
@@ -401,6 +409,14 @@
             "userName": "anderson1670"
         },
         {
+            "accuracy": 100,
+            "score": 110662,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ThatBlexicanTho"
+        },
+        {
             "accuracy": 99,
             "score": 110586,
             "difficulty": 3,
@@ -666,6 +682,14 @@
         },
         {
             "accuracy": 99,
+            "score": 107685,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mighty_Graham"
+        },
+        {
+            "accuracy": 99,
             "score": 107679,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IGL Damx ZC"
-        },
-        {
-            "accuracy": 100,
-            "score": 106299,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TwixNOut_"
-        },
-        {
-            "accuracy": 99,
-            "score": 106227,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PotatoSaladd_"
-        },
-        {
-            "accuracy": 98,
-            "score": 106222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ComeStash"
         }
     ]
 }

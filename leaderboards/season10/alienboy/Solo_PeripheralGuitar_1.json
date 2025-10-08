@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 50250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JLazz21"
+        },
+        {
+            "accuracy": 100,
             "score": 50207,
             "difficulty": 3,
             "stars": 6,
@@ -665,6 +673,14 @@
             "userName": "DaRealistTrent"
         },
         {
+            "accuracy": 99,
+            "score": 45699,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ellor Malolor"
+        },
+        {
             "accuracy": 97,
             "score": 45678,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RoskoTheGreat"
-        },
-        {
-            "accuracy": 98,
-            "score": 45163,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xoxo.teatime"
-        },
-        {
-            "accuracy": 100,
-            "score": 45091,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Holanda48"
         }
     ]
 }

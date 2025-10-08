@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 68914,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Big Braun"
+        },
+        {
             "accuracy": 100,
             "score": 68758,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "zay_nu_zay"
-        },
-        {
-            "accuracy": 100,
-            "score": 64950,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Muk_sun"
         }
     ]
 }

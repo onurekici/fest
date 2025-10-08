@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 65403,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Houdini.dss"
+        },
+        {
             "accuracy": 99,
             "score": 65345,
             "difficulty": 2,
@@ -402,6 +410,14 @@
         },
         {
             "accuracy": 100,
+            "score": 62582,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Rouky renard"
+        },
+        {
+            "accuracy": 100,
             "score": 62573,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "BlockishNail8879"
-        },
-        {
-            "accuracy": 97,
-            "score": 59311,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "lucasergiu224544"
-        },
-        {
-            "accuracy": 95,
-            "score": 59300,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ben quail"
         }
     ]
 }

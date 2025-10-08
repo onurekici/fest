@@ -210,6 +210,14 @@
         },
         {
             "accuracy": 100,
+            "score": 86721,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CorvidCorporal"
+        },
+        {
+            "accuracy": 100,
             "score": 86566,
             "difficulty": 3,
             "stars": 6,
@@ -713,6 +721,14 @@
             "userName": "MeowKitty64"
         },
         {
+            "accuracy": 93,
+            "score": 32775,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "TrueSweetHeart"
+        },
+        {
             "accuracy": 95,
             "score": 32440,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "GXR Jinx"
-        },
-        {
-            "accuracy": 94,
-            "score": 23325,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "200IQ Sensi"
-        },
-        {
-            "accuracy": 100,
-            "score": 22660,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Dudleysfan"
         }
     ]
 }

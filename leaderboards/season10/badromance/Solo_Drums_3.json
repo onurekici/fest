@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 177900,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FireRanger120"
+        },
+        {
+            "accuracy": 99,
+            "score": 177876,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RhaynV"
+        },
+        {
+            "accuracy": 100,
             "score": 177864,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "dragonborn7400"
-        },
-        {
-            "accuracy": 100,
-            "score": 176280,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jimmyself"
-        },
-        {
-            "accuracy": 100,
-            "score": 176274,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Deathwish125632"
         }
     ]
 }

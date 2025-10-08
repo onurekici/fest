@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 168438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HunterNoe"
+        },
+        {
+            "accuracy": 99,
+            "score": 168323,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "stckbaby"
+        },
+        {
             "accuracy": 99,
             "score": 168107,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Korbin581"
-        },
-        {
-            "accuracy": 99,
-            "score": 141942,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "liivingdeaddgirl"
-        },
-        {
-            "accuracy": 98,
-            "score": 141870,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "xKittySparklesx"
         }
     ]
 }

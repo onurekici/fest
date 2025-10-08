@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 67032,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "long_sleeves"
+        },
+        {
+            "accuracy": 100,
+            "score": 67026,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "faskates"
+        },
+        {
+            "accuracy": 100,
             "score": 67014,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tempz_SHADOW"
-        },
-        {
-            "accuracy": 99,
-            "score": 65214,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Crankymouse09"
-        },
-        {
-            "accuracy": 100,
-            "score": 65196,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FootballSwiftie"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "entries": [
         {
             "accuracy": 100,
-            "score": 91388,
+            "score": 91580,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -602,6 +602,14 @@
         },
         {
             "accuracy": 100,
+            "score": 82535,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "selStreams"
+        },
+        {
+            "accuracy": 100,
             "score": 82423,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jaredpizzaroll"
-        },
-        {
-            "accuracy": 99,
-            "score": 80365,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MidasClancy"
         }
     ]
 }

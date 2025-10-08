@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 106105,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "noappa"
+        },
+        {
+            "accuracy": 98,
+            "score": 102456,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Joan Jams"
+        },
+        {
             "accuracy": 95,
             "score": 100944,
             "difficulty": 3,
@@ -327,6 +343,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "VicsuyanVitalle"
+        },
+        {
+            "accuracy": 86,
+            "score": 63719,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Machiavelli77"
         },
         {
             "accuracy": 94,
@@ -775,22 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "Viki Poloncakova"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 1,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "lil_firu"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 2,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "READMEBOOK"
         }
     ]
 }

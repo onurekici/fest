@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 134796,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "just_raine"
+        },
+        {
+            "accuracy": 100,
+            "score": 134244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HaveNoHp"
+        },
+        {
+            "accuracy": 99,
             "score": 134232,
             "difficulty": 3,
             "stars": 6,
@@ -210,6 +226,14 @@
         },
         {
             "accuracy": 99,
+            "score": 131430,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tangyester"
+        },
+        {
+            "accuracy": 99,
             "score": 131274,
             "difficulty": 3,
             "stars": 6,
@@ -263,14 +287,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Support Lemon"
-        },
-        {
-            "accuracy": 99,
-            "score": 130140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tangyester"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KnightCrawler42"
-        },
-        {
-            "accuracy": 98,
-            "score": 121986,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Duvalin VxE"
-        },
-        {
-            "accuracy": 99,
-            "score": 121842,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "紅茶花伝1212"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 44700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Green Arrowbin"
+        },
+        {
+            "accuracy": 100,
+            "score": 44670,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ODIXJZ"
+        },
+        {
             "accuracy": 99,
             "score": 44646,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ELION_B77"
-        },
-        {
-            "accuracy": 99,
-            "score": 41496,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Therussian-woo"
-        },
-        {
-            "accuracy": 98,
-            "score": 41376,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheToxicJay"
         }
     ]
 }

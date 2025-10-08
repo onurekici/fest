@@ -17,6 +17,14 @@
             "userName": "EVAUNIT_01"
         },
         {
+            "accuracy": 100,
+            "score": 199636,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mad-Dog-182"
+        },
+        {
             "accuracy": 99,
             "score": 199500,
             "difficulty": 3,
@@ -321,11 +329,11 @@
             "userName": "Eve0l_OG"
         },
         {
-            "accuracy": 100,
-            "score": 195594,
+            "accuracy": 99,
+            "score": 195651,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "NightEvil27"
         },
         {
@@ -343,6 +351,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KitKqt_8aTqKo"
+        },
+        {
+            "accuracy": 99,
+            "score": 195276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hiki Penguin"
         },
         {
             "accuracy": 99,
@@ -617,6 +633,14 @@
             "userName": "роопbeast"
         },
         {
+            "accuracy": 100,
+            "score": 190746,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ayanaiiro"
+        },
+        {
             "accuracy": 99,
             "score": 190578,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EvlEngiN09"
-        },
-        {
-            "accuracy": 99,
-            "score": 188631,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zirafffka"
-        },
-        {
-            "accuracy": 100,
-            "score": 188418,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gumcat"
-        },
-        {
-            "accuracy": 99,
-            "score": 188406,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RufusPitSniffer"
         }
     ]
 }
