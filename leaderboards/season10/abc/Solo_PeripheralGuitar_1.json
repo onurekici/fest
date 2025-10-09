@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 80467,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mama Dakota"
+        },
+        {
+            "accuracy": 100,
+            "score": 80424,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jaredpizzaroll"
+        },
+        {
+            "accuracy": 99,
             "score": 80365,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "rowanyourboats"
-        },
-        {
-            "accuracy": 100,
-            "score": 74182,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "xluvyukii"
-        },
-        {
-            "accuracy": 99,
-            "score": 74169,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LimpNewdle"
         }
     ]
 }

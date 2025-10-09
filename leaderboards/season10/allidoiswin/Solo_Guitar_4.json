@@ -769,6 +769,14 @@
             "userName": "HumanBioMajor"
         },
         {
+            "accuracy": 100,
+            "score": 149908,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Alcroteau"
+        },
+        {
             "accuracy": 99,
             "score": 149898,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Nate_Bug_03"
-        },
-        {
-            "accuracy": 99,
-            "score": 149880,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Celusid"
         }
     ]
 }

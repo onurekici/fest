@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 89550,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "chromekiss"
+        },
+        {
             "accuracy": 96,
             "score": 89418,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Luke LV-426"
-        },
-        {
-            "accuracy": 100,
-            "score": 73455,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Sreffes"
         }
     ]
 }

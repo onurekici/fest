@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 95,
+            "score": 166402,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "devourerr_"
+        },
+        {
+            "accuracy": 95,
             "score": 165641,
             "difficulty": 3,
             "stars": 5,
@@ -777,28 +785,20 @@
             "userName": "T_Rainman"
         },
         {
+            "accuracy": 84,
+            "score": 128283,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JaySandman"
+        },
+        {
             "accuracy": 98,
             "score": 128262,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "NahreMidoriya"
-        },
-        {
-            "accuracy": 96,
-            "score": 128159,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HeyImChino"
-        },
-        {
-            "accuracy": 86,
-            "score": 127917,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ChrisBraithwaite"
         }
     ]
 }

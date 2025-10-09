@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 342683,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DCA_EE"
+        },
+        {
+            "accuracy": 100,
             "score": 330557,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Maarken420x"
+        },
+        {
+            "accuracy": 99,
+            "score": 330276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Steebs227"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Daxdekard121"
-        },
-        {
-            "accuracy": 85,
-            "score": 60513,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Boudhaz"
-        },
-        {
-            "accuracy": 79,
-            "score": 48771,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "lud_es"
         }
     ]
 }

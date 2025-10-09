@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 70345,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheHamburgerlerr"
+        },
+        {
+            "accuracy": 100,
             "score": 70339,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MetalKing19"
-        },
-        {
-            "accuracy": 100,
-            "score": 67933,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HumanBioMajor"
         }
     ]
 }

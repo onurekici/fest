@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 102749,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NathanC878"
+        },
+        {
+            "accuracy": 99,
+            "score": 102690,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "moonreker"
+        },
+        {
+            "accuracy": 100,
             "score": 102536,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Spïd3r"
-        },
-        {
-            "accuracy": 99,
-            "score": 99323,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "InstntCoffee"
-        },
-        {
-            "accuracy": 100,
-            "score": 99288,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CaptainCatherine"
         }
     ]
 }

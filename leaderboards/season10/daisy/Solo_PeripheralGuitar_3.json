@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 56970,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kalaxt"
+        },
+        {
+            "accuracy": 99,
             "score": 56940,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "WiiU_Gamepad"
+        },
+        {
+            "accuracy": 100,
+            "score": 56922,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UhhhBroderick"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NygmaGotJuice"
-        },
-        {
-            "accuracy": 97,
-            "score": 54366,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DJTReMeNDeZ"
-        },
-        {
-            "accuracy": 98,
-            "score": 54348,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KingOfChill89"
         }
     ]
 }

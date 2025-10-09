@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 230988,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TopsyAtTheTop"
+        },
+        {
+            "accuracy": 100,
+            "score": 230970,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Schreckenslord19"
+        },
+        {
             "accuracy": 99,
             "score": 230964,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EerieMimikyu"
-        },
-        {
-            "accuracy": 100,
-            "score": 229536,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FestiveCoder"
-        },
-        {
-            "accuracy": 100,
-            "score": 229530,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Garfunkle87"
         }
     ]
 }

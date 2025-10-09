@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 57475,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LoNoraX72"
+        },
+        {
+            "accuracy": 99,
+            "score": 57459,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kham95"
+        },
+        {
+            "accuracy": 100,
             "score": 57438,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Dicelin64"
-        },
-        {
-            "accuracy": 100,
-            "score": 54020,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Atrozin._."
-        },
-        {
-            "accuracy": 99,
-            "score": 54018,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wa-wa"
         }
     ]
 }

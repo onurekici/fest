@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 184040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Alcroteau"
+        },
+        {
             "accuracy": 100,
             "score": 184038,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "danielbunting200"
+        },
+        {
+            "accuracy": 100,
+            "score": 183980,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ismiringhoy"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MrZangoose"
-        },
-        {
-            "accuracy": 100,
-            "score": 182158,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LuksGT"
-        },
-        {
-            "accuracy": 99,
-            "score": 182148,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "VenomPacifier"
         }
     ]
 }

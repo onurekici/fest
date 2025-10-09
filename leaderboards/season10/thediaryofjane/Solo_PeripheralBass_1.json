@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 111221,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "yuris_pen"
+        },
+        {
+            "accuracy": 99,
+            "score": 110574,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ShurikenSousChef"
+        },
+        {
             "accuracy": 98,
             "score": 110213,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "FinnProtoyeen"
-        },
-        {
-            "accuracy": 92,
-            "score": 70059,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "TrainManAphtanak"
-        },
-        {
-            "accuracy": 96,
-            "score": 69858,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Riot 486"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 128976,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jani_Fukui"
+        },
+        {
             "accuracy": 100,
             "score": 128975,
             "difficulty": 3,
@@ -79,6 +87,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Skrubbi68"
+        },
+        {
+            "accuracy": 100,
+            "score": 128806,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IronJake42"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "stardef"
-        },
-        {
-            "accuracy": 100,
-            "score": 127729,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TC-Bat"
-        },
-        {
-            "accuracy": 100,
-            "score": 127712,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SprigatitoOwO"
         }
     ]
 }

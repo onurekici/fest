@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 101498,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jax Attack33"
+        },
+        {
+            "accuracy": 100,
             "score": 101480,
             "difficulty": 3,
             "stars": 6,
@@ -761,6 +769,14 @@
             "userName": "Kei Prime"
         },
         {
+            "accuracy": 99,
+            "score": 100385,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bearloe"
+        },
+        {
             "accuracy": 98,
             "score": 100383,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JeffTheMagical"
-        },
-        {
-            "accuracy": 100,
-            "score": 100342,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Isabellabertrand"
-        },
-        {
-            "accuracy": 99,
-            "score": 100327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mr. Gunn"
         }
     ]
 }

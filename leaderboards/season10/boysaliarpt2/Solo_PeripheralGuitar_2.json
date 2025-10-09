@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 64731,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Jesluki"
+        },
+        {
+            "accuracy": 97,
+            "score": 64381,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "conradtheplayer"
+        },
+        {
             "accuracy": 96,
             "score": 64332,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CrazyFroakie"
-        },
-        {
-            "accuracy": 96,
-            "score": 51461,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SpiderCatKaiju"
-        },
-        {
-            "accuracy": 99,
-            "score": 51415,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JadaBearTheGoat"
         }
     ]
 }

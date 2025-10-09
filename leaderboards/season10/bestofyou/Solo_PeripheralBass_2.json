@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 85739,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] Hubert_LaGrange"
+        },
+        {
+            "accuracy": 95,
+            "score": 85152,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "David_Antonio"
+        },
+        {
+            "accuracy": 96,
+            "score": 85131,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Wond3rTak0"
+        },
+        {
             "accuracy": 96,
             "score": 84792,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Cjgamesalot"
-        },
-        {
-            "accuracy": 5,
-            "score": 2229,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "FrostbyteBoi"
-        },
-        {
-            "accuracy": 0,
-            "score": 36,
-            "difficulty": 0,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "alexjft"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "TheTeaEnjoyer"
         }
     ]
 }

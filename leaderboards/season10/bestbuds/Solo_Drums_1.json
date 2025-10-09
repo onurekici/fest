@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 137856,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mckennajumps"
+        },
+        {
+            "accuracy": 100,
             "score": 137814,
             "difficulty": 3,
             "stars": 6,
@@ -345,6 +353,14 @@
             "userName": "Gabekarvonen"
         },
         {
+            "accuracy": 99,
+            "score": 135924,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Feenix.TV"
+        },
+        {
             "accuracy": 100,
             "score": 135918,
             "difficulty": 3,
@@ -602,6 +618,14 @@
         },
         {
             "accuracy": 100,
+            "score": 134808,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-db49cfe353"
+        },
+        {
+            "accuracy": 100,
             "score": 134628,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "elkubbz"
-        },
-        {
-            "accuracy": 100,
-            "score": 133752,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Milchschnotze"
-        },
-        {
-            "accuracy": 99,
-            "score": 133740,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Evil_Tuinhek"
-        },
-        {
-            "accuracy": 99,
-            "score": 133740,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chich Hurgs"
         }
     ]
 }

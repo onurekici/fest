@@ -113,6 +113,14 @@
             "userName": "Evolify"
         },
         {
+            "accuracy": 100,
+            "score": 106749,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sm1th3y"
+        },
+        {
             "accuracy": 98,
             "score": 106437,
             "difficulty": 3,
@@ -177,20 +185,20 @@
             "userName": "VeryBigApple"
         },
         {
-            "accuracy": 99,
-            "score": 103765,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sm1th3y"
-        },
-        {
             "accuracy": 100,
             "score": 103419,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Shock Hole"
+        },
+        {
+            "accuracy": 99,
+            "score": 102980,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Henryen"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Its Mac Tonight"
-        },
-        {
-            "accuracy": 95,
-            "score": 81445,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TOD10_26"
         }
     ]
 }

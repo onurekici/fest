@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 74182,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xluvyukii"
+        },
+        {
+            "accuracy": 99,
+            "score": 74169,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LimpNewdle"
+        },
+        {
             "accuracy": 98,
             "score": 74024,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "icespicefan420"
-        },
-        {
-            "accuracy": 98,
-            "score": 66817,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jáfnir"
-        },
-        {
-            "accuracy": 98,
-            "score": 66770,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SweetGur1"
         }
     ]
 }

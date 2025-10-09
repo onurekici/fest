@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 150145,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CapivaraDoAlasca"
+        },
+        {
+            "accuracy": 100,
             "score": 150125,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jc_llamas"
-        },
-        {
-            "accuracy": 99,
-            "score": 146154,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shumrow"
         }
     ]
 }

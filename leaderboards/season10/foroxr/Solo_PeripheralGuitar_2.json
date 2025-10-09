@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 76451,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FestiveCoder"
+        },
+        {
             "accuracy": 99,
             "score": 76364,
             "difficulty": 3,
@@ -335,6 +343,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PharoahBC"
+        },
+        {
+            "accuracy": 95,
+            "score": 68739,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ellor Malolor"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Piers 24"
-        },
-        {
-            "accuracy": 86,
-            "score": 57989,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "INSAPOLLO"
-        },
-        {
-            "accuracy": 93,
-            "score": 57748,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Tuff Cheesecake"
         }
     ]
 }

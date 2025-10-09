@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 29647,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Leahhctx"
+        },
+        {
+            "accuracy": 99,
+            "score": 29635,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Crystalwifi"
+        },
+        {
+            "accuracy": 100,
             "score": 29418,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Drolezz"
-        },
-        {
-            "accuracy": 79,
-            "score": 4637,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Lake_Paton"
-        },
-        {
-            "accuracy": 49,
-            "score": 4153,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "bigunc1004"
         }
     ]
 }

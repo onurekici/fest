@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 35112,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "0XMeggieX0"
+        },
+        {
+            "accuracy": 100,
+            "score": 35090,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Siktok_simpn"
+        },
+        {
             "accuracy": 98,
             "score": 35040,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "tonestar존시"
-        },
-        {
-            "accuracy": 98,
-            "score": 32508,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ubiquitous_LA"
-        },
-        {
-            "accuracy": 100,
-            "score": 32420,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Fúji"
         }
     ]
 }

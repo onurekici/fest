@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 23397,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Jakitybob"
+        },
+        {
+            "accuracy": 100,
+            "score": 23391,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Dylan_A_20"
+        },
+        {
             "accuracy": 88,
             "score": 23389,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Twinarmageddan"
-        },
-        {
-            "accuracy": 88,
-            "score": 14424,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "JPrince1104"
-        },
-        {
-            "accuracy": 100,
-            "score": 14352,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TallZebra3561"
         }
     ]
 }

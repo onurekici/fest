@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 60659,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SWisleyTTV"
+        },
+        {
+            "accuracy": 99,
+            "score": 60650,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DannyMcFluffy"
+        },
+        {
             "accuracy": 99,
             "score": 60646,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lazer76"
-        },
-        {
-            "accuracy": 99,
-            "score": 59572,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PoPoThePandaa"
-        },
-        {
-            "accuracy": 100,
-            "score": 59557,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Enchanted Ghast"
         }
     ]
 }

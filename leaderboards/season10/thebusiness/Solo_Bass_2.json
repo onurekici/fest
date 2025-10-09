@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 86699,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "polpoulos"
+        },
+        {
             "accuracy": 100,
             "score": 86500,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SwordSonics"
-        },
-        {
-            "accuracy": 99,
-            "score": 79411,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AnAuxiliatrix"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123960,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "teddy juice"
+        },
+        {
+            "accuracy": 100,
+            "score": 123954,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lean_Estrella"
+        },
+        {
             "accuracy": 100,
             "score": 123942,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GeigerWatt"
-        },
-        {
-            "accuracy": 100,
-            "score": 120942,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "G4v1 L0pes"
-        },
-        {
-            "accuracy": 99,
-            "score": 120918,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Unleaser"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 127524,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[XBL] Methalorian"
+        },
+        {
+            "accuracy": 99,
+            "score": 127518,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WWE_805"
+        },
+        {
+            "accuracy": 100,
             "score": 127469,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "meisterman00"
-        },
-        {
-            "accuracy": 99,
-            "score": 125646,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DannyMellow84"
-        },
-        {
-            "accuracy": 100,
-            "score": 125604,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GrittyMap"
         }
     ]
 }

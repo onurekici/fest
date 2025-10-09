@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 68675,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "人の星人"
+        },
+        {
             "accuracy": 100,
             "score": 68662,
             "difficulty": 2,
@@ -39,6 +47,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "PrinceWicken"
+        },
+        {
+            "accuracy": 100,
+            "score": 68031,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ZeldaFan0911"
         },
         {
             "accuracy": 100,
@@ -174,7 +190,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Yujis_Pink_Tip"
+            "userName": "Miras_Pink_Th0ng"
         },
         {
             "accuracy": 100,
@@ -594,6 +610,14 @@
         },
         {
             "accuracy": 100,
+            "score": 60795,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TheMentalgen"
+        },
+        {
+            "accuracy": 100,
             "score": 60570,
             "difficulty": 1,
             "stars": 5,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "BrianBumble"
-        },
-        {
-            "accuracy": 99,
-            "score": 59479,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ZofuTheOne"
-        },
-        {
-            "accuracy": 99,
-            "score": 59451,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 59425,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "User-56b3b73d7f"
         }
     ]
 }

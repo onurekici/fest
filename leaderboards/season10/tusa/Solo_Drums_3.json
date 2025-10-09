@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 68742,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Konoruma-"
+        },
+        {
+            "accuracy": 100,
+            "score": 68730,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vados_Lode"
+        },
+        {
             "accuracy": 99,
             "score": 68730,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BTK RODOLFIRE"
-        },
-        {
-            "accuracy": 99,
-            "score": 67050,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sasuke_Hedgehog"
-        },
-        {
-            "accuracy": 100,
-            "score": 67032,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "natterah"
         }
     ]
 }

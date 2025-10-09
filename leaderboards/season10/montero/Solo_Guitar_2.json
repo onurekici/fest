@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 62593,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GABITER2"
+        },
+        {
+            "accuracy": 100,
+            "score": 62509,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Faeturmorthur"
+        },
+        {
+            "accuracy": 99,
             "score": 62502,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "chococatzu"
-        },
-        {
-            "accuracy": 99,
-            "score": 59947,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Savestheday482"
-        },
-        {
-            "accuracy": 100,
-            "score": 59935,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "clufcluf"
         }
     ]
 }

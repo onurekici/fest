@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123666,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Thejoker 1109"
+        },
+        {
+            "accuracy": 99,
             "score": 123660,
             "difficulty": 3,
             "stars": 6,
@@ -343,6 +351,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "cloudalri"
+        },
+        {
+            "accuracy": 100,
+            "score": 122676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FatedCrown978"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "K_SCOTT2006"
-        },
-        {
-            "accuracy": 99,
-            "score": 121608,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chano26"
-        },
-        {
-            "accuracy": 100,
-            "score": 121596,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NICOchuت"
         }
     ]
 }

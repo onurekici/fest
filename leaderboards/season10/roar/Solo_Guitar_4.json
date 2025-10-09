@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 136859,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chill-Play"
+        },
+        {
+            "accuracy": 98,
+            "score": 136766,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HaveNoHp"
+        },
+        {
             "accuracy": 99,
             "score": 136753,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Teh_Dans_7"
-        },
-        {
-            "accuracy": 100,
-            "score": 134488,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ge0rgie XD"
-        },
-        {
-            "accuracy": 100,
-            "score": 134482,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iTsTiagoG"
         }
     ]
 }
