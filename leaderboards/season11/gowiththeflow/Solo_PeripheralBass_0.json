@@ -1,12 +1,28 @@
 {
     "entries": [
         {
-            "accuracy": 86,
-            "score": 52428,
+            "accuracy": 97,
+            "score": 100092,
             "difficulty": 3,
-            "stars": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Cpt.Bonko"
+        },
+        {
+            "accuracy": 89,
+            "score": 58027,
+            "difficulty": 3,
+            "stars": 3,
             "fullcombo": false,
             "userName": "DEADLY FORCE14"
+        },
+        {
+            "accuracy": 94,
+            "score": 38280,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "RocketStarRL"
         }
     ]
 }

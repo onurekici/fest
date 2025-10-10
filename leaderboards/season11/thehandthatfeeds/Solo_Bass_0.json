@@ -1,12 +1,52 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 140466,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "epred"
+        },
+        {
             "accuracy": 99,
             "score": 129234,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "rØrleggerruben"
+        },
+        {
+            "accuracy": 99,
+            "score": 122628,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kaloven"
+        },
+        {
+            "accuracy": 97,
+            "score": 82655,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sloppyshot1990"
+        },
+        {
+            "accuracy": 93,
+            "score": 33350,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "OutofMilk787"
+        },
+        {
+            "accuracy": 69,
+            "score": 8845,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "ShellyBbokari"
         }
     ]
 }

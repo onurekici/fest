@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 102691,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shiki-j"
+        },
+        {
             "accuracy": 96,
             "score": 85930,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Korangarr_"
+        },
+        {
+            "accuracy": 89,
+            "score": 47653,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SpanishCodo"
+        },
+        {
+            "accuracy": 75,
+            "score": 25231,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Bowws06"
         }
     ]
 }

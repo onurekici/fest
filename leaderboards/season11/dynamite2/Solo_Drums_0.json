@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 108984,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "iLyric"
+        },
+        {
+            "accuracy": 100,
             "score": 101358,
             "difficulty": 3,
             "stars": 6,
@@ -26,11 +34,27 @@
         },
         {
             "accuracy": 99,
+            "score": 89160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Caleb7733"
+        },
+        {
+            "accuracy": 99,
             "score": 80590,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "Zucker_Zocker"
+        },
+        {
+            "accuracy": 98,
+            "score": 55285,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "assiassinkiller2"
         }
     ]
 }

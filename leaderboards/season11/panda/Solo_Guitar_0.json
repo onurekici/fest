@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 150420,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ArgTree"
+        },
+        {
+            "accuracy": 99,
+            "score": 147446,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lorveec"
+        },
+        {
             "accuracy": 99,
             "score": 112094,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "Elaynasty101"
+        },
+        {
+            "accuracy": 98,
+            "score": 72656,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "vex439"
         }
     ]
 }

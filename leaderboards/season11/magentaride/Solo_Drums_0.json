@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 113214,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PortgasGrayson"
+        },
+        {
+            "accuracy": 99,
+            "score": 110232,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "alexrossy09"
+        },
+        {
+            "accuracy": 100,
+            "score": 94350,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "x1ime"
+        },
+        {
+            "accuracy": 100,
             "score": 77325,
             "difficulty": 2,
             "stars": 5,
@@ -17,12 +41,44 @@
             "userName": "EarlPlanee"
         },
         {
+            "accuracy": 98,
+            "score": 75915,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mr viktor78910"
+        },
+        {
+            "accuracy": 96,
+            "score": 61530,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "OpenMPT"
+        },
+        {
             "accuracy": 72,
             "score": 16290,
             "difficulty": 3,
             "stars": 1,
             "fullcombo": false,
             "userName": "LordFarQuar18"
+        },
+        {
+            "accuracy": 80,
+            "score": 5690,
+            "difficulty": 0,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "SarahEnzo1914"
+        },
+        {
+            "accuracy": 1,
+            "score": 246,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "JampotScott"
         }
     ]
 }

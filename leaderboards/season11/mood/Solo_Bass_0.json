@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 55808,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 53319,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "ANG3_déchu"
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 29413,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
         },
         {
             "accuracy": 97,
@@ -14,7 +30,31 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "chels yo"
+            "userName": null
+        },
+        {
+            "accuracy": 96,
+            "score": 25079,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 92,
+            "score": 21632,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 20021,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 94,
@@ -22,7 +62,15 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "Dragon103141"
+            "userName": null
+        },
+        {
+            "accuracy": 95,
+            "score": 5290,
+            "difficulty": 0,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

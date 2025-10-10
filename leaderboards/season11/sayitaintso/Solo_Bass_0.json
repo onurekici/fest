@@ -1,12 +1,60 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 109716,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Holy_Blizzard"
+        },
+        {
+            "accuracy": 92,
+            "score": 104708,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GauzeRavines"
+        },
+        {
+            "accuracy": 100,
+            "score": 93030,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Q7 Frankiepin"
+        },
+        {
+            "accuracy": 99,
+            "score": 83443,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "boldcake787"
+        },
+        {
             "accuracy": 98,
             "score": 81462,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "slqughtr"
+        },
+        {
+            "accuracy": 97,
+            "score": 61742,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Grim._.Reapper"
+        },
+        {
+            "accuracy": 100,
+            "score": 48567,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "valenswift"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 144353,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Xkillerscythesx"
+        },
+        {
             "accuracy": 98,
             "score": 122161,
             "difficulty": 3,
@@ -10,11 +18,27 @@
         },
         {
             "accuracy": 99,
+            "score": 121172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Verex Pikotazo"
+        },
+        {
+            "accuracy": 99,
             "score": 115102,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "The_boba_fett_"
+        },
+        {
+            "accuracy": 96,
+            "score": 34782,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ElonPK7i"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 388152,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "jkenner1996"
+        },
+        {
+            "accuracy": 100,
+            "score": 378324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chef Adachi"
+        },
+        {
             "accuracy": 100,
             "score": 365406,
             "difficulty": 3,
@@ -15,6 +31,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LighteningTerror"
+        },
+        {
+            "accuracy": 99,
+            "score": 158560,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SushiRenegade"
         }
     ]
 }

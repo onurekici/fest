@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 63490,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Unknown-Tale"
+        },
+        {
+            "accuracy": 100,
             "score": 61462,
             "difficulty": 3,
             "stars": 6,
@@ -18,11 +26,27 @@
         },
         {
             "accuracy": 91,
+            "score": 29744,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "[PSN] AznMjolnir"
+        },
+        {
+            "accuracy": 91,
             "score": 25673,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "K4YN3 ST3V3NS0N"
+        },
+        {
+            "accuracy": 70,
+            "score": 11062,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "seyafo"
         }
     ]
 }

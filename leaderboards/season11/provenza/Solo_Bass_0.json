@@ -2,11 +2,43 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 74781,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 28933,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 28175,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 22164,
             "difficulty": 0,
             "stars": 5,
             "fullcombo": true,
-            "userName": "Niko23250"
+            "userName": null
+        },
+        {
+            "accuracy": 91,
+            "score": 18378,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }
