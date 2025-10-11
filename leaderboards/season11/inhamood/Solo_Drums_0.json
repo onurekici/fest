@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 82926,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Draco4ine"
+        },
+        {
             "accuracy": 99,
             "score": 54420,
             "difficulty": 2,
@@ -9,12 +17,36 @@
             "userName": "PapaAmurf"
         },
         {
+            "accuracy": 98,
+            "score": 30920,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RazorVyne"
+        },
+        {
             "accuracy": 93,
             "score": 25362,
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
             "userName": "LuciferinaS2"
+        },
+        {
+            "accuracy": 100,
+            "score": 15345,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Da Furz"
+        },
+        {
+            "accuracy": 100,
+            "score": 14275,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Chris Allbutt"
         }
     ]
 }

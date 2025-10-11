@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 104131,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Broken Outlet"
+        },
+        {
+            "accuracy": 99,
             "score": 88753,
             "difficulty": 3,
             "stars": 6,
@@ -25,12 +33,28 @@
             "userName": "LyraKin"
         },
         {
+            "accuracy": 98,
+            "score": 71214,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "D3adHh3d."
+        },
+        {
             "accuracy": 96,
             "score": 52362,
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
             "userName": "Synergyenergy92"
+        },
+        {
+            "accuracy": 100,
+            "score": 49980,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Neon Synthwave"
         }
     ]
 }

@@ -1,12 +1,76 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 101523,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 100966,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 94276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 88305,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 97,
             "score": 51337,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Traffy-Gamer"
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 47742,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 40473,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 36950,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 27770,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 88,
@@ -14,7 +78,23 @@
             "difficulty": 2,
             "stars": 2,
             "fullcombo": false,
-            "userName": "cat noir324"
+            "userName": null
+        },
+        {
+            "accuracy": 48,
+            "score": 5232,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 16,
+            "score": 850,
+            "difficulty": 0,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

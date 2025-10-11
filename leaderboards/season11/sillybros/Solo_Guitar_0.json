@@ -1,8 +1,24 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 39347,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Shiroi Megu"
+        },
+        {
+            "accuracy": 100,
+            "score": 36476,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ducklett ッ"
+        },
+        {
             "accuracy": 98,
-            "score": 36240,
+            "score": 36410,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
@@ -15,6 +31,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GhostsAreSpooky"
+        },
+        {
+            "accuracy": 100,
+            "score": 25937,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AtomicKYT_sub"
         },
         {
             "accuracy": 97,
@@ -31,6 +55,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "silvergamer_10"
+        },
+        {
+            "accuracy": 98,
+            "score": 10498,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RØdlëy"
         }
     ]
 }

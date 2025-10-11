@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 163770,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 155160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 134898,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 96,
             "score": 94955,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Ashleygirl14"
+            "userName": null
         },
         {
             "accuracy": 88,
@@ -14,7 +38,7 @@
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
-            "userName": "H4MMl3ON1N9"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -22,7 +46,15 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": "shinobi_mac"
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 43255,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -30,7 +62,39 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": "NoahJ2015"
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 38670,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 83,
+            "score": 38090,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 21025,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 94,
+            "score": 11725,
+            "difficulty": 0,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

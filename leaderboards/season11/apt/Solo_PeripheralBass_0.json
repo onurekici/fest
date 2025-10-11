@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 98606,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "onza_1"
+        },
+        {
+            "accuracy": 99,
+            "score": 86352,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Robbie Lionheart"
+        },
+        {
             "accuracy": 97,
             "score": 42486,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "X2C_DIAMUNDZ"
+        },
+        {
+            "accuracy": 93,
+            "score": 20765,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Nemineminemi"
         }
     ]
 }

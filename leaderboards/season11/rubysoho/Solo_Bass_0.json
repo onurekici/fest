@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127137,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Festive yeti"
+        },
+        {
             "accuracy": 99,
             "score": 126872,
             "difficulty": 3,
@@ -9,12 +17,44 @@
             "userName": "EmiCheese"
         },
         {
+            "accuracy": 100,
+            "score": 124024,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cherry-coco31"
+        },
+        {
+            "accuracy": 99,
+            "score": 97668,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Flxir4"
+        },
+        {
             "accuracy": 97,
             "score": 61897,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "CCx_Hellblazer"
+        },
+        {
+            "accuracy": 94,
+            "score": 39960,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "PrintedOsprey1"
+        },
+        {
+            "accuracy": 81,
+            "score": 14542,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Godlybut"
         }
     ]
 }

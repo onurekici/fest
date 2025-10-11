@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 60563,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "morgy ʚїɞ"
+        },
+        {
+            "accuracy": 98,
+            "score": 46478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IM-SO_DERPY"
+        },
+        {
             "accuracy": 99,
             "score": 44223,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "Whitefurby"
+        },
+        {
+            "accuracy": 60,
+            "score": 9702,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "saxatron18"
         }
     ]
 }

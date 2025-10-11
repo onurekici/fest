@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 299443,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DCA_EE"
+        },
+        {
+            "accuracy": 100,
             "score": 293302,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "SquishyBoy_7"
+        },
+        {
+            "accuracy": 99,
+            "score": 283519,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "StarWarsfan 1234"
         },
         {
             "accuracy": 99,
@@ -17,12 +33,28 @@
             "userName": "MisterPerfect24"
         },
         {
+            "accuracy": 97,
+            "score": 205424,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CarlosOro96"
+        },
+        {
             "accuracy": 93,
             "score": 132298,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "Simply Madness"
+        },
+        {
+            "accuracy": 98,
+            "score": 99990,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Crab-slapper89"
         }
     ]
 }

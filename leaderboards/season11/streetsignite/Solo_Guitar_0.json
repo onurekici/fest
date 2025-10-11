@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 89013,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "x.jacie"
+        },
+        {
+            "accuracy": 100,
+            "score": 82063,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jjoogles2"
+        },
+        {
             "accuracy": 99,
             "score": 69735,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "RÍddle"
+        },
+        {
+            "accuracy": 100,
+            "score": 21622,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "2videoboy"
         },
         {
             "accuracy": 99,
@@ -23,6 +47,14 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Josiah2Strong"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 0,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "Magic 8Ball"
         }
     ]
 }

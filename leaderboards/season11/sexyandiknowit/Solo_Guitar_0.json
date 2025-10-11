@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 42144,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 35478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
             "score": 34452,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Jacklogan90"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -14,7 +30,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": "Minotaur511"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -22,7 +38,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "HuiBuh0505"
+            "userName": null
         },
         {
             "accuracy": 95,
@@ -30,7 +46,15 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "pabG"
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 29415,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 96,
@@ -38,7 +62,15 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "EpischerLuigi LP"
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 24220,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -46,7 +78,7 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": "ChefLambSauce"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -54,7 +86,15 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": "Xman-112202"
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 19565,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
         },
         {
             "accuracy": 91,
@@ -62,7 +102,15 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "ツSoulsnatcherツ"
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 16000,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 87,
@@ -70,15 +118,47 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "Gyaratitanio"
+            "userName": null
+        },
+        {
+            "accuracy": 96,
+            "score": 12875,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 11835,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 9520,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
         },
         {
             "accuracy": 99,
-            "score": 7905,
+            "score": 8825,
             "difficulty": 0,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Greenarrow123456"
+            "userName": null
+        },
+        {
+            "accuracy": 89,
+            "score": 8510,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 83,
@@ -86,7 +166,15 @@
             "difficulty": 2,
             "stars": 2,
             "fullcombo": false,
-            "userName": "gonzawii"
+            "userName": null
+        },
+        {
+            "accuracy": 89,
+            "score": 7470,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

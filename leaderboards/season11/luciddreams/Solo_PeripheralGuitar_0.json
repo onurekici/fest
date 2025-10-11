@@ -1,6 +1,54 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 129871,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MauryWebito"
+        },
+        {
+            "accuracy": 99,
+            "score": 115072,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CarlosOro96"
+        },
+        {
+            "accuracy": 98,
+            "score": 105781,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Nemotard"
+        },
+        {
+            "accuracy": 99,
+            "score": 99798,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] zootie_dude420"
+        },
+        {
+            "accuracy": 93,
+            "score": 56450,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Jay_D4C"
+        },
+        {
+            "accuracy": 91,
+            "score": 49115,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Xendrosz"
+        },
+        {
             "accuracy": 88,
             "score": 46161,
             "difficulty": 3,
@@ -9,12 +57,36 @@
             "userName": "FreeloderOfMemes"
         },
         {
+            "accuracy": 85,
+            "score": 33378,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "iTsaMortadella"
+        },
+        {
             "accuracy": 80,
             "score": 24660,
             "difficulty": 1,
             "stars": 3,
             "fullcombo": false,
             "userName": "ParadoxOn30fps"
+        },
+        {
+            "accuracy": 65,
+            "score": 16127,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "хауns"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 0,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "badeveney0205"
         }
     ]
 }

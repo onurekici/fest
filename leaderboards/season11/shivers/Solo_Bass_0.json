@@ -1,12 +1,68 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 64089,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 59612,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 59264,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 41103,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 100,
             "score": 39583,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": "the OTC 1"
+            "userName": null
+        },
+        {
+            "accuracy": 96,
+            "score": 36677,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 96,
+            "score": 21994,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 18741,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 98,
@@ -14,7 +70,31 @@
             "difficulty": 0,
             "stars": 5,
             "fullcombo": false,
-            "userName": "toastedbudz420"
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 18089,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 93,
+            "score": 5504,
+            "difficulty": 0,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 90,
+            "score": 4102,
+            "difficulty": 0,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

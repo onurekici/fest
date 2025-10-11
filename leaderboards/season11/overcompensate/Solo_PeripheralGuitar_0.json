@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 169231,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lethal_Sushi"
+        },
+        {
+            "accuracy": 100,
             "score": 166289,
             "difficulty": 3,
             "stars": 6,
@@ -25,12 +33,28 @@
             "userName": "XcarexxbearX"
         },
         {
+            "accuracy": 99,
+            "score": 83708,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "smurfy1233"
+        },
+        {
             "accuracy": 85,
             "score": 67835,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "Tidiiz"
+        },
+        {
+            "accuracy": 25,
+            "score": 16216,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Ultra Plankton"
         }
     ]
 }

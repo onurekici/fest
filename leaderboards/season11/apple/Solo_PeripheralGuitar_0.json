@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 79820,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DCA_EE"
+        },
+        {
             "accuracy": 99,
             "score": 77381,
             "difficulty": 3,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "c6sual"
+        },
+        {
+            "accuracy": 95,
+            "score": 55152,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Thacarcollector"
         },
         {
             "accuracy": 91,
@@ -39,6 +55,22 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[XBL] GroundlordJake"
+        },
+        {
+            "accuracy": 75,
+            "score": 23477,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "LootRunG"
+        },
+        {
+            "accuracy": 87,
+            "score": 22117,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Spanky999"
         }
     ]
 }
