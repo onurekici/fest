@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 192786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kylethecrazyonee"
+        },
+        {
+            "accuracy": 99,
+            "score": 192756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Darkest Talon"
+        },
+        {
             "accuracy": 99,
             "score": 192750,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "mikeR956"
-        },
-        {
-            "accuracy": 99,
-            "score": 190320,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RawGoose1018"
-        },
-        {
-            "accuracy": 99,
-            "score": 190284,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WhaleyT_"
         }
     ]
 }

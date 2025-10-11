@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 56400,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "zPedroHenrique-"
+        },
+        {
+            "accuracy": 100,
             "score": 56360,
             "difficulty": 2,
             "stars": 5,
@@ -713,6 +721,14 @@
             "userName": "Elragnaro_349"
         },
         {
+            "accuracy": 99,
+            "score": 50313,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "phantom_captain0"
+        },
+        {
             "accuracy": 97,
             "score": 50254,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bray-hermoso"
-        },
-        {
-            "accuracy": 99,
-            "score": 49821,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Silent Abyss836"
-        },
-        {
-            "accuracy": 99,
-            "score": 49817,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AggressiverKeks"
         }
     ]
 }

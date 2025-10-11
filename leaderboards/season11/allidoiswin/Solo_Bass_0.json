@@ -33,12 +33,36 @@
             "userName": "American King 06"
         },
         {
+            "accuracy": 99,
+            "score": 73522,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "S1kartr"
+        },
+        {
             "accuracy": 100,
             "score": 67313,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "sagofen44"
+        },
+        {
+            "accuracy": 100,
+            "score": 57878,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Lito815"
+        },
+        {
+            "accuracy": 97,
+            "score": 53116,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "lennyxmb"
         },
         {
             "accuracy": 99,
@@ -49,12 +73,28 @@
             "userName": "DunderViktoria2"
         },
         {
+            "accuracy": 90,
+            "score": 17615,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Ramen_Noodlez42"
+        },
+        {
             "accuracy": 88,
             "score": 14957,
             "difficulty": 0,
             "stars": 3,
             "fullcombo": false,
             "userName": null
+        },
+        {
+            "accuracy": 51,
+            "score": 10049,
+            "difficulty": 2,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "ThinDruid"
         }
     ]
 }

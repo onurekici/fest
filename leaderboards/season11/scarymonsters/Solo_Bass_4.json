@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 93918,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AleWave"
+        },
+        {
+            "accuracy": 100,
             "score": 93896,
             "difficulty": 3,
             "stars": 6,
@@ -601,6 +609,14 @@
             "userName": "awfulkiwi"
         },
         {
+            "accuracy": 99,
+            "score": 92080,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Diegod_2G"
+        },
+        {
             "accuracy": 100,
             "score": 92068,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "YoyoITSyaBOI"
-        },
-        {
-            "accuracy": 100,
-            "score": 91685,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TkOs001"
-        },
-        {
-            "accuracy": 100,
-            "score": 91656,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "OMGitsKiwi."
         }
     ]
 }

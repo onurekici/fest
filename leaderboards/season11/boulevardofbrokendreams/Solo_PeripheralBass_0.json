@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 130714,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 129837,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 100,
             "score": 128987,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "onza_1"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -14,7 +30,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Shockedopus"
+            "userName": null
         }
     ]
 }

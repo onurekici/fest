@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 60338,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PRME Vxltz"
+        },
+        {
+            "accuracy": 100,
+            "score": 60275,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ian Peters"
+        },
+        {
             "accuracy": 100,
             "score": 60261,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Layton20"
-        },
-        {
-            "accuracy": 100,
-            "score": 55866,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Mosa_Cosa"
-        },
-        {
-            "accuracy": 98,
-            "score": 55711,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Castiegames"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 122730,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Diegumin_XD"
+        },
+        {
+            "accuracy": 100,
             "score": 121152,
             "difficulty": 3,
             "stars": 6,
@@ -57,12 +65,28 @@
             "userName": "Lynneya9651"
         },
         {
+            "accuracy": 99,
+            "score": 72138,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Neo_Pochoxly"
+        },
+        {
             "accuracy": 100,
             "score": 54285,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "天使 Chy"
+        },
+        {
+            "accuracy": 95,
+            "score": 52705,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ChugJugDealer_63"
         },
         {
             "accuracy": 85,
@@ -103,6 +127,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "七禧没有小辫子"
+        },
+        {
+            "accuracy": 57,
+            "score": 6640,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Y_moot"
         }
     ]
 }

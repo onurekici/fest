@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 235500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "uber driver no 3"
+        },
+        {
+            "accuracy": 100,
             "score": 231828,
             "difficulty": 3,
             "stars": 6,
@@ -151,6 +159,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ERAMCORT"
+        },
+        {
+            "accuracy": 100,
+            "score": 217278,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Endocia"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MoonExxin"
-        },
-        {
-            "accuracy": 95,
-            "score": 140994,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] TheLucas1411"
-        },
-        {
-            "accuracy": 98,
-            "score": 140790,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "arlynserenity"
         }
     ]
 }
