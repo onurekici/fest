@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 107576,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DaVeTheDaVer"
+        },
+        {
             "accuracy": 99,
             "score": 92315,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "GuardianGroove"
+        },
+        {
+            "accuracy": 79,
+            "score": 31570,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "DeejayStankDaddy"
         }
     ]
 }

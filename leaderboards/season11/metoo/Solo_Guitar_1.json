@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 26833,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "UberDucki"
+        },
+        {
+            "accuracy": 100,
             "score": 26744,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gourd McDoogins"
+        },
+        {
+            "accuracy": 98,
+            "score": 25673,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Moon-Iight"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "crohn fv"
-        },
-        {
-            "accuracy": 98,
-            "score": 21573,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] BranBrans9267"
-        },
-        {
-            "accuracy": 97,
-            "score": 21530,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "compclean"
         }
     ]
 }

@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127687,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 112639,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 98,
             "score": 106096,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "ToxicG_"
+            "userName": null
         },
         {
             "accuracy": 86,
@@ -14,7 +30,15 @@
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
-            "userName": "[PSN] luh_ivo22"
+            "userName": null
+        },
+        {
+            "accuracy": 86,
+            "score": 41985,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 54,
@@ -22,7 +46,7 @@
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
-            "userName": "ˢᶜⁿᵈ Infotzvivo"
+            "userName": null
         }
     ]
 }

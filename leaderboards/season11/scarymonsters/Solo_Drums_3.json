@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 200640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tidiiz"
+        },
+        {
             "accuracy": 100,
             "score": 200634,
             "difficulty": 3,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Loahner"
+        },
+        {
+            "accuracy": 100,
+            "score": 199920,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ItzyBitzyBug"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "B4SICisland"
-        },
-        {
-            "accuracy": 100,
-            "score": 198996,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LovelessLily."
-        },
-        {
-            "accuracy": 100,
-            "score": 198990,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KevinGreeneFawx"
         }
     ]
 }

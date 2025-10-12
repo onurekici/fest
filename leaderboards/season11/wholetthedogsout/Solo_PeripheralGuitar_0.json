@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 81750,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sm1th3y"
+        },
+        {
             "accuracy": 99,
             "score": 72283,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "TaliSoprano"
+        },
+        {
+            "accuracy": 98,
+            "score": 38297,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GolchiniMOB"
         }
     ]
 }

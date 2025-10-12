@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 50296,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kattanaita"
+        },
+        {
+            "accuracy": 100,
             "score": 46960,
             "difficulty": 3,
             "stars": 6,
@@ -41,12 +49,28 @@
             "userName": "PuRe Pretzel"
         },
         {
+            "accuracy": 99,
+            "score": 38680,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DougMclntyre"
+        },
+        {
             "accuracy": 100,
             "score": 31500,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "Ederingo"
+        },
+        {
+            "accuracy": 86,
+            "score": 15767,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Costpanic76"
         }
     ]
 }

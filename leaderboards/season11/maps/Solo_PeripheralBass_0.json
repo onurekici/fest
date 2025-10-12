@@ -1,12 +1,28 @@
 {
     "entries": [
         {
-            "accuracy": 95,
-            "score": 64410,
+            "accuracy": 100,
+            "score": 95604,
             "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
+            "stars": 6,
+            "fullcombo": true,
             "userName": "saxatron18"
+        },
+        {
+            "accuracy": 97,
+            "score": 37518,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "celineiam3"
+        },
+        {
+            "accuracy": 78,
+            "score": 33084,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Jay34_Real"
         }
     ]
 }

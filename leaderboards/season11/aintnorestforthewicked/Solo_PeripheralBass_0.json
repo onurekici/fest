@@ -6,7 +6,15 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Kattanaita"
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 18678,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 90,
@@ -14,7 +22,7 @@
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
-            "userName": "Kiukuni"
+            "userName": null
         }
     ]
 }
