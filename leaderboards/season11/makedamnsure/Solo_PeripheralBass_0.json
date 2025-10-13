@@ -2,11 +2,35 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 202968,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "purifiedprune"
+        },
+        {
+            "accuracy": 100,
             "score": 192692,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "malik_dipowerful"
+        },
+        {
+            "accuracy": 99,
+            "score": 161496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "saltedy0lk"
+        },
+        {
+            "accuracy": 99,
+            "score": 147192,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheQuickstrr"
         },
         {
             "accuracy": 97,
@@ -15,6 +39,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Kellin.Quinn"
+        },
+        {
+            "accuracy": 93,
+            "score": 34986,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "TheKiGrimReaper"
         }
     ]
 }

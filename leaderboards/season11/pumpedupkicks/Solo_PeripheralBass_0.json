@@ -1,6 +1,54 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123369,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SirDylanPickle"
+        },
+        {
+            "accuracy": 99,
+            "score": 97431,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jjarro"
+        },
+        {
+            "accuracy": 99,
+            "score": 94657,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Redboyo716"
+        },
+        {
+            "accuracy": 98,
+            "score": 90456,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Robbie Lionheart"
+        },
+        {
+            "accuracy": 97,
+            "score": 58235,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Just Sku"
+        },
+        {
+            "accuracy": 93,
+            "score": 49917,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Boudhaz"
+        },
+        {
             "accuracy": 92,
             "score": 43254,
             "difficulty": 3,
@@ -9,12 +57,28 @@
             "userName": "Poomsday"
         },
         {
+            "accuracy": 93,
+            "score": 28855,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Dog_Cheeze"
+        },
+        {
             "accuracy": 89,
             "score": 22608,
             "difficulty": 1,
             "stars": 3,
             "fullcombo": false,
             "userName": "sadfatbabygoat"
+        },
+        {
+            "accuracy": 90,
+            "score": 12420,
+            "difficulty": 0,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Melik Chain"
         }
     ]
 }

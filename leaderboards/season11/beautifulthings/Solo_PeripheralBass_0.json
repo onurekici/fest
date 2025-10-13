@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 77500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cari Freybren"
+        },
+        {
+            "accuracy": 99,
+            "score": 62260,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Just Sku"
+        },
+        {
             "accuracy": 99,
             "score": 61187,
             "difficulty": 3,
@@ -9,12 +25,44 @@
             "userName": "frank2217"
         },
         {
+            "accuracy": 100,
+            "score": 33210,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] StinkyRice1431"
+        },
+        {
+            "accuracy": 95,
+            "score": 32661,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "killerjo08"
+        },
+        {
+            "accuracy": 98,
+            "score": 22254,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Melik Chain"
+        },
+        {
             "accuracy": 92,
             "score": 20135,
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
             "userName": "MysticCwisp"
+        },
+        {
+            "accuracy": 75,
+            "score": 9087,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "[PSN] jae6thesinister1"
         }
     ]
 }

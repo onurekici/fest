@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 95160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SaltyLettuce_"
+        },
+        {
             "accuracy": 99,
             "score": 80793,
             "difficulty": 3,
@@ -58,11 +66,27 @@
         },
         {
             "accuracy": 98,
+            "score": 65664,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ᵀᶦᵏᵀᵒᵏ ᶜᴶᵃˢᵒⁿ20"
+        },
+        {
+            "accuracy": 98,
             "score": 64170,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "DJKNAI"
+        },
+        {
+            "accuracy": 98,
+            "score": 61126,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "scaspo"
         },
         {
             "accuracy": 98,
@@ -81,6 +105,14 @@
             "userName": "Tidiiz"
         },
         {
+            "accuracy": 96,
+            "score": 46956,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Byronsouldxd"
+        },
+        {
             "accuracy": 94,
             "score": 44761,
             "difficulty": 3,
@@ -97,14 +129,6 @@
             "userName": "Lil_5cary"
         },
         {
-            "accuracy": 94,
-            "score": 40452,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Byronsouldxd"
-        },
-        {
             "accuracy": 87,
             "score": 40214,
             "difficulty": 3,
@@ -113,12 +137,28 @@
             "userName": "xxaj015Xx"
         },
         {
-            "accuracy": 46,
-            "score": 7548,
-            "difficulty": 2,
-            "stars": 1,
+            "accuracy": 90,
+            "score": 19279,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "MazzetiVEVO"
+        },
+        {
+            "accuracy": 85,
+            "score": 16310,
+            "difficulty": 1,
+            "stars": 3,
             "fullcombo": false,
             "userName": "SnappishTrash69"
+        },
+        {
+            "accuracy": 50,
+            "score": 4720,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "WĦØ"
         }
     ]
 }

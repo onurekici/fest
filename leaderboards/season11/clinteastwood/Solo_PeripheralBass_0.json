@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 76870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IchigoTomago"
+        },
+        {
+            "accuracy": 100,
             "score": 73026,
             "difficulty": 3,
             "stars": 6,
@@ -10,11 +18,27 @@
         },
         {
             "accuracy": 99,
+            "score": 70606,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tiny_sylveon"
+        },
+        {
+            "accuracy": 99,
             "score": 69748,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Silac64"
+        },
+        {
+            "accuracy": 99,
+            "score": 61870,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dazgengar08"
         },
         {
             "accuracy": 99,
@@ -31,6 +55,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GMonito22"
+        },
+        {
+            "accuracy": 99,
+            "score": 49579,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DRTX07"
         },
         {
             "accuracy": 99,
@@ -71,6 +103,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Scarem4077"
+        },
+        {
+            "accuracy": 61,
+            "score": 7377,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "wDraner"
         }
     ]
 }

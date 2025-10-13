@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 139915,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 129426,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FaniiTV"
+        },
+        {
             "accuracy": 98,
             "score": 118442,
             "difficulty": 3,
@@ -15,6 +31,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Momstealer29"
+        },
+        {
+            "accuracy": 94,
+            "score": 88694,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Feenix.TV"
         }
     ]
 }

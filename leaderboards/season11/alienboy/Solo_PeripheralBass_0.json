@@ -2,11 +2,19 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 49258,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 44795,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "TotalCondor5228"
+            "userName": null
         },
         {
             "accuracy": 90,
@@ -14,7 +22,15 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "cantdrinkthat"
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 11691,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 94,
@@ -22,7 +38,15 @@
             "difficulty": 1,
             "stars": 3,
             "fullcombo": false,
-            "userName": "ClosedIce5319"
+            "userName": null
+        },
+        {
+            "accuracy": 93,
+            "score": 9286,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 87,
@@ -30,7 +54,7 @@
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
-            "userName": "Reid 05"
+            "userName": null
         },
         {
             "accuracy": 87,
@@ -38,7 +62,15 @@
             "difficulty": 0,
             "stars": 3,
             "fullcombo": false,
-            "userName": "FOVvL"
+            "userName": null
+        },
+        {
+            "accuracy": 67,
+            "score": 4956,
+            "difficulty": 2,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 72,
@@ -46,7 +78,15 @@
             "difficulty": 0,
             "stars": 2,
             "fullcombo": false,
-            "userName": "yosakuray"
+            "userName": null
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 0,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

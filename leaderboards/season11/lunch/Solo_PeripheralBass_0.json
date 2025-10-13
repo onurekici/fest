@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 85205,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Super Firekind"
+        },
+        {
+            "accuracy": 99,
+            "score": 76832,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BoneFriend"
+        },
+        {
             "accuracy": 98,
             "score": 42696,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "KAHGU"
+        },
+        {
+            "accuracy": 92,
+            "score": 33368,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "workaholicKeqing"
         }
     ]
 }
