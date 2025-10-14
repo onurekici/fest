@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 124845,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "derpferdler"
+        },
+        {
             "accuracy": 99,
             "score": 117922,
             "difficulty": 3,
@@ -47,6 +55,22 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Rob.908"
+        },
+        {
+            "accuracy": 81,
+            "score": 30867,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Grifinite"
+        },
+        {
+            "accuracy": 90,
+            "score": 28962,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "MendingoWarrior"
         }
     ]
 }

@@ -682,6 +682,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MoogsOnLaMoon"
+        },
+        {
+            "accuracy": 100,
             "score": 123276,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DepartedGuy"
-        },
-        {
-            "accuracy": 100,
-            "score": 122976,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Grizzly Borealis"
         }
     ]
 }

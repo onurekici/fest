@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 74839,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Taco Plz"
+        },
+        {
+            "accuracy": 100,
             "score": 74625,
             "difficulty": 3,
             "stars": 6,
@@ -49,12 +57,28 @@
             "userName": "Papacrn"
         },
         {
+            "accuracy": 99,
+            "score": 52665,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "hutch_dust"
+        },
+        {
             "accuracy": 97,
             "score": 38082,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "[XBL] Dxnvx7872"
+        },
+        {
+            "accuracy": 57,
+            "score": 35314,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SUMMERxRAINS"
         }
     ]
 }

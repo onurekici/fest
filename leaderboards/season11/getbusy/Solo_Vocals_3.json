@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 208045,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "X_Dark_Angel_234"
+        },
+        {
+            "accuracy": 100,
+            "score": 208040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LUCHOLAG"
+        },
+        {
             "accuracy": 100,
             "score": 208006,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HYENABUTTERS"
-        },
-        {
-            "accuracy": 100,
-            "score": 204496,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LaLisa_mimujer"
-        },
-        {
-            "accuracy": 99,
-            "score": 204486,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ryku_JM"
         }
     ]
 }

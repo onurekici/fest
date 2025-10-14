@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 48133,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "NeoSoap_"
+        },
+        {
             "accuracy": 97,
             "score": 48126,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Artivus_Mercer"
-        },
-        {
-            "accuracy": 92,
-            "score": 32692,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "PedrinMineiro09"
         }
     ]
 }

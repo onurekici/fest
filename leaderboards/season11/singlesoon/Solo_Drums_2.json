@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 126642,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "twitch.iMelOw42"
+        },
+        {
+            "accuracy": 100,
+            "score": 126516,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Radulov 47"
+        },
+        {
             "accuracy": 100,
             "score": 126480,
             "difficulty": 3,
@@ -199,6 +215,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Grizzly Borealis"
+        },
+        {
+            "accuracy": 100,
+            "score": 125220,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TT_Snuggle_wood"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HakoneTheDragon"
-        },
-        {
-            "accuracy": 99,
-            "score": 122640,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LeNarute27"
-        },
-        {
-            "accuracy": 99,
-            "score": 122622,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CWL_Shepard"
-        },
-        {
-            "accuracy": 99,
-            "score": 122568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PWR-Allan"
         }
     ]
 }

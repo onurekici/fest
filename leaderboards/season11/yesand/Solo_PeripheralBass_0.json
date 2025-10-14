@@ -2,11 +2,35 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CrescentCat73"
+        },
+        {
+            "accuracy": 100,
             "score": 97200,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "ZB-Freez"
+        },
+        {
+            "accuracy": 100,
+            "score": 96420,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BootisSad"
+        },
+        {
+            "accuracy": 100,
+            "score": 91449,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kez22080408"
         },
         {
             "accuracy": 96,
@@ -15,6 +39,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "jjarro"
+        },
+        {
+            "accuracy": 18,
+            "score": 2324,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "darkempath666"
         }
     ]
 }
