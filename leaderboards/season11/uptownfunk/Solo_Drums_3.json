@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 75985,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "AZNemNem"
+        },
+        {
+            "accuracy": 95,
+            "score": 75835,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "samx-cr7"
+        },
+        {
             "accuracy": 96,
             "score": 75675,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "VerbalToucan9814"
-        },
-        {
-            "accuracy": 90,
-            "score": 50315,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "JT_Poker"
-        },
-        {
-            "accuracy": 100,
-            "score": 49895,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Edhead801"
         }
     ]
 }

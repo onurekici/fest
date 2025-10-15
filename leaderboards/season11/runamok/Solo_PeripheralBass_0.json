@@ -6,7 +6,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "bbbgt."
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -14,7 +14,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "STFahrenheit"
+            "userName": null
         },
         {
             "accuracy": 98,
@@ -22,7 +22,15 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "DreamProwler"
+            "userName": null
+        },
+        {
+            "accuracy": 88,
+            "score": 18555,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

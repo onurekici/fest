@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 70536,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Grabbags"
+        },
+        {
             "accuracy": 90,
             "score": 70386,
             "difficulty": 3,
@@ -63,6 +71,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "MasterYodan"
+        },
+        {
+            "accuracy": 97,
+            "score": 68676,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ttv_Danji"
         },
         {
             "accuracy": 92,
@@ -334,7 +350,7 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
-            "userName": "DRTX07"
+            "userName": "Major_Monobraue"
         },
         {
             "accuracy": 86,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "[PSN] MrFriedchicken19"
-        },
-        {
-            "accuracy": 84,
-            "score": 37398,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "FurryQc88"
-        },
-        {
-            "accuracy": 83,
-            "score": 36840,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Nesro"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 39232,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Just Sku"
+        },
+        {
             "accuracy": 99,
             "score": 38342,
             "difficulty": 3,
@@ -31,6 +39,22 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Shatterdive.OP"
+        },
+        {
+            "accuracy": 96,
+            "score": 10821,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Melik Chain"
+        },
+        {
+            "accuracy": 88,
+            "score": 8565,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "GoldBladeG"
         }
     ]
 }

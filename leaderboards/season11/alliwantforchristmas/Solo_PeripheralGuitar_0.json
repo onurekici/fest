@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 307587,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RBmans"
+        },
+        {
             "accuracy": 99,
             "score": 297181,
             "difficulty": 3,
@@ -145,6 +153,14 @@
             "userName": "ToXiK The Mayu"
         },
         {
+            "accuracy": 92,
+            "score": 142314,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Kxzeiyo"
+        },
+        {
             "accuracy": 81,
             "score": 127464,
             "difficulty": 3,
@@ -234,11 +250,19 @@
         },
         {
             "accuracy": 100,
-            "score": 37829,
+            "score": 38753,
             "difficulty": 0,
             "stars": 5,
             "fullcombo": true,
             "userName": "cocomatthew59"
+        },
+        {
+            "accuracy": 83,
+            "score": 9869,
+            "difficulty": 0,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "GamerqueenMTK"
         }
     ]
 }

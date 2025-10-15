@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 42348,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Trassius Clay"
+        },
+        {
+            "accuracy": 100,
+            "score": 42342,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sasagix"
+        },
+        {
             "accuracy": 98,
             "score": 42330,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GR-RXVERT"
-        },
-        {
-            "accuracy": 100,
-            "score": 40608,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "beatlefan2000"
-        },
-        {
-            "accuracy": 99,
-            "score": 40590,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "King1Golmer"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 51592,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "InkMikeLOL"
+        },
+        {
+            "accuracy": 99,
+            "score": 51571,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "vindla_zocker"
+        },
+        {
+            "accuracy": 100,
+            "score": 51562,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JohnnyBearXd"
+        },
+        {
             "accuracy": 98,
             "score": 51498,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "sipsiporo"
-        },
-        {
-            "accuracy": 93,
-            "score": 48548,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SpartanNano117"
-        },
-        {
-            "accuracy": 99,
-            "score": 48504,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RollingCart125"
-        },
-        {
-            "accuracy": 99,
-            "score": 48466,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FSC Waddy"
         }
     ]
 }

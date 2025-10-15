@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 50315,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "JT_Poker"
+        },
+        {
+            "accuracy": 100,
+            "score": 49895,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Edhead801"
+        },
+        {
             "accuracy": 93,
             "score": 49600,
             "difficulty": 1,
@@ -303,6 +319,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "matybaniadoxd"
+        },
+        {
+            "accuracy": 99,
+            "score": 44130,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "deborashank"
         },
         {
             "accuracy": 90,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "0IL008"
-        },
-        {
-            "accuracy": 81,
-            "score": 36490,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ExpensiveMat9066"
-        },
-        {
-            "accuracy": 97,
-            "score": 36485,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "f4akezz"
-        },
-        {
-            "accuracy": 97,
-            "score": 36445,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "walterjvc"
         }
     ]
 }

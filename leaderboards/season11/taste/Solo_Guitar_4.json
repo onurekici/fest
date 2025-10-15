@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 99223,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GermanJerky"
+        },
+        {
+            "accuracy": 100,
             "score": 99186,
             "difficulty": 3,
             "stars": 6,
@@ -151,6 +159,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Awakening Sonata"
+        },
+        {
+            "accuracy": 99,
+            "score": 99025,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "The_NovaCore"
         },
         {
             "accuracy": 100,
@@ -311,6 +327,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jv4nc"
+        },
+        {
+            "accuracy": 100,
+            "score": 98783,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zypxher"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Gicoberd"
-        },
-        {
-            "accuracy": 100,
-            "score": 98175,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BigBaldHead23"
-        },
-        {
-            "accuracy": 100,
-            "score": 98157,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "potato bruxo"
-        },
-        {
-            "accuracy": 99,
-            "score": 98142,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "nolanthecook"
         }
     ]
 }

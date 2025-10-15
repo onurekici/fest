@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 114273,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CoffeeOps"
+        },
+        {
             "accuracy": 99,
             "score": 114269,
             "difficulty": 3,
@@ -295,6 +303,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Namraii"
+        },
+        {
+            "accuracy": 99,
+            "score": 113362,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "bandyskate8985"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sassyhilly"
-        },
-        {
-            "accuracy": 99,
-            "score": 111460,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "R3-ver50"
-        },
-        {
-            "accuracy": 100,
-            "score": 111457,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MagicFlashy_"
         }
     ]
 }
