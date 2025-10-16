@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 107072,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Danny Mantonoli"
+        },
+        {
+            "accuracy": 100,
+            "score": 106990,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Swaggyp994"
+        },
+        {
             "accuracy": 100,
             "score": 106907,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "subl1me89vision"
-        },
-        {
-            "accuracy": 99,
-            "score": 97478,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BD0WN5"
-        },
-        {
-            "accuracy": 98,
-            "score": 97432,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AccelRailgun506"
         }
     ]
 }

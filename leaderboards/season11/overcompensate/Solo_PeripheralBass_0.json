@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 77827,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 93,
             "score": 73061,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": "Cmdr Catto"
+            "userName": null
         },
         {
             "accuracy": 91,
@@ -14,7 +22,15 @@
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": "MardyShards"
+            "userName": null
+        },
+        {
+            "accuracy": 74,
+            "score": 42203,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 96,
@@ -22,7 +38,7 @@
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
-            "userName": "AlexSmith01234"
+            "userName": null
         },
         {
             "accuracy": 88,
@@ -30,7 +46,7 @@
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
-            "userName": "MysticCwisp"
+            "userName": null
         },
         {
             "accuracy": 90,
@@ -38,7 +54,7 @@
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
-            "userName": "Rycia Soulblight"
+            "userName": null
         }
     ]
 }

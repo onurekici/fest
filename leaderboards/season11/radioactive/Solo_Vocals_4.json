@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 112925,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "EnnyThe1st"
+        },
+        {
+            "accuracy": 100,
+            "score": 112917,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "goldenfreddie"
+        },
+        {
             "accuracy": 100,
             "score": 112909,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MaksToPrzyjaciel"
-        },
-        {
-            "accuracy": 99,
-            "score": 112410,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ICE2525"
-        },
-        {
-            "accuracy": 100,
-            "score": 112398,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "kinglycoffe"
         }
     ]
 }

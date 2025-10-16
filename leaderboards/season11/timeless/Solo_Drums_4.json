@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 73215,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "NuclearWinter199"
+        },
+        {
+            "accuracy": 99,
+            "score": 73212,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sasagix"
+        },
+        {
             "accuracy": 99,
             "score": 73116,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ghostrecon26578"
-        },
-        {
-            "accuracy": 97,
-            "score": 61752,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "B0ber123"
-        },
-        {
-            "accuracy": 98,
-            "score": 61665,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "W_kit1"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 133959,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bugman Blur"
+        },
+        {
+            "accuracy": 100,
+            "score": 133955,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Codename Dice"
+        },
+        {
             "accuracy": 100,
             "score": 133931,
             "difficulty": 3,
@@ -271,6 +287,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TTV.Kitsune48"
+        },
+        {
+            "accuracy": 100,
+            "score": 133175,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ImBad.J"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Master_Of_Memes2"
-        },
-        {
-            "accuracy": 99,
-            "score": 131359,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LilRosieRaeVal"
-        },
-        {
-            "accuracy": 100,
-            "score": 131327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hawian_Punch12"
-        },
-        {
-            "accuracy": 100,
-            "score": 131325,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nuggletnukes"
         }
     ]
 }

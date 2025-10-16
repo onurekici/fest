@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 70675,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Calt0"
+        },
+        {
+            "accuracy": 99,
+            "score": 70670,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Quadkingize"
+        },
+        {
             "accuracy": 99,
             "score": 70566,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Full_Auto_Doogs"
-        },
-        {
-            "accuracy": 99,
-            "score": 64780,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "officialjoshxo"
-        },
-        {
-            "accuracy": 100,
-            "score": 64770,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "laloperry"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85266,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MuriS94"
+        },
+        {
+            "accuracy": 100,
+            "score": 85248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Outremer60"
+        },
+        {
             "accuracy": 100,
             "score": 85206,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kempura"
-        },
-        {
-            "accuracy": 99,
-            "score": 77652,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cayey911"
-        },
-        {
-            "accuracy": 99,
-            "score": 77526,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zenmakki"
         }
     ]
 }

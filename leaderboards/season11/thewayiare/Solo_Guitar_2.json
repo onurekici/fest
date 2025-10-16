@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100705,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThatFunkyMonkey"
+        },
+        {
+            "accuracy": 100,
             "score": 100693,
             "difficulty": 3,
             "stars": 6,
@@ -119,6 +127,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RipperOfMinds"
+        },
+        {
+            "accuracy": 100,
+            "score": 100471,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Master2Raven"
         },
         {
             "accuracy": 99,
@@ -649,6 +665,14 @@
             "userName": "EmoEls"
         },
         {
+            "accuracy": 99,
+            "score": 98970,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Legenddwarrior"
+        },
+        {
             "accuracy": 100,
             "score": 98942,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "mrkirsch009"
-        },
-        {
-            "accuracy": 99,
-            "score": 98661,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "peptobismol89"
-        },
-        {
-            "accuracy": 99,
-            "score": 98659,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Raine_1251"
-        },
-        {
-            "accuracy": 99,
-            "score": 98587,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ms Stabalot"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 110474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HockeyDude1215"
+        },
+        {
             "accuracy": 98,
             "score": 88201,
             "difficulty": 3,
@@ -33,6 +41,14 @@
             "userName": "Mochipon"
         },
         {
+            "accuracy": 94,
+            "score": 35209,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "OutragedOwl"
+        },
+        {
             "accuracy": 89,
             "score": 32640,
             "difficulty": 2,
@@ -55,6 +71,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "RawDragonfly3539"
+        },
+        {
+            "accuracy": 63,
+            "score": 11397,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "The_Real_Orange"
         }
     ]
 }

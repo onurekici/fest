@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 300866,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dan_Tr4pD00r"
+        },
+        {
             "accuracy": 99,
             "score": 263292,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": null
+            "userName": "LilBBaseGodd"
         },
         {
             "accuracy": 98,
@@ -14,7 +22,15 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "VVeedPriest"
+        },
+        {
+            "accuracy": 97,
+            "score": 186609,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "donichu_"
         },
         {
             "accuracy": 93,
@@ -22,7 +38,7 @@
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
-            "userName": null
+            "userName": "Kiukuni"
         }
     ]
 }

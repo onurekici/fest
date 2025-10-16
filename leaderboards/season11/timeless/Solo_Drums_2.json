@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 84480,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Papa_frita"
+        },
+        {
+            "accuracy": 99,
+            "score": 84378,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CapFelix8433"
+        },
+        {
+            "accuracy": 100,
             "score": 84354,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Laurie_T"
-        },
-        {
-            "accuracy": 99,
-            "score": 80430,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "not JABS"
-        },
-        {
-            "accuracy": 99,
-            "score": 80256,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HenneyWays"
         }
     ]
 }
