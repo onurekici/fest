@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112679,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "derpferdler"
+        },
+        {
+            "accuracy": 100,
             "score": 109711,
             "difficulty": 3,
             "stars": 6,
@@ -33,6 +41,14 @@
             "userName": "Cloud_831"
         },
         {
+            "accuracy": 94,
+            "score": 87676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Esrev_"
+        },
+        {
             "accuracy": 100,
             "score": 77291,
             "difficulty": 2,
@@ -41,12 +57,28 @@
             "userName": "WillyrexLoverEQ"
         },
         {
+            "accuracy": 95,
+            "score": 77096,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FLOARDZIK"
+        },
+        {
             "accuracy": 97,
             "score": 69313,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "Lecona810a"
+        },
+        {
+            "accuracy": 0,
+            "score": 62,
+            "difficulty": 1,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "[PSN] unbeaten-epoch1"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 83577,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WCNEUTRAL"
+        },
+        {
+            "accuracy": 100,
+            "score": 83567,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NeonTides"
+        },
+        {
             "accuracy": 100,
             "score": 83565,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Robotboy009"
-        },
-        {
-            "accuracy": 100,
-            "score": 82597,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "freak4levi"
-        },
-        {
-            "accuracy": 100,
-            "score": 82595,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Alex-wx21"
         }
     ]
 }

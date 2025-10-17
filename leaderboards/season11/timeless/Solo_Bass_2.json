@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 53582,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CommanderRockett"
+        },
+        {
+            "accuracy": 100,
             "score": 53553,
             "difficulty": 2,
             "stars": 5,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "PlugWoods"
-        },
-        {
-            "accuracy": 99,
-            "score": 49602,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "starwarshastasi"
         }
     ]
 }

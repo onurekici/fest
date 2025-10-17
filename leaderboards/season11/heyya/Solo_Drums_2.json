@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "XxSpaceNickxX"
+        },
+        {
+            "accuracy": 100,
+            "score": 123042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DepartedGuy"
+        },
+        {
             "accuracy": 100,
             "score": 122976,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "lawless331"
-        },
-        {
-            "accuracy": 99,
-            "score": 120990,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Asahifire"
-        },
-        {
-            "accuracy": 100,
-            "score": 120978,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hawks1013"
         }
     ]
 }

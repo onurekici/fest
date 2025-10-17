@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 283196,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheAllotaurus"
+        },
+        {
+            "accuracy": 100,
+            "score": 283165,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Prettytrynity"
+        },
+        {
             "accuracy": 100,
             "score": 283151,
             "difficulty": 3,
@@ -55,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Docter loomis"
+        },
+        {
+            "accuracy": 100,
+            "score": 281640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PlatinumBahamut"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ٌKirk Hammett ٌ"
-        },
-        {
-            "accuracy": 99,
-            "score": 266748,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Elias Igler"
-        },
-        {
-            "accuracy": 99,
-            "score": 266556,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "adrichibi"
-        },
-        {
-            "accuracy": 99,
-            "score": 266496,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "El bartog2"
         }
     ]
 }

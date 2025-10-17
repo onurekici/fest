@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 87,
+            "score": 108279,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "codeROWDYRICHH"
+        },
+        {
             "accuracy": 93,
             "score": 108024,
             "difficulty": 3,
@@ -375,6 +383,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "xanee"
+        },
+        {
+            "accuracy": 100,
+            "score": 89666,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Conor_The_Fish"
         },
         {
             "accuracy": 90,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "beau3599"
-        },
-        {
-            "accuracy": 98,
-            "score": 73585,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NLFlatley90"
-        },
-        {
-            "accuracy": 87,
-            "score": 73557,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "TheBucko1991"
         }
     ]
 }

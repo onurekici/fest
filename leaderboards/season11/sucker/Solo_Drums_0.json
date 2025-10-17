@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 194442,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ben4cool"
+        },
+        {
+            "accuracy": 100,
             "score": 192540,
             "difficulty": 3,
             "stars": 6,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MrMappyBearFTW"
+        },
+        {
+            "accuracy": 99,
+            "score": 175614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "jkenner1996"
         },
         {
             "accuracy": 100,
@@ -385,12 +401,28 @@
             "userName": "spiderjd08"
         },
         {
+            "accuracy": 96,
+            "score": 124626,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Darkmage2004"
+        },
+        {
             "accuracy": 98,
             "score": 121752,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "Feyd Myers"
+        },
+        {
+            "accuracy": 97,
+            "score": 119780,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GigoP1x3l"
         },
         {
             "accuracy": 99,
@@ -545,8 +577,8 @@
             "userName": "Street_king21"
         },
         {
-            "accuracy": 97,
-            "score": 64650,
+            "accuracy": 98,
+            "score": 67510,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
@@ -767,38 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Rodimusprime66"
-        },
-        {
-            "accuracy": 87,
-            "score": 13415,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "LoudStingray8682"
-        },
-        {
-            "accuracy": 80,
-            "score": 12260,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "RelatedGuppy8157"
-        },
-        {
-            "accuracy": 76,
-            "score": 11785,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Francisco_29000"
-        },
-        {
-            "accuracy": 78,
-            "score": 10745,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "User-d6175f203d"
         }
     ]
 }

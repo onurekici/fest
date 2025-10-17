@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 69893,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Lexymarie980"
+        },
+        {
+            "accuracy": 99,
+            "score": 69889,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bedckham"
+        },
+        {
             "accuracy": 99,
             "score": 69885,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "prettiibrownc"
-        },
-        {
-            "accuracy": 100,
-            "score": 67180,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Lil_Milligan"
-        },
-        {
-            "accuracy": 100,
-            "score": 67175,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TomasMtro"
         }
     ]
 }

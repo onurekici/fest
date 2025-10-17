@@ -1,6 +1,46 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 62640,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "RickyPez"
+        },
+        {
+            "accuracy": 89,
+            "score": 62401,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SwagAndWatch"
+        },
+        {
+            "accuracy": 94,
+            "score": 62196,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "hutch_dust"
+        },
+        {
+            "accuracy": 82,
+            "score": 61880,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "HillSquidy"
+        },
+        {
+            "accuracy": 87,
+            "score": 61859,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ATRILL3000"
+        },
+        {
             "accuracy": 91,
             "score": 61587,
             "difficulty": 3,
@@ -759,46 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Carguama"
-        },
-        {
-            "accuracy": 97,
-            "score": 45828,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NobleRaccoonKing"
-        },
-        {
-            "accuracy": 90,
-            "score": 45753,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "whatthemintbat"
-        },
-        {
-            "accuracy": 93,
-            "score": 45126,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Mahrtcel"
-        },
-        {
-            "accuracy": 93,
-            "score": 44910,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ZillaMonsterZ"
-        },
-        {
-            "accuracy": 92,
-            "score": 44746,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Allani.ca"
         }
     ]
 }

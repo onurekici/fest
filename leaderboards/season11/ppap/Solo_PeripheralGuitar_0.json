@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 39122,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nick Bodnick"
+        },
+        {
+            "accuracy": 100,
             "score": 39092,
             "difficulty": 3,
             "stars": 6,
@@ -79,14 +87,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Soy Erisa"
-        },
-        {
-            "accuracy": 100,
-            "score": 38528,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nick Bodnick"
         },
         {
             "accuracy": 100,
@@ -441,6 +441,14 @@
             "userName": "GethSmash"
         },
         {
+            "accuracy": 95,
+            "score": 35408,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Stachekip"
+        },
+        {
             "accuracy": 96,
             "score": 35378,
             "difficulty": 3,
@@ -550,7 +558,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "kcombs97"
+            "userName": "keagansayshowdy"
         },
         {
             "accuracy": 94,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "OnTheHydrasBack"
-        },
-        {
-            "accuracy": 96,
-            "score": 33476,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shock Hole"
         }
     ]
 }

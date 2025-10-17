@@ -34,6 +34,14 @@
         },
         {
             "accuracy": 100,
+            "score": 126235,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hawaiian Houdini"
+        },
+        {
+            "accuracy": 100,
             "score": 124024,
             "difficulty": 3,
             "stars": 6,
@@ -161,12 +169,36 @@
             "userName": "NebulosHalo"
         },
         {
+            "accuracy": 100,
+            "score": 41536,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] Ghost-of-Sev"
+        },
+        {
             "accuracy": 94,
             "score": 39960,
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
             "userName": "PrintedOsprey1"
+        },
+        {
+            "accuracy": 91,
+            "score": 29404,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "beaniemelio"
+        },
+        {
+            "accuracy": 99,
+            "score": 28730,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 94,
@@ -193,12 +225,44 @@
             "userName": "SoupPlan"
         },
         {
+            "accuracy": 98,
+            "score": 16904,
+            "difficulty": 0,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "AliBali.14"
+        },
+        {
             "accuracy": 81,
             "score": 14542,
             "difficulty": 2,
             "stars": 2,
             "fullcombo": false,
             "userName": "Godlybut"
+        },
+        {
+            "accuracy": 89,
+            "score": 8532,
+            "difficulty": 0,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "[PSN] Haytana12"
+        },
+        {
+            "accuracy": 62,
+            "score": 6934,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "AllMightsIvt"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 2,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "lilly_pad25"
         }
     ]
 }
