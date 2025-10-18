@@ -345,6 +345,14 @@
             "userName": "daddylongburger"
         },
         {
+            "accuracy": 100,
+            "score": 154455,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SupaKamiGuts"
+        },
+        {
             "accuracy": 85,
             "score": 150666,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Keijirou"
-        },
-        {
-            "accuracy": 92,
-            "score": 48281,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "OmiGoblin"
         }
     ]
 }

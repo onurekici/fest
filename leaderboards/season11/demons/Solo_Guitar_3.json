@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 79853,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "J-O-A_14"
+        },
+        {
+            "accuracy": 100,
             "score": 79848,
             "difficulty": 3,
             "stars": 6,
@@ -453,6 +461,14 @@
             "score": 79523,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "Marxcrawler"
+        },
+        {
+            "accuracy": 100,
+            "score": 79523,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "HolsteredCobra"
         },
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "wildebeast2"
-        },
-        {
-            "accuracy": 100,
-            "score": 79367,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "henriquesw"
-        },
-        {
-            "accuracy": 100,
-            "score": 79361,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MrCleanChiliRing"
         }
     ]
 }

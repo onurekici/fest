@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 49817,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PlugWoods"
+        },
+        {
             "accuracy": 99,
             "score": 49602,
             "difficulty": 3,
@@ -745,6 +753,14 @@
             "userName": "Pboy800"
         },
         {
+            "accuracy": 99,
+            "score": 44251,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SkyeHHigh"
+        },
+        {
             "accuracy": 98,
             "score": 44211,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TheKingMatt_02"
-        },
-        {
-            "accuracy": 100,
-            "score": 44121,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ghost_Sascha2"
-        },
-        {
-            "accuracy": 98,
-            "score": 44061,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Rav3nWingz"
         }
     ]
 }

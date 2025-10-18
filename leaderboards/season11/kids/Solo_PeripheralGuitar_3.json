@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 62170,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "IvánGarcia5"
+        },
+        {
+            "accuracy": 91,
+            "score": 62168,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PorcelainGhost67"
+        },
+        {
             "accuracy": 91,
             "score": 62047,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RipstopDrift"
-        },
-        {
-            "accuracy": 88,
-            "score": 54851,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JojoTrash"
-        },
-        {
-            "accuracy": 100,
-            "score": 54785,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SeiiTor Saint"
         }
     ]
 }

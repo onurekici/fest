@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 262818,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "phutch98"
+        },
+        {
             "accuracy": 99,
             "score": 262716,
             "difficulty": 3,
@@ -641,6 +649,14 @@
             "userName": "Ritmados"
         },
         {
+            "accuracy": 99,
+            "score": 257358,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Veylyn9"
+        },
+        {
             "accuracy": 100,
             "score": 257334,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "VenomPacifier"
-        },
-        {
-            "accuracy": 99,
-            "score": 255678,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "essencebby"
-        },
-        {
-            "accuracy": 100,
-            "score": 255666,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Deyy Realm"
         }
     ]
 }

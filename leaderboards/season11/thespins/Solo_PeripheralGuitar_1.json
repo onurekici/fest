@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126667,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kloax22"
+        },
+        {
             "accuracy": 99,
             "score": 126584,
             "difficulty": 3,
@@ -183,6 +191,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "icespicefan420"
+        },
+        {
+            "accuracy": 99,
+            "score": 121422,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Skylanderz"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "xLady Macabre"
-        },
-        {
-            "accuracy": 96,
-            "score": 102301,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "King Havel"
-        },
-        {
-            "accuracy": 95,
-            "score": 102275,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MardyShards"
         }
     ]
 }
