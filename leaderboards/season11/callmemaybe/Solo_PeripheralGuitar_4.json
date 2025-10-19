@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 83,
+            "score": 63115,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "MrMadNoob"
+        },
+        {
+            "accuracy": 100,
+            "score": 62898,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MrSnazzy_Jazzy"
+        },
+        {
             "accuracy": 99,
             "score": 62880,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "IDCOK"
-        },
-        {
-            "accuracy": 92,
-            "score": 46478,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "lacyixh"
-        },
-        {
-            "accuracy": 77,
-            "score": 46394,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "JoeyyDE43"
         }
     ]
 }

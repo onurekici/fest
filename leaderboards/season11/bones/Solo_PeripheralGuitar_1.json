@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 39383,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Loyd Bonfire"
+        },
+        {
             "accuracy": 100,
             "score": 39372,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Ir_Krazytt"
-        },
-        {
-            "accuracy": 92,
-            "score": 19437,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Devas-Tater"
         }
     ]
 }

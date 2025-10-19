@@ -378,6 +378,14 @@
         },
         {
             "accuracy": 100,
+            "score": 259600,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OnlyCykes"
+        },
+        {
+            "accuracy": 100,
             "score": 259441,
             "difficulty": 3,
             "stars": 6,
@@ -455,6 +463,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "alexparigi"
+        },
+        {
+            "accuracy": 99,
+            "score": 259034,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dwweet"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "polpo-giocato"
-        },
-        {
-            "accuracy": 100,
-            "score": 257673,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "bbimvip"
-        },
-        {
-            "accuracy": 100,
-            "score": 257451,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CurvyCroneTTV"
         }
     ]
 }

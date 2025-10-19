@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 137766,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HyghperCS"
+        },
+        {
+            "accuracy": 100,
             "score": 137706,
             "difficulty": 3,
             "stars": 6,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ms_wills"
+        },
+        {
+            "accuracy": 99,
+            "score": 137418,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CorndogWaterGrab"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "gerardostark96"
-        },
-        {
-            "accuracy": 99,
-            "score": 134490,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "gamma-ray_12"
-        },
-        {
-            "accuracy": 99,
-            "score": 134424,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "liam121ww"
         }
     ]
 }

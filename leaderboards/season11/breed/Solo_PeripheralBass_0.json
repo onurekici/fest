@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 192181,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sneasler"
+        },
+        {
             "accuracy": 99,
             "score": 191496,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Poomsday"
+        },
+        {
+            "accuracy": 99,
+            "score": 162910,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "otnemem32"
         },
         {
             "accuracy": 99,
@@ -81,6 +97,14 @@
             "userName": "Vanilla I.C.E"
         },
         {
+            "accuracy": 91,
+            "score": 80896,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Dirty Xan"
+        },
+        {
             "accuracy": 94,
             "score": 73258,
             "difficulty": 3,
@@ -97,12 +121,28 @@
             "userName": "Big xx Juicy887"
         },
         {
+            "accuracy": 93,
+            "score": 66875,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Seafudo"
+        },
+        {
             "accuracy": 98,
             "score": 59237,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "AngelaOrosco109"
+        },
+        {
+            "accuracy": 63,
+            "score": 19556,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Issa_Generic"
         }
     ]
 }

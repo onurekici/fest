@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 120610,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kukulsky"
+        },
+        {
+            "accuracy": 100,
+            "score": 120605,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The_Davy_JonesS"
+        },
+        {
             "accuracy": 100,
             "score": 120594,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Namraii"
-        },
-        {
-            "accuracy": 100,
-            "score": 118255,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kyorito35"
-        },
-        {
-            "accuracy": 100,
-            "score": 118233,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ChillyFloat"
         }
     ]
 }

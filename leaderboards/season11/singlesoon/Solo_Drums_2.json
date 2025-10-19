@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126804,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FAL113N"
+        },
+        {
+            "accuracy": 99,
+            "score": 126774,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Stroodle910"
+        },
+        {
             "accuracy": 99,
             "score": 126750,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Olentan"
-        },
-        {
-            "accuracy": 100,
-            "score": 122958,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nayrion1"
-        },
-        {
-            "accuracy": 100,
-            "score": 122928,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "musicalofdeath"
         }
     ]
 }

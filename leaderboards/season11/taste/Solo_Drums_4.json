@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 103530,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] Vvenom159"
+        },
+        {
             "accuracy": 99,
             "score": 103512,
             "difficulty": 3,
@@ -119,6 +127,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Twäshbox"
+        },
+        {
+            "accuracy": 99,
+            "score": 103180,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AyZ_Envy"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JoSlifer"
-        },
-        {
-            "accuracy": 99,
-            "score": 101079,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mosschops04"
-        },
-        {
-            "accuracy": 100,
-            "score": 101079,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "hanjicatsup"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 151008,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ansk_m"
+        },
+        {
             "accuracy": 100,
             "score": 150983,
             "difficulty": 3,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "UndatedSummer5"
+        },
+        {
+            "accuracy": 100,
+            "score": 150859,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Marxcrawler"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "D3ARLY"
-        },
-        {
-            "accuracy": 100,
-            "score": 146869,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TSMiller97"
-        },
-        {
-            "accuracy": 100,
-            "score": 146864,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MINECRAFT101KING"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 233474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MaxModl"
+        },
+        {
             "accuracy": 100,
             "score": 233455,
             "difficulty": 3,
@@ -287,6 +295,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Berserk Armads"
+        },
+        {
+            "accuracy": 100,
+            "score": 231350,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ares Loves Hades"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Centenial"
-        },
-        {
-            "accuracy": 99,
-            "score": 228495,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Skelanim"
-        },
-        {
-            "accuracy": 100,
-            "score": 228474,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KING.QxD"
         }
     ]
 }

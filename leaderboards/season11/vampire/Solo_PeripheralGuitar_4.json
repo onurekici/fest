@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 123041,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ChoDozer"
+        },
+        {
             "accuracy": 99,
             "score": 122953,
             "difficulty": 2,
@@ -90,6 +98,14 @@
         },
         {
             "accuracy": 96,
+            "score": 121079,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Hounddog197"
+        },
+        {
+            "accuracy": 96,
             "score": 120695,
             "difficulty": 3,
             "stars": 5,
@@ -127,6 +143,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ZeroAnti"
+        },
+        {
+            "accuracy": 95,
+            "score": 119956,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JoshwaTheCaptain"
         },
         {
             "accuracy": 94,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "P0lie92"
-        },
-        {
-            "accuracy": 93,
-            "score": 97644,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "IamLuna4"
-        },
-        {
-            "accuracy": 96,
-            "score": 96954,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "jaidynmarq4"
-        },
-        {
-            "accuracy": 99,
-            "score": 96712,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LethalPaint"
         }
     ]
 }

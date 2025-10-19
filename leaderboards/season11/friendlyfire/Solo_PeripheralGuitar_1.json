@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 137624,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CrescentCat73"
+        },
+        {
+            "accuracy": 100,
             "score": 137551,
             "difficulty": 3,
             "stars": 6,
@@ -177,6 +185,14 @@
             "userName": "Fright Privilege"
         },
         {
+            "accuracy": 99,
+            "score": 132016,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lon3Wolf65"
+        },
+        {
             "accuracy": 98,
             "score": 132014,
             "difficulty": 3,
@@ -319,14 +335,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Fusion Kush"
-        },
-        {
-            "accuracy": 99,
-            "score": 128935,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lon3Wolf65"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CoopdaNeeb"
-        },
-        {
-            "accuracy": 98,
-            "score": 116683,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "XplodingTACO"
         }
     ]
 }

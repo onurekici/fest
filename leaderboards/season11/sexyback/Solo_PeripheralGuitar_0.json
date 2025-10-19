@@ -25,6 +25,14 @@
             "userName": "viewblue"
         },
         {
+            "accuracy": 100,
+            "score": 133152,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Voodoo-Hendrix"
+        },
+        {
             "accuracy": 99,
             "score": 125688,
             "difficulty": 3,
@@ -201,12 +209,28 @@
             "userName": "AKillerClam"
         },
         {
+            "accuracy": 96,
+            "score": 43302,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Artigaa101"
+        },
+        {
             "accuracy": 95,
             "score": 37758,
             "difficulty": 1,
             "stars": 4,
             "fullcombo": false,
             "userName": "Cio_d"
+        },
+        {
+            "accuracy": 30,
+            "score": 3942,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Coagulated Gravy"
         }
     ]
 }

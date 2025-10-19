@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 152688,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ezCHUYchocolate"
+        },
+        {
+            "accuracy": 100,
             "score": 151818,
             "difficulty": 3,
             "stars": 6,
@@ -529,6 +537,14 @@
             "userName": "NeMo Furry"
         },
         {
+            "accuracy": 99,
+            "score": 144546,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Poomsday"
+        },
+        {
             "accuracy": 100,
             "score": 144498,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "PixelVader"
-        },
-        {
-            "accuracy": 100,
-            "score": 142410,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Saddam Whosein"
-        },
-        {
-            "accuracy": 100,
-            "score": 142326,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nighttimeport2"
         }
     ]
 }

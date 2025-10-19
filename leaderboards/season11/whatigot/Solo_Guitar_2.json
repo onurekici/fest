@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 131860,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FromCalais2Dover"
+        },
+        {
+            "accuracy": 99,
+            "score": 131852,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Saul_Greatman"
+        },
+        {
+            "accuracy": 100,
             "score": 131836,
             "difficulty": 3,
             "stars": 6,
@@ -106,14 +122,6 @@
         },
         {
             "accuracy": 100,
-            "score": 131638,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "nvoystation"
-        },
-        {
-            "accuracy": 100,
             "score": 131635,
             "difficulty": 3,
             "stars": 6,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SarahtheSeaBear"
+        },
+        {
+            "accuracy": 100,
+            "score": 131573,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "realdeadlyUNC"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "YoungGuzmanAG"
-        },
-        {
-            "accuracy": 100,
-            "score": 130197,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Teriyana Robinso"
-        },
-        {
-            "accuracy": 100,
-            "score": 130195,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "cshrader"
         }
     ]
 }
