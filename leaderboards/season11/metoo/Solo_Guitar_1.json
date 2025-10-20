@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 27101,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Thanoz."
+        },
+        {
             "accuracy": 100,
             "score": 26963,
             "difficulty": 3,
@@ -335,6 +343,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BoogieManShon"
+        },
+        {
+            "accuracy": 98,
+            "score": 24369,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RandoraShuffle"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ari-Say13"
-        },
-        {
-            "accuracy": 100,
-            "score": 21900,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "kristeemay"
-        },
-        {
-            "accuracy": 100,
-            "score": 21843,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "soulllee"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 74417,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NeoNakamura"
+        },
+        {
             "accuracy": 99,
             "score": 74249,
             "difficulty": 3,
@@ -521,6 +529,14 @@
             "userName": "444underscore444"
         },
         {
+            "accuracy": 99,
+            "score": 69920,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fiery_Chocobo"
+        },
+        {
             "accuracy": 98,
             "score": 69843,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wohcristian"
-        },
-        {
-            "accuracy": 98,
-            "score": 67547,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mezzs"
-        },
-        {
-            "accuracy": 99,
-            "score": 67537,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Grimlindogface"
         }
     ]
 }

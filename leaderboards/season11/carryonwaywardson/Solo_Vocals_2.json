@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 97959,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "L.Drakkon"
+        },
+        {
+            "accuracy": 100,
             "score": 97956,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Dr.Cremes"
+        },
+        {
+            "accuracy": 99,
+            "score": 97872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Happy Jinx"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "xWilson"
-        },
-        {
-            "accuracy": 100,
-            "score": 97026,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Pref_Townsville"
-        },
-        {
-            "accuracy": 100,
-            "score": 97025,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "kirigayan"
         }
     ]
 }

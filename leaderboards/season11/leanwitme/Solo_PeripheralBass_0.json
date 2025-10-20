@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 78333,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 72700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 72432,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "XxXbIgMaNxX"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -14,7 +30,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Melik Chain"
+            "userName": null
         },
         {
             "accuracy": 95,
@@ -22,7 +38,15 @@
             "difficulty": 1,
             "stars": 4,
             "fullcombo": false,
-            "userName": "ttuB_aiN_kciD"
+            "userName": null
+        },
+        {
+            "accuracy": 85,
+            "score": 23059,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 91,
@@ -30,7 +54,7 @@
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
-            "userName": "Scorpion5524"
+            "userName": null
         }
     ]
 }

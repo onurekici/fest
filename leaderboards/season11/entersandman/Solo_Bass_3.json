@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 260205,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Flipmystic"
+        },
+        {
+            "accuracy": 100,
+            "score": 260181,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JamieTheFoxe"
+        },
+        {
+            "accuracy": 100,
+            "score": 260169,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "troygamer11"
+        },
+        {
             "accuracy": 99,
             "score": 260146,
             "difficulty": 3,
@@ -271,14 +295,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Gun_Grave345"
-        },
-        {
-            "accuracy": 99,
-            "score": 259062,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "syczek"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Heimdall354"
-        },
-        {
-            "accuracy": 99,
-            "score": 257526,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Acorn798"
-        },
-        {
-            "accuracy": 99,
-            "score": 257525,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Abichu08"
         }
     ]
 }

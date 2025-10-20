@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 29597,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Prestone01"
+        },
+        {
             "accuracy": 98,
             "score": 29295,
             "difficulty": 2,
@@ -545,6 +553,14 @@
             "userName": "DJZ3SHADOW"
         },
         {
+            "accuracy": 92,
+            "score": 23107,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "keegankeeg"
+        },
+        {
             "accuracy": 98,
             "score": 22862,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "GothPinata"
-        },
-        {
-            "accuracy": 88,
-            "score": 18632,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Raven_BB"
-        },
-        {
-            "accuracy": 90,
-            "score": 18584,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Natem75"
         }
     ]
 }

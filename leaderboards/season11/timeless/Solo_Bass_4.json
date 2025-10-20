@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 44167,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KidRocket2020"
+        },
+        {
+            "accuracy": 98,
+            "score": 44153,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheKingMatt_02"
+        },
+        {
             "accuracy": 100,
             "score": 44121,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Little_Jimmy115"
-        },
-        {
-            "accuracy": 100,
-            "score": 36120,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Lobotomy-Patient"
-        },
-        {
-            "accuracy": 98,
-            "score": 36109,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Puertofreakin15"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 57318,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ank997"
+        },
+        {
+            "accuracy": 100,
+            "score": 57312,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "4ur34"
+        },
+        {
             "accuracy": 100,
             "score": 57288,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "zomg.atrex"
-        },
-        {
-            "accuracy": 99,
-            "score": 55728,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lobo_R13"
-        },
-        {
-            "accuracy": 100,
-            "score": 55704,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "1-800-GuiltyKiss"
         }
     ]
 }

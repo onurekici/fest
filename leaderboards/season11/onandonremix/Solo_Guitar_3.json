@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 260274,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "H007hurru96"
+        },
+        {
+            "accuracy": 100,
+            "score": 260250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cardsz"
+        },
+        {
             "accuracy": 100,
             "score": 260232,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Thel Vadeem"
-        },
-        {
-            "accuracy": 100,
-            "score": 258180,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Smoke_Jeep"
-        },
-        {
-            "accuracy": 100,
-            "score": 258162,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "sabrinakavi"
         }
     ]
 }

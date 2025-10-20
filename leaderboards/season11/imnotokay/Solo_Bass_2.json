@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 208932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wavyburger"
+        },
+        {
+            "accuracy": 100,
+            "score": 208925,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xTanri"
+        },
+        {
             "accuracy": 100,
             "score": 208920,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mr_Irish"
-        },
-        {
-            "accuracy": 99,
-            "score": 201678,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "tinygasp"
-        },
-        {
-            "accuracy": 99,
-            "score": 201642,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kaingar1"
         }
     ]
 }

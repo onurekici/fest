@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 220323,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sexyygrandpa"
+        },
+        {
+            "accuracy": 100,
+            "score": 220318,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SacredParsley"
+        },
+        {
             "accuracy": 99,
             "score": 220310,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "noobmeta"
-        },
-        {
-            "accuracy": 99,
-            "score": 216942,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DotoGaming"
-        },
-        {
-            "accuracy": 100,
-            "score": 216912,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tiny198284"
         }
     ]
 }
