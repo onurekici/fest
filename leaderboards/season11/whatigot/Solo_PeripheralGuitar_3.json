@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 42867,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "gameZombie999"
+        },
+        {
+            "accuracy": 96,
+            "score": 42813,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "King Crimini"
+        },
+        {
             "accuracy": 86,
             "score": 42646,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Leecrazzy"
-        },
-        {
-            "accuracy": 67,
-            "score": 17252,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "D4D L1F3"
-        },
-        {
-            "accuracy": 75,
-            "score": 17044,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "PINKIN757"
         }
     ]
 }

@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 232119,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Szemi03HUN"
+        },
+        {
+            "accuracy": 100,
             "score": 231834,
             "difficulty": 3,
             "stars": 6,
@@ -521,6 +529,14 @@
             "userName": "Kirk_Hinrich"
         },
         {
+            "accuracy": 98,
+            "score": 173287,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "XD_Zoro_XD"
+        },
+        {
             "accuracy": 99,
             "score": 172579,
             "difficulty": 2,
@@ -607,6 +623,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "kameo2001"
+        },
+        {
+            "accuracy": 98,
+            "score": 140773,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BigPharma27"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Pandizzy4"
-        },
-        {
-            "accuracy": 97,
-            "score": 104613,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Fretfuljay"
-        },
-        {
-            "accuracy": 96,
-            "score": 102114,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "spider_.webbb"
-        },
-        {
-            "accuracy": 96,
-            "score": 101692,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "exe.akirasworld"
         }
     ]
 }

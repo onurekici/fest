@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 282546,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Robo_Space"
+        },
+        {
+            "accuracy": 100,
+            "score": 282522,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MiyabiHoshimiTV"
+        },
+        {
             "accuracy": 99,
             "score": 282444,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ODirceu"
-        },
-        {
-            "accuracy": 99,
-            "score": 277134,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BlueCinnamonBun"
-        },
-        {
-            "accuracy": 100,
-            "score": 277050,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Starships_Burger"
         }
     ]
 }

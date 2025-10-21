@@ -18,6 +18,14 @@
         },
         {
             "accuracy": 100,
+            "score": 221833,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Thomas Delmotte"
+        },
+        {
+            "accuracy": 100,
             "score": 221779,
             "difficulty": 3,
             "stars": 6,
@@ -657,6 +665,14 @@
             "userName": "Loki OfAsgard259"
         },
         {
+            "accuracy": 98,
+            "score": 161119,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ToukaXdreaM"
+        },
+        {
             "accuracy": 99,
             "score": 161102,
             "difficulty": 3,
@@ -671,6 +687,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Dilzm8"
+        },
+        {
+            "accuracy": 97,
+            "score": 157678,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "metalplexXx"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Emoneytown11"
-        },
-        {
-            "accuracy": 99,
-            "score": 144206,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HugoTheFox610"
-        },
-        {
-            "accuracy": 99,
-            "score": 144179,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nesro"
-        },
-        {
-            "accuracy": 99,
-            "score": 144030,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sunshine Wizard"
         }
     ]
 }

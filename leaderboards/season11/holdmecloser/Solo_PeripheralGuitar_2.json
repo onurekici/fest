@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 95788,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "caped_crusader_"
+        },
+        {
             "accuracy": 96,
             "score": 95482,
             "difficulty": 3,
@@ -95,6 +103,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bronsley"
+        },
+        {
+            "accuracy": 98,
+            "score": 93828,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "StudiousScoutFan"
         },
         {
             "accuracy": 96,
@@ -713,6 +729,14 @@
             "userName": "SatelliteSurfer"
         },
         {
+            "accuracy": 94,
+            "score": 80946,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FeelsGioMan"
+        },
+        {
             "accuracy": 98,
             "score": 80856,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PeachyLuong"
-        },
-        {
-            "accuracy": 98,
-            "score": 79492,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Vöid64"
-        },
-        {
-            "accuracy": 98,
-            "score": 79422,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TONY.161019"
-        },
-        {
-            "accuracy": 100,
-            "score": 79379,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Th3 Wask"
         }
     ]
 }

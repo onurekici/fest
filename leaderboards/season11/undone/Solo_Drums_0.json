@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 225066,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ЕJ1"
+        },
+        {
+            "accuracy": 100,
             "score": 222564,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TrashyBoy47"
+        },
+        {
+            "accuracy": 100,
+            "score": 208890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NoahtheLawnMowah"
         },
         {
             "accuracy": 100,
@@ -713,6 +729,14 @@
             "userName": "Milliesaur"
         },
         {
+            "accuracy": 96,
+            "score": 91635,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "shinyballoon354"
+        },
+        {
             "accuracy": 93,
             "score": 84040,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "duneatredis"
-        },
-        {
-            "accuracy": 86,
-            "score": 61945,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "KO Cacti"
-        },
-        {
-            "accuracy": 86,
-            "score": 58525,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "L0UlI3"
-        },
-        {
-            "accuracy": 90,
-            "score": 52655,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Laurenfrates"
         }
     ]
 }

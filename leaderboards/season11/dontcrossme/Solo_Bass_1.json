@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 25413,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HALO 900"
+        },
+        {
             "accuracy": 98,
             "score": 25340,
             "difficulty": 3,
@@ -199,6 +207,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TűzokádóPuszedli"
+        },
+        {
+            "accuracy": 100,
+            "score": 22488,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Puamelia"
         },
         {
             "accuracy": 99,
@@ -681,12 +697,28 @@
             "userName": "Maggxty"
         },
         {
+            "accuracy": 98,
+            "score": 18319,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MyerinoX"
+        },
+        {
             "accuracy": 99,
             "score": 18291,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "MareleStefan"
+        },
+        {
+            "accuracy": 99,
+            "score": 17924,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] Ethan-ProxD"
         },
         {
             "accuracy": 99,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "StrangeQuail9428"
-        },
-        {
-            "accuracy": 97,
-            "score": 16550,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FrenziedGalaxy69"
-        },
-        {
-            "accuracy": 98,
-            "score": 16483,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Einzelgaenger14"
-        },
-        {
-            "accuracy": 98,
-            "score": 16435,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ChargedCastle"
-        },
-        {
-            "accuracy": 99,
-            "score": 16168,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Badd-Daddy1"
         }
     ]
 }

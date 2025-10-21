@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 134728,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Prompto6"
+        },
+        {
+            "accuracy": 100,
+            "score": 134723,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RDG xStRiKe"
+        },
+        {
             "accuracy": 98,
             "score": 134689,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TikyElCrack"
-        },
-        {
-            "accuracy": 93,
-            "score": 131996,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Korüdo"
-        },
-        {
-            "accuracy": 100,
-            "score": 131841,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HeyDaniii"
         }
     ]
 }

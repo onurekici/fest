@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 193416,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IcePhoenix_48"
+        },
+        {
+            "accuracy": 100,
+            "score": 193404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FeekFonk"
+        },
+        {
             "accuracy": 100,
             "score": 193380,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "unknown1.44"
-        },
-        {
-            "accuracy": 99,
-            "score": 190044,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ipulax"
-        },
-        {
-            "accuracy": 100,
-            "score": 189930,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "YaBoiChubbz29"
         }
     ]
 }

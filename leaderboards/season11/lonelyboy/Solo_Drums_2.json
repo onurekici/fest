@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 256254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "petrikovsPANTS"
+        },
+        {
             "accuracy": 99,
             "score": 256230,
             "difficulty": 3,
@@ -167,6 +175,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Allanghieri"
+        },
+        {
+            "accuracy": 99,
+            "score": 255276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "jc_llamas"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "not JABS"
-        },
-        {
-            "accuracy": 99,
-            "score": 251460,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EduardoSlayer"
-        },
-        {
-            "accuracy": 100,
-            "score": 251412,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[PSN] Guriteo777"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 89786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Praifix"
+        },
+        {
+            "accuracy": 100,
+            "score": 89785,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FU AimAssist"
+        },
+        {
+            "accuracy": 100,
             "score": 89784,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Diablø."
-        },
-        {
-            "accuracy": 100,
-            "score": 88948,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dougie Falcons"
-        },
-        {
-            "accuracy": 100,
-            "score": 88943,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kokiri94"
         }
     ]
 }

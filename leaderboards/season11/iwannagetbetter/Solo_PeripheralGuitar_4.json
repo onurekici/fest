@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 123750,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Wh1teGuyFromD12"
+        },
+        {
+            "accuracy": 93,
+            "score": 123460,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "julltsu"
+        },
+        {
             "accuracy": 98,
             "score": 123072,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Duality-Rules"
-        },
-        {
-            "accuracy": 99,
-            "score": 64757,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "freestylevillins"
-        },
-        {
-            "accuracy": 97,
-            "score": 64223,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheLaguh"
         }
     ]
 }

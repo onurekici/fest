@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 89985,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ghostlysteff"
+        },
+        {
+            "accuracy": 87,
+            "score": 89823,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AlphaAkuma"
+        },
+        {
             "accuracy": 98,
             "score": 89246,
             "difficulty": 3,
@@ -610,6 +626,14 @@
         },
         {
             "accuracy": 99,
+            "score": 58661,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "VividSparrow9316"
+        },
+        {
+            "accuracy": 99,
             "score": 58543,
             "difficulty": 1,
             "stars": 5,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Frank1907"
-        },
-        {
-            "accuracy": 99,
-            "score": 51912,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Beskar Rhino"
-        },
-        {
-            "accuracy": 97,
-            "score": 51421,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "TheCatShadow"
-        },
-        {
-            "accuracy": 95,
-            "score": 51192,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Redpanda6901"
         }
     ]
 }

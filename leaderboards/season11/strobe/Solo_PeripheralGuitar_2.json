@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 63018,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "A GAM3R"
+        },
+        {
+            "accuracy": 81,
+            "score": 62832,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "dismalDarko"
+        },
+        {
             "accuracy": 86,
             "score": 62490,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Stef7950"
-        },
-        {
-            "accuracy": 100,
-            "score": 31566,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MCWOOMYY"
-        },
-        {
-            "accuracy": 67,
-            "score": 31254,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "NotEnoughSharks"
         }
     ]
 }

@@ -210,6 +210,14 @@
         },
         {
             "accuracy": 100,
+            "score": 177000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sly_Night"
+        },
+        {
+            "accuracy": 100,
             "score": 176466,
             "difficulty": 3,
             "stars": 6,
@@ -625,6 +633,14 @@
             "userName": "ShadowStriker225"
         },
         {
+            "accuracy": 99,
+            "score": 169854,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Patchyb"
+        },
+        {
             "accuracy": 100,
             "score": 169836,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DebatablyClutch"
-        },
-        {
-            "accuracy": 99,
-            "score": 167448,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Laitzx"
-        },
-        {
-            "accuracy": 100,
-            "score": 167340,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EuleApollo07"
         }
     ]
 }

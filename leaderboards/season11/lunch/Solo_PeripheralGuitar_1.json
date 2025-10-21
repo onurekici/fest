@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42596,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mariana_conta_um"
+        },
+        {
             "accuracy": 99,
             "score": 42539,
             "difficulty": 3,
@@ -135,6 +143,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HeMisPaBBoo"
+        },
+        {
+            "accuracy": 99,
+            "score": 40621,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Itsporkycuh"
         },
         {
             "accuracy": 93,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ittosfeet"
-        },
-        {
-            "accuracy": 97,
-            "score": 33018,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CEOofThrowing"
-        },
-        {
-            "accuracy": 95,
-            "score": 32873,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SoToaster_2011"
         }
     ]
 }

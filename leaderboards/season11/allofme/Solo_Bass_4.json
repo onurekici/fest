@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 107789,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Joledlg"
+        },
+        {
+            "accuracy": 98,
+            "score": 107777,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "valeska389"
+        },
+        {
             "accuracy": 99,
             "score": 107645,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Reekin Havok429"
-        },
-        {
-            "accuracy": 99,
-            "score": 101687,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dunbroch1987"
-        },
-        {
-            "accuracy": 98,
-            "score": 101611,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AngIanU18"
         }
     ]
 }

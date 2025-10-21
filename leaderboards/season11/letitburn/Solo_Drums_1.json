@@ -321,6 +321,14 @@
             "userName": "def not nic"
         },
         {
+            "accuracy": 100,
+            "score": 130146,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "XxDarKlucKerxX"
+        },
+        {
             "accuracy": 99,
             "score": 130050,
             "difficulty": 3,
@@ -383,6 +391,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Aaron Nevermind"
+        },
+        {
+            "accuracy": 99,
+            "score": 129564,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KennyLoggins530"
         },
         {
             "accuracy": 99,
@@ -511,6 +527,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Matifox0120"
+        },
+        {
+            "accuracy": 99,
+            "score": 128256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "gtoki"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ohtmer"
-        },
-        {
-            "accuracy": 99,
-            "score": 125202,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lopez avalos"
-        },
-        {
-            "accuracy": 99,
-            "score": 124770,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GeoNovox"
-        },
-        {
-            "accuracy": 100,
-            "score": 124752,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Aqourius"
         }
     ]
 }

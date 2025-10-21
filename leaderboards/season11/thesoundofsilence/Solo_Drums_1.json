@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 9690,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Nerapricot"
+        },
+        {
+            "accuracy": 100,
+            "score": 9670,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "iJavi15"
+        },
+        {
+            "accuracy": 100,
             "score": 9617,
             "difficulty": 1,
             "stars": 5,
@@ -231,6 +247,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Traxan_1"
+        },
+        {
+            "accuracy": 95,
+            "score": 8188,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SnoezDePoes"
         },
         {
             "accuracy": 100,
@@ -617,6 +641,14 @@
             "userName": "ghastlygremlin"
         },
         {
+            "accuracy": 100,
+            "score": 5626,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PrincessSarah90"
+        },
+        {
             "accuracy": 97,
             "score": 5601,
             "difficulty": 1,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "ZB-Insane"
-        },
-        {
-            "accuracy": 100,
-            "score": 4792,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Zombie-115879"
-        },
-        {
-            "accuracy": 95,
-            "score": 4477,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "black-CuBe016"
-        },
-        {
-            "accuracy": 98,
-            "score": 4396,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "bonilla1345"
-        },
-        {
-            "accuracy": 97,
-            "score": 4376,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NthSpy82"
         }
     ]
 }

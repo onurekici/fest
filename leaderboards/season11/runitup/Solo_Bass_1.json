@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 36715,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kspidey2000"
+        },
+        {
+            "accuracy": 97,
+            "score": 36562,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Davidtbo3"
+        },
+        {
+            "accuracy": 100,
+            "score": 36111,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LillyBug41"
+        },
+        {
             "accuracy": 66,
             "score": 35914,
             "difficulty": 1,
@@ -761,44 +785,20 @@
             "userName": null
         },
         {
+            "accuracy": 90,
+            "score": 15003,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "WS4310"
+        },
+        {
             "accuracy": 86,
             "score": 14930,
             "difficulty": 2,
             "stars": 2,
             "fullcombo": false,
             "userName": "kkplay102"
-        },
-        {
-            "accuracy": 88,
-            "score": 14715,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 90,
-            "score": 14568,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Planet Bro"
-        },
-        {
-            "accuracy": 94,
-            "score": 14356,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "cbeg25"
-        },
-        {
-            "accuracy": 96,
-            "score": 14337,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Mech.Mando"
         }
     ]
 }

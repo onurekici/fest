@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 119512,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BumboScrubbins"
+        },
+        {
             "accuracy": 99,
             "score": 119443,
             "difficulty": 3,
@@ -521,6 +529,14 @@
             "userName": "EckStinked"
         },
         {
+            "accuracy": 99,
+            "score": 116383,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DanFortune"
+        },
+        {
             "accuracy": 100,
             "score": 116377,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Vadoll"
-        },
-        {
-            "accuracy": 100,
-            "score": 114747,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "evaniqz"
-        },
-        {
-            "accuracy": 99,
-            "score": 114715,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "char13xx"
         }
     ]
 }

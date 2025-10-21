@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 51727,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MarBear_O_o"
+        },
+        {
+            "accuracy": 100,
+            "score": 51681,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ModestBiscuit41"
+        },
+        {
             "accuracy": 100,
             "score": 51652,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Ltfurious"
-        },
-        {
-            "accuracy": 100,
-            "score": 48954,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Renemesis_evil"
-        },
-        {
-            "accuracy": 99,
-            "score": 48950,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SavageShisui"
         }
     ]
 }

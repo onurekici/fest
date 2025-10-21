@@ -506,6 +506,14 @@
         },
         {
             "accuracy": 100,
+            "score": 46900,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Doomslayer1010"
+        },
+        {
+            "accuracy": 100,
             "score": 46635,
             "difficulty": 3,
             "stars": 5,
@@ -567,6 +575,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RadBrett"
+        },
+        {
+            "accuracy": 99,
+            "score": 44923,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "top_jf7"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Spaceman4200915"
-        },
-        {
-            "accuracy": 100,
-            "score": 37880,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Mochi_Tempest"
-        },
-        {
-            "accuracy": 97,
-            "score": 37788,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "julz on 60fps"
         }
     ]
 }

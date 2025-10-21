@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 80172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sourisflemard"
+        },
+        {
+            "accuracy": 100,
+            "score": 79819,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ThrasherDexter"
+        },
+        {
             "accuracy": 100,
             "score": 79093,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RLETobas"
-        },
-        {
-            "accuracy": 99,
-            "score": 52907,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DonaldPump4th"
-        },
-        {
-            "accuracy": 94,
-            "score": 52304,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Sign of Roses"
         }
     ]
 }

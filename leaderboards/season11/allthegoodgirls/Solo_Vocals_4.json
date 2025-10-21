@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 89893,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Strawberries 221"
+        },
+        {
+            "accuracy": 100,
             "score": 89881,
             "difficulty": 3,
             "stars": 6,
@@ -95,6 +103,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ttaintedes"
+        },
+        {
+            "accuracy": 98,
+            "score": 89699,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OniCentral"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GhostTaco9900"
-        },
-        {
-            "accuracy": 100,
-            "score": 89070,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SlayerMPK"
-        },
-        {
-            "accuracy": 100,
-            "score": 89069,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "winarzepa"
         }
     ]
 }

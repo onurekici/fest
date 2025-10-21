@@ -18,6 +18,14 @@
         },
         {
             "accuracy": 100,
+            "score": 110436,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shune Yote"
+        },
+        {
+            "accuracy": 100,
             "score": 109248,
             "difficulty": 3,
             "stars": 6,
@@ -47,6 +55,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Erickson9610"
+        },
+        {
+            "accuracy": 99,
+            "score": 101579,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ArkyRifz"
         },
         {
             "accuracy": 99,
@@ -319,6 +335,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "iRoboticsx"
+        },
+        {
+            "accuracy": 99,
+            "score": 48297,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LooseDelta"
         },
         {
             "accuracy": 96,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "flachwendler"
-        },
-        {
-            "accuracy": 98,
-            "score": 31196,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "goro majima89"
-        },
-        {
-            "accuracy": 100,
-            "score": 30697,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ms.CatchABody6"
-        },
-        {
-            "accuracy": 99,
-            "score": 30593,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LilCallisto89"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 261711,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TySketch"
+        },
+        {
+            "accuracy": 100,
+            "score": 261697,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "vitrente"
+        },
+        {
             "accuracy": 99,
             "score": 261658,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NeMo Furry"
-        },
-        {
-            "accuracy": 99,
-            "score": 257901,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SpectralStch"
-        },
-        {
-            "accuracy": 99,
-            "score": 257879,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "IskandartheGreat"
         }
     ]
 }

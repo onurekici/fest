@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 40752,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TeacupThug."
+        },
+        {
+            "accuracy": 100,
+            "score": 40686,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Yuu_Eucliwood4"
+        },
+        {
             "accuracy": 100,
             "score": 40680,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Gato_soleada"
-        },
-        {
-            "accuracy": 99,
-            "score": 38946,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Miller_240"
-        },
-        {
-            "accuracy": 100,
-            "score": 38940,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PH6MF"
         }
     ]
 }

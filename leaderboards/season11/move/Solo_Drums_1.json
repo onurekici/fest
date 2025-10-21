@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 39635,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 93,
             "score": 38695,
             "difficulty": 1,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "TTT 3200"
-        },
-        {
-            "accuracy": 77,
-            "score": 6255,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "HugeMollusk2934"
         }
     ]
 }

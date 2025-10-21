@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 53692,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SylveonVMAX"
+        },
+        {
+            "accuracy": 99,
+            "score": 53655,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Flower nap"
+        },
+        {
             "accuracy": 99,
             "score": 53646,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "fluffy040"
-        },
-        {
-            "accuracy": 100,
-            "score": 51121,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Undeadbtl04"
-        },
-        {
-            "accuracy": 100,
-            "score": 51087,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Kyyoogre"
         }
     ]
 }
