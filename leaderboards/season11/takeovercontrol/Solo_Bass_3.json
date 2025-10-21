@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 86142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GwenOnMars"
+        },
+        {
+            "accuracy": 100,
+            "score": 86100,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Bandicoot369702"
+        },
+        {
             "accuracy": 100,
             "score": 86015,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "P0lyesterPant"
-        },
-        {
-            "accuracy": 98,
-            "score": 77436,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Roulette.0_0"
-        },
-        {
-            "accuracy": 99,
-            "score": 77325,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SkarMark"
         }
     ]
 }

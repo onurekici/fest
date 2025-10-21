@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 98708,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DookieAndKalub"
+        },
+        {
             "accuracy": 99,
             "score": 98679,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kaktus026"
-        },
-        {
-            "accuracy": 100,
-            "score": 85782,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "vindla_zocker"
         }
     ]
 }

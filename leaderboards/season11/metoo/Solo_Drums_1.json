@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 132966,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "アイノカタマリ"
+        },
+        {
             "accuracy": 99,
             "score": 132894,
             "difficulty": 3,
@@ -761,6 +769,14 @@
             "userName": "[PSN] Bellator_FIN"
         },
         {
+            "accuracy": 99,
+            "score": 105850,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "asahi_gf"
+        },
+        {
             "accuracy": 95,
             "score": 105390,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CptMorgan72491"
-        },
-        {
-            "accuracy": 97,
-            "score": 105114,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sheegaru"
-        },
-        {
-            "accuracy": 97,
-            "score": 105084,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "User-8b437ec355"
         }
     ]
 }

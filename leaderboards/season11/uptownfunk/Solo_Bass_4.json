@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 69097,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Diegobuenpueblo"
+        },
+        {
+            "accuracy": 100,
+            "score": 68995,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 100,
             "score": 68924,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KH1234_dk"
-        },
-        {
-            "accuracy": 99,
-            "score": 57939,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Shockwave_0203"
-        },
-        {
-            "accuracy": 99,
-            "score": 57151,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kaliback"
         }
     ]
 }

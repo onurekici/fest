@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 58756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JoJolyne Cujoh"
+        },
+        {
+            "accuracy": 100,
+            "score": 58629,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Johnny Bravolta"
+        },
+        {
+            "accuracy": 98,
             "score": 58603,
             "difficulty": 3,
             "stars": 6,
@@ -119,14 +135,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SkolBurgerGH"
-        },
-        {
-            "accuracy": 98,
-            "score": 57918,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JSF4P"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SlimeMan305"
-        },
-        {
-            "accuracy": 98,
-            "score": 55869,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "donichu_"
         }
     ]
 }

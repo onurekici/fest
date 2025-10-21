@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 89697,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Emm4L1n3"
+        },
+        {
+            "accuracy": 100,
             "score": 89675,
             "difficulty": 3,
             "stars": 6,
@@ -247,6 +255,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Goobacca"
+        },
+        {
+            "accuracy": 99,
+            "score": 89427,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lyrius_"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ramen_Tacos"
-        },
-        {
-            "accuracy": 100,
-            "score": 88779,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SeanIsSatan"
-        },
-        {
-            "accuracy": 100,
-            "score": 88777,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "XUFOwings"
         }
     ]
 }

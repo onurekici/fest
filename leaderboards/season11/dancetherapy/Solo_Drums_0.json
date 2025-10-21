@@ -130,6 +130,14 @@
         },
         {
             "accuracy": 100,
+            "score": 135468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "rin weasley"
+        },
+        {
+            "accuracy": 100,
             "score": 135240,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tenzist"
-        },
-        {
-            "accuracy": 100,
-            "score": 127890,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "pinemellons"
         }
     ]
 }

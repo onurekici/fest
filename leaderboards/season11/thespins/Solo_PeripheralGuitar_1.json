@@ -2,19 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 127352,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Teem Manager"
+        },
+        {
+            "accuracy": 99,
+            "score": 127326,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BossFace_Aiden"
+        },
+        {
+            "accuracy": 100,
             "score": 126797,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "TripWitMe"
-        },
-        {
-            "accuracy": 100,
-            "score": 126714,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[PSN] Stoned_Ape420999"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "mausxsx"
-        },
-        {
-            "accuracy": 97,
-            "score": 104628,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Paomr95"
         }
     ]
 }

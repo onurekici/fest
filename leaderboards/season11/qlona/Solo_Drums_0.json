@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 46002,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lolly_pop8500"
+        },
+        {
+            "accuracy": 100,
             "score": 45564,
             "difficulty": 3,
             "stars": 6,
@@ -513,6 +521,14 @@
             "userName": "Andy100405"
         },
         {
+            "accuracy": 97,
+            "score": 26615,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Theweanerbean"
+        },
+        {
             "accuracy": 100,
             "score": 26575,
             "difficulty": 0,
@@ -527,6 +543,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "ananswnamun"
+        },
+        {
+            "accuracy": 100,
+            "score": 26355,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "joueur_carton-36"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "lonewolf-wwwstev"
-        },
-        {
-            "accuracy": 99,
-            "score": 21485,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LyricAngel"
-        },
-        {
-            "accuracy": 98,
-            "score": 21245,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ForeverJoanna"
-        },
-        {
-            "accuracy": 99,
-            "score": 20855,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Skippy.pro"
         }
     ]
 }

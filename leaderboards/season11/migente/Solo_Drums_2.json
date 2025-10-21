@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 114252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "XxAr2xX"
+        },
+        {
+            "accuracy": 100,
+            "score": 114234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CollapseStar"
+        },
+        {
             "accuracy": 100,
             "score": 114204,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ThisIsDumb2020"
-        },
-        {
-            "accuracy": 99,
-            "score": 112590,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RiseofOwnage"
-        },
-        {
-            "accuracy": 100,
-            "score": 112572,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GirlgamerAngie"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 97383,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SlayerBlindado"
+        },
+        {
+            "accuracy": 100,
+            "score": 97308,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] SlayerGundam"
+        },
+        {
             "accuracy": 100,
             "score": 97212,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "JohnDCG"
-        },
-        {
-            "accuracy": 93,
-            "score": 80177,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ashleeorson"
-        },
-        {
-            "accuracy": 97,
-            "score": 80142,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "gwenstacyfan"
         }
     ]
 }

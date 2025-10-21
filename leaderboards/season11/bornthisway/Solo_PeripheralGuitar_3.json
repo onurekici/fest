@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 87568,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FlavoryMink"
+        },
+        {
+            "accuracy": 88,
+            "score": 87406,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "VibesRaccoon"
+        },
+        {
             "accuracy": 88,
             "score": 87038,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Caseythess00"
-        },
-        {
-            "accuracy": 98,
-            "score": 65019,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lorena Padovani"
-        },
-        {
-            "accuracy": 95,
-            "score": 64708,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AusterBirke980"
         }
     ]
 }

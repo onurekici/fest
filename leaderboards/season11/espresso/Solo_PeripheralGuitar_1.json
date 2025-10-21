@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 88355,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ATSTORO"
+        },
+        {
+            "accuracy": 100,
+            "score": 88228,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TerminHaider"
+        },
+        {
             "accuracy": 100,
             "score": 88186,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sneaky77"
-        },
-        {
-            "accuracy": 98,
-            "score": 76704,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gabrieleiacca13"
-        },
-        {
-            "accuracy": 97,
-            "score": 76432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "benmcspills21"
         }
     ]
 }

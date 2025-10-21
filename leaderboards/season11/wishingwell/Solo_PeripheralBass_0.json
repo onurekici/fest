@@ -2,11 +2,43 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 78224,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GethSmash"
+        },
+        {
+            "accuracy": 100,
             "score": 68670,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "VanillaRilla91"
+        },
+        {
+            "accuracy": 98,
+            "score": 55954,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kumoru realx"
+        },
+        {
+            "accuracy": 92,
+            "score": 28571,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "X2C_DIAMUNDZ"
+        },
+        {
+            "accuracy": 93,
+            "score": 25677,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "DownBatGirl06"
         },
         {
             "accuracy": 91,
@@ -31,6 +63,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Melik Chain"
+        },
+        {
+            "accuracy": 84,
+            "score": 11622,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Ursilva"
         }
     ]
 }

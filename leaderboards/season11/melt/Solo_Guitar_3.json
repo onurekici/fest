@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 169577,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "acelilsmoke"
+        },
+        {
+            "accuracy": 100,
+            "score": 169561,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PenAttack"
+        },
+        {
+            "accuracy": 100,
             "score": 169542,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ko7ign"
-        },
-        {
-            "accuracy": 100,
-            "score": 168075,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KrackBandit2608"
-        },
-        {
-            "accuracy": 100,
-            "score": 168057,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MimicDee"
         }
     ]
 }

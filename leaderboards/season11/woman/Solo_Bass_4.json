@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 50073,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WobblyWafer"
+        },
+        {
             "accuracy": 100,
             "score": 50067,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DrakoMartinez"
-        },
-        {
-            "accuracy": 100,
-            "score": 49623,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Cheylex Mighty"
         }
     ]
 }
