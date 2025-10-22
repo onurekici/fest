@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127416,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The Reclaim23"
+        },
+        {
+            "accuracy": 99,
+            "score": 127182,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FrostyTob"
+        },
+        {
             "accuracy": 99,
             "score": 126942,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "User-b0d1d407df"
-        },
-        {
-            "accuracy": 99,
-            "score": 115344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SanelVella"
-        },
-        {
-            "accuracy": 99,
-            "score": 115320,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "myel0w"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 36800,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "User-5b59d10ac4"
+        },
+        {
+            "accuracy": 99,
+            "score": 36691,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mkdonalds Sprite"
+        },
+        {
+            "accuracy": 100,
+            "score": 36652,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] ronniemachine"
+        },
+        {
             "accuracy": 99,
             "score": 36621,
             "difficulty": 1,
@@ -55,6 +79,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ky Doom"
+        },
+        {
+            "accuracy": 98,
+            "score": 36105,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheKozury"
         },
         {
             "accuracy": 98,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "LukasM.Romero"
-        },
-        {
-            "accuracy": 97,
-            "score": 27175,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MayoralKiller"
-        },
-        {
-            "accuracy": 95,
-            "score": 27035,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "jrouns"
-        },
-        {
-            "accuracy": 97,
-            "score": 26965,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ETHOR5105"
-        },
-        {
-            "accuracy": 98,
-            "score": 26392,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "muted_02"
         }
     ]
 }

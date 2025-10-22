@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 50535,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DR_Spasm"
+        },
+        {
+            "accuracy": 99,
             "score": 50060,
             "difficulty": 2,
             "stars": 5,
@@ -138,11 +146,27 @@
         },
         {
             "accuracy": 100,
+            "score": 46315,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Radishdog"
+        },
+        {
+            "accuracy": 100,
             "score": 46245,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "Lordgammer King"
+        },
+        {
+            "accuracy": 100,
+            "score": 45395,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] alex_paleoca"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "maltemai"
-        },
-        {
-            "accuracy": 97,
-            "score": 27760,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "FredrickThe3rd_"
-        },
-        {
-            "accuracy": 96,
-            "score": 27735,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Ciaran6261"
-        },
-        {
-            "accuracy": 96,
-            "score": 27005,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "nazcour"
         }
     ]
 }

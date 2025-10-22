@@ -586,6 +586,14 @@
         },
         {
             "accuracy": 100,
+            "score": 303084,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Actual_Weapon"
+        },
+        {
+            "accuracy": 100,
             "score": 303030,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "フェアリーフェンサー"
-        },
-        {
-            "accuracy": 100,
-            "score": 301254,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ausausin"
         }
     ]
 }

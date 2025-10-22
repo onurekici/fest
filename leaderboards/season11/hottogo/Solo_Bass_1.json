@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 103360,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PAT-LAB"
+        },
+        {
+            "accuracy": 94,
+            "score": 99385,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sachou.exe"
+        },
+        {
             "accuracy": 95,
             "score": 98934,
             "difficulty": 3,
@@ -265,6 +281,14 @@
             "userName": "Skaibunny720"
         },
         {
+            "accuracy": 100,
+            "score": 75770,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "pyra_amiibo"
+        },
+        {
             "accuracy": 97,
             "score": 75450,
             "difficulty": 3,
@@ -314,11 +338,27 @@
         },
         {
             "accuracy": 99,
+            "score": 71675,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "linkinshire"
+        },
+        {
+            "accuracy": 99,
             "score": 71440,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "ArcticBlade346"
+        },
+        {
+            "accuracy": 99,
+            "score": 71195,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CokeMilk2000_"
         },
         {
             "accuracy": 100,
@@ -759,46 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Lyrics5487"
-        },
-        {
-            "accuracy": 94,
-            "score": 53736,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "cutesypoots"
-        },
-        {
-            "accuracy": 86,
-            "score": 53076,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "TheRealBmike"
-        },
-        {
-            "accuracy": 93,
-            "score": 52845,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "RadReedMcGee"
-        },
-        {
-            "accuracy": 91,
-            "score": 52782,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "hocampo07"
-        },
-        {
-            "accuracy": 95,
-            "score": 52770,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "recordscratch_"
         }
     ]
 }

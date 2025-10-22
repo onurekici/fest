@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 80605,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "n_panic"
+        },
+        {
             "accuracy": 96,
             "score": 80322,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "AUPringle"
-        },
-        {
-            "accuracy": 85,
-            "score": 50406,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Zeymahi Myon"
         }
     ]
 }

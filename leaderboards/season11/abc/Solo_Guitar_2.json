@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 78351,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BrunotheShark"
+        },
+        {
+            "accuracy": 99,
+            "score": 78311,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jendrus1611"
+        },
+        {
             "accuracy": 99,
             "score": 78251,
             "difficulty": 3,
@@ -239,6 +255,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "griffin87859"
+        },
+        {
+            "accuracy": 99,
+            "score": 77199,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lord Penn"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wollow5613"
-        },
-        {
-            "accuracy": 97,
-            "score": 74826,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JohnWalnofer"
-        },
-        {
-            "accuracy": 98,
-            "score": 74760,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Xaixiu"
-        },
-        {
-            "accuracy": 99,
-            "score": 74757,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ElDaikis29"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 200962,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "richtigerjustin"
+        },
+        {
+            "accuracy": 100,
+            "score": 200946,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "amnesza"
+        },
+        {
             "accuracy": 100,
             "score": 200926,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lore_180sx"
-        },
-        {
-            "accuracy": 99,
-            "score": 199276,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Murabitto_"
-        },
-        {
-            "accuracy": 100,
-            "score": 199273,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Accelplay"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 388565,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "bumpot"
+        },
+        {
+            "accuracy": 100,
+            "score": 388561,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "deadkiller5150"
+        },
+        {
+            "accuracy": 99,
             "score": 388499,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kylo_Joe24"
-        },
-        {
-            "accuracy": 99,
-            "score": 375508,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MAIRUU007"
-        },
-        {
-            "accuracy": 99,
-            "score": 375156,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PursueOne"
         }
     ]
 }

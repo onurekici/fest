@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 180918,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JOS3RED"
+        },
+        {
+            "accuracy": 99,
+            "score": 180912,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Demon3Mangos"
+        },
+        {
             "accuracy": 99,
             "score": 180888,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "toptan1"
-        },
-        {
-            "accuracy": 100,
-            "score": 179016,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "h0micidal"
-        },
-        {
-            "accuracy": 100,
-            "score": 179010,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Merijn_1"
         }
     ]
 }

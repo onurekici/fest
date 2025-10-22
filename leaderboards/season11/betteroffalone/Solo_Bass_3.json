@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 195788,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Scottishgame2010"
+        },
+        {
+            "accuracy": 100,
+            "score": 195779,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ReplacedSoup855"
+        },
+        {
             "accuracy": 99,
             "score": 195680,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "NOT TODAY BUM"
-        },
-        {
-            "accuracy": 99,
-            "score": 183526,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LoulouDesBois85"
-        },
-        {
-            "accuracy": 98,
-            "score": 183448,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Demolition Debby"
         }
     ]
 }

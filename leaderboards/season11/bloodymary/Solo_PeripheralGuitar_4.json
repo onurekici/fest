@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 56256,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "fatalundead"
+        },
+        {
             "accuracy": 98,
             "score": 56245,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Calcifer666"
-        },
-        {
-            "accuracy": 99,
-            "score": 48949,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HockeySemp"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 116964,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Alcroteau"
+        },
+        {
             "accuracy": 99,
             "score": 116939,
             "difficulty": 3,
@@ -657,6 +665,14 @@
             "userName": "twysocki_07"
         },
         {
+            "accuracy": 100,
+            "score": 104011,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MRKodHa"
+        },
+        {
             "accuracy": 99,
             "score": 103904,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Twitch.tvChibzx"
-        },
-        {
-            "accuracy": 99,
-            "score": 99915,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kyoroyuu"
-        },
-        {
-            "accuracy": 98,
-            "score": 99878,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zenzinational"
         }
     ]
 }

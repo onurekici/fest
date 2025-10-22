@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 244350,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Niichels"
+        },
+        {
+            "accuracy": 100,
             "score": 244344,
             "difficulty": 3,
             "stars": 6,
@@ -685,6 +693,14 @@
             "score": 243108,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "kco93"
+        },
+        {
+            "accuracy": 100,
+            "score": 243108,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "DeityWayzz"
         },
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Vrosetta"
-        },
-        {
-            "accuracy": 99,
-            "score": 242886,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "firatborudoseme"
-        },
-        {
-            "accuracy": 100,
-            "score": 242880,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Chris1232002"
         }
     ]
 }

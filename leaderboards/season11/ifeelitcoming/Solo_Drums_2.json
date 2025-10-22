@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 228510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kazstanze"
+        },
+        {
             "accuracy": 99,
             "score": 228372,
             "difficulty": 3,
@@ -410,6 +418,14 @@
         },
         {
             "accuracy": 99,
+            "score": 212952,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DivergentGamer0"
+        },
+        {
+            "accuracy": 99,
             "score": 211698,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ninchiito"
-        },
-        {
-            "accuracy": 100,
-            "score": 192180,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ShadowKid165"
-        },
-        {
-            "accuracy": 98,
-            "score": 191928,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Aj4327"
         }
     ]
 }

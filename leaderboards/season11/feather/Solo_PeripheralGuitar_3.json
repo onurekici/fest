@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 83,
+            "score": 44444,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Q_the_1ne"
+        },
+        {
             "accuracy": 100,
             "score": 44261,
             "difficulty": 1,
@@ -278,7 +286,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "nam3164"
+            "userName": "Flaming Llama"
         },
         {
             "accuracy": 91,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Bionicnightmare"
-        },
-        {
-            "accuracy": 78,
-            "score": 23736,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "User-5389560cff"
         }
     ]
 }

@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Henryen"
+        },
+        {
+            "accuracy": 100,
             "score": 122331,
             "difficulty": 3,
             "stars": 6,
@@ -351,6 +359,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "chiclosky"
+        },
+        {
+            "accuracy": 92,
+            "score": 80348,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "InfnitytheWolf"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Hypa64"
-        },
-        {
-            "accuracy": 98,
-            "score": 20573,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Memo_El_Chingon_"
-        },
-        {
-            "accuracy": 69,
-            "score": 19963,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "EggNog55"
         }
     ]
 }

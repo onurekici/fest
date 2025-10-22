@@ -50,6 +50,14 @@
         },
         {
             "accuracy": 100,
+            "score": 185585,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "alofen"
+        },
+        {
+            "accuracy": 100,
             "score": 184925,
             "difficulty": 3,
             "stars": 6,
@@ -577,6 +585,14 @@
             "userName": "RomeroJR22"
         },
         {
+            "accuracy": 91,
+            "score": 64139,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Morganc7"
+        },
+        {
             "accuracy": 100,
             "score": 63562,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BlazenBurns420"
-        },
-        {
-            "accuracy": 97,
-            "score": 42084,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ZONEYZ"
-        },
-        {
-            "accuracy": 85,
-            "score": 40242,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "helo is it me"
         }
     ]
 }

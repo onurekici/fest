@@ -50,11 +50,27 @@
         },
         {
             "accuracy": 100,
+            "score": 109326,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ais763"
+        },
+        {
+            "accuracy": 100,
             "score": 107346,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "094Prototype"
+        },
+        {
+            "accuracy": 98,
+            "score": 105208,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TTUnknownOlly"
         },
         {
             "accuracy": 98,
@@ -193,14 +209,6 @@
             "userName": "BlindxSniper"
         },
         {
-            "accuracy": 94,
-            "score": 89970,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TTUnknownOlly"
-        },
-        {
             "accuracy": 95,
             "score": 88829,
             "difficulty": 3,
@@ -255,6 +263,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RaizOnTIKTOK"
+        },
+        {
+            "accuracy": 94,
+            "score": 85239,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Big_Chungus015"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Mutated-mushroom"
-        },
-        {
-            "accuracy": 95,
-            "score": 33428,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TyWayMusic"
-        },
-        {
-            "accuracy": 95,
-            "score": 29863,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "User-9dbcd86aeb"
         }
     ]
 }

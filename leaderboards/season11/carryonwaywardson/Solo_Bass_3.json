@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 202404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "XBubunny"
+        },
+        {
+            "accuracy": 100,
+            "score": 202391,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Groovemind"
+        },
+        {
+            "accuracy": 100,
             "score": 202386,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "McStepBro2"
-        },
-        {
-            "accuracy": 100,
-            "score": 200542,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "issacum87"
-        },
-        {
-            "accuracy": 100,
-            "score": 200529,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "wong-tastic8"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 85521,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CoolCorgi9165"
+        },
+        {
+            "accuracy": 99,
+            "score": 85478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ManiKy8"
+        },
+        {
+            "accuracy": 100,
             "score": 85444,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "pastabilities87"
-        },
-        {
-            "accuracy": 100,
-            "score": 82410,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KuBoyさん"
-        },
-        {
-            "accuracy": 99,
-            "score": 82385,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FearnOne32"
         }
     ]
 }
