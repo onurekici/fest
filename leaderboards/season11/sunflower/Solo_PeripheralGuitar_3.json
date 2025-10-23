@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 87,
+            "score": 23668,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "AllKnowingSock"
+        },
+        {
             "accuracy": 100,
             "score": 23615,
             "difficulty": 1,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Atrinsic"
-        },
-        {
-            "accuracy": 87,
-            "score": 12139,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Biggorons_Blade"
         }
     ]
 }

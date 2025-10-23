@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 80484,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Irmok"
+        },
+        {
+            "accuracy": 93,
+            "score": 80453,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SamBob001"
+        },
+        {
             "accuracy": 95,
             "score": 80351,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KimosabiX3"
-        },
-        {
-            "accuracy": 89,
-            "score": 63853,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "[PSN] ErKoAce"
-        },
-        {
-            "accuracy": 90,
-            "score": 63748,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Fireypheonix554"
         }
     ]
 }

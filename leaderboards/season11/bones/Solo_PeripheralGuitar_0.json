@@ -82,6 +82,14 @@
         },
         {
             "accuracy": 100,
+            "score": 53352,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RT_SKuR4"
+        },
+        {
+            "accuracy": 100,
             "score": 53337,
             "difficulty": 3,
             "stars": 6,
@@ -441,6 +449,14 @@
             "userName": "Anthabaskan"
         },
         {
+            "accuracy": 98,
+            "score": 46083,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Flyin-Spagetti"
+        },
+        {
             "accuracy": 99,
             "score": 46031,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FrodoGHobbsTTV"
-        },
-        {
-            "accuracy": 99,
-            "score": 39909,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "VeryWealthy"
-        },
-        {
-            "accuracy": 98,
-            "score": 39891,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "A Mallard Duck"
         }
     ]
 }

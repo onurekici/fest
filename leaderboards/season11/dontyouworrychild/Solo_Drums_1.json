@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 127500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Toppatroni"
+        },
+        {
+            "accuracy": 99,
+            "score": 127428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "moonshae_d"
+        },
+        {
+            "accuracy": 100,
             "score": 127416,
             "difficulty": 3,
             "stars": 6,
@@ -362,6 +378,14 @@
         },
         {
             "accuracy": 99,
+            "score": 122224,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "nVInfinity"
+        },
+        {
+            "accuracy": 99,
             "score": 122193,
             "difficulty": 3,
             "stars": 6,
@@ -642,14 +666,6 @@
         },
         {
             "accuracy": 99,
-            "score": 117948,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zuziixo"
-        },
-        {
-            "accuracy": 99,
             "score": 117900,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EuleApollo07"
-        },
-        {
-            "accuracy": 99,
-            "score": 115632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-6421b23dbd"
-        },
-        {
-            "accuracy": 99,
-            "score": 115584,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-b0d1d407df"
         }
     ]
 }

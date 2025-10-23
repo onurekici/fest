@@ -137,6 +137,14 @@
             "userName": "Yo soy Bongus"
         },
         {
+            "accuracy": 100,
+            "score": 90494,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jorge_rockr"
+        },
+        {
             "accuracy": 99,
             "score": 89796,
             "difficulty": 3,
@@ -698,6 +706,14 @@
         },
         {
             "accuracy": 97,
+            "score": 73156,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "444underscore444"
+        },
+        {
+            "accuracy": 97,
             "score": 73149,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "lm_winter"
-        },
-        {
-            "accuracy": 98,
-            "score": 68906,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ak47NyDiesel"
-        },
-        {
-            "accuracy": 98,
-            "score": 68584,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PRFCTCell"
         }
     ]
 }

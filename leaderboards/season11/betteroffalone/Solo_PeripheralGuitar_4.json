@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 91,
+            "score": 51144,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "flynn2382"
+        },
+        {
+            "accuracy": 91,
+            "score": 51096,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HoffMeJack"
+        },
+        {
+            "accuracy": 100,
+            "score": 51048,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RickyPez"
+        },
+        {
             "accuracy": 93,
             "score": 50922,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Mahrtcel"
-        },
-        {
-            "accuracy": 84,
-            "score": 40116,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "shadowing454"
-        },
-        {
-            "accuracy": 98,
-            "score": 40104,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Semper Volo"
-        },
-        {
-            "accuracy": 84,
-            "score": 40008,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Daanosaurus95"
         }
     ]
 }

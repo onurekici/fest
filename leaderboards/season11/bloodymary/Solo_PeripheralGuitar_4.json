@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 56345,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jetsetnickradio"
+        },
+        {
+            "accuracy": 95,
+            "score": 56343,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Rob.908"
+        },
+        {
+            "accuracy": 94,
+            "score": 56321,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Jnjos"
+        },
+        {
+            "accuracy": 100,
+            "score": 56276,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ascully"
+        },
+        {
             "accuracy": 96,
             "score": 56256,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "stray-fork95"
-        },
-        {
-            "accuracy": 99,
-            "score": 49146,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ScooterMcGavun"
-        },
-        {
-            "accuracy": 99,
-            "score": 49110,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MikuWdy"
-        },
-        {
-            "accuracy": 94,
-            "score": 49104,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Venarius_x"
-        },
-        {
-            "accuracy": 93,
-            "score": 49042,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Calcifer666"
         }
     ]
 }

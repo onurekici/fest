@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 204542,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dusty1534"
+        },
+        {
+            "accuracy": 99,
+            "score": 204541,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Uber_Syd"
+        },
+        {
+            "accuracy": 100,
             "score": 204536,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FireTr25"
-        },
-        {
-            "accuracy": 100,
-            "score": 202442,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RevoltingSlob"
-        },
-        {
-            "accuracy": 100,
-            "score": 202406,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Crim_Necr"
         }
     ]
 }

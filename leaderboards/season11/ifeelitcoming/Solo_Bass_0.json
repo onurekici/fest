@@ -546,6 +546,14 @@
         },
         {
             "accuracy": 100,
+            "score": 66001,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PurpleSDB"
+        },
+        {
+            "accuracy": 100,
             "score": 65967,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "danwizard2022"
-        },
-        {
-            "accuracy": 99,
-            "score": 60106,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xXJungle_EvilXx"
         }
     ]
 }

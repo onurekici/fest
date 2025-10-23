@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 58808,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jaxx83"
+        },
+        {
+            "accuracy": 99,
+            "score": 58779,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TTTorinator"
+        },
+        {
             "accuracy": 98,
             "score": 58756,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Tidiiz"
-        },
-        {
-            "accuracy": 99,
-            "score": 55995,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Voices_Brott"
-        },
-        {
-            "accuracy": 98,
-            "score": 55988,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StiNkySHOEman8"
         }
     ]
 }

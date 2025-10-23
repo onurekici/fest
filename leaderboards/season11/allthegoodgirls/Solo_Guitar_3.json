@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 57073,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "B1ytze"
+        },
+        {
+            "accuracy": 99,
+            "score": 57065,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Snoopjay4"
+        },
+        {
+            "accuracy": 100,
+            "score": 56964,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ImNiNjAwArIoR"
+        },
+        {
+            "accuracy": 100,
+            "score": 56932,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "IGNAZHO"
+        },
+        {
             "accuracy": 99,
             "score": 56908,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SporeSeeker"
-        },
-        {
-            "accuracy": 98,
-            "score": 52681,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "random_pun"
-        },
-        {
-            "accuracy": 99,
-            "score": 52575,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "grügle"
-        },
-        {
-            "accuracy": 98,
-            "score": 52575,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kinglycoffe"
-        },
-        {
-            "accuracy": 100,
-            "score": 52506,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Hazeleis"
         }
     ]
 }

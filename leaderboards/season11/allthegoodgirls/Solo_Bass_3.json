@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 57287,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AlmiranteMota"
+        },
+        {
+            "accuracy": 100,
             "score": 57217,
             "difficulty": 2,
             "stars": 5,
@@ -263,6 +271,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "LeafyBonzee"
+        },
+        {
+            "accuracy": 96,
+            "score": 56297,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "possiblyliz"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "isabelle_rmg"
-        },
-        {
-            "accuracy": 99,
-            "score": 52094,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mando Undead"
-        },
-        {
-            "accuracy": 99,
-            "score": 52093,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "aut0man1c"
         }
     ]
 }

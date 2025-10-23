@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 70365,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "deathRicodemon"
+        },
+        {
+            "accuracy": 99,
             "score": 70351,
             "difficulty": 3,
             "stars": 6,
@@ -737,6 +745,14 @@
             "userName": "AtariTheCat"
         },
         {
+            "accuracy": 100,
+            "score": 68325,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] VampyWidow"
+        },
+        {
             "accuracy": 99,
             "score": 68288,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HENNESVIII1302"
-        },
-        {
-            "accuracy": 100,
-            "score": 68163,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SassyWolfette23"
-        },
-        {
-            "accuracy": 100,
-            "score": 68154,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "timblade93"
         }
     ]
 }

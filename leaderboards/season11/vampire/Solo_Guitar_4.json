@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 176184,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AldingoValDu"
+        },
+        {
+            "accuracy": 100,
+            "score": 176178,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ran-1stone"
+        },
+        {
             "accuracy": 100,
             "score": 176161,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IskiloPlayer"
-        },
-        {
-            "accuracy": 99,
-            "score": 174621,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Spander Men"
-        },
-        {
-            "accuracy": 100,
-            "score": 174620,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SUQUIOMG"
         }
     ]
 }

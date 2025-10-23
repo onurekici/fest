@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 55757,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Loyd Bonfire"
+        },
+        {
+            "accuracy": 98,
             "score": 55476,
             "difficulty": 2,
             "stars": 5,
@@ -665,6 +673,14 @@
             "userName": "Rod_XIII"
         },
         {
+            "accuracy": 91,
+            "score": 15317,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Machiavelli77"
+        },
+        {
             "accuracy": 93,
             "score": 14945,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Kfeury21591"
-        },
-        {
-            "accuracy": 91,
-            "score": 9971,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "AggroToad"
-        },
-        {
-            "accuracy": 82,
-            "score": 9755,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "fearlesssmokey"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 87185,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "blabbydab"
+        },
+        {
+            "accuracy": 100,
             "score": 87162,
             "difficulty": 3,
             "stars": 6,
@@ -478,7 +486,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Mimic_Me"
+            "userName": "Lili_Slips"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LeoBonapart3"
-        },
-        {
-            "accuracy": 99,
-            "score": 85898,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Snadrazz"
         }
     ]
 }

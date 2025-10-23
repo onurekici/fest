@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 116790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MegaCаke"
+        },
+        {
+            "accuracy": 99,
+            "score": 116790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "raina_45"
+        },
+        {
             "accuracy": 99,
             "score": 116778,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Codegrabber"
-        },
-        {
-            "accuracy": 99,
-            "score": 114582,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PromisingLark577"
-        },
-        {
-            "accuracy": 100,
-            "score": 114576,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "npcrat"
         }
     ]
 }

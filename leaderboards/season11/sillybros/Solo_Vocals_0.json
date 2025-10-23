@@ -242,6 +242,14 @@
         },
         {
             "accuracy": 100,
+            "score": 128666,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shadowkit28"
+        },
+        {
+            "accuracy": 100,
             "score": 128456,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Raetician"
-        },
-        {
-            "accuracy": 99,
-            "score": 117410,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "tomate_esquisito"
         }
     ]
 }

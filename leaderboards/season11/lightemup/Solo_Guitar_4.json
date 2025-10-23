@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 178540,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SandyShook"
+        },
+        {
+            "accuracy": 100,
+            "score": 178484,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dr. Pepper Dave"
+        },
+        {
             "accuracy": 100,
             "score": 178481,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "mates2210"
-        },
-        {
-            "accuracy": 100,
-            "score": 176850,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bro.Fabi"
-        },
-        {
-            "accuracy": 100,
-            "score": 176846,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MK_Snowy"
         }
     ]
 }
