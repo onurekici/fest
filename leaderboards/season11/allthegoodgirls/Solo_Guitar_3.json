@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 57102,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JudgeGoneRogue"
+        },
+        {
             "accuracy": 100,
             "score": 57073,
             "difficulty": 3,
@@ -151,6 +159,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheGreatChUck."
+        },
+        {
+            "accuracy": 100,
+            "score": 56380,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "CubieJudy"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "IchigoTwo216"
-        },
-        {
-            "accuracy": 99,
-            "score": 52823,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Almejandro26"
-        },
-        {
-            "accuracy": 99,
-            "score": 52805,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SporeSeeker"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 61906,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cool kirbo"
+        },
+        {
+            "accuracy": 99,
+            "score": 61752,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CraftyRafty"
+        },
+        {
             "accuracy": 100,
             "score": 61748,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Kieran2029"
-        },
-        {
-            "accuracy": 99,
-            "score": 59232,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LittleGroguX"
-        },
-        {
-            "accuracy": 99,
-            "score": 59126,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ronmcknightt"
         }
     ]
 }

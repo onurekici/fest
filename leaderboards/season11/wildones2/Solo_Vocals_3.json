@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Blueflame543"
+        },
+        {
+            "accuracy": 100,
             "score": 129961,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Blazi-ken"
-        },
-        {
-            "accuracy": 99,
-            "score": 128992,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Brian Moseř"
         }
     ]
 }

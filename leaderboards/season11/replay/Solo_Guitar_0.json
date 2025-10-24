@@ -306,6 +306,14 @@
         },
         {
             "accuracy": 100,
+            "score": 170983,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kynamtran"
+        },
+        {
+            "accuracy": 100,
             "score": 170249,
             "difficulty": 3,
             "stars": 6,
@@ -495,6 +503,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "XenoGarde"
+        },
+        {
+            "accuracy": 99,
+            "score": 159705,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TotallyXerom"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Derpkun"
-        },
-        {
-            "accuracy": 99,
-            "score": 142917,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lolkipper01"
-        },
-        {
-            "accuracy": 99,
-            "score": 141408,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheStrikeofGod"
         }
     ]
 }

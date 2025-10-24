@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123067,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zhentek_"
+        },
+        {
+            "accuracy": 100,
             "score": 123053,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WakeyJosh"
-        },
-        {
-            "accuracy": 99,
-            "score": 121879,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "2DSCrow"
         }
     ]
 }

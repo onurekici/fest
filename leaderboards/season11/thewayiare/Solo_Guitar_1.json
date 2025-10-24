@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 103003,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "THE_RED_DEATH52"
+        },
+        {
+            "accuracy": 99,
+            "score": 102997,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GunZ_Softy"
+        },
+        {
+            "accuracy": 100,
             "score": 102948,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Pokemon Quests"
-        },
-        {
-            "accuracy": 100,
-            "score": 100951,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Lord Singelo"
-        },
-        {
-            "accuracy": 100,
-            "score": 100939,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Azakano"
         }
     ]
 }

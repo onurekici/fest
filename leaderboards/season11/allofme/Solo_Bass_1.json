@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 128100,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Beastly Pianist"
+        },
+        {
+            "accuracy": 100,
+            "score": 128017,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MatureActor4645"
+        },
+        {
+            "accuracy": 100,
             "score": 128000,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Wbrr."
-        },
-        {
-            "accuracy": 99,
-            "score": 120425,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GdVict0r"
-        },
-        {
-            "accuracy": 99,
-            "score": 120408,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wizard_demon10"
         }
     ]
 }

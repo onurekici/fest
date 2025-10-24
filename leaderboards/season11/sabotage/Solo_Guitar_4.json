@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 175976,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "foxhound00000"
+        },
+        {
+            "accuracy": 99,
+            "score": 175965,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DeviceMaster30"
+        },
+        {
             "accuracy": 99,
             "score": 175944,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Norox77"
-        },
-        {
-            "accuracy": 100,
-            "score": 173498,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TheBrickBrack"
-        },
-        {
-            "accuracy": 100,
-            "score": 173461,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Weskers Milker"
         }
     ]
 }

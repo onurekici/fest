@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 128937,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Callum Davie"
+        },
+        {
+            "accuracy": 99,
             "score": 128923,
             "difficulty": 3,
             "stars": 6,
@@ -79,6 +87,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "User-b6d1053134"
+        },
+        {
+            "accuracy": 100,
+            "score": 128484,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OutsideHarry2208"
         },
         {
             "accuracy": 99,
@@ -351,14 +367,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Bay_Brezzey"
-        },
-        {
-            "accuracy": 99,
-            "score": 127248,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "OutsideHarry2208"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DarkPandaa34"
-        },
-        {
-            "accuracy": 100,
-            "score": 125205,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "streetspirit97"
         }
     ]
 }

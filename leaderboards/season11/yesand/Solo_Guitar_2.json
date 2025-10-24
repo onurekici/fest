@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 101244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RadialRocket"
+        },
+        {
             "accuracy": 100,
             "score": 101241,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Erephim"
-        },
-        {
-            "accuracy": 100,
-            "score": 99492,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DanieloDaver"
         }
     ]
 }

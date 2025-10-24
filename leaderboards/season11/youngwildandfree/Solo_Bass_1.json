@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87281,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LolmanBoss"
+        },
+        {
             "accuracy": 99,
             "score": 87123,
             "difficulty": 3,
@@ -730,11 +738,27 @@
         },
         {
             "accuracy": 99,
+            "score": 80265,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "shauna ʚïɞ"
+        },
+        {
+            "accuracy": 99,
             "score": 80252,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "zwytze"
+        },
+        {
+            "accuracy": 99,
+            "score": 80244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kyorbius"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "USMC Wandy"
-        },
-        {
-            "accuracy": 99,
-            "score": 79477,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ToruHaydee"
-        },
-        {
-            "accuracy": 99,
-            "score": 79360,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GreenRex2000"
-        },
-        {
-            "accuracy": 99,
-            "score": 79070,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "paya.bot"
         }
     ]
 }

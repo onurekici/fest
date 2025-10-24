@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 154374,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Actual_Weapon"
+        },
+        {
+            "accuracy": 100,
+            "score": 154368,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BlastingGT"
+        },
+        {
             "accuracy": 100,
             "score": 154362,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TojisGöödBöy"
-        },
-        {
-            "accuracy": 100,
-            "score": 152976,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Panda_rona94"
-        },
-        {
-            "accuracy": 100,
-            "score": 152964,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mara Trina"
         }
     ]
 }

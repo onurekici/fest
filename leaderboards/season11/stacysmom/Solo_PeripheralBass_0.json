@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 152574,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "THEAVETEAM-"
+        },
+        {
             "accuracy": 99,
             "score": 146382,
             "difficulty": 3,
@@ -33,12 +41,28 @@
             "userName": "Vanilla I.C.E"
         },
         {
+            "accuracy": 96,
+            "score": 74922,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Darkmagicgamer2"
+        },
+        {
             "accuracy": 97,
             "score": 65045,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "Gavin935115"
+        },
+        {
+            "accuracy": 99,
+            "score": 59463,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "trina2021"
         }
     ]
 }

@@ -18,6 +18,14 @@
         },
         {
             "accuracy": 100,
+            "score": 213756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "nukorio"
+        },
+        {
+            "accuracy": 100,
             "score": 213672,
             "difficulty": 3,
             "stars": 6,
@@ -409,6 +417,14 @@
             "userName": "Its_Kaeru"
         },
         {
+            "accuracy": 99,
+            "score": 201035,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OneDayOfPiece"
+        },
+        {
             "accuracy": 100,
             "score": 200640,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "T-mac1236"
-        },
-        {
-            "accuracy": 99,
-            "score": 192401,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AquaMelonCholy"
-        },
-        {
-            "accuracy": 100,
-            "score": 192396,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mikeyshred"
         }
     ]
 }

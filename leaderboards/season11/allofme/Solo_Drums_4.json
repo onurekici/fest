@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 168735,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ryūkzen"
+        },
+        {
+            "accuracy": 99,
             "score": 168728,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CodeRezah"
-        },
-        {
-            "accuracy": 100,
-            "score": 161568,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "KardKtulhu"
         }
     ]
 }

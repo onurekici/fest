@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 70301,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "112moi"
+        },
+        {
             "accuracy": 99,
             "score": 70295,
             "difficulty": 3,
@@ -215,6 +223,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "FrancX_a"
+        },
+        {
+            "accuracy": 100,
+            "score": 69488,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Klyt Fisto"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HowIWreckedGoku"
-        },
-        {
-            "accuracy": 98,
-            "score": 67606,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CC Goofy_Gubert"
-        },
-        {
-            "accuracy": 99,
-            "score": 67565,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LadyLunaTsuki"
         }
     ]
 }

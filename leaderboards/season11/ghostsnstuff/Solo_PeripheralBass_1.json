@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 50492,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ViperSLM"
+        },
+        {
+            "accuracy": 97,
+            "score": 50413,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "L0ngr0dHugendong"
+        },
+        {
             "accuracy": 99,
             "score": 50166,
             "difficulty": 3,
@@ -111,6 +127,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TomFaulty"
+        },
+        {
+            "accuracy": 97,
+            "score": 44595,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "xVibri"
         },
         {
             "accuracy": 97,
@@ -351,14 +375,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "JimFromJoe"
-        },
-        {
-            "accuracy": 95,
-            "score": 30113,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "xVibri"
         },
         {
             "accuracy": 94,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "hayDur0814"
-        },
-        {
-            "accuracy": 84,
-            "score": 10432,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Akei"
-        },
-        {
-            "accuracy": 93,
-            "score": 9955,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ShiroThePilot"
         }
     ]
 }

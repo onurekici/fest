@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 25,
+            "score": 6107,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 43,
+            "score": 4554,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 12,
+            "score": 1008,
+            "difficulty": 1,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 0,
             "score": 0,
             "difficulty": 1,
             "stars": 0,
             "fullcombo": false,
-            "userName": "ᵗⁱᵏᵗᵒᵏ Skye Ilai"
+            "userName": null
         },
         {
             "accuracy": 0,
@@ -14,7 +38,7 @@
             "difficulty": 3,
             "stars": 0,
             "fullcombo": false,
-            "userName": "SUMMERxRAINS"
+            "userName": null
         }
     ]
 }

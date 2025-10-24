@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 55410,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kaicraftninja"
+        },
+        {
+            "accuracy": 81,
+            "score": 55386,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheHatefulBread"
+        },
+        {
+            "accuracy": 98,
+            "score": 55253,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Scomby64"
+        },
+        {
             "accuracy": 95,
             "score": 55227,
             "difficulty": 3,
@@ -529,6 +553,14 @@
             "userName": "TJ7350"
         },
         {
+            "accuracy": 95,
+            "score": 50154,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Darth_destroyer7"
+        },
+        {
             "accuracy": 96,
             "score": 50127,
             "difficulty": 2,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Bravo Lopez"
-        },
-        {
-            "accuracy": 99,
-            "score": 47671,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "nachostifler23"
-        },
-        {
-            "accuracy": 99,
-            "score": 47568,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TurqAzure"
-        },
-        {
-            "accuracy": 90,
-            "score": 47498,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Boosh Gadoosh"
-        },
-        {
-            "accuracy": 98,
-            "score": 47219,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SubtleColor"
         }
     ]
 }

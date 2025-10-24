@@ -146,6 +146,14 @@
         },
         {
             "accuracy": 100,
+            "score": 136014,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Metallica1337"
+        },
+        {
+            "accuracy": 100,
             "score": 135765,
             "difficulty": 3,
             "stars": 6,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WesołyMichał"
+        },
+        {
+            "accuracy": 100,
+            "score": 133952,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lex54224"
         },
         {
             "accuracy": 100,
@@ -359,6 +375,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Some Mixed Nutz"
+        },
+        {
+            "accuracy": 99,
+            "score": 129743,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "てあはねむい"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SquishyPaytas"
-        },
-        {
-            "accuracy": 99,
-            "score": 123591,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chunphrey"
-        },
-        {
-            "accuracy": 99,
-            "score": 123361,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hobbes_81"
-        },
-        {
-            "accuracy": 99,
-            "score": 123212,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "YaBoiChubbz29"
         }
     ]
 }

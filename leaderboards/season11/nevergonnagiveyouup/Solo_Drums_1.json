@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 186720,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SpewTwo"
+        },
+        {
+            "accuracy": 100,
+            "score": 186684,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GalaxyMP"
+        },
+        {
+            "accuracy": 100,
             "score": 186660,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Brownie Man10"
-        },
-        {
-            "accuracy": 100,
-            "score": 183486,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ant_3000"
-        },
-        {
-            "accuracy": 99,
-            "score": 183480,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Itz Thurbz"
         }
     ]
 }
