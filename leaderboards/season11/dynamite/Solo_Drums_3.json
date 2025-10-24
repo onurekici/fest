@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123894,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "joohn_solo"
+        },
+        {
+            "accuracy": 98,
+            "score": 123330,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HUHNEI"
+        },
+        {
+            "accuracy": 99,
             "score": 123270,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "killwoobee"
-        },
-        {
-            "accuracy": 98,
-            "score": 111864,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "demongirlmik"
-        },
-        {
-            "accuracy": 99,
-            "score": 111840,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mykol53"
         }
     ]
 }

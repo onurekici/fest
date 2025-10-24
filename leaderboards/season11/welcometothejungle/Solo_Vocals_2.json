@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123109,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GemSlayer Spinel"
+        },
+        {
             "accuracy": 100,
             "score": 123104,
             "difficulty": 3,
@@ -474,6 +482,14 @@
         },
         {
             "accuracy": 100,
+            "score": 121648,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "synthetichorror"
+        },
+        {
+            "accuracy": 100,
             "score": 121620,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Boingo_rabbit"
-        },
-        {
-            "accuracy": 100,
-            "score": 120908,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SoggyMonkei"
-        },
-        {
-            "accuracy": 100,
-            "score": 120885,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ViperGreenStorm"
         }
     ]
 }

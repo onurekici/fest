@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42895,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Tns Alvaro"
+        },
+        {
             "accuracy": 94,
             "score": 42802,
             "difficulty": 2,
@@ -529,6 +537,14 @@
             "userName": "noclue_gracelou"
         },
         {
+            "accuracy": 91,
+            "score": 20657,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "EarlySlide9165"
+        },
+        {
             "accuracy": 89,
             "score": 20596,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "TTV-BetUrBadBro"
-        },
-        {
-            "accuracy": 71,
-            "score": 7652,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "GusGus.2017"
-        },
-        {
-            "accuracy": 94,
-            "score": 7649,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "JzyJaz"
         }
     ]
 }

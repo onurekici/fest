@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 200238,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "grovz15"
+        },
+        {
+            "accuracy": 100,
+            "score": 200014,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mutseki"
+        },
+        {
+            "accuracy": 99,
             "score": 199943,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "chefknot_hyrule1"
-        },
-        {
-            "accuracy": 99,
-            "score": 191913,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SPACEKIQS"
-        },
-        {
-            "accuracy": 100,
-            "score": 191819,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DeEmOh_"
         }
     ]
 }

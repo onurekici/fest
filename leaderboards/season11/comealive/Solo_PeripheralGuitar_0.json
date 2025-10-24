@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 103532,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jorge_rockr"
+        },
+        {
+            "accuracy": 100,
             "score": 102595,
             "difficulty": 3,
             "stars": 6,
@@ -55,14 +63,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "eripovic.ttv"
-        },
-        {
-            "accuracy": 100,
-            "score": 92708,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jorge_rockr"
         },
         {
             "accuracy": 98,
@@ -249,12 +249,28 @@
             "userName": "[XBL] jimbury"
         },
         {
+            "accuracy": 95,
+            "score": 80135,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ExtinctPizza163"
+        },
+        {
             "accuracy": 97,
             "score": 79975,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "ShinMicky666"
+        },
+        {
+            "accuracy": 97,
+            "score": 79682,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tommyjones330"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ColtonsBull"
-        },
-        {
-            "accuracy": 81,
-            "score": 62150,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SOLA.chrizzz_06"
-        },
-        {
-            "accuracy": 81,
-            "score": 61028,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sardawnic"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 58880,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "maniac with c4"
+        },
+        {
+            "accuracy": 98,
+            "score": 58872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sabruiz83"
+        },
+        {
+            "accuracy": 100,
             "score": 58869,
             "difficulty": 3,
             "stars": 6,
@@ -305,20 +321,20 @@
             "userName": "Fah_Q_14"
         },
         {
-            "accuracy": 99,
-            "score": 57712,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ABurntFingr"
-        },
-        {
             "accuracy": 98,
             "score": 57708,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "eFx_Delirious"
+        },
+        {
+            "accuracy": 99,
+            "score": 57680,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GaelThe3rd"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GodEmperorJack"
-        },
-        {
-            "accuracy": 99,
-            "score": 56106,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AUSTRALIA_BRO"
-        },
-        {
-            "accuracy": 99,
-            "score": 56083,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItsCiyei"
         }
     ]
 }

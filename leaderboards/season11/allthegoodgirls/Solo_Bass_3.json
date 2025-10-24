@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 57366,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SH0CKER KEANE"
+        },
+        {
+            "accuracy": 100,
+            "score": 57365,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "twon1e"
+        },
+        {
             "accuracy": 98,
             "score": 57298,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Qc_Lunariaoff"
-        },
-        {
-            "accuracy": 98,
-            "score": 52262,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Teratey0"
-        },
-        {
-            "accuracy": 99,
-            "score": 52256,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "nonocrosing"
         }
     ]
 }

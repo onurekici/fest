@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 77970,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cynicalgman2001"
+        },
+        {
+            "accuracy": 99,
+            "score": 77856,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DomTheBom06"
+        },
+        {
             "accuracy": 99,
             "score": 77856,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Taliosaaah"
-        },
-        {
-            "accuracy": 95,
-            "score": 74406,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DeityWayzz"
-        },
-        {
-            "accuracy": 99,
-            "score": 74394,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThisCompanySmell"
         }
     ]
 }

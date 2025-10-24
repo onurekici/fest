@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 60846,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BenjiBlackBerry"
+        },
+        {
+            "accuracy": 100,
+            "score": 60790,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "pblreza"
+        },
+        {
             "accuracy": 73,
             "score": 60498,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GettingYourGoat"
-        },
-        {
-            "accuracy": 95,
-            "score": 47345,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CivicHamster427"
-        },
-        {
-            "accuracy": 82,
-            "score": 47314,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SuperlexJr2"
         }
     ]
 }

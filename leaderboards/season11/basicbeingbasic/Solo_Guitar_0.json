@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 65375,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jermaine thė dog"
+        },
+        {
+            "accuracy": 100,
             "score": 65304,
             "difficulty": 3,
             "stars": 6,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MidnightKing13"
+        },
+        {
+            "accuracy": 99,
+            "score": 55160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "EnchiladaMamí69"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "EmrysMoon"
-        },
-        {
-            "accuracy": 95,
-            "score": 36511,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "User-4d9d1c59c3"
-        },
-        {
-            "accuracy": 96,
-            "score": 35966,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tubster_"
         }
     ]
 }

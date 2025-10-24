@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 137896,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Waddlebot"
+        },
+        {
+            "accuracy": 100,
+            "score": 137877,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HaveNoHp"
+        },
+        {
             "accuracy": 99,
             "score": 137865,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ᶜʰᵃᵏᵃ 友"
-        },
-        {
-            "accuracy": 100,
-            "score": 135047,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iagogabriel"
-        },
-        {
-            "accuracy": 100,
-            "score": 135019,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StrawberiFox"
         }
     ]
 }

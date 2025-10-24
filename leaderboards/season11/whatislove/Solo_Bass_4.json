@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 141360,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hernandez161103"
+        },
+        {
+            "accuracy": 100,
+            "score": 141324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "hola_rentnerin"
+        },
+        {
             "accuracy": 100,
             "score": 141282,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Scodysk"
-        },
-        {
-            "accuracy": 99,
-            "score": 138906,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GiggyFerret6318"
-        },
-        {
-            "accuracy": 98,
-            "score": 138876,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Feenax"
         }
     ]
 }

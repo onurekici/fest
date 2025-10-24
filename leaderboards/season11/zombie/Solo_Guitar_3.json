@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 201024,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ruduludo"
+        },
+        {
+            "accuracy": 99,
+            "score": 201021,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bullseye822"
+        },
+        {
             "accuracy": 99,
             "score": 201019,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Corvus_Zen"
-        },
-        {
-            "accuracy": 100,
-            "score": 199441,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ReLocks ALT"
-        },
-        {
-            "accuracy": 100,
-            "score": 199435,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "V E X A シ"
         }
     ]
 }

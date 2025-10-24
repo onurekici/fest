@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 61106,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DesuRaboot"
+        },
+        {
+            "accuracy": 100,
+            "score": 61033,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cpt_Nem07"
+        },
+        {
             "accuracy": 100,
             "score": 60984,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NerfHerder1197"
-        },
-        {
-            "accuracy": 100,
-            "score": 58880,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "maniac with c4"
-        },
-        {
-            "accuracy": 98,
-            "score": 58872,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "sabruiz83"
         }
     ]
 }

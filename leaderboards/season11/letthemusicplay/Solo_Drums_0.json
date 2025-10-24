@@ -386,6 +386,14 @@
         },
         {
             "accuracy": 100,
+            "score": 127002,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "X Keliber"
+        },
+        {
+            "accuracy": 100,
             "score": 126552,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Totocino91"
-        },
-        {
-            "accuracy": 99,
-            "score": 117108,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "nivxsky"
         }
     ]
 }

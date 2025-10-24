@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 141461,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ozzy Dubs"
+        },
+        {
+            "accuracy": 99,
+            "score": 141450,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "whiteravenjp"
+        },
+        {
+            "accuracy": 100,
             "score": 141433,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Superheroodessey"
-        },
-        {
-            "accuracy": 100,
-            "score": 139069,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "roogymirror"
-        },
-        {
-            "accuracy": 100,
-            "score": 139055,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mads20_21"
         }
     ]
 }

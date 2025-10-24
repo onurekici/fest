@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 35921,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Time_LordJ"
+        },
+        {
             "accuracy": 99,
             "score": 35752,
             "difficulty": 2,
@@ -223,6 +231,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "HextraHare"
+        },
+        {
+            "accuracy": 99,
+            "score": 32815,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RigbyParagon"
         },
         {
             "accuracy": 100,
@@ -586,6 +602,14 @@
         },
         {
             "accuracy": 97,
+            "score": 22837,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AzearAsheron"
+        },
+        {
+            "accuracy": 97,
             "score": 22607,
             "difficulty": 2,
             "stars": 4,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Raithgar"
-        },
-        {
-            "accuracy": 98,
-            "score": 17397,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "lil_cappuccino"
-        },
-        {
-            "accuracy": 98,
-            "score": 16769,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "BIG CURT904"
-        },
-        {
-            "accuracy": 100,
-            "score": 16745,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Janulik587"
         }
     ]
 }

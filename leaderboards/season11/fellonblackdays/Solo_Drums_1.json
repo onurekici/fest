@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 225438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Knight Linkz"
+        },
+        {
+            "accuracy": 99,
             "score": 225402,
             "difficulty": 3,
             "stars": 6,
@@ -34,10 +42,10 @@
         },
         {
             "accuracy": 100,
-            "score": 224112,
+            "score": 224340,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "Gooob"
         },
         {
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "WESHALLPERISH"
-        },
-        {
-            "accuracy": 98,
-            "score": 128020,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "spradlingang"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 71184,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PandaGaming583"
+        },
+        {
+            "accuracy": 100,
+            "score": 71160,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "JarJarFreaks"
+        },
+        {
             "accuracy": 98,
             "score": 71154,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CptShenanigans"
-        },
-        {
-            "accuracy": 100,
-            "score": 65620,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SoldierBoy_10"
-        },
-        {
-            "accuracy": 99,
-            "score": 65605,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GoontownmarcusTV"
         }
     ]
 }

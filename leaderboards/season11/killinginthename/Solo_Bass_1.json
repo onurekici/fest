@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 254566,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "stacey_2024"
+        },
+        {
+            "accuracy": 100,
             "score": 254558,
             "difficulty": 3,
             "stars": 6,
@@ -23,14 +31,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "cristateu"
-        },
-        {
-            "accuracy": 100,
-            "score": 254256,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Twitch Frightwtf"
         },
         {
             "accuracy": 100,
@@ -793,12 +793,12 @@
             "userName": "KingOfSpaceOne"
         },
         {
-            "accuracy": 100,
-            "score": 245672,
+            "accuracy": 99,
+            "score": 245682,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
-            "userName": "CanadianMarx"
+            "fullcombo": false,
+            "userName": "kah_-"
         }
     ]
 }

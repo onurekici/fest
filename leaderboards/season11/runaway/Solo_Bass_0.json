@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 44926,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JennyXJ-9Wakeman"
+        },
+        {
+            "accuracy": 100,
             "score": 44745,
             "difficulty": 3,
             "stars": 6,
@@ -466,6 +474,14 @@
         },
         {
             "accuracy": 99,
+            "score": 34602,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LackingSubstance"
+        },
+        {
+            "accuracy": 99,
             "score": 34021,
             "difficulty": 3,
             "stars": 6,
@@ -543,6 +559,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Papi_Dan"
+        },
+        {
+            "accuracy": 100,
+            "score": 31688,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ItsToRealForYou"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "WinterFolf."
-        },
-        {
-            "accuracy": 97,
-            "score": 23400,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Acendraツ"
-        },
-        {
-            "accuracy": 99,
-            "score": 23263,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Orion204"
-        },
-        {
-            "accuracy": 96,
-            "score": 23245,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "srTaco al pastor"
         }
     ]
 }

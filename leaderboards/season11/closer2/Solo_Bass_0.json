@@ -218,6 +218,14 @@
         },
         {
             "accuracy": 100,
+            "score": 81233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Katikafa25"
+        },
+        {
+            "accuracy": 100,
             "score": 81114,
             "difficulty": 3,
             "stars": 6,
@@ -665,6 +673,14 @@
             "userName": "User-24ade09023"
         },
         {
+            "accuracy": 99,
+            "score": 69600,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Duality-Rules"
+        },
+        {
             "accuracy": 100,
             "score": 69376,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TwistedFireAngel"
-        },
-        {
-            "accuracy": 100,
-            "score": 67074,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MrSpaceMan007"
-        },
-        {
-            "accuracy": 98,
-            "score": 66983,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TaffyMan15"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 240978,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RS58_PDS"
+        },
+        {
             "accuracy": 99,
             "score": 240945,
             "difficulty": 3,
@@ -255,6 +263,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Shøckzy"
+        },
+        {
+            "accuracy": 100,
+            "score": 239676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheEnderAJ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Astral_Suture"
-        },
-        {
-            "accuracy": 99,
-            "score": 237249,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "inHaste"
-        },
-        {
-            "accuracy": 100,
-            "score": 237236,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Beil2087"
         }
     ]
 }

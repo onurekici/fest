@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 116653,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "faker gio"
+        },
+        {
             "accuracy": 99,
             "score": 116616,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Neongrxvstones"
-        },
-        {
-            "accuracy": 99,
-            "score": 115094,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GoobyMarco"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65620,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SoldierBoy_10"
+        },
+        {
+            "accuracy": 99,
+            "score": 65605,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GoontownmarcusTV"
+        },
+        {
+            "accuracy": 100,
             "score": 65560,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Don Julio 28"
-        },
-        {
-            "accuracy": 99,
-            "score": 59365,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Janarla Mercy"
-        },
-        {
-            "accuracy": 98,
-            "score": 59358,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HAROOBUNNY"
         }
     ]
 }

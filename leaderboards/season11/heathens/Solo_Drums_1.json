@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 92868,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mr Carroña"
+        },
+        {
+            "accuracy": 100,
             "score": 92778,
             "difficulty": 3,
             "stars": 6,
@@ -778,27 +786,19 @@
         },
         {
             "accuracy": 99,
+            "score": 77856,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "iQueenyy"
+        },
+        {
+            "accuracy": 99,
             "score": 77802,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "TravisSquirt"
-        },
-        {
-            "accuracy": 100,
-            "score": 77600,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Chucky_Cheese96"
-        },
-        {
-            "accuracy": 98,
-            "score": 76338,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FerociousFIippy"
         }
     ]
 }

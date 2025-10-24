@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 284790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Poinkish"
+        },
+        {
             "accuracy": 98,
             "score": 284141,
             "difficulty": 3,
@@ -218,6 +226,14 @@
         },
         {
             "accuracy": 98,
+            "score": 265497,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[PSN] FAQ_Cattasrophy"
+        },
+        {
+            "accuracy": 98,
             "score": 265029,
             "difficulty": 3,
             "stars": 6,
@@ -367,14 +383,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dumbme_32"
-        },
-        {
-            "accuracy": 97,
-            "score": 254770,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "[PSN] FAQ_Cattasrophy"
         },
         {
             "accuracy": 98,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "faq help"
-        },
-        {
-            "accuracy": 98,
-            "score": 217345,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "viceowengaming"
         }
     ]
 }

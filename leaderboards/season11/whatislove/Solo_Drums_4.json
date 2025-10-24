@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 230676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zekroz."
+        },
+        {
+            "accuracy": 99,
+            "score": 230652,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dan7K89"
+        },
+        {
             "accuracy": 99,
             "score": 230628,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Judgment_Kazzy90"
-        },
-        {
-            "accuracy": 99,
-            "score": 227376,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lineuzinhoo2"
-        },
-        {
-            "accuracy": 99,
-            "score": 227328,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Woyander"
         }
     ]
 }

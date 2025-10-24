@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 193284,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Felix Outsider"
+        },
+        {
+            "accuracy": 100,
             "score": 192258,
             "difficulty": 3,
             "stars": 6,
@@ -329,6 +337,14 @@
             "userName": "angelboy8176pro"
         },
         {
+            "accuracy": 99,
+            "score": 151098,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Caerukon"
+        },
+        {
             "accuracy": 98,
             "score": 150913,
             "difficulty": 3,
@@ -543,6 +559,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "killa_jord98"
+        },
+        {
+            "accuracy": 97,
+            "score": 107034,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Jaxmaccos"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "NoisyWhistle"
-        },
-        {
-            "accuracy": 97,
-            "score": 71026,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SirGentleCat"
-        },
-        {
-            "accuracy": 93,
-            "score": 70848,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Kaler_Dust"
-        },
-        {
-            "accuracy": 96,
-            "score": 70767,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "HavokWerewolf"
         }
     ]
 }

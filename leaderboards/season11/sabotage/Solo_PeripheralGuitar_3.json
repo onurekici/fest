@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 91,
+            "score": 89348,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "MrTTheFifth"
+        },
+        {
+            "accuracy": 99,
+            "score": 89177,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "disturbed_p1ayer"
+        },
+        {
             "accuracy": 100,
             "score": 89141,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "deadone1423"
-        },
-        {
-            "accuracy": 100,
-            "score": 57347,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SilentMess6"
-        },
-        {
-            "accuracy": 92,
-            "score": 56877,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jolonator5150"
         }
     ]
 }

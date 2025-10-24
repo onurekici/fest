@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 62286,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "hitchon"
+        },
+        {
+            "accuracy": 100,
+            "score": 62220,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Nichtig_raupe"
+        },
+        {
+            "accuracy": 98,
             "score": 61896,
             "difficulty": 3,
             "stars": 6,
@@ -190,7 +206,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": "赤字の黒字"
+            "userName": "あわてんぼバス巨匠"
         },
         {
             "accuracy": 99,
@@ -385,12 +401,28 @@
             "userName": "Nw_m"
         },
         {
+            "accuracy": 99,
+            "score": 54745,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AstralPixel"
+        },
+        {
             "accuracy": 97,
             "score": 54570,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "RegularNewt14"
+        },
+        {
+            "accuracy": 96,
+            "score": 54564,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SRL_Seacorn"
         },
         {
             "accuracy": 99,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ZEFIvv"
-        },
-        {
-            "accuracy": 98,
-            "score": 44166,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "I am Legend 06"
-        },
-        {
-            "accuracy": 97,
-            "score": 43902,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "EllyTrash"
-        },
-        {
-            "accuracy": 97,
-            "score": 43880,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KIRABM17000"
-        },
-        {
-            "accuracy": 96,
-            "score": 43662,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SearchForSense"
         }
     ]
 }
