@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 141198,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ArDissidia"
+        },
+        {
+            "accuracy": 100,
             "score": 140640,
             "difficulty": 3,
             "stars": 6,
@@ -241,12 +249,28 @@
             "userName": "Jannix567"
         },
         {
+            "accuracy": 96,
+            "score": 59514,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "GOONS PC"
+        },
+        {
             "accuracy": 97,
             "score": 58344,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "SeanFolfo"
+        },
+        {
+            "accuracy": 93,
+            "score": 57000,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Internautilo"
         },
         {
             "accuracy": 93,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "StudiousScoutFan"
-        },
-        {
-            "accuracy": 88,
-            "score": 29628,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "AfroSkeleton97"
-        },
-        {
-            "accuracy": 87,
-            "score": 29592,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "eversincexo"
-        },
-        {
-            "accuracy": 93,
-            "score": 29178,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "4n41Dragon"
         }
     ]
 }

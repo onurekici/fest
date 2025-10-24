@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 70652,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SuperZane525"
+        },
+        {
+            "accuracy": 99,
+            "score": 70306,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "p1nkjuulp0d"
+        },
+        {
             "accuracy": 99,
             "score": 70301,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "ramsey.exe"
+        },
+        {
+            "accuracy": 100,
+            "score": 70013,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "talesmoraes"
         },
         {
             "accuracy": 100,
@@ -263,6 +287,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Baby Fischi ツ"
+        },
+        {
+            "accuracy": 99,
+            "score": 62872,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mc_Mustang"
         },
         {
             "accuracy": 99,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "huter_gamer"
-        },
-        {
-            "accuracy": 95,
-            "score": 31948,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "wolfie_paradox"
-        },
-        {
-            "accuracy": 95,
-            "score": 30804,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "LS shadow_galaxy"
-        },
-        {
-            "accuracy": 96,
-            "score": 29925,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "KRAZZY_KURLUCKS"
-        },
-        {
-            "accuracy": 96,
-            "score": 29808,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "[XBL] azcutie37"
         }
     ]
 }

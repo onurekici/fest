@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 199546,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "A_ShyGuy"
+        },
+        {
+            "accuracy": 100,
             "score": 199389,
             "difficulty": 3,
             "stars": 6,
@@ -226,6 +234,14 @@
         },
         {
             "accuracy": 99,
+            "score": 196251,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Snafu-AJ"
+        },
+        {
+            "accuracy": 99,
             "score": 196014,
             "difficulty": 3,
             "stars": 6,
@@ -431,6 +447,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sam2009769"
+        },
+        {
+            "accuracy": 99,
+            "score": 192300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "StudiousScoutFan"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RockyRambos"
-        },
-        {
-            "accuracy": 99,
-            "score": 187108,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Warmind225"
-        },
-        {
-            "accuracy": 100,
-            "score": 187096,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SlayerBlindado"
-        },
-        {
-            "accuracy": 98,
-            "score": 186996,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "luvluis777"
         }
     ]
 }
