@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 43458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cinskychleba"
+        },
+        {
+            "accuracy": 99,
+            "score": 43440,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FAL113N"
+        },
+        {
+            "accuracy": 100,
             "score": 43410,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lord_Pordor"
-        },
-        {
-            "accuracy": 100,
-            "score": 42252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "León gzz"
-        },
-        {
-            "accuracy": 99,
-            "score": 42252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Takypupi"
         }
     ]
 }

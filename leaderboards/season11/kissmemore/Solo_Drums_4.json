@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 141486,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThomasTusk"
+        },
+        {
+            "accuracy": 99,
+            "score": 141480,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mayhem_child"
+        },
+        {
             "accuracy": 99,
             "score": 141450,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "B3ast.tktok"
-        },
-        {
-            "accuracy": 99,
-            "score": 136092,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Black_reaperXRP"
-        },
-        {
-            "accuracy": 99,
-            "score": 136032,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AngelxDust."
         }
     ]
 }

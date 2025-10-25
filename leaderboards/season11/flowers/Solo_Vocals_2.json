@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100901,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "UltraDarkKitty"
+        },
+        {
+            "accuracy": 99,
+            "score": 100459,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GimmieSnacc"
+        },
+        {
+            "accuracy": 100,
             "score": 99944,
             "difficulty": 3,
             "stars": 6,
@@ -71,6 +87,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ZB Reevs"
+        },
+        {
+            "accuracy": 100,
+            "score": 99410,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "pauletez"
         },
         {
             "accuracy": 100,
@@ -207,14 +231,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Yoshi4Boshi"
-        },
-        {
-            "accuracy": 100,
-            "score": 98410,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "pauletez"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Twitch Shonnabae"
-        },
-        {
-            "accuracy": 88,
-            "score": 89387,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tpdogbattles384"
-        },
-        {
-            "accuracy": 99,
-            "score": 89131,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BlueKitty_07"
         }
     ]
 }

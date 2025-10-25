@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 209291,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SensaiGaia1"
+        },
+        {
+            "accuracy": 99,
+            "score": 209138,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ChosoLuvrrr"
+        },
+        {
             "accuracy": 99,
             "score": 209131,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Goya_Rice"
-        },
-        {
-            "accuracy": 99,
-            "score": 201419,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AlphaSc0rpii"
-        },
-        {
-            "accuracy": 99,
-            "score": 201340,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KalebB827"
         }
     ]
 }

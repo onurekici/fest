@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 272670,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "igorn448"
+        },
+        {
             "accuracy": 99,
             "score": 272670,
             "difficulty": 3,
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RavioliEX"
+        },
+        {
+            "accuracy": 99,
+            "score": 268764,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Apatrick2006"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KeegMac"
-        },
-        {
-            "accuracy": 99,
-            "score": 263220,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "bordguy"
-        },
-        {
-            "accuracy": 99,
-            "score": 263196,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "66_Calamitol_66"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "León gzz"
+        },
+        {
+            "accuracy": 99,
+            "score": 42252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Takypupi"
+        },
+        {
             "accuracy": 99,
             "score": 42234,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[XBL] KHx22MZ"
-        },
-        {
-            "accuracy": 99,
-            "score": 41310,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GajmanPlays"
-        },
-        {
-            "accuracy": 100,
-            "score": 41310,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BezaoCR"
         }
     ]
 }

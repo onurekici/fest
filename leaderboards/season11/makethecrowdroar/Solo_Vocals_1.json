@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123737,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RonnieTorres"
+        },
+        {
+            "accuracy": 100,
             "score": 123685,
             "difficulty": 3,
             "stars": 6,
@@ -39,6 +47,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "illûsia"
+        },
+        {
+            "accuracy": 100,
+            "score": 123436,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Paddy1timeYT."
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Taco guy."
-        },
-        {
-            "accuracy": 100,
-            "score": 115640,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "OblivionQueenie"
-        },
-        {
-            "accuracy": 99,
-            "score": 115623,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EvilBeauty13"
         }
     ]
 }

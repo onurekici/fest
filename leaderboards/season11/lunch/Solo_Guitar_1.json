@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 47140,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DmgedSoul"
+        },
+        {
             "accuracy": 100,
             "score": 47137,
             "difficulty": 3,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "JabbaFrogs"
+        },
+        {
+            "accuracy": 100,
+            "score": 46976,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TristarXIII"
         },
         {
             "accuracy": 100,
@@ -367,14 +383,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "The_Greek_Sith"
-        },
-        {
-            "accuracy": 100,
-            "score": 46762,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TristarXIII"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Uttabuttah"
-        },
-        {
-            "accuracy": 100,
-            "score": 46455,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CloudAntuan"
         }
     ]
 }

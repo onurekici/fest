@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 77035,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "sonic_dylan_wwe"
+        },
+        {
             "accuracy": 99,
             "score": 76730,
             "difficulty": 2,
@@ -103,6 +111,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "MareleStefan"
+        },
+        {
+            "accuracy": 100,
+            "score": 74665,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MsShuniro"
         },
         {
             "accuracy": 99,
@@ -281,6 +297,14 @@
             "userName": "MaGnOzInHo"
         },
         {
+            "accuracy": 99,
+            "score": 70855,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "rosiedawg758"
+        },
+        {
             "accuracy": 98,
             "score": 70812,
             "difficulty": 3,
@@ -359,14 +383,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ProfSweetTe"
-        },
-        {
-            "accuracy": 99,
-            "score": 68175,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MsShuniro"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "givingc4unt"
-        },
-        {
-            "accuracy": 97,
-            "score": 58758,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LorenaFirmino"
-        },
-        {
-            "accuracy": 99,
-            "score": 58716,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MufaSarabi"
         }
     ]
 }

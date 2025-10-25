@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 13440,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Psj1974"
+        },
+        {
+            "accuracy": 100,
+            "score": 13340,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TinyWinter"
+        },
+        {
             "accuracy": 100,
             "score": 13312,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Sunkcreater1969"
-        },
-        {
-            "accuracy": 86,
-            "score": 5736,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "TylerJB5"
-        },
-        {
-            "accuracy": 28,
-            "score": 5699,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "FotgamerOG"
         }
     ]
 }

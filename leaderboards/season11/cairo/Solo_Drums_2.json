@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 53465,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KratosPark"
+        },
+        {
             "accuracy": 99,
             "score": 53390,
             "difficulty": 1,
@@ -753,6 +761,14 @@
             "userName": "KillinItGirl"
         },
         {
+            "accuracy": 58,
+            "score": 10740,
+            "difficulty": 2,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Doodlebob6555"
+        },
+        {
             "accuracy": 82,
             "score": 10665,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Choco0627"
-        },
-        {
-            "accuracy": 43,
-            "score": 8060,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "TopoHW"
-        },
-        {
-            "accuracy": 94,
-            "score": 7785,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Katsuya49"
         }
     ]
 }

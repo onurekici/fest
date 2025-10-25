@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 109686,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Poinkish"
+        },
+        {
             "accuracy": 99,
             "score": 109608,
             "difficulty": 3,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Doctor Fink"
+        },
+        {
+            "accuracy": 99,
+            "score": 105200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RockyRambos"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AllSum_Prime"
-        },
-        {
-            "accuracy": 99,
-            "score": 93954,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "illusionOS"
-        },
-        {
-            "accuracy": 99,
-            "score": 93707,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "noimnotajaysmom"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 231606,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jin Zahazaki"
+        },
+        {
+            "accuracy": 100,
             "score": 230496,
             "difficulty": 3,
             "stars": 6,
@@ -135,6 +143,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "onyx.sys"
+        },
+        {
+            "accuracy": 99,
+            "score": 210432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "albert-king1"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Mrゴリラ"
-        },
-        {
-            "accuracy": 96,
-            "score": 101676,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Agald1895"
-        },
-        {
-            "accuracy": 97,
-            "score": 99045,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ladybug.queen"
         }
     ]
 }

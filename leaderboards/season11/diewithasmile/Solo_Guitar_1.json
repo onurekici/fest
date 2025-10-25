@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 165533,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jeyden Yuki"
+        },
+        {
             "accuracy": 100,
             "score": 165472,
             "difficulty": 3,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "1iloveutwo"
+        },
+        {
+            "accuracy": 100,
+            "score": 165074,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Paixッ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SlipKnopp"
-        },
-        {
-            "accuracy": 99,
-            "score": 160870,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Metalfangs"
-        },
-        {
-            "accuracy": 100,
-            "score": 160774,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bandithefox623"
         }
     ]
 }

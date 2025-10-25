@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 90224,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WorldCpt_Falcon"
+        },
+        {
+            "accuracy": 91,
+            "score": 90206,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "clay_eunice"
+        },
+        {
             "accuracy": 94,
             "score": 90033,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Jumba_Juice"
-        },
-        {
-            "accuracy": 100,
-            "score": 79817,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Simtress89"
-        },
-        {
-            "accuracy": 96,
-            "score": 79758,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "easyguu"
         }
     ]
 }

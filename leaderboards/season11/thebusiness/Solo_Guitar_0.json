@@ -82,6 +82,14 @@
         },
         {
             "accuracy": 100,
+            "score": 65403,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "marshmallowsonho"
+        },
+        {
+            "accuracy": 100,
             "score": 64082,
             "difficulty": 3,
             "stars": 6,
@@ -113,12 +121,12 @@
             "userName": "Morkyu"
         },
         {
-            "accuracy": 100,
-            "score": 62555,
+            "accuracy": 99,
+            "score": 62675,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
-            "userName": "marshmallowsonho"
+            "fullcombo": false,
+            "userName": "Vectium"
         },
         {
             "accuracy": 99,
@@ -345,6 +353,14 @@
             "userName": "Alpha_omega1997"
         },
         {
+            "accuracy": 99,
+            "score": 43977,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sol4rㅤ"
+        },
+        {
             "accuracy": 98,
             "score": 42483,
             "difficulty": 2,
@@ -407,6 +423,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[PSN] GamingHexe97"
+        },
+        {
+            "accuracy": 98,
+            "score": 38821,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Schwein_Fg"
         },
         {
             "accuracy": 99,
@@ -553,12 +577,28 @@
             "userName": "xXDCHYOLOSWAGXx3"
         },
         {
+            "accuracy": 92,
+            "score": 31016,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "[PSN] Koven87"
+        },
+        {
             "accuracy": 99,
             "score": 30616,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "nicolebath"
+        },
+        {
+            "accuracy": 97,
+            "score": 29669,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Finalknight445"
         },
         {
             "accuracy": 90,
@@ -759,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "AnxiousHeadbashr"
-        },
-        {
-            "accuracy": 51,
-            "score": 5086,
-            "difficulty": 1,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "ShingoYamafofo98"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "peepsflytrap"
         }
     ]
 }

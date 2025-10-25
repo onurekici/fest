@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 63337,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "soulpoetry"
+        },
+        {
+            "accuracy": 100,
+            "score": 63333,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "JAKE_THY_SNAKE"
+        },
+        {
             "accuracy": 99,
             "score": 63297,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SwiftStrike23"
-        },
-        {
-            "accuracy": 98,
-            "score": 60132,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Trintzzu"
-        },
-        {
-            "accuracy": 100,
-            "score": 60101,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "bee_bee_143"
         }
     ]
 }

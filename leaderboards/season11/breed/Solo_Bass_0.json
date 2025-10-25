@@ -170,6 +170,14 @@
         },
         {
             "accuracy": 100,
+            "score": 180340,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RealXeneh"
+        },
+        {
+            "accuracy": 100,
             "score": 180134,
             "difficulty": 3,
             "stars": 6,
@@ -423,6 +431,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Liliths prey"
+        },
+        {
+            "accuracy": 100,
+            "score": 173136,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "UFOCommander"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lex54224"
-        },
-        {
-            "accuracy": 99,
-            "score": 161726,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AngryTalon"
-        },
-        {
-            "accuracy": 100,
-            "score": 161210,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KinoKitten"
         }
     ]
 }

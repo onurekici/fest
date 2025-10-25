@@ -449,6 +449,14 @@
             "userName": "The zombie cow"
         },
         {
+            "accuracy": 100,
+            "score": 102455,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "NestX2"
+        },
+        {
             "accuracy": 99,
             "score": 102334,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Techn0_W0lf"
-        },
-        {
-            "accuracy": 97,
-            "score": 89272,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SeniorFuhzy"
         }
     ]
 }

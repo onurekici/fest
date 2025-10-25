@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 130889,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TwizzardOfOz"
+        },
+        {
             "accuracy": 96,
             "score": 130737,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RoLf Beans"
-        },
-        {
-            "accuracy": 98,
-            "score": 115703,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DaVeTheDaVer"
         }
     ]
 }

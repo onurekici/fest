@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 252339,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "33Rovers"
+        },
+        {
+            "accuracy": 100,
             "score": 247448,
             "difficulty": 3,
             "stars": 6,
@@ -609,6 +617,14 @@
             "userName": "Firekind DX"
         },
         {
+            "accuracy": 96,
+            "score": 176189,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "starfox_6456303"
+        },
+        {
             "accuracy": 97,
             "score": 176171,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Kazukini"
-        },
-        {
-            "accuracy": 98,
-            "score": 147754,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JumboJack_1"
-        },
-        {
-            "accuracy": 99,
-            "score": 146199,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "jordanbelinsky"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 91347,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Otterocket"
+        },
+        {
+            "accuracy": 99,
+            "score": 91299,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DaxTiger L9"
+        },
+        {
+            "accuracy": 100,
             "score": 91254,
             "difficulty": 3,
             "stars": 6,
@@ -319,6 +335,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KriminalData"
+        },
+        {
+            "accuracy": 100,
+            "score": 89221,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Krybbie"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JammieDodger224"
-        },
-        {
-            "accuracy": 100,
-            "score": 87060,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Farackus"
-        },
-        {
-            "accuracy": 98,
-            "score": 87057,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MaceyStead1"
-        },
-        {
-            "accuracy": 99,
-            "score": 87052,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItzJustMagz"
         }
     ]
 }

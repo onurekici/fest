@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 201456,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bartjehhhhhhhhhh"
+        },
+        {
+            "accuracy": 100,
             "score": 197712,
             "difficulty": 3,
             "stars": 6,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WickedFlightUwU"
+        },
+        {
+            "accuracy": 99,
+            "score": 185400,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kapetime"
         },
         {
             "accuracy": 100,
@@ -191,6 +207,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Somersalsa"
+        },
+        {
+            "accuracy": 99,
+            "score": 173274,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "matthewx95cap"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "LocalBuzzard4187"
-        },
-        {
-            "accuracy": 83,
-            "score": 17845,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "uckztzz7"
-        },
-        {
-            "accuracy": 45,
-            "score": 16914,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 69,
-            "score": 16640,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "DynamicSlayer101"
         }
     ]
 }

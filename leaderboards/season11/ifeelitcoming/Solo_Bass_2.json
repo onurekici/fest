@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 48189,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Frutloops_01001"
+        },
+        {
+            "accuracy": 98,
+            "score": 48024,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PiXEL-64"
+        },
+        {
+            "accuracy": 98,
+            "score": 48024,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Naatrex"
+        },
+        {
             "accuracy": 99,
             "score": 47674,
             "difficulty": 2,
@@ -143,14 +167,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Rolly81"
-        },
-        {
-            "accuracy": 98,
-            "score": 43830,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cofie La Iguana"
         },
         {
             "accuracy": 99,
@@ -626,6 +642,14 @@
         },
         {
             "accuracy": 100,
+            "score": 36322,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Swamlex148"
+        },
+        {
+            "accuracy": 100,
             "score": 36290,
             "difficulty": 1,
             "stars": 5,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "DulceG52"
-        },
-        {
-            "accuracy": 100,
-            "score": 35508,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Gh0sT eCh0"
-        },
-        {
-            "accuracy": 98,
-            "score": 35475,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "seraph5126"
-        },
-        {
-            "accuracy": 100,
-            "score": 35306,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MSoles7"
         }
     ]
 }

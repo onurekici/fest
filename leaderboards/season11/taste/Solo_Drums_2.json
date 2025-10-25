@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 107743,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BenjiPrice010"
+        },
+        {
+            "accuracy": 100,
+            "score": 107742,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tier3DaggerSub"
+        },
+        {
             "accuracy": 100,
             "score": 107742,
             "difficulty": 3,
@@ -47,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SiriusEclipse"
+        },
+        {
+            "accuracy": 100,
+            "score": 107550,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lolnayr"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Vortex_Ross"
-        },
-        {
-            "accuracy": 100,
-            "score": 105552,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RezurrectedPanda"
-        },
-        {
-            "accuracy": 100,
-            "score": 105546,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kirudovah"
-        },
-        {
-            "accuracy": 99,
-            "score": 105540,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "rattgirl5"
         }
     ]
 }

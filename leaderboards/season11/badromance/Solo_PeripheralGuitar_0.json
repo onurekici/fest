@@ -49,6 +49,14 @@
             "userName": "sage2001"
         },
         {
+            "accuracy": 100,
+            "score": 134022,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "real_Bullseye"
+        },
+        {
             "accuracy": 99,
             "score": 133249,
             "difficulty": 3,
@@ -574,7 +582,7 @@
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": "corbot03"
+            "userName": "broc60"
         },
         {
             "accuracy": 93,
@@ -705,6 +713,14 @@
             "userName": "Pro MonkeyFart"
         },
         {
+            "accuracy": 93,
+            "score": 51408,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Nörsk"
+        },
+        {
             "accuracy": 90,
             "score": 49325,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Blame_Latency"
-        },
-        {
-            "accuracy": 90,
-            "score": 37409,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Spartan.OEM"
-        },
-        {
-            "accuracy": 81,
-            "score": 36652,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "CatmanNJack"
         }
     ]
 }

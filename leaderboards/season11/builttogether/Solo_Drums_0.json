@@ -162,6 +162,14 @@
         },
         {
             "accuracy": 100,
+            "score": 160242,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Patchyb"
+        },
+        {
+            "accuracy": 100,
             "score": 160020,
             "difficulty": 3,
             "stars": 6,
@@ -561,6 +569,22 @@
             "userName": "Drmt Blood Myers"
         },
         {
+            "accuracy": 95,
+            "score": 77694,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Totenschutze"
+        },
+        {
+            "accuracy": 99,
+            "score": 75906,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Edgrass13"
+        },
+        {
             "accuracy": 91,
             "score": 74580,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TallDwarf98"
-        },
-        {
-            "accuracy": 90,
-            "score": 45365,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "sentryluvr"
-        },
-        {
-            "accuracy": 79,
-            "score": 42966,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Iron.Devil"
-        },
-        {
-            "accuracy": 97,
-            "score": 39765,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Xleque."
         }
     ]
 }

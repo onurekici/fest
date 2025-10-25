@@ -466,6 +466,14 @@
         },
         {
             "accuracy": 100,
+            "score": 42886,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jobo12345678"
+        },
+        {
+            "accuracy": 100,
             "score": 42694,
             "difficulty": 2,
             "stars": 5,
@@ -753,6 +761,14 @@
             "userName": "500 Namen"
         },
         {
+            "accuracy": 98,
+            "score": 33490,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Thesparalius"
+        },
+        {
             "accuracy": 100,
             "score": 33363,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "socowitch80"
-        },
-        {
-            "accuracy": 96,
-            "score": 32596,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "keqno06"
-        },
-        {
-            "accuracy": 92,
-            "score": 32491,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Gawr Gura Ch. EN"
         }
     ]
 }

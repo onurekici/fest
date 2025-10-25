@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 60804,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BigBallBliss"
+        },
+        {
+            "accuracy": 100,
+            "score": 60791,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "slizqq"
+        },
+        {
             "accuracy": 100,
             "score": 60683,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KILLA_Kayyy420"
-        },
-        {
-            "accuracy": 100,
-            "score": 55614,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Kid_Buu_40"
-        },
-        {
-            "accuracy": 100,
-            "score": 55605,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "missy_izzy_"
         }
     ]
 }

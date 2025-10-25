@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 33726,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WildKreez"
+        },
+        {
             "accuracy": 98,
             "score": 33714,
             "difficulty": 3,
@@ -31,6 +39,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Big_anth97"
+        },
+        {
+            "accuracy": 100,
+            "score": 33492,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Groudon0199"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "HayDuck1972"
-        },
-        {
-            "accuracy": 100,
-            "score": 24894,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "StItCh Gibson"
-        },
-        {
-            "accuracy": 93,
-            "score": 24570,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BionicEngineer55"
         }
     ]
 }

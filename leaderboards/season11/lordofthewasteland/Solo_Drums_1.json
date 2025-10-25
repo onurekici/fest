@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 202464,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "666SLIPKNOT666"
+        },
+        {
+            "accuracy": 99,
+            "score": 202422,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ink Rezi"
+        },
+        {
             "accuracy": 99,
             "score": 202056,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Sniper monke63"
-        },
-        {
-            "accuracy": 98,
-            "score": 160236,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ExtraBadger4049"
-        },
-        {
-            "accuracy": 98,
-            "score": 160038,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RAT MENTALITY"
         }
     ]
 }

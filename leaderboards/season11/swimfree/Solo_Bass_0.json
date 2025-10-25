@@ -202,6 +202,14 @@
         },
         {
             "accuracy": 100,
+            "score": 148336,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheMoomaliser"
+        },
+        {
+            "accuracy": 100,
             "score": 148305,
             "difficulty": 3,
             "stars": 6,
@@ -215,6 +223,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ClipsWillTill"
+        },
+        {
+            "accuracy": 99,
+            "score": 147489,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Daegle."
         },
         {
             "accuracy": 100,
@@ -769,36 +785,20 @@
             "userName": "QuelloStefano7"
         },
         {
+            "accuracy": 100,
+            "score": 127990,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "NappssoN"
+        },
+        {
             "accuracy": 99,
             "score": 127651,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Tritox31"
-        },
-        {
-            "accuracy": 99,
-            "score": 126980,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TillaEskoria"
-        },
-        {
-            "accuracy": 99,
-            "score": 125908,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KetaKirbs"
-        },
-        {
-            "accuracy": 99,
-            "score": 125844,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nico_daredevil"
         }
     ]
 }

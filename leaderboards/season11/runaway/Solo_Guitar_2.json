@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 120598,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GillyGabby"
+        },
+        {
+            "accuracy": 100,
+            "score": 120039,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tufva"
+        },
+        {
             "accuracy": 99,
             "score": 119987,
             "difficulty": 3,
@@ -87,6 +103,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IAndreykoI"
+        },
+        {
+            "accuracy": 96,
+            "score": 119166,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MiniiSasuke"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Leothegecko360"
-        },
-        {
-            "accuracy": 99,
-            "score": 111438,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lamb.kin"
-        },
-        {
-            "accuracy": 100,
-            "score": 111426,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SolvedGiraffe06"
-        },
-        {
-            "accuracy": 100,
-            "score": 111124,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Asrar99x"
         }
     ]
 }
