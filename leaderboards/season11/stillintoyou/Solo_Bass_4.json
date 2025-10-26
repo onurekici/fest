@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 169614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zinogelaude"
+        },
+        {
+            "accuracy": 99,
+            "score": 169556,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Prishawk"
+        },
+        {
+            "accuracy": 100,
             "score": 169488,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "hlskloof"
-        },
-        {
-            "accuracy": 99,
-            "score": 165764,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "monicaaa2"
-        },
-        {
-            "accuracy": 100,
-            "score": 165732,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CheifSlapfoot"
         }
     ]
 }

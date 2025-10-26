@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 71251,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DragonsAnSlayers"
+        },
+        {
+            "accuracy": 94,
+            "score": 71182,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Alierinz"
+        },
+        {
             "accuracy": 96,
             "score": 71032,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "awseomedude930"
-        },
-        {
-            "accuracy": 89,
-            "score": 64252,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Misfit-Bug"
-        },
-        {
-            "accuracy": 92,
-            "score": 63931,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "avengercam"
         }
     ]
 }

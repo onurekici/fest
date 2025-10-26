@@ -82,19 +82,27 @@
         },
         {
             "accuracy": 100,
+            "score": 153309,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AndrewsMedia"
+        },
+        {
+            "accuracy": 99,
+            "score": 153239,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SkaiZerTwitch"
+        },
+        {
+            "accuracy": 100,
             "score": 152588,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "LittleKhanz700"
-        },
-        {
-            "accuracy": 99,
-            "score": 151166,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SkaiZerTwitch"
         },
         {
             "accuracy": 99,
@@ -450,6 +458,14 @@
         },
         {
             "accuracy": 98,
+            "score": 106788,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "J2Flashy330"
+        },
+        {
+            "accuracy": 98,
             "score": 103564,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "rpa98"
-        },
-        {
-            "accuracy": 99,
-            "score": 77558,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DanicaDFagan"
-        },
-        {
-            "accuracy": 99,
-            "score": 77449,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jazflame20"
         }
     ]
 }

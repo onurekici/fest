@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 99888,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DownSquare"
+        },
+        {
+            "accuracy": 100,
             "score": 99840,
             "difficulty": 3,
             "stars": 6,
@@ -249,12 +257,12 @@
             "userName": "[PSN] Jegginer"
         },
         {
-            "accuracy": 99,
-            "score": 98718,
+            "accuracy": 100,
+            "score": 98676,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "Konori_Mii"
+            "fullcombo": true,
+            "userName": "BernardoStoco123"
         },
         {
             "accuracy": 100,
@@ -577,6 +585,14 @@
             "userName": "nnsnoura"
         },
         {
+            "accuracy": 100,
+            "score": 96804,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ツKazzyClipsツ"
+        },
+        {
             "accuracy": 99,
             "score": 96774,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FIamingo ﱞ"
-        },
-        {
-            "accuracy": 100,
-            "score": 95250,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ツKazzyClipsツ"
-        },
-        {
-            "accuracy": 99,
-            "score": 95178,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CivilFollower98"
         }
     ]
 }

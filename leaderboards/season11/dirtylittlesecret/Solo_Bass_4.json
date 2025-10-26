@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 154577,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "du not shout"
+        },
+        {
             "accuracy": 99,
             "score": 154521,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Jimmy_Eat_Waffle"
-        },
-        {
-            "accuracy": 100,
-            "score": 151397,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Camps 1.0"
         }
     ]
 }

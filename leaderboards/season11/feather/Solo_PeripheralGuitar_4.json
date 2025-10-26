@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 26561,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] IAmTheGameJU"
+        },
+        {
+            "accuracy": 86,
+            "score": 26444,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Knight_king42"
+        },
+        {
             "accuracy": 89,
             "score": 26036,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "User-81f36136ad"
-        },
-        {
-            "accuracy": 58,
-            "score": 3604,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "BriBud7467"
-        },
-        {
-            "accuracy": 15,
-            "score": 3363,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "Hoonta_"
         }
     ]
 }

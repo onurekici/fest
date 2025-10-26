@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65325,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CovenVA"
+        },
+        {
+            "accuracy": 100,
+            "score": 65315,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pit Montrese"
+        },
+        {
+            "accuracy": 100,
             "score": 65308,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "xsleepi"
-        },
-        {
-            "accuracy": 100,
-            "score": 64658,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Melina040809"
-        },
-        {
-            "accuracy": 100,
-            "score": 64657,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TheShyGirl98"
         }
     ]
 }

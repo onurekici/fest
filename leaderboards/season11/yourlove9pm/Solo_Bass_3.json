@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 43101,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CreeSpot"
+        },
+        {
+            "accuracy": 100,
+            "score": 43053,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Amy_jmx"
+        },
+        {
             "accuracy": 100,
             "score": 42991,
             "difficulty": 2,
@@ -239,6 +255,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Shed060"
+        },
+        {
+            "accuracy": 100,
+            "score": 42253,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AcidicPetals"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "howlthunder"
-        },
-        {
-            "accuracy": 99,
-            "score": 39318,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jennaru"
-        },
-        {
-            "accuracy": 99,
-            "score": 39276,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "gonzalo_dasher"
-        },
-        {
-            "accuracy": 99,
-            "score": 39252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "The - Bear"
         }
     ]
 }

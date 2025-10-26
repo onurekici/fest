@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 279960,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jorge_rockr"
+        },
+        {
             "accuracy": 99,
             "score": 272781,
             "difficulty": 3,
@@ -241,6 +249,14 @@
             "userName": "keegankeeg"
         },
         {
+            "accuracy": 71,
+            "score": 35292,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "S0G3R_2"
+        },
+        {
             "accuracy": 63,
             "score": 34530,
             "difficulty": 3,
@@ -255,6 +271,14 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "trina2021"
+        },
+        {
+            "accuracy": 6,
+            "score": 3354,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "Andewandkacken"
         }
     ]
 }

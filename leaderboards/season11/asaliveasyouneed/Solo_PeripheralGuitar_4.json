@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 49748,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "1Gordo2007303"
+        },
+        {
+            "accuracy": 99,
+            "score": 49740,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Eazaki"
+        },
+        {
             "accuracy": 99,
             "score": 49736,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "hthrpttr"
-        },
-        {
-            "accuracy": 99,
-            "score": 46767,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItDaRealGP"
-        },
-        {
-            "accuracy": 100,
-            "score": 46742,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ElPalaa"
         }
     ]
 }

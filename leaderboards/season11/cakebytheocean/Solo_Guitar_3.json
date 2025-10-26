@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 185459,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Clalopez"
+        },
+        {
+            "accuracy": 100,
+            "score": 185458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RLSGamer2003"
+        },
+        {
             "accuracy": 100,
             "score": 185447,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Neo_Metal_Case"
-        },
-        {
-            "accuracy": 100,
-            "score": 184254,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Spectre._.l"
-        },
-        {
-            "accuracy": 99,
-            "score": 184254,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Globoperron"
         }
     ]
 }

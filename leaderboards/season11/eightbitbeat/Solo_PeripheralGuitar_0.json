@@ -50,11 +50,27 @@
         },
         {
             "accuracy": 100,
+            "score": 90300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vanilla8897"
+        },
+        {
+            "accuracy": 100,
             "score": 89010,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Jackobot13"
+        },
+        {
+            "accuracy": 99,
+            "score": 87012,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HitmanGarland"
         },
         {
             "accuracy": 100,
@@ -202,7 +218,15 @@
         },
         {
             "accuracy": 96,
-            "score": 77916,
+            "score": 79458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PaulSD95"
+        },
+        {
+            "accuracy": 97,
+            "score": 79326,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
@@ -681,6 +705,14 @@
             "userName": "Lostkage1337"
         },
         {
+            "accuracy": 92,
+            "score": 49482,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TiddlywinksMinx"
+        },
+        {
             "accuracy": 90,
             "score": 49218,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "あなばしー1215"
-        },
-        {
-            "accuracy": 86,
-            "score": 42714,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "JU4N1TO3522"
-        },
-        {
-            "accuracy": 92,
-            "score": 41826,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "[XBL] Doctor Chapel"
-        },
-        {
-            "accuracy": 89,
-            "score": 41706,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Mikeyd4654"
-        },
-        {
-            "accuracy": 100,
-            "score": 41250,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Dylonthegreat"
         }
     ]
 }

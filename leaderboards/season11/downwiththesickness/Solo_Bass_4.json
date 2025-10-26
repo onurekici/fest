@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 245346,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MortalRook"
+        },
+        {
+            "accuracy": 100,
+            "score": 245314,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fulo01"
+        },
+        {
             "accuracy": 100,
             "score": 245305,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "津久里せんと"
-        },
-        {
-            "accuracy": 99,
-            "score": 243056,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AntaByeol"
-        },
-        {
-            "accuracy": 100,
-            "score": 243020,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bia_Xavier"
         }
     ]
 }

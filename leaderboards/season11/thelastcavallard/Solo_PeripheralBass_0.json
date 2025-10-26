@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "p0rksta"
+        },
+        {
+            "accuracy": 100,
             "score": 111459,
             "difficulty": 3,
             "stars": 6,
@@ -73,20 +81,20 @@
             "userName": "MILLADAKILLA0205"
         },
         {
+            "accuracy": 90,
+            "score": 25967,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Voidb0nes"
+        },
+        {
             "accuracy": 82,
             "score": 24783,
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
             "userName": "DreamProwler"
-        },
-        {
-            "accuracy": 87,
-            "score": 20877,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Voidb0nes"
         }
     ]
 }

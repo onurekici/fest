@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 90866,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "iEnzan"
+        },
+        {
             "accuracy": 99,
             "score": 90797,
             "difficulty": 3,
@@ -295,6 +303,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "aCrispyBurrito"
+        },
+        {
+            "accuracy": 100,
+            "score": 88248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "丨 Assassin 丨"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FaZe_Lavagirl"
-        },
-        {
-            "accuracy": 99,
-            "score": 84501,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "anna meows"
-        },
-        {
-            "accuracy": 97,
-            "score": 84445,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BassBaza67"
         }
     ]
 }

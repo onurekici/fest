@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 47508,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gainen"
+        },
+        {
             "accuracy": 99,
             "score": 47495,
             "difficulty": 3,
@@ -151,6 +159,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TotusBSC"
+        },
+        {
+            "accuracy": 98,
+            "score": 47057,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[PSN] Trevasaurus666"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "L00nster"
-        },
-        {
-            "accuracy": 97,
-            "score": 45216,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SC0RREN"
-        },
-        {
-            "accuracy": 100,
-            "score": 45215,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Gunnor"
         }
     ]
 }

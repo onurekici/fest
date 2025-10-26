@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123168,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CircleHand"
+        },
+        {
+            "accuracy": 100,
             "score": 123144,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MAN PANTHER"
-        },
-        {
-            "accuracy": 100,
-            "score": 118344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Golden ironman"
         }
     ]
 }

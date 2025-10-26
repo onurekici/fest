@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 184254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Spectre._.l"
+        },
+        {
+            "accuracy": 99,
+            "score": 184254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Globoperron"
+        },
+        {
+            "accuracy": 100,
             "score": 184242,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "B1ster M3ast"
-        },
-        {
-            "accuracy": 100,
-            "score": 183192,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Az_Beast."
-        },
-        {
-            "accuracy": 100,
-            "score": 183189,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tsue66"
         }
     ]
 }

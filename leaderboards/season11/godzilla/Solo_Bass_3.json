@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 101946,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GalliardiX"
+        },
+        {
+            "accuracy": 100,
+            "score": 101931,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ViolentJun"
+        },
+        {
+            "accuracy": 99,
             "score": 101911,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TheOwlYT"
-        },
-        {
-            "accuracy": 100,
-            "score": 96712,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "2Lyk"
-        },
-        {
-            "accuracy": 100,
-            "score": 96646,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ghiinii"
         }
     ]
 }

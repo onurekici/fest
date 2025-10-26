@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 182796,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SuperJersh"
+        },
+        {
+            "accuracy": 100,
+            "score": 182712,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "V.A.R.S."
+        },
+        {
+            "accuracy": 100,
             "score": 182700,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RecklessMando"
-        },
-        {
-            "accuracy": 99,
-            "score": 179586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "nekomimi_sonya"
-        },
-        {
-            "accuracy": 99,
-            "score": 179586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ayameike0519"
         }
     ]
 }

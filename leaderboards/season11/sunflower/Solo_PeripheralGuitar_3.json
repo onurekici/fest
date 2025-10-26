@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 24137,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Nerdy Noah"
+        },
+        {
+            "accuracy": 98,
+            "score": 24059,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GR33NATES"
+        },
+        {
             "accuracy": 89,
             "score": 23974,
             "difficulty": 3,
@@ -87,6 +103,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "JLBullfrog_05"
+        },
+        {
+            "accuracy": 93,
+            "score": 23200,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "IVN114"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Saito_San"
-        },
-        {
-            "accuracy": 84,
-            "score": 13956,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Bulliboogah22"
-        },
-        {
-            "accuracy": 77,
-            "score": 13856,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "spidercynical"
-        },
-        {
-            "accuracy": 78,
-            "score": 13685,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "JohnDCG"
         }
     ]
 }
