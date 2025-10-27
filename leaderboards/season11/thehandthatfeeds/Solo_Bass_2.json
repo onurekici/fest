@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 131244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chewnaste"
+        },
+        {
+            "accuracy": 99,
+            "score": 131142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "msViolet_"
+        },
+        {
+            "accuracy": 100,
             "score": 131094,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dollicious III"
-        },
-        {
-            "accuracy": 100,
-            "score": 121165,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "cactusnicc"
-        },
-        {
-            "accuracy": 99,
-            "score": 121146,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WJ3000g"
         }
     ]
 }

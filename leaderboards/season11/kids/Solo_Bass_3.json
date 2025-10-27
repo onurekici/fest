@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 226351,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PattoeFries24"
+        },
+        {
+            "accuracy": 100,
+            "score": 226303,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "J-Hunter-S"
+        },
+        {
+            "accuracy": 100,
             "score": 226293,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "fazepug60fps"
-        },
-        {
-            "accuracy": 99,
-            "score": 221264,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "philipwendt381"
-        },
-        {
-            "accuracy": 99,
-            "score": 221252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hamoo122"
         }
     ]
 }

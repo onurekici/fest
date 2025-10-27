@@ -2,19 +2,19 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 364794,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DCA_EE"
+        },
+        {
+            "accuracy": 100,
             "score": 364290,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "AniCovers"
-        },
-        {
-            "accuracy": 100,
-            "score": 359316,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DCA_EE"
         },
         {
             "accuracy": 99,
@@ -319,6 +319,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Feel the thunda"
+        },
+        {
+            "accuracy": 93,
+            "score": 232338,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Foxurino"
         },
         {
             "accuracy": 95,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Elun19"
-        },
-        {
-            "accuracy": 99,
-            "score": 149341,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SageArko"
         }
     ]
 }

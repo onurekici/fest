@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130371,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "caly.15"
+        },
+        {
+            "accuracy": 100,
             "score": 130358,
             "difficulty": 3,
             "stars": 6,
@@ -521,6 +529,14 @@
             "userName": "BodilyNoise"
         },
         {
+            "accuracy": 99,
+            "score": 129406,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BoomBoomBomerang"
+        },
+        {
             "accuracy": 100,
             "score": 129401,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Chessnuts980"
-        },
-        {
-            "accuracy": 100,
-            "score": 129008,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Killk123"
-        },
-        {
-            "accuracy": 100,
-            "score": 129004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Unknown_PMC"
         }
     ]
 }

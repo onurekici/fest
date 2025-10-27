@@ -10,6 +10,14 @@
         },
         {
             "accuracy": 100,
+            "score": 233182,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Relatise"
+        },
+        {
+            "accuracy": 100,
             "score": 230839,
             "difficulty": 3,
             "stars": 6,
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kerti_Kertész"
+        },
+        {
+            "accuracy": 98,
+            "score": 191984,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bologna_CakeTTV"
         },
         {
             "accuracy": 97,
@@ -713,14 +729,6 @@
             "userName": "Wh1teGuyFromD12"
         },
         {
-            "accuracy": 99,
-            "score": 144104,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bologna_CakeTTV"
-        },
-        {
             "accuracy": 95,
             "score": 143783,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Fortcat13"
-        },
-        {
-            "accuracy": 95,
-            "score": 131058,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Zer0Tuna"
         }
     ]
 }

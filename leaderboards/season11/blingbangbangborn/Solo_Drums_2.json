@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 135060,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dr_Weirdo"
+        },
+        {
+            "accuracy": 100,
+            "score": 135042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MagicDonutz"
+        },
+        {
             "accuracy": 100,
             "score": 134970,
             "difficulty": 3,
@@ -31,6 +47,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "PunctualShoe015"
+        },
+        {
+            "accuracy": 100,
+            "score": 134754,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Meownotone"
         },
         {
             "accuracy": 100,
@@ -530,14 +554,6 @@
         },
         {
             "accuracy": 100,
-            "score": 132984,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Meownotone"
-        },
-        {
-            "accuracy": 100,
             "score": 132966,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Hayhay_layton66"
-        },
-        {
-            "accuracy": 99,
-            "score": 132090,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SaltMaster11"
-        },
-        {
-            "accuracy": 100,
-            "score": 132036,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Legotes12"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 135032,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FUN123008"
+        },
+        {
+            "accuracy": 100,
+            "score": 135025,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ccadiie"
+        },
+        {
             "accuracy": 99,
             "score": 135010,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[PSN] porous-ant81"
-        },
-        {
-            "accuracy": 99,
-            "score": 130504,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HeavenlyCurse"
-        },
-        {
-            "accuracy": 99,
-            "score": 130504,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KilllHanna"
         }
     ]
 }

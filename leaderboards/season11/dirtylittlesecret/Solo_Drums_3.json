@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 169854,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bustee Banana"
+        },
+        {
+            "accuracy": 100,
+            "score": 169848,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ekaterina_01"
+        },
+        {
             "accuracy": 100,
             "score": 169830,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Domino74171"
-        },
-        {
-            "accuracy": 100,
-            "score": 168762,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "XenoDeLucario"
-        },
-        {
-            "accuracy": 100,
-            "score": 168756,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sylrai"
         }
     ]
 }

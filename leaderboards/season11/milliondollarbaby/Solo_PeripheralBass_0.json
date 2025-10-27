@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 62640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rig_Ferr"
+        },
+        {
+            "accuracy": 100,
             "score": 61565,
             "difficulty": 3,
             "stars": 6,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HellaMelos"
+        },
+        {
+            "accuracy": 99,
+            "score": 55807,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Buckoben"
         },
         {
             "accuracy": 99,
@@ -41,6 +57,14 @@
             "userName": "Dirty Xan"
         },
         {
+            "accuracy": 96,
+            "score": 38335,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "The Duck Is Mid"
+        },
+        {
             "accuracy": 98,
             "score": 37469,
             "difficulty": 3,
@@ -49,12 +73,28 @@
             "userName": "thepurplestar"
         },
         {
+            "accuracy": 99,
+            "score": 31284,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "springstead2831"
+        },
+        {
             "accuracy": 91,
             "score": 18853,
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
             "userName": "DeadSxy451"
+        },
+        {
+            "accuracy": 93,
+            "score": 14987,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Nadyj272"
         }
     ]
 }

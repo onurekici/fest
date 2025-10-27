@@ -113,6 +113,14 @@
             "userName": "mensis_mtd"
         },
         {
+            "accuracy": 100,
+            "score": 234180,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lethal_Sushi"
+        },
+        {
             "accuracy": 99,
             "score": 233812,
             "difficulty": 3,
@@ -239,6 +247,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mystvell"
+        },
+        {
+            "accuracy": 99,
+            "score": 225731,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Henryen"
         },
         {
             "accuracy": 99,
@@ -586,14 +602,6 @@
         },
         {
             "accuracy": 98,
-            "score": 199138,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Henryen"
-        },
-        {
-            "accuracy": 98,
             "score": 198019,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "charliejessx"
-        },
-        {
-            "accuracy": 99,
-            "score": 187129,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "루차Rucha"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 190262,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Łockon"
+        },
+        {
             "accuracy": 99,
             "score": 189451,
             "difficulty": 3,
@@ -18,11 +26,27 @@
         },
         {
             "accuracy": 99,
+            "score": 189165,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TTUnknownOlly"
+        },
+        {
+            "accuracy": 99,
             "score": 189129,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Tm Zesty"
+        },
+        {
+            "accuracy": 99,
+            "score": 188978,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "InfamousRP"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BonelessCheese95"
-        },
-        {
-            "accuracy": 98,
-            "score": 173407,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SBERGS19"
-        },
-        {
-            "accuracy": 99,
-            "score": 172676,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DudeKnockItOff"
-        },
-        {
-            "accuracy": 98,
-            "score": 172653,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItsDissonance"
         }
     ]
 }

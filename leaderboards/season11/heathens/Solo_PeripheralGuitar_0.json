@@ -33,6 +33,22 @@
             "userName": "my psn name"
         },
         {
+            "accuracy": 100,
+            "score": 104916,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GFunkRizzla187"
+        },
+        {
+            "accuracy": 100,
+            "score": 104285,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "greg-whatever"
+        },
+        {
             "accuracy": 99,
             "score": 103957,
             "difficulty": 3,
@@ -71,6 +87,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "2025 hayden"
+        },
+        {
+            "accuracy": 99,
+            "score": 92582,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "deezy223_"
         },
         {
             "accuracy": 99,
@@ -351,6 +375,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Billiam654"
+        },
+        {
+            "accuracy": 92,
+            "score": 5430,
+            "difficulty": 0,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "PhenomenalPapas"
         }
     ]
 }

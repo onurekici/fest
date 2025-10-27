@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87653,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "My Friend Frank"
+        },
+        {
             "accuracy": 99,
             "score": 87103,
             "difficulty": 2,
@@ -119,6 +127,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Tik Tok 3b0s"
+        },
+        {
+            "accuracy": 86,
+            "score": 83825,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Flyin-Spagetti"
         },
         {
             "accuracy": 99,
@@ -673,6 +689,14 @@
             "userName": "Bologna_CakeTTV"
         },
         {
+            "accuracy": 67,
+            "score": 70601,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "fortnitehasta"
+        },
+        {
             "accuracy": 73,
             "score": 70521,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Tidiiz"
-        },
-        {
-            "accuracy": 83,
-            "score": 67031,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Lil Reb 03"
-        },
-        {
-            "accuracy": 97,
-            "score": 67003,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Blue-Glasses"
-        },
-        {
-            "accuracy": 82,
-            "score": 66354,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Chaosezy"
         }
     ]
 }
