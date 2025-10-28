@@ -239,7 +239,7 @@ if __name__ == "__main__":
         print("[HATA] Gerekli secret'lar (EPIC_REFRESH_TOKEN, EPIC_BASIC_AUTH) ayarlanmamış."); sys.exit(1)
         
     if len(sys.argv) < 2:
-        print("Kullanım: python scraper_actions.py [enstrüman_adı] [isteğe_bağlı_çıktı_klasörü]"); sys.exit(1)
+        print("Kullanım: python actions.py [enstrüman_adı] [isteğe_bağlı_çıktı_klasörü]"); sys.exit(1)
     
     # Argümanları al
     instrument = sys.argv[1]
