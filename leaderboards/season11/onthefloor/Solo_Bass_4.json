@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 143223,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Better Thoughts"
+        },
+        {
+            "accuracy": 100,
             "score": 143204,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "JaggMaster"
-        },
-        {
-            "accuracy": 99,
-            "score": 140702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "grombli"
         }
     ]
 }

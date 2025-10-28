@@ -50,6 +50,14 @@
         },
         {
             "accuracy": 100,
+            "score": 77670,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BBC_incorporated"
+        },
+        {
+            "accuracy": 100,
             "score": 76808,
             "difficulty": 3,
             "stars": 6,
@@ -697,6 +705,14 @@
             "userName": "Zennsy"
         },
         {
+            "accuracy": 83,
+            "score": 35189,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "laura 私"
+        },
+        {
             "accuracy": 97,
             "score": 35121,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Florian474"
-        },
-        {
-            "accuracy": 96,
-            "score": 28897,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Acer_T46"
-        },
-        {
-            "accuracy": 99,
-            "score": 28100,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bendy 39"
         }
     ]
 }

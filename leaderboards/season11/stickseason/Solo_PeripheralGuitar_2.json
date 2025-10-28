@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 108456,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Clippy01"
+        },
+        {
             "accuracy": 98,
             "score": 108330,
             "difficulty": 2,
@@ -47,6 +55,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Wookie229C"
+        },
+        {
+            "accuracy": 73,
+            "score": 106326,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "にくじゃが軍曹"
         },
         {
             "accuracy": 97,
@@ -375,6 +391,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "HeadcrabLamarr"
+        },
+        {
+            "accuracy": 100,
+            "score": 90573,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "BIGDOG3334"
         },
         {
             "accuracy": 85,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GizmoXOTTV"
-        },
-        {
-            "accuracy": 75,
-            "score": 76545,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Jayce_Mckay1063"
-        },
-        {
-            "accuracy": 98,
-            "score": 76460,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FOLLOW_THE_CROSS"
-        },
-        {
-            "accuracy": 100,
-            "score": 76147,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Kittlee05"
         }
     ]
 }

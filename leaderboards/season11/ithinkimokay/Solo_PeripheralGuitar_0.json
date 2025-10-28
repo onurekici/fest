@@ -282,6 +282,14 @@
         },
         {
             "accuracy": 100,
+            "score": 131431,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kattanaita"
+        },
+        {
+            "accuracy": 100,
             "score": 131308,
             "difficulty": 3,
             "stars": 6,
@@ -545,6 +553,14 @@
             "userName": "RoskoTheGreat"
         },
         {
+            "accuracy": 99,
+            "score": 125552,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Techau"
+        },
+        {
             "accuracy": 100,
             "score": 125534,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kvng Matrix"
-        },
-        {
-            "accuracy": 100,
-            "score": 122292,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Red Star"
-        },
-        {
-            "accuracy": 100,
-            "score": 122258,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Rvs_Ryuk"
         }
     ]
 }

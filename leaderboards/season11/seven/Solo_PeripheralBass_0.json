@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 52523,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GethSmash"
+        },
+        {
+            "accuracy": 100,
+            "score": 47663,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "YeahhJohnny"
+        },
+        {
             "accuracy": 99,
             "score": 43555,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": null
+            "userName": "Kattanaita"
+        },
+        {
+            "accuracy": 98,
+            "score": 31731,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kansada"
         },
         {
             "accuracy": 95,
@@ -14,7 +38,15 @@
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": null
+            "userName": "サンダーボウズ_twitch"
+        },
+        {
+            "accuracy": 95,
+            "score": 17680,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "42Embers"
         },
         {
             "accuracy": 91,
@@ -22,7 +54,7 @@
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
-            "userName": null
+            "userName": "MysticCwisp"
         },
         {
             "accuracy": 89,
@@ -30,7 +62,47 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": null
+            "userName": "DeadSxy451"
+        },
+        {
+            "accuracy": 89,
+            "score": 10458,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "[XBL] VVILLYUM"
+        },
+        {
+            "accuracy": 89,
+            "score": 10229,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "WrigglyBrick551"
+        },
+        {
+            "accuracy": 86,
+            "score": 10136,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "xXGrmpyPandaXx"
+        },
+        {
+            "accuracy": 86,
+            "score": 9021,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "X2C_DIAMUNDZ"
+        },
+        {
+            "accuracy": 72,
+            "score": 5405,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "[PSN] jae6thesinister1"
         }
     ]
 }

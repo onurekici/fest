@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 198210,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sonicmario56"
+        },
+        {
+            "accuracy": 100,
+            "score": 198168,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Minan.e404"
+        },
+        {
             "accuracy": 100,
             "score": 198120,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Woodys306"
-        },
-        {
-            "accuracy": 100,
-            "score": 196188,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "thebigsansfs"
-        },
-        {
-            "accuracy": 99,
-            "score": 196182,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MeuButItsTaken"
         }
     ]
 }

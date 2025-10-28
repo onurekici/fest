@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 63583,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Natrosant"
+        },
+        {
+            "accuracy": 100,
             "score": 63490,
             "difficulty": 3,
             "stars": 6,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "dmbdaw"
+        },
+        {
+            "accuracy": 99,
+            "score": 63391,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Derps456"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ViperSLM"
-        },
-        {
-            "accuracy": 100,
-            "score": 61746,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "iHiTSu8832"
-        },
-        {
-            "accuracy": 99,
-            "score": 61705,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Big_anth97"
         }
     ]
 }

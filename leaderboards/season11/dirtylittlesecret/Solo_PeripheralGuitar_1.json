@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 233528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kompacc"
+        },
+        {
+            "accuracy": 99,
             "score": 233384,
             "difficulty": 3,
             "stars": 6,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "prod_GRIMM"
+        },
+        {
+            "accuracy": 100,
+            "score": 229940,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The Bar 0f Soap"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Xoluco"
-        },
-        {
-            "accuracy": 99,
-            "score": 224703,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ravester2k20"
-        },
-        {
-            "accuracy": 99,
-            "score": 224699,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThousandWinters"
         }
     ]
 }

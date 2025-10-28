@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 141642,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheRubyHero007"
+        },
+        {
+            "accuracy": 99,
+            "score": 141624,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "UltimateDropBear"
+        },
+        {
             "accuracy": 99,
             "score": 141612,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "gnikes endless"
-        },
-        {
-            "accuracy": 99,
-            "score": 140406,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BraxtonArcieri"
-        },
-        {
-            "accuracy": 99,
-            "score": 140406,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "yeehaw5436"
         }
     ]
 }

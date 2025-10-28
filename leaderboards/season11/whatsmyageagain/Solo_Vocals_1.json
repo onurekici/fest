@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 68769,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FaZe MaRbLe09"
+        },
+        {
+            "accuracy": 99,
             "score": 68664,
             "difficulty": 3,
             "stars": 6,
@@ -210,6 +218,14 @@
         },
         {
             "accuracy": 99,
+            "score": 65681,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nightmare_wero"
+        },
+        {
+            "accuracy": 99,
             "score": 65289,
             "difficulty": 3,
             "stars": 6,
@@ -263,6 +279,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PizzaNugget7584"
+        },
+        {
+            "accuracy": 100,
+            "score": 64587,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MissCrystals"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EZ DOGE"
-        },
-        {
-            "accuracy": 99,
-            "score": 58279,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ickybrii"
-        },
-        {
-            "accuracy": 100,
-            "score": 58099,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ajax_dynamicz"
-        },
-        {
-            "accuracy": 98,
-            "score": 58092,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gatomb1"
         }
     ]
 }

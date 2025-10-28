@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42535,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "beau3599"
+        },
+        {
             "accuracy": 89,
             "score": 42419,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "EvilMonkey 115"
-        },
-        {
-            "accuracy": 96,
-            "score": 30530,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Firestreak15"
         }
     ]
 }

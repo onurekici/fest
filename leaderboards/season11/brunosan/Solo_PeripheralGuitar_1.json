@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 78,
+            "score": 27876,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "KonosakeSuzuki"
+        },
+        {
             "accuracy": 79,
             "score": 27740,
             "difficulty": 3,
@@ -561,12 +569,28 @@
             "userName": "Luffytaro46"
         },
         {
+            "accuracy": 97,
+            "score": 16080,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Pißgroschen"
+        },
+        {
             "accuracy": 89,
             "score": 15732,
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
             "userName": "ElPenguito27"
+        },
+        {
+            "accuracy": 75,
+            "score": 15510,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "YalanGM"
         },
         {
             "accuracy": 82,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "BigBenethon"
-        },
-        {
-            "accuracy": 88,
-            "score": 9507,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "JoseAnguizola"
-        },
-        {
-            "accuracy": 93,
-            "score": 9432,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "lovinliss"
-        },
-        {
-            "accuracy": 62,
-            "score": 8213,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Bshi07"
         }
     ]
 }

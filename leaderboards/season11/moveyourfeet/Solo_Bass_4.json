@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 73409,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Achilles シ"
+        },
+        {
+            "accuracy": 100,
+            "score": 73367,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Karinski_96"
+        },
+        {
             "accuracy": 100,
             "score": 73365,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Khynumba1"
-        },
-        {
-            "accuracy": 99,
-            "score": 71561,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "luvshlx"
-        },
-        {
-            "accuracy": 99,
-            "score": 71556,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NickOliverSilv"
         }
     ]
 }

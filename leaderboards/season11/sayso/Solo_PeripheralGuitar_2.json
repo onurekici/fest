@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123702,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SenhorFeudal01"
+        },
+        {
+            "accuracy": 100,
+            "score": 123546,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kryptonite_Joker"
+        },
+        {
+            "accuracy": 99,
             "score": 123534,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Tony Zomboni"
-        },
-        {
-            "accuracy": 97,
-            "score": 107988,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "StarryMoi"
-        },
-        {
-            "accuracy": 97,
-            "score": 107790,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Erqints"
         }
     ]
 }

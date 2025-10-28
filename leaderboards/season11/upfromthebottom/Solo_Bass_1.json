@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 100458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheLegoTitan"
+        },
+        {
             "accuracy": 99,
             "score": 100139,
             "difficulty": 3,
@@ -674,6 +682,14 @@
         },
         {
             "accuracy": 97,
+            "score": 81125,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "X_Cuttie_Piee_X"
+        },
+        {
+            "accuracy": 97,
             "score": 80884,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DarthVader909"
-        },
-        {
-            "accuracy": 98,
-            "score": 76603,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FaThEr-PyRo"
-        },
-        {
-            "accuracy": 97,
-            "score": 76029,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ventus_Is_Sus"
         }
     ]
 }

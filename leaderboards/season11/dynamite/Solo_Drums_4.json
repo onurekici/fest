@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 112895,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Marckosawa"
+        },
+        {
+            "accuracy": 100,
+            "score": 112885,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "NobleFritz"
+        },
+        {
             "accuracy": 98,
             "score": 112836,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Amazing_DisplayO"
-        },
-        {
-            "accuracy": 97,
-            "score": 102978,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] smerfCat"
-        },
-        {
-            "accuracy": 98,
-            "score": 102948,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] itzFluksyy"
         }
     ]
 }

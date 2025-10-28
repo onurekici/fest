@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 51875,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kench Bot"
+        },
+        {
             "accuracy": 93,
             "score": 51567,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Re a Cor"
-        },
-        {
-            "accuracy": 89,
-            "score": 34630,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "GlitchyDust"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 217481,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Fusion Kush"
+        },
+        {
+            "accuracy": 100,
+            "score": 217336,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DreXortias"
+        },
+        {
             "accuracy": 99,
             "score": 217329,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Shiki-j"
-        },
-        {
-            "accuracy": 99,
-            "score": 207040,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Himboar"
-        },
-        {
-            "accuracy": 99,
-            "score": 207007,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "STFahrenheit"
         }
     ]
 }

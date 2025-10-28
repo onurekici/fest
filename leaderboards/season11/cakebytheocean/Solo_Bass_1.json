@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 166434,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "bKarma"
+        },
+        {
             "accuracy": 100,
             "score": 166434,
             "difficulty": 3,
@@ -434,6 +442,14 @@
         },
         {
             "accuracy": 100,
+            "score": 163998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MxsterofPuppets"
+        },
+        {
+            "accuracy": 100,
             "score": 163992,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "zoldteso"
-        },
-        {
-            "accuracy": 99,
-            "score": 162042,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DragonGabe."
-        },
-        {
-            "accuracy": 100,
-            "score": 162042,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SL_Sebosaurus"
         }
     ]
 }

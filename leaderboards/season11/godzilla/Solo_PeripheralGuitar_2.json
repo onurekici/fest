@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 96202,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheSaigonKid"
+        },
+        {
+            "accuracy": 100,
+            "score": 95620,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TonicNewt"
+        },
+        {
             "accuracy": 96,
             "score": 95576,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ectoplasmatic_"
-        },
-        {
-            "accuracy": 93,
-            "score": 78367,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Austinbuy"
-        },
-        {
-            "accuracy": 98,
-            "score": 78354,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ttorres2244"
         }
     ]
 }

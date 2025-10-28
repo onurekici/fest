@@ -514,6 +514,14 @@
         },
         {
             "accuracy": 99,
+            "score": 33858,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Astro the Artist"
+        },
+        {
+            "accuracy": 99,
             "score": 33774,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "PastorCam"
-        },
-        {
-            "accuracy": 96,
-            "score": 30456,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tiosirr"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 131883,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cpt.DoorStuck"
+        },
+        {
             "accuracy": 100,
             "score": 131774,
             "difficulty": 3,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mhijskraan"
+        },
+        {
+            "accuracy": 100,
+            "score": 131465,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sharpshoot92"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "240km eaglewarn"
-        },
-        {
-            "accuracy": 99,
-            "score": 125359,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "coiote103"
-        },
-        {
-            "accuracy": 99,
-            "score": 125255,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "serge01919"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 59432,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "mansrflying"
+        },
+        {
+            "accuracy": 88,
+            "score": 59278,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "RedFurLoki"
+        },
+        {
+            "accuracy": 100,
+            "score": 59196,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "chiclosky"
+        },
+        {
             "accuracy": 94,
             "score": 59120,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Velocirock79"
-        },
-        {
-            "accuracy": 81,
-            "score": 40305,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "MadMaxmillianK"
-        },
-        {
-            "accuracy": 91,
-            "score": 40229,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "mad.ison"
-        },
-        {
-            "accuracy": 85,
-            "score": 40196,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "HirashiK"
         }
     ]
 }

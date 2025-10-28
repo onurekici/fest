@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 131970,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] ShortFury"
+        },
+        {
+            "accuracy": 99,
+            "score": 131667,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Skkywarp"
+        },
+        {
             "accuracy": 98,
             "score": 131252,
             "difficulty": 3,
@@ -127,6 +143,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TT_Sheddy48"
+        },
+        {
+            "accuracy": 99,
+            "score": 123234,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sebasto01"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Octotron2000"
-        },
-        {
-            "accuracy": 98,
-            "score": 80146,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "moe_wafflez"
-        },
-        {
-            "accuracy": 99,
-            "score": 79842,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RunFugue"
-        },
-        {
-            "accuracy": 97,
-            "score": 78070,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "kolodziejp"
         }
     ]
 }

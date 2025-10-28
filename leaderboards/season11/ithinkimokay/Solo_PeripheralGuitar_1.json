@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 122292,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Red Star"
+        },
+        {
+            "accuracy": 100,
+            "score": 122258,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rvs_Ryuk"
+        },
+        {
             "accuracy": 99,
             "score": 122256,
             "difficulty": 3,
@@ -145,14 +161,6 @@
             "userName": "doorrr"
         },
         {
-            "accuracy": 99,
-            "score": 119404,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Techau"
-        },
-        {
             "accuracy": 98,
             "score": 119403,
             "difficulty": 3,
@@ -191,14 +199,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Megadosing"
-        },
-        {
-            "accuracy": 98,
-            "score": 118472,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kattanaita"
         },
         {
             "accuracy": 98,
@@ -359,6 +359,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "doworkndtasteit"
+        },
+        {
+            "accuracy": 98,
+            "score": 115687,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AddMegadeth"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GoPirate3921"
-        },
-        {
-            "accuracy": 99,
-            "score": 107720,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LawDawg_24"
         }
     ]
 }

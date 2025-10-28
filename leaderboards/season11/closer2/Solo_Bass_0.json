@@ -218,6 +218,14 @@
         },
         {
             "accuracy": 100,
+            "score": 81366,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mooka Manz"
+        },
+        {
+            "accuracy": 100,
             "score": 81311,
             "difficulty": 3,
             "stars": 6,
@@ -391,6 +399,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ThiccSinatra"
+        },
+        {
+            "accuracy": 100,
+            "score": 79200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BittersweetOlive"
         },
         {
             "accuracy": 100,
@@ -626,14 +642,6 @@
         },
         {
             "accuracy": 99,
-            "score": 73020,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mooka Manz"
-        },
-        {
-            "accuracy": 99,
             "score": 72779,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Darkfx1004"
-        },
-        {
-            "accuracy": 100,
-            "score": 68851,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ISA.TG"
         }
     ]
 }

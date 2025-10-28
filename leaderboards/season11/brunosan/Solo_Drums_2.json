@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 62730,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BeardedRatzmann"
+        },
+        {
+            "accuracy": 100,
+            "score": 62616,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "unknownzombier"
+        },
+        {
             "accuracy": 99,
             "score": 62616,
             "difficulty": 3,
@@ -287,6 +303,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PP-Buttercup"
+        },
+        {
+            "accuracy": 99,
+            "score": 60414,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BNF_nattsun_DH"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kurt Caldwell"
-        },
-        {
-            "accuracy": 99,
-            "score": 56598,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "chuyduude"
-        },
-        {
-            "accuracy": 100,
-            "score": 56370,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "OddSauce7"
-        },
-        {
-            "accuracy": 98,
-            "score": 56358,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "rainydase"
         }
     ]
 }
