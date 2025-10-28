@@ -41,7 +41,7 @@ jobs:
           EPIC_REFRESH_TOKEN: ${{ secrets.EPIC_REFRESH_TOKEN }}
           EPIC_BASIC_AUTH: ${{ secrets.EPIC_BASIC_AUTH }}
         # Script'e çıktıları ./output klasörüne yazmasını söylüyoruz
-        run: python scraper_actions.py ${{ matrix.instrument }} ./output
+        run: python actions.py ${{ matrix.instrument }} ./output
 
       # Sadece oluşturulan dosyaları içeren temiz klasörü artifact olarak yüklüyoruz
       - name: Upload leaderboards artifact
