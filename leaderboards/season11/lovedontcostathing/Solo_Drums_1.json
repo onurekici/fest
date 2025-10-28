@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 226866,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "smerbos"
+        },
+        {
+            "accuracy": 100,
+            "score": 226854,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Catgodzz"
+        },
+        {
             "accuracy": 100,
             "score": 226722,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MaikuPK"
-        },
-        {
-            "accuracy": 100,
-            "score": 219420,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "rhiuwu"
-        },
-        {
-            "accuracy": 100,
-            "score": 219378,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jo_zog17"
         }
     ]
 }

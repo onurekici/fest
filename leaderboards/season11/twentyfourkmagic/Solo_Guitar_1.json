@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 99487,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mrtmansoftspace"
+        },
+        {
+            "accuracy": 100,
             "score": 99281,
             "difficulty": 3,
             "stars": 6,
@@ -295,6 +303,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CombotMKIII"
+        },
+        {
+            "accuracy": 99,
+            "score": 93388,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jona_SS98"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Fil_Leo"
-        },
-        {
-            "accuracy": 99,
-            "score": 84307,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JAY ERA"
-        },
-        {
-            "accuracy": 100,
-            "score": 84288,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SADExSCOUTx"
         }
     ]
 }

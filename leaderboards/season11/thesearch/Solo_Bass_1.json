@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 110397,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HowIWreckedGoku"
+        },
+        {
+            "accuracy": 99,
             "score": 110260,
             "difficulty": 3,
             "stars": 6,
@@ -359,6 +367,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Gen_X_666"
+        },
+        {
+            "accuracy": 100,
+            "score": 101459,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "jefsilva"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SoggiCub"
-        },
-        {
-            "accuracy": 99,
-            "score": 89723,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DakotaX04"
-        },
-        {
-            "accuracy": 98,
-            "score": 89541,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Booky8272"
         }
     ]
 }

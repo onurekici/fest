@@ -193,6 +193,14 @@
             "userName": "Bob_Cato"
         },
         {
+            "accuracy": 100,
+            "score": 154244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "clapperbottoms"
+        },
+        {
             "accuracy": 99,
             "score": 153993,
             "difficulty": 3,
@@ -778,27 +786,19 @@
         },
         {
             "accuracy": 100,
+            "score": 148478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BeskarHunter101"
+        },
+        {
+            "accuracy": 100,
             "score": 148441,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Joshuaenzmann"
-        },
-        {
-            "accuracy": 99,
-            "score": 148296,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ДристонПоносович"
-        },
-        {
-            "accuracy": 99,
-            "score": 148198,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "maskmakerdaigo_"
         }
     ]
 }

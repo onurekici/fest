@@ -34,6 +34,14 @@
         },
         {
             "accuracy": 100,
+            "score": 95999,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Epilecture"
+        },
+        {
+            "accuracy": 100,
             "score": 95830,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TC_Cold"
-        },
-        {
-            "accuracy": 100,
-            "score": 78027,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Luиar."
         }
     ]
 }

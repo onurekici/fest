@@ -25,6 +25,14 @@
             "userName": "TheStrongFriend"
         },
         {
+            "accuracy": 100,
+            "score": 273223,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Beersj"
+        },
+        {
             "accuracy": 99,
             "score": 273208,
             "difficulty": 3,
@@ -609,6 +617,14 @@
             "userName": "doug jr."
         },
         {
+            "accuracy": 99,
+            "score": 271019,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "clearproduct"
+        },
+        {
             "accuracy": 100,
             "score": 270999,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TuneyJuney"
-        },
-        {
-            "accuracy": 99,
-            "score": 270365,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ToastTrouble"
-        },
-        {
-            "accuracy": 99,
-            "score": 270249,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xlPod"
         }
     ]
 }

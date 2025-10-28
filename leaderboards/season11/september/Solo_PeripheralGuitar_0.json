@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 241178,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kompacc"
+        },
+        {
             "accuracy": 99,
             "score": 238815,
             "difficulty": 3,
@@ -265,6 +273,14 @@
             "userName": "AddMegadeth"
         },
         {
+            "accuracy": 96,
+            "score": 182561,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Pidgeyana Grande"
+        },
+        {
             "accuracy": 97,
             "score": 179676,
             "difficulty": 3,
@@ -423,6 +439,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Stankey28"
+        },
+        {
+            "accuracy": 99,
+            "score": 149520,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ChillXeno"
         },
         {
             "accuracy": 94,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Jeddotmp3"
-        },
-        {
-            "accuracy": 96,
-            "score": 66404,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "scwarb"
-        },
-        {
-            "accuracy": 81,
-            "score": 65649,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SuperPokeBros"
-        },
-        {
-            "accuracy": 79,
-            "score": 64543,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "frankifur1"
         }
     ]
 }

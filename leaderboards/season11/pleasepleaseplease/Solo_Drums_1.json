@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 94870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fórk"
+        },
+        {
             "accuracy": 99,
             "score": 94809,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "cajun-co"
-        },
-        {
-            "accuracy": 98,
-            "score": 75741,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lady-Nay"
         }
     ]
 }

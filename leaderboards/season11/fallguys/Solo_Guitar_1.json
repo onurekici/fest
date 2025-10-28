@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 145498,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GrzXD"
+        },
+        {
+            "accuracy": 99,
+            "score": 145428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DINONIEL_"
+        },
+        {
             "accuracy": 99,
             "score": 145278,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheDaddyPeach"
-        },
-        {
-            "accuracy": 99,
-            "score": 136690,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ChrisYagami6"
-        },
-        {
-            "accuracy": 99,
-            "score": 136555,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jetskeeez"
         }
     ]
 }

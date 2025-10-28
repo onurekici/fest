@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 206124,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "misty mauve"
+        },
+        {
+            "accuracy": 100,
             "score": 206118,
             "difficulty": 3,
             "stars": 6,
@@ -231,6 +239,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ol_decoy"
+        },
+        {
+            "accuracy": 99,
+            "score": 201900,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dizzyewe4ia"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Zaicko_RP"
-        },
-        {
-            "accuracy": 99,
-            "score": 195132,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AndresMoALPHA"
-        },
-        {
-            "accuracy": 99,
-            "score": 195108,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Turriya"
         }
     ]
 }

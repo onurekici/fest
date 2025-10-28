@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 80220,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "pandaho"
+        },
+        {
+            "accuracy": 100,
             "score": 78636,
             "difficulty": 3,
             "stars": 6,
@@ -231,6 +239,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "pablust"
+        },
+        {
+            "accuracy": 97,
+            "score": 62274,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MaryanaBanana"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "OgLoc275"
-        },
-        {
-            "accuracy": 98,
-            "score": 32670,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hibr1D_LizardZ2"
-        },
-        {
-            "accuracy": 96,
-            "score": 32655,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Stare crown"
         }
     ]
 }

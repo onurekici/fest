@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 83,
+            "score": 20110,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Dr. Manu 85"
+        },
+        {
+            "accuracy": 100,
+            "score": 20015,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TTV-Red_Wrath"
+        },
+        {
             "accuracy": 100,
             "score": 19925,
             "difficulty": 0,
@@ -39,6 +55,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "michelvrnck"
+        },
+        {
+            "accuracy": 100,
+            "score": 19220,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "tori_secrets"
         },
         {
             "accuracy": 100,
@@ -135,6 +159,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CCarr2020"
+        },
+        {
+            "accuracy": 98,
+            "score": 16585,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DinoGamerCV"
         },
         {
             "accuracy": 98,
@@ -443,10 +475,26 @@
         {
             "accuracy": 0,
             "score": 0,
+            "difficulty": 2,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "PinkPrincess_883"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
             "difficulty": 0,
             "stars": 0,
             "fullcombo": false,
             "userName": "GamerMal2"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "soupeed"
         }
     ]
 }

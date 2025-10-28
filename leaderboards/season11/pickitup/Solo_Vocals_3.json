@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 99058,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Rем."
+        },
+        {
+            "accuracy": 99,
+            "score": 99052,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Avalon024"
+        },
+        {
             "accuracy": 99,
             "score": 98992,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Thunderz2014"
-        },
-        {
-            "accuracy": 99,
-            "score": 91659,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "User-1aaa9b75ce"
-        },
-        {
-            "accuracy": 99,
-            "score": 91630,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "[PSN] SAVAGE_BATESY"
         }
     ]
 }

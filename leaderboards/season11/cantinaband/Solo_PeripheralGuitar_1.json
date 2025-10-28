@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 62273,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "sailor jerrys"
+        },
+        {
             "accuracy": 89,
             "score": 61743,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "TheMerNerd"
-        },
-        {
-            "accuracy": 58,
-            "score": 15764,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Packbay"
         }
     ]
 }

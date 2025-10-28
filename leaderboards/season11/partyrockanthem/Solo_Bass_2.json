@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 96510,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OPS NITROGUN"
+        },
+        {
             "accuracy": 100,
             "score": 96260,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "R8NIN"
+        },
+        {
+            "accuracy": 98,
+            "score": 96054,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MissMandie"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "hmmmMonkey1"
-        },
-        {
-            "accuracy": 98,
-            "score": 85355,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AtlasMGgenk"
-        },
-        {
-            "accuracy": 99,
-            "score": 85335,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "True_Mexican"
         }
     ]
 }

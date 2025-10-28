@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 107936,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Techau"
+        },
+        {
+            "accuracy": 93,
+            "score": 105167,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "THE_BR0WNSN0WMAN"
+        },
+        {
             "accuracy": 98,
             "score": 104771,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FaintBlack"
-        },
-        {
-            "accuracy": 88,
-            "score": 63474,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Lilbearflu"
-        },
-        {
-            "accuracy": 85,
-            "score": 62767,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Infotzvivo"
         }
     ]
 }

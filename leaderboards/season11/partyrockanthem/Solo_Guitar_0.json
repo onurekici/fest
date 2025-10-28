@@ -50,7 +50,15 @@
         },
         {
             "accuracy": 100,
-            "score": 193002,
+            "score": 193542,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HatebreedeЯ"
+        },
+        {
+            "accuracy": 100,
+            "score": 193110,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -721,6 +729,14 @@
             "userName": "kadri30"
         },
         {
+            "accuracy": 100,
+            "score": 177696,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Peach_Hood"
+        },
+        {
             "accuracy": 99,
             "score": 177450,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "J_KODE21"
-        },
-        {
-            "accuracy": 100,
-            "score": 176394,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Wudders_"
-        },
-        {
-            "accuracy": 99,
-            "score": 176136,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CleanSkorpion"
         }
     ]
 }

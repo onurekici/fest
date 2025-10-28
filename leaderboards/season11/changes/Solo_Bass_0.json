@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 86375,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "pandaho"
+        },
+        {
+            "accuracy": 100,
             "score": 84591,
             "difficulty": 3,
             "stars": 6,
@@ -201,12 +209,28 @@
             "userName": "Suncet_13gv"
         },
         {
+            "accuracy": 98,
+            "score": 67660,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nanyayoksay"
+        },
+        {
             "accuracy": 96,
             "score": 67516,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "OG_PRADO"
+        },
+        {
+            "accuracy": 99,
+            "score": 67098,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Adiudicatur"
         },
         {
             "accuracy": 97,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "HDCrue"
-        },
-        {
-            "accuracy": 100,
-            "score": 53823,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "XavierSalyer"
-        },
-        {
-            "accuracy": 100,
-            "score": 53787,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Swagumz"
-        },
-        {
-            "accuracy": 99,
-            "score": 53746,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "كيبورد_"
         }
     ]
 }

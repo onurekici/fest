@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 75013,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "potwr"
+        },
+        {
             "accuracy": 99,
             "score": 74296,
             "difficulty": 2,
@@ -481,6 +489,14 @@
             "userName": "Austinrup2000"
         },
         {
+            "accuracy": 100,
+            "score": 50141,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Metalhammer1823"
+        },
+        {
             "accuracy": 96,
             "score": 50096,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "VagueQuagga81"
-        },
-        {
-            "accuracy": 94,
-            "score": 35596,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "FatZach666_STL"
-        },
-        {
-            "accuracy": 87,
-            "score": 34869,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "bobbie033"
         }
     ]
 }

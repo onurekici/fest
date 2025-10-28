@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 104379,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cdsoria420"
+        },
+        {
+            "accuracy": 99,
+            "score": 104326,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nootini"
+        },
+        {
             "accuracy": 99,
             "score": 104272,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dinobot202420"
-        },
-        {
-            "accuracy": 99,
-            "score": 96721,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "thiajs."
-        },
-        {
-            "accuracy": 100,
-            "score": 96669,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "pianoplaya43"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 216540,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Robo Cod"
+        },
+        {
+            "accuracy": 100,
             "score": 216538,
             "difficulty": 3,
             "stars": 6,
@@ -449,6 +457,14 @@
             "userName": "Mccheezy156"
         },
         {
+            "accuracy": 99,
+            "score": 213582,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Freak On-a Leash"
+        },
+        {
             "accuracy": 100,
             "score": 213582,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HybridFNBR"
-        },
-        {
-            "accuracy": 100,
-            "score": 210072,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Demiandroid3"
-        },
-        {
-            "accuracy": 100,
-            "score": 210035,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NotKira47"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 135390,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "oscarbosscat"
+        },
+        {
             "accuracy": 99,
             "score": 135330,
             "difficulty": 3,
@@ -23,6 +31,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "welder hunter"
+        },
+        {
+            "accuracy": 96,
+            "score": 135216,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NotJœ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Bl0v3dFung1"
-        },
-        {
-            "accuracy": 100,
-            "score": 131874,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Alexa lepe"
-        },
-        {
-            "accuracy": 99,
-            "score": 131868,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GuzzieFuzzie"
         }
     ]
 }

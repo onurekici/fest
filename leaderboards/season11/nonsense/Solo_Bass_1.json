@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 82233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dego_rutti"
+        },
+        {
             "accuracy": 99,
             "score": 82230,
             "difficulty": 3,
@@ -346,11 +354,27 @@
         },
         {
             "accuracy": 100,
+            "score": 77078,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "POLyHOOD"
+        },
+        {
+            "accuracy": 100,
             "score": 76924,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "SyntharPrime"
+        },
+        {
+            "accuracy": 100,
+            "score": 76857,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MarginalFox1496"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "megulovania"
-        },
-        {
-            "accuracy": 100,
-            "score": 72498,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "The10thlol"
-        },
-        {
-            "accuracy": 99,
-            "score": 72498,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PwninPixie"
-        },
-        {
-            "accuracy": 100,
-            "score": 72474,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "GoonBlox"
         }
     ]
 }

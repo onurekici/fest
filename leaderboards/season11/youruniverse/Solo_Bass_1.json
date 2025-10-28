@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 84720,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Agua.cs"
+        },
+        {
+            "accuracy": 99,
+            "score": 84456,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Venoninhoecstrei"
+        },
+        {
+            "accuracy": 100,
             "score": 84378,
             "difficulty": 3,
             "stars": 6,
@@ -618,6 +634,14 @@
         },
         {
             "accuracy": 100,
+            "score": 78455,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Delta_Magnus"
+        },
+        {
+            "accuracy": 100,
             "score": 78412,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SomeRD"
-        },
-        {
-            "accuracy": 100,
-            "score": 75621,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "supertonystar"
-        },
-        {
-            "accuracy": 98,
-            "score": 75561,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ShiroThePilot"
-        },
-        {
-            "accuracy": 99,
-            "score": 75538,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KingChris1014"
         }
     ]
 }

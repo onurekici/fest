@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 129042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Arctic_Tigress"
+        },
+        {
             "accuracy": 100,
             "score": 128898,
             "difficulty": 3,
@@ -23,6 +31,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GhostOni45"
+        },
+        {
+            "accuracy": 100,
+            "score": 128094,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tink_Wolfsblut"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "UNLOA3DGUN"
-        },
-        {
-            "accuracy": 99,
-            "score": 116646,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rooket_"
-        },
-        {
-            "accuracy": 100,
-            "score": 116586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "sinistersapphic"
         }
     ]
 }

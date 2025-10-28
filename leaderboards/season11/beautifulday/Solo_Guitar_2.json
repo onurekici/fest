@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 205204,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gorijen.co.jp"
+        },
+        {
+            "accuracy": 100,
             "score": 205202,
             "difficulty": 3,
             "stars": 6,
@@ -311,6 +319,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "adrian.vanilla"
+        },
+        {
+            "accuracy": 99,
+            "score": 203025,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-288d7ba194"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "kellduck9971"
-        },
-        {
-            "accuracy": 100,
-            "score": 200479,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Strike 3 Called"
-        },
-        {
-            "accuracy": 100,
-            "score": 200476,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StayPeachy_Yusuf"
         }
     ]
 }

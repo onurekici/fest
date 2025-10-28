@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 23614,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "deko-poco"
+        },
+        {
+            "accuracy": 100,
             "score": 23404,
             "difficulty": 1,
             "stars": 5,
@@ -225,6 +233,14 @@
             "userName": "Watergirl4234"
         },
         {
+            "accuracy": 100,
+            "score": 20111,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "JC GAMING007"
+        },
+        {
             "accuracy": 99,
             "score": 19884,
             "difficulty": 1,
@@ -351,6 +367,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Tia lee 2010"
+        },
+        {
+            "accuracy": 93,
+            "score": 14974,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Cantbeatthewhal"
         },
         {
             "accuracy": 95,
@@ -543,14 +567,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "TTV_MadBTW"
-        },
-        {
-            "accuracy": 90,
-            "score": 9512,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "JC GAMING007"
         },
         {
             "accuracy": 89,
@@ -783,14 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "Thelittlebigpig"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "H-Bomb1010"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 143400,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] Dingierpumpkin"
+        },
+        {
             "accuracy": 93,
             "score": 142956,
             "difficulty": 3,
@@ -225,6 +233,14 @@
             "userName": "Gabosta756"
         },
         {
+            "accuracy": 94,
+            "score": 102258,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "NorthernFall0401"
+        },
+        {
             "accuracy": 95,
             "score": 100386,
             "difficulty": 3,
@@ -447,6 +463,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Manu Revelde"
+        },
+        {
+            "accuracy": 100,
+            "score": 64430,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kraken01010"
         },
         {
             "accuracy": 93,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "M.musc4t"
-        },
-        {
-            "accuracy": 99,
-            "score": 56810,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JuliaGoolia09"
-        },
-        {
-            "accuracy": 99,
-            "score": 56680,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheKaimos"
-        },
-        {
-            "accuracy": 99,
-            "score": 56210,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Death.Trigger"
         }
     ]
 }

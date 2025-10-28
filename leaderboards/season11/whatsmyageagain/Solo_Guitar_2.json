@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123429,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Reserved_Tost00"
+        },
+        {
+            "accuracy": 100,
+            "score": 123407,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "omgloyall"
+        },
+        {
+            "accuracy": 99,
+            "score": 123235,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Extasse"
+        },
+        {
+            "accuracy": 99,
             "score": 123109,
             "difficulty": 3,
             "stars": 6,
@@ -151,14 +175,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ikeusnakes"
-        },
-        {
-            "accuracy": 100,
-            "score": 121513,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ibegettinfamous"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mr_Kickin"
-        },
-        {
-            "accuracy": 99,
-            "score": 111116,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "The_Brendan1"
-        },
-        {
-            "accuracy": 99,
-            "score": 110911,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DiegoMR09"
         }
     ]
 }

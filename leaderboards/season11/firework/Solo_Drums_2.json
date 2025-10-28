@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 80180,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SpiderheadTV"
+        },
+        {
+            "accuracy": 100,
+            "score": 80165,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Vampirequeen226"
+        },
+        {
             "accuracy": 100,
             "score": 80080,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "TheMegaKnights"
-        },
-        {
-            "accuracy": 97,
-            "score": 55170,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "leah945"
-        },
-        {
-            "accuracy": 88,
-            "score": 54480,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "J0coque"
         }
     ]
 }

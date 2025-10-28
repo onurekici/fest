@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 120234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ccotai"
+        },
+        {
+            "accuracy": 100,
             "score": 120078,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "kiru ボ"
-        },
-        {
-            "accuracy": 100,
-            "score": 118263,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LootHooverer"
         }
     ]
 }

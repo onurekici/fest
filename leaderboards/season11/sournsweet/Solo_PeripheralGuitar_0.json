@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 104117,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xoxo.teatime"
+        },
+        {
+            "accuracy": 100,
             "score": 101901,
             "difficulty": 3,
             "stars": 6,
@@ -47,14 +55,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Party Midnight"
-        },
-        {
-            "accuracy": 100,
-            "score": 100073,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xoxo.teatime"
         },
         {
             "accuracy": 99,
@@ -127,6 +127,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Solace Succubus"
+        },
+        {
+            "accuracy": 98,
+            "score": 75343,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TrashGöblin"
         },
         {
             "accuracy": 97,

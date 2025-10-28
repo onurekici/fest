@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 95,
+            "score": 90610,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "spooked-"
+        },
+        {
+            "accuracy": 95,
             "score": 90583,
             "difficulty": 3,
             "stars": 4,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ItsDatJadran"
-        },
-        {
-            "accuracy": 100,
-            "score": 61037,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Koggr"
         }
     ]
 }

@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 81879,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CharaDeLaMoore"
+        },
+        {
+            "accuracy": 100,
+            "score": 81872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 81715,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SunsetLilac"
+        },
+        {
+            "accuracy": 100,
             "score": 81597,
             "difficulty": 3,
             "stars": 6,
@@ -630,7 +654,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": "wee ash"
+            "userName": "balenci on me."
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "kimmystuff"
-        },
-        {
-            "accuracy": 98,
-            "score": 74763,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "la lechusa"
-        },
-        {
-            "accuracy": 100,
-            "score": 74737,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Yoshi1796"
-        },
-        {
-            "accuracy": 100,
-            "score": 74703,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Bababoey12369"
         }
     ]
 }

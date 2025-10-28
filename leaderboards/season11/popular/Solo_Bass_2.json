@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 41003,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Halostarwars24"
+        },
+        {
             "accuracy": 100,
             "score": 40995,
             "difficulty": 3,
@@ -670,6 +678,14 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
+            "userName": "creepyjuliet"
+        },
+        {
+            "accuracy": 100,
+            "score": 40277,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
             "userName": "Arveta"
         },
         {
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "emthegiraffe-"
-        },
-        {
-            "accuracy": 99,
-            "score": 40188,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Edwinjje"
-        },
-        {
-            "accuracy": 100,
-            "score": 40187,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DegrootDegreat"
         }
     ]
 }

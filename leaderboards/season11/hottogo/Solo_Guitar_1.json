@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 86756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Milkman30574"
+        },
+        {
+            "accuracy": 100,
             "score": 86738,
             "difficulty": 3,
             "stars": 6,
@@ -193,12 +201,28 @@
             "userName": "GREASE _ MONKE"
         },
         {
+            "accuracy": 99,
+            "score": 85414,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CosmicKitten9598"
+        },
+        {
             "accuracy": 100,
             "score": 85393,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "CorpseCousin"
+        },
+        {
+            "accuracy": 100,
+            "score": 85290,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Alchemical_X"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "q_mizu"
-        },
-        {
-            "accuracy": 96,
-            "score": 80051,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "inf3rn0cat"
-        },
-        {
-            "accuracy": 99,
-            "score": 79806,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThermpNeyorg"
-        },
-        {
-            "accuracy": 100,
-            "score": 79782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "sororris"
         }
     ]
 }

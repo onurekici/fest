@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 50187,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Snorlax Coffee"
+        },
+        {
+            "accuracy": 100,
             "score": 50128,
             "difficulty": 2,
             "stars": 5,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Arthelaiz"
-        },
-        {
-            "accuracy": 99,
-            "score": 44841,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MistyShad0w ツ"
         }
     ]
 }

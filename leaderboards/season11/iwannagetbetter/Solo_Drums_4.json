@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 168906,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SketchedHeart"
+        },
+        {
             "accuracy": 99,
             "score": 168900,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "CamT1729"
-        },
-        {
-            "accuracy": 99,
-            "score": 166482,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PugRoy"
         }
     ]
 }
