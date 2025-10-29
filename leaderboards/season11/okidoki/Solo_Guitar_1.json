@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 49368,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Knight4God13"
+        },
+        {
             "accuracy": 99,
             "score": 48750,
             "difficulty": 2,
@@ -191,6 +199,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SmokedDeath"
+        },
+        {
+            "accuracy": 96,
+            "score": 43918,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "beryhart"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GoodElkin"
-        },
-        {
-            "accuracy": 100,
-            "score": 24910,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Epileptickitten"
-        },
-        {
-            "accuracy": 99,
-            "score": 24724,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BlodreinaPR"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130290,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kyeiza"
+        },
+        {
+            "accuracy": 99,
+            "score": 130260,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "eclispe09"
+        },
+        {
             "accuracy": 99,
             "score": 130248,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ricky232432"
-        },
-        {
-            "accuracy": 99,
-            "score": 126762,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Guillermiooo"
-        },
-        {
-            "accuracy": 100,
-            "score": 126756,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PapaKakaroto"
         }
     ]
 }

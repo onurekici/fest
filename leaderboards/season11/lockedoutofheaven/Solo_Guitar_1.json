@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 170330,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "lewie_999"
+        },
+        {
+            "accuracy": 99,
+            "score": 170233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "i8abag"
+        },
+        {
+            "accuracy": 99,
+            "score": 169877,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jendrus1611"
+        },
+        {
             "accuracy": 98,
             "score": 169336,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KxSkyeXH"
-        },
-        {
-            "accuracy": 95,
-            "score": 112519,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "FlowingGuitar79"
-        },
-        {
-            "accuracy": 95,
-            "score": 112219,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GabeTheWall"
-        },
-        {
-            "accuracy": 96,
-            "score": 112140,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Diego Messina"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 24430,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Metarama"
+        },
+        {
+            "accuracy": 95,
+            "score": 24416,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "DizzyO2"
+        },
+        {
             "accuracy": 86,
             "score": 24393,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Vanpersie505"
-        },
-        {
-            "accuracy": 88,
-            "score": 14301,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "AVerySleepyGuy"
-        },
-        {
-            "accuracy": 100,
-            "score": 14249,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "CoffeeMomof3"
         }
     ]
 }

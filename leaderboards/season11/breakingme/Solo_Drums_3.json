@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 42435,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KiNg-Vip3r"
+        },
+        {
+            "accuracy": 100,
             "score": 42340,
             "difficulty": 1,
             "stars": 5,
@@ -673,6 +681,14 @@
             "userName": "Iso Segs"
         },
         {
+            "accuracy": 96,
+            "score": 26850,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Fairest95"
+        },
+        {
             "accuracy": 97,
             "score": 26670,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Assiley"
-        },
-        {
-            "accuracy": 100,
-            "score": 23975,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Leowyld"
-        },
-        {
-            "accuracy": 100,
-            "score": 23930,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Aamukasa95"
         }
     ]
 }

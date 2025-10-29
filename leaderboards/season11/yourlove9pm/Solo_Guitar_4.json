@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 47595,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fabrogun"
+        },
+        {
+            "accuracy": 100,
+            "score": 47586,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Baelzebunn"
+        },
+        {
+            "accuracy": 99,
             "score": 47554,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "superironclaws"
-        },
-        {
-            "accuracy": 98,
-            "score": 45283,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "r0TT0r"
-        },
-        {
-            "accuracy": 98,
-            "score": 45276,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ðelta Z"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 29833,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DerekL8Pro"
+        },
+        {
+            "accuracy": 99,
+            "score": 29799,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "炸毛精"
+        },
+        {
             "accuracy": 99,
             "score": 29754,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "jeminq"
-        },
-        {
-            "accuracy": 97,
-            "score": 19247,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bubbles4876"
-        },
-        {
-            "accuracy": 96,
-            "score": 19183,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ishowspeedsuuwy"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 105377,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MrWideWorld"
+        },
+        {
             "accuracy": 97,
             "score": 105362,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Raoul_B"
-        },
-        {
-            "accuracy": 100,
-            "score": 87114,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Shaved Penguin"
         }
     ]
 }

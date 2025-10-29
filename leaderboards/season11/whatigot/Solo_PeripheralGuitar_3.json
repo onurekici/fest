@@ -81,6 +81,14 @@
             "userName": "Gun Man Carter"
         },
         {
+            "accuracy": 90,
+            "score": 43023,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Nightscape_00"
+        },
+        {
             "accuracy": 96,
             "score": 43009,
             "difficulty": 1,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "KelMuck"
-        },
-        {
-            "accuracy": 73,
-            "score": 24144,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "X3NO_Topaz"
         }
     ]
 }

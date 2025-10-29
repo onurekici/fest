@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 163308,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "csGreenz"
+        },
+        {
+            "accuracy": 100,
+            "score": 163200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Deeraku2"
+        },
+        {
+            "accuracy": 99,
             "score": 163152,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Hachimizu_825"
-        },
-        {
-            "accuracy": 100,
-            "score": 158346,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "adrichibi"
-        },
-        {
-            "accuracy": 99,
-            "score": 158238,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sithwave2112"
         }
     ]
 }

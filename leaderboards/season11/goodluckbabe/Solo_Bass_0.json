@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 169506,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ReeceG223"
+        },
+        {
+            "accuracy": 100,
             "score": 168750,
             "difficulty": 3,
             "stars": 6,
@@ -681,6 +689,14 @@
             "userName": "frownyclownery"
         },
         {
+            "accuracy": 98,
+            "score": 117060,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "cb.trippin"
+        },
+        {
             "accuracy": 95,
             "score": 116988,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KingChris1014"
-        },
-        {
-            "accuracy": 99,
-            "score": 111838,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MemoryFilm"
-        },
-        {
-            "accuracy": 99,
-            "score": 111806,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "queenofbergen"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 209067,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cheesychewbacca"
+        },
+        {
             "accuracy": 100,
             "score": 209018,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Legend Megax"
-        },
-        {
-            "accuracy": 100,
-            "score": 204936,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SuperDogmatic"
         }
     ]
 }

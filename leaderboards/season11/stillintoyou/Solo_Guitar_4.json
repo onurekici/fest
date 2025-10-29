@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 193503,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sanguinexrose"
+        },
+        {
+            "accuracy": 100,
+            "score": 193496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "marshmello101"
+        },
+        {
+            "accuracy": 100,
             "score": 193465,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AnthumN"
-        },
-        {
-            "accuracy": 99,
-            "score": 191287,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "dzompp"
-        },
-        {
-            "accuracy": 99,
-            "score": 191278,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SquishieFishies"
         }
     ]
 }

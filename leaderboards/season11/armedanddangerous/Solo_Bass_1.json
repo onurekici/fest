@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 18356,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Sunny_V0"
+        },
+        {
+            "accuracy": 100,
             "score": 18353,
             "difficulty": 1,
             "stars": 5,
@@ -737,6 +745,14 @@
             "userName": "ObligingDisk3804"
         },
         {
+            "accuracy": 100,
+            "score": 15093,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Knuck13 Du5t3r"
+        },
+        {
             "accuracy": 98,
             "score": 15076,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TwonkerDonker"
-        },
-        {
-            "accuracy": 100,
-            "score": 14698,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "doctorBOBfan"
-        },
-        {
-            "accuracy": 100,
-            "score": 14695,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MMMotorcycle13"
         }
     ]
 }

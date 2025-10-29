@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 113629,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lukeblank"
+        },
+        {
+            "accuracy": 100,
+            "score": 113626,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RatBoiBig"
+        },
+        {
+            "accuracy": 100,
+            "score": 113615,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "pokemon907"
+        },
+        {
             "accuracy": 100,
             "score": 113613,
             "difficulty": 3,
@@ -602,14 +626,6 @@
         },
         {
             "accuracy": 100,
-            "score": 112336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Spongebob Toilet"
-        },
-        {
-            "accuracy": 100,
             "score": 112333,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "User-3b22ba9a3d"
-        },
-        {
-            "accuracy": 100,
-            "score": 112006,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SWRogue One"
-        },
-        {
-            "accuracy": 100,
-            "score": 111963,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gh0stlycow"
         }
     ]
 }

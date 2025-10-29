@@ -130,6 +130,14 @@
         },
         {
             "accuracy": 100,
+            "score": 117554,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GethSmash"
+        },
+        {
+            "accuracy": 100,
             "score": 117075,
             "difficulty": 3,
             "stars": 6,
@@ -329,6 +337,14 @@
             "userName": "Korangarr_"
         },
         {
+            "accuracy": 97,
+            "score": 92793,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bono758"
+        },
+        {
             "accuracy": 99,
             "score": 91478,
             "difficulty": 2,
@@ -423,6 +439,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "wpbillin"
+        },
+        {
+            "accuracy": 97,
+            "score": 82681,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DaVeTheDaVer"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Shauderr"
-        },
-        {
-            "accuracy": 88,
-            "score": 20231,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "palepeach"
-        },
-        {
-            "accuracy": 77,
-            "score": 17667,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "[PSN] SMOKE_STAXS"
-        },
-        {
-            "accuracy": 88,
-            "score": 16847,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "DOGGVTS"
         }
     ]
 }

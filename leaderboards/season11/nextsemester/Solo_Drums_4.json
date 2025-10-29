@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 167910,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chun Lì"
+        },
+        {
+            "accuracy": 99,
+            "score": 167892,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "zolynette"
+        },
+        {
             "accuracy": 99,
             "score": 167862,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "puggness"
-        },
-        {
-            "accuracy": 100,
-            "score": 164412,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RoryXIII"
-        },
-        {
-            "accuracy": 100,
-            "score": 164406,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HaveNoHp"
         }
     ]
 }

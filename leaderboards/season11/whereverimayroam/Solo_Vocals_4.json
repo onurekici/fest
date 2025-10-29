@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130654,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cosmoscreate"
+        },
+        {
+            "accuracy": 100,
+            "score": 130608,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Toaster3123"
+        },
+        {
+            "accuracy": 100,
             "score": 130567,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "eldavimendi"
-        },
-        {
-            "accuracy": 100,
-            "score": 128454,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SukunaPlushy"
-        },
-        {
-            "accuracy": 99,
-            "score": 128432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PierceTheLiz"
         }
     ]
 }

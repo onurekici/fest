@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 71445,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheJavaJitters"
+        },
+        {
             "accuracy": 97,
             "score": 71400,
             "difficulty": 3,
@@ -255,6 +263,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "YYZ_81"
+        },
+        {
+            "accuracy": 100,
+            "score": 69596,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TheUpdatedBible"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "OOLA_SKINK"
-        },
-        {
-            "accuracy": 98,
-            "score": 66344,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BLOODSTAR 36"
-        },
-        {
-            "accuracy": 96,
-            "score": 66249,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "kaliext"
         }
     ]
 }

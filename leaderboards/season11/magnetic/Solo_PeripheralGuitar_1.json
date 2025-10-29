@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 81,
+            "score": 56902,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Soy_Furro_uwu"
+        },
+        {
             "accuracy": 84,
             "score": 56812,
             "difficulty": 3,
@@ -95,14 +103,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ArkhamReject"
-        },
-        {
-            "accuracy": 94,
-            "score": 50504,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "naitousam"
         },
         {
             "accuracy": 81,
@@ -505,6 +505,14 @@
             "userName": "scarypotato377"
         },
         {
+            "accuracy": 75,
+            "score": 32603,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Grizzly Borealis"
+        },
+        {
             "accuracy": 83,
             "score": 32041,
             "difficulty": 3,
@@ -535,6 +543,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "VyB evoluflare"
+        },
+        {
+            "accuracy": 64,
+            "score": 31426,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "RemmNatsukii"
         },
         {
             "accuracy": 67,
@@ -705,14 +721,6 @@
             "userName": "InspectorTravie"
         },
         {
-            "accuracy": 67,
-            "score": 23103,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Grizzly Borealis"
-        },
-        {
             "accuracy": 85,
             "score": 22678,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Warfu_"
-        },
-        {
-            "accuracy": 45,
-            "score": 20027,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "DudeKnockItOff"
         }
     ]
 }

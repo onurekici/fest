@@ -169,6 +169,14 @@
             "userName": "Its Sif"
         },
         {
+            "accuracy": 100,
+            "score": 94786,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "vluckyshot"
+        },
+        {
             "accuracy": 98,
             "score": 94553,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PupAero1"
-        },
-        {
-            "accuracy": 97,
-            "score": 70897,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Wicked Skol"
         }
     ]
 }

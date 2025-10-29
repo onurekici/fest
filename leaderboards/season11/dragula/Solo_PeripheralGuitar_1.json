@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 197153,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Deadeye Oryx"
+        },
+        {
+            "accuracy": 99,
+            "score": 197112,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "frodaoGOD"
+        },
+        {
             "accuracy": 99,
             "score": 197028,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Loxу"
-        },
-        {
-            "accuracy": 98,
-            "score": 190249,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Solace Succubus"
-        },
-        {
-            "accuracy": 99,
-            "score": 190231,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tyrannik"
         }
     ]
 }

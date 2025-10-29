@@ -362,6 +362,14 @@
         },
         {
             "accuracy": 100,
+            "score": 50194,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Art Vandelay."
+        },
+        {
+            "accuracy": 100,
             "score": 50113,
             "difficulty": 3,
             "stars": 6,
@@ -543,6 +551,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Peepooohh"
+        },
+        {
+            "accuracy": 98,
+            "score": 46039,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BulborbBop"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bri2j"
-        },
-        {
-            "accuracy": 96,
-            "score": 40151,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Skylanderz"
-        },
-        {
-            "accuracy": 98,
-            "score": 40140,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kaden_Yukimura"
         }
     ]
 }

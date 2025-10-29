@@ -114,6 +114,14 @@
         },
         {
             "accuracy": 100,
+            "score": 183200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Adam_PunK"
+        },
+        {
+            "accuracy": 100,
             "score": 182660,
             "difficulty": 3,
             "stars": 6,
@@ -335,6 +343,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LukeArrowsmith"
+        },
+        {
+            "accuracy": 99,
+            "score": 167282,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AidanJgarza"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Reokoto"
-        },
-        {
-            "accuracy": 99,
-            "score": 142050,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "イレギュラーなリンゴ"
-        },
-        {
-            "accuracy": 99,
-            "score": 142041,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "normalwoopa"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 86901,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "awkwardpalo"
+        },
+        {
+            "accuracy": 100,
             "score": 86881,
             "difficulty": 3,
             "stars": 6,
@@ -669,6 +677,14 @@
             "score": 85684,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "Nugglicious01"
+        },
+        {
+            "accuracy": 100,
+            "score": 85684,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "Konz_Young"
         },
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Anxious_Ant"
-        },
-        {
-            "accuracy": 100,
-            "score": 85502,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KanayMaster"
-        },
-        {
-            "accuracy": 99,
-            "score": 85501,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kr_s92"
         }
     ]
 }

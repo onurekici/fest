@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 46128,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Doominader"
+        },
+        {
+            "accuracy": 97,
+            "score": 45971,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mr Penguino"
+        },
+        {
             "accuracy": 100,
             "score": 45820,
             "difficulty": 1,
@@ -383,6 +399,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MandyandRon"
+        },
+        {
+            "accuracy": 100,
+            "score": 37054,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Dieshto"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "mothlovejoy"
-        },
-        {
-            "accuracy": 99,
-            "score": 26220,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BetterChief7320"
-        },
-        {
-            "accuracy": 96,
-            "score": 26197,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cobra123City"
-        },
-        {
-            "accuracy": 97,
-            "score": 26103,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Darksider_Rin"
         }
     ]
 }

@@ -257,6 +257,14 @@
             "userName": "Côrpse Groom"
         },
         {
+            "accuracy": 99,
+            "score": 135886,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ohlsson"
+        },
+        {
             "accuracy": 100,
             "score": 135834,
             "difficulty": 3,
@@ -385,6 +393,14 @@
             "userName": "SketchyCaiden"
         },
         {
+            "accuracy": 100,
+            "score": 131913,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Wavesolo10"
+        },
+        {
             "accuracy": 99,
             "score": 131912,
             "difficulty": 3,
@@ -495,14 +511,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "N y x l i e"
-        },
-        {
-            "accuracy": 100,
-            "score": 129376,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Wavesolo10"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "kanyewestrecoil"
-        },
-        {
-            "accuracy": 99,
-            "score": 120777,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rusty Muggins"
         }
     ]
 }

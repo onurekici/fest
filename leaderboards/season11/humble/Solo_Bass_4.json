@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 83758,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The Dr Wumbo"
+        },
+        {
             "accuracy": 97,
             "score": 83736,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ka_0liveir"
-        },
-        {
-            "accuracy": 99,
-            "score": 82065,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "linolyyy"
         }
     ]
 }

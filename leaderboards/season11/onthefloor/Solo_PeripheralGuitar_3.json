@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87114,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Shaved Penguin"
+        },
+        {
             "accuracy": 96,
             "score": 86803,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Megs051219"
-        },
-        {
-            "accuracy": 96,
-            "score": 68135,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "colester9"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 97056,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Tiamat_Darkrose"
+        },
+        {
+            "accuracy": 99,
+            "score": 97012,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JV Blaster"
+        },
+        {
             "accuracy": 99,
             "score": 96998,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Abpa12"
-        },
-        {
-            "accuracy": 99,
-            "score": 93190,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GH7fps"
-        },
-        {
-            "accuracy": 98,
-            "score": 93183,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jokersoul10"
         }
     ]
 }

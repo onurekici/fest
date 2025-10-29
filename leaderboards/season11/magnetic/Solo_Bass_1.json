@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100714,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Aritz Ramos"
+        },
+        {
+            "accuracy": 100,
             "score": 100606,
             "difficulty": 3,
             "stars": 6,
@@ -23,6 +31,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ZeroPanic70"
+        },
+        {
+            "accuracy": 99,
+            "score": 100172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "T-mac1236"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kimchi-Fried"
-        },
-        {
-            "accuracy": 99,
-            "score": 89375,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RavenblackA"
-        },
-        {
-            "accuracy": 99,
-            "score": 89372,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "angelitocm89"
         }
     ]
 }

@@ -74,6 +74,14 @@
         },
         {
             "accuracy": 100,
+            "score": 92614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Felix Outsider"
+        },
+        {
+            "accuracy": 100,
             "score": 92474,
             "difficulty": 3,
             "stars": 6,
@@ -377,6 +385,14 @@
             "userName": "Snubbiscuit4801"
         },
         {
+            "accuracy": 98,
+            "score": 78142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "alitamali"
+        },
+        {
             "accuracy": 99,
             "score": 77499,
             "difficulty": 3,
@@ -567,14 +583,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Leyeggs"
-        },
-        {
-            "accuracy": 97,
-            "score": 67803,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "alitamali"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "JozenFire"
-        },
-        {
-            "accuracy": 98,
-            "score": 55960,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Zac Attack17"
         }
     ]
 }

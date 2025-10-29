@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 64364,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheDrewser"
+        },
+        {
+            "accuracy": 96,
+            "score": 63566,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "EmoChen"
+        },
+        {
             "accuracy": 99,
             "score": 63332,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TheRealBadGuy1"
-        },
-        {
-            "accuracy": 66,
-            "score": 29308,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "PuppyScouts"
-        },
-        {
-            "accuracy": 82,
-            "score": 28986,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "tagyourelit"
         }
     ]
 }
