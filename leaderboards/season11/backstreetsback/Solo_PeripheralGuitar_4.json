@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 61597,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "kIM jONg bOng"
+        },
+        {
             "accuracy": 93,
             "score": 61587,
             "difficulty": 3,
@@ -135,6 +143,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "MajChipHazzard"
+        },
+        {
+            "accuracy": 91,
+            "score": 61043,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dustamania"
         },
         {
             "accuracy": 98,
@@ -553,14 +569,6 @@
             "userName": "ed726mull"
         },
         {
-            "accuracy": 100,
-            "score": 59337,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Dustamania"
-        },
-        {
             "accuracy": 93,
             "score": 59320,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RoySpammer"
-        },
-        {
-            "accuracy": 100,
-            "score": 58435,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Brunswick-stew"
         }
     ]
 }

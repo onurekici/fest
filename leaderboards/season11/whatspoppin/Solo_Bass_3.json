@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 15000,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Yolatigre"
+        },
+        {
+            "accuracy": 100,
+            "score": 14990,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kieranpez123"
+        },
+        {
+            "accuracy": 99,
+            "score": 14945,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MattThaBratt"
+        },
+        {
+            "accuracy": 100,
             "score": 14920,
             "difficulty": 1,
             "stars": 5,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Hughesy050"
-        },
-        {
-            "accuracy": 98,
-            "score": 10090,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "XadTreborp24"
-        },
-        {
-            "accuracy": 99,
-            "score": 10065,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Attachements"
-        },
-        {
-            "accuracy": 98,
-            "score": 9985,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SuperiorC1"
         }
     ]
 }

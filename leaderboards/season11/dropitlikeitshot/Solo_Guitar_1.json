@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 36365,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Queen Zuramaru"
+        },
+        {
+            "accuracy": 99,
             "score": 36322,
             "difficulty": 3,
             "stars": 6,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Jammyccc95"
+        },
+        {
+            "accuracy": 100,
+            "score": 35781,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "emotizzy"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SurefireGnu7865"
-        },
-        {
-            "accuracy": 99,
-            "score": 32557,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bravo_k22"
-        },
-        {
-            "accuracy": 98,
-            "score": 32497,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "El_Tigre_Eterno"
         }
     ]
 }

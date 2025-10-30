@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 121760,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "theN1N"
+        },
+        {
+            "accuracy": 98,
+            "score": 121735,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RipstopDrift"
+        },
+        {
+            "accuracy": 100,
             "score": 121716,
             "difficulty": 3,
             "stars": 6,
@@ -175,6 +191,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Poncho7285"
+        },
+        {
+            "accuracy": 100,
+            "score": 120165,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ale Duflow"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Karras87"
-        },
-        {
-            "accuracy": 100,
-            "score": 114143,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Spiracorn"
-        },
-        {
-            "accuracy": 99,
-            "score": 114106,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "InspectorTravie"
-        },
-        {
-            "accuracy": 99,
-            "score": 114025,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Pie Oh Lit"
         }
     ]
 }

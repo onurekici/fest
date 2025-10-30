@@ -194,6 +194,14 @@
         },
         {
             "accuracy": 100,
+            "score": 48096,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ArkyRifz"
+        },
+        {
+            "accuracy": 100,
             "score": 48029,
             "difficulty": 3,
             "stars": 6,
@@ -423,6 +431,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ValkenVugen"
+        },
+        {
+            "accuracy": 99,
+            "score": 44530,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ecofoxie"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "UFOCommander"
-        },
-        {
-            "accuracy": 100,
-            "score": 40909,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Darkvoid_00"
-        },
-        {
-            "accuracy": 100,
-            "score": 40902,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MarkDark03"
         }
     ]
 }

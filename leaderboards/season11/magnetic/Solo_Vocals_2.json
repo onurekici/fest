@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123654,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "K4r4B"
+        },
+        {
+            "accuracy": 99,
+            "score": 123653,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "reyaj24"
+        },
+        {
+            "accuracy": 100,
             "score": 123619,
             "difficulty": 3,
             "stars": 6,
@@ -521,6 +537,14 @@
             "userName": "chappell boan"
         },
         {
+            "accuracy": 99,
+            "score": 122776,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RNLrwax"
+        },
+        {
             "accuracy": 100,
             "score": 122752,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RuneBearHero"
-        },
-        {
-            "accuracy": 100,
-            "score": 122341,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mimo_0308"
-        },
-        {
-            "accuracy": 100,
-            "score": 122338,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Xeph14"
-        },
-        {
-            "accuracy": 100,
-            "score": 122329,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Shaman51"
         }
     ]
 }

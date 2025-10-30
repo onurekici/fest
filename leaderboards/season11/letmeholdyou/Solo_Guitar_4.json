@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 95836,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "scaraslostgnosis"
+        },
+        {
+            "accuracy": 99,
+            "score": 95829,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Maouuz"
+        },
+        {
+            "accuracy": 100,
             "score": 95798,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "BCPols"
-        },
-        {
-            "accuracy": 100,
-            "score": 94436,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Maddie4ms"
-        },
-        {
-            "accuracy": 100,
-            "score": 94429,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "iLouis-"
         }
     ]
 }

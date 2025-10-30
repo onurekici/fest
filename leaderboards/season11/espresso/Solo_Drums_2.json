@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 156504,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Drago3512"
+        },
+        {
+            "accuracy": 100,
+            "score": 156492,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FeroxPanther1"
+        },
+        {
             "accuracy": 100,
             "score": 156468,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Xtended98"
-        },
-        {
-            "accuracy": 99,
-            "score": 153474,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Imtrash130"
-        },
-        {
-            "accuracy": 99,
-            "score": 153450,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HG_Rezende"
         }
     ]
 }

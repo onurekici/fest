@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 271131,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "alex lulz"
+        },
+        {
+            "accuracy": 100,
+            "score": 271125,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MeadowStar"
+        },
+        {
             "accuracy": 100,
             "score": 271078,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lilycat xoxo"
-        },
-        {
-            "accuracy": 100,
-            "score": 269655,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "IINKay"
-        },
-        {
-            "accuracy": 100,
-            "score": 269652,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Popsicles1870"
         }
     ]
 }

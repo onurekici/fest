@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 49785,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "T1000gandalf"
+        },
+        {
+            "accuracy": 99,
+            "score": 49782,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DevilHunter934"
+        },
+        {
             "accuracy": 100,
             "score": 49766,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SkibidiCheesus"
-        },
-        {
-            "accuracy": 96,
-            "score": 46917,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "wcp_dawg"
-        },
-        {
-            "accuracy": 97,
-            "score": 46908,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BasicallyMichi"
         }
     ]
 }

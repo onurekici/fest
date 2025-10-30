@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 87263,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ace adam 97"
+        },
+        {
+            "accuracy": 100,
+            "score": 87262,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xXhailstormsXx"
+        },
+        {
             "accuracy": 100,
             "score": 87244,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "PhoenixAshfire"
-        },
-        {
-            "accuracy": 100,
-            "score": 85997,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ha_tora"
-        },
-        {
-            "accuracy": 100,
-            "score": 85993,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BakuhoeKatsuki"
         }
     ]
 }

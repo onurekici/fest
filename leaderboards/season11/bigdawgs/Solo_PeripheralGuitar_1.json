@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 61206,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RyDaG420"
+        },
+        {
+            "accuracy": 99,
             "score": 61063,
             "difficulty": 3,
             "stars": 6,
@@ -497,6 +505,14 @@
             "userName": "Kreyek"
         },
         {
+            "accuracy": 100,
+            "score": 48704,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DownNut_"
+        },
+        {
             "accuracy": 99,
             "score": 48637,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Sir.FreshPiglet"
-        },
-        {
-            "accuracy": 100,
-            "score": 44398,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "DarkDeeDee"
-        },
-        {
-            "accuracy": 97,
-            "score": 44372,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Michaelmcchill"
         }
     ]
 }

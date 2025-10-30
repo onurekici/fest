@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 90924,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "gmp50"
+        },
+        {
+            "accuracy": 100,
             "score": 90912,
             "difficulty": 3,
             "stars": 6,
@@ -425,6 +433,14 @@
             "userName": "jmn0285"
         },
         {
+            "accuracy": 99,
+            "score": 88932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LowPolly4"
+        },
+        {
             "accuracy": 100,
             "score": 88859,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "arngrimur2"
-        },
-        {
-            "accuracy": 99,
-            "score": 87906,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LowPolly4"
-        },
-        {
-            "accuracy": 100,
-            "score": 87823,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "dudemann1234"
         }
     ]
 }

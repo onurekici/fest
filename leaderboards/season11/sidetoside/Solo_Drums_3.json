@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 153054,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Digitally Fazed"
+        },
+        {
             "accuracy": 100,
             "score": 153042,
             "difficulty": 3,
@@ -522,6 +530,14 @@
         },
         {
             "accuracy": 100,
+            "score": 152094,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MelissaCrome"
+        },
+        {
+            "accuracy": 100,
             "score": 152088,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RedVelvetPink"
-        },
-        {
-            "accuracy": 100,
-            "score": 151788,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Trepid Rez"
-        },
-        {
-            "accuracy": 100,
-            "score": 151776,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Criphill"
         }
     ]
 }

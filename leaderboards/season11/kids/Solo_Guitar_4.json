@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 101192,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mrgallitz"
+        },
+        {
+            "accuracy": 100,
+            "score": 101176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "marco7666-manuel"
+        },
+        {
             "accuracy": 100,
             "score": 101175,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Iamjesus16"
-        },
-        {
-            "accuracy": 100,
-            "score": 100009,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "game_of_consoles"
-        },
-        {
-            "accuracy": 100,
-            "score": 100000,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jaxone125"
         }
     ]
 }

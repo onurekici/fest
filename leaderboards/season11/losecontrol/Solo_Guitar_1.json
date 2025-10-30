@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 103850,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AxelRoco1937"
+        },
+        {
+            "accuracy": 99,
+            "score": 103511,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tycable"
+        },
+        {
+            "accuracy": 100,
             "score": 103036,
             "difficulty": 2,
             "stars": 5,
@@ -466,6 +482,14 @@
         },
         {
             "accuracy": 100,
+            "score": 88615,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Dirty_south2024"
+        },
+        {
+            "accuracy": 100,
             "score": 88553,
             "difficulty": 2,
             "stars": 5,
@@ -535,6 +559,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BabieBlues1983"
+        },
+        {
+            "accuracy": 100,
+            "score": 87074,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TheKomedian"
         },
         {
             "accuracy": 100,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Manny Contente"
-        },
-        {
-            "accuracy": 100,
-            "score": 81307,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Smokeinfetty"
-        },
-        {
-            "accuracy": 99,
-            "score": 81160,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "IronmanSoilder"
-        },
-        {
-            "accuracy": 97,
-            "score": 81157,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Risen_Raven"
-        },
-        {
-            "accuracy": 99,
-            "score": 81006,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MarcelXD2"
         }
     ]
 }

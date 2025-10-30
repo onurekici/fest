@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 143016,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "moorenika"
+        },
+        {
+            "accuracy": 100,
+            "score": 143004,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Codename Dice"
+        },
+        {
             "accuracy": 100,
             "score": 143004,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "valerios_bxnls"
-        },
-        {
-            "accuracy": 100,
-            "score": 141660,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Swaggy Realness"
-        },
-        {
-            "accuracy": 100,
-            "score": 141660,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CharmanderFire12"
         }
     ]
 }

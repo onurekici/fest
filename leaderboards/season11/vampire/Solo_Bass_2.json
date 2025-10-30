@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 140756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dark_Luster"
+        },
+        {
             "accuracy": 99,
             "score": 140712,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "jc_llamas"
-        },
-        {
-            "accuracy": 100,
-            "score": 136850,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jak_Jaks"
         }
     ]
 }

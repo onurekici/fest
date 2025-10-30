@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 109000,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Plutonium.239"
+        },
+        {
+            "accuracy": 100,
+            "score": 108975,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Farticus_Prime"
+        },
+        {
+            "accuracy": 100,
             "score": 108955,
             "difficulty": 2,
             "stars": 5,
@@ -441,6 +457,14 @@
             "userName": "KarineAmLo"
         },
         {
+            "accuracy": 99,
+            "score": 104868,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Daigo Akimura"
+        },
+        {
             "accuracy": 100,
             "score": 104355,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "pinzition"
-        },
-        {
-            "accuracy": 99,
-            "score": 101340,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PhatSlink"
-        },
-        {
-            "accuracy": 99,
-            "score": 101310,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Otaku_Trucker"
-        },
-        {
-            "accuracy": 99,
-            "score": 101280,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "adamusd55ft5f5e"
         }
     ]
 }

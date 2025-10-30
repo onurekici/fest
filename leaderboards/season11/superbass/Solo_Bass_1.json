@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 25759,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Just_Cad"
+        },
+        {
             "accuracy": 99,
             "score": 25502,
             "difficulty": 2,
@@ -482,6 +490,14 @@
         },
         {
             "accuracy": 96,
+            "score": 14153,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "StarrSeraphim"
+        },
+        {
+            "accuracy": 96,
             "score": 13898,
             "difficulty": 2,
             "stars": 4,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Sherri Dryier"
-        },
-        {
-            "accuracy": 96,
-            "score": 7545,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "sirocklee"
-        },
-        {
-            "accuracy": 94,
-            "score": 6693,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "jelly_beanv"
         }
     ]
 }

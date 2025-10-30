@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 101094,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "mooselamb"
+        },
+        {
+            "accuracy": 92,
+            "score": 100903,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Sandwhip"
+        },
+        {
+            "accuracy": 92,
+            "score": 100473,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Darth Gamer2"
+        },
+        {
             "accuracy": 94,
             "score": 100261,
             "difficulty": 3,
@@ -311,14 +335,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "FollowSacredRose"
-        },
-        {
-            "accuracy": 90,
-            "score": 87420,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Sunshine Wizard"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "awsgamer"
-        },
-        {
-            "accuracy": 98,
-            "score": 68524,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lil-Chilla03"
-        },
-        {
-            "accuracy": 98,
-            "score": 68057,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Little_lotus_"
         }
     ]
 }

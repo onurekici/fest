@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 164256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "doctor_1031"
+        },
+        {
+            "accuracy": 100,
             "score": 164244,
             "difficulty": 3,
             "stars": 6,
@@ -569,6 +577,14 @@
             "userName": "Hyper_King_BR"
         },
         {
+            "accuracy": 99,
+            "score": 161201,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Deadmyth69"
+        },
+        {
             "accuracy": 100,
             "score": 161185,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "1Pecky2"
-        },
-        {
-            "accuracy": 100,
-            "score": 159865,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "inHaste"
-        },
-        {
-            "accuracy": 100,
-            "score": 159858,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RealDankPie"
         }
     ]
 }

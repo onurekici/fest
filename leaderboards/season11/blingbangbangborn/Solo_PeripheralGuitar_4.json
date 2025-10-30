@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 66192,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DopeBoiMajik"
+        },
+        {
+            "accuracy": 89,
+            "score": 66108,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "VoltTMC"
+        },
+        {
             "accuracy": 86,
             "score": 66090,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "RickyHollywood"
-        },
-        {
-            "accuracy": 93,
-            "score": 50838,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Semper Volo"
-        },
-        {
-            "accuracy": 80,
-            "score": 50826,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "DampeTG"
         }
     ]
 }

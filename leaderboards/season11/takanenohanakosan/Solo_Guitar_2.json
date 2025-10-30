@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 318656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CarrotsJam"
+        },
+        {
             "accuracy": 99,
             "score": 318652,
             "difficulty": 3,
@@ -183,6 +191,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JazzRobot"
+        },
+        {
+            "accuracy": 99,
+            "score": 317203,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CatboyApex"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AnotherBrokeGeek"
-        },
-        {
-            "accuracy": 99,
-            "score": 309497,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tammy Whammy owo"
-        },
-        {
-            "accuracy": 100,
-            "score": 309429,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ollie.stewart17"
         }
     ]
 }

@@ -66,6 +66,14 @@
         },
         {
             "accuracy": 100,
+            "score": 156066,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JamienBoid"
+        },
+        {
+            "accuracy": 100,
             "score": 155940,
             "difficulty": 3,
             "stars": 6,
@@ -202,14 +210,6 @@
         },
         {
             "accuracy": 100,
-            "score": 148632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JamienBoid"
-        },
-        {
-            "accuracy": 100,
             "score": 148200,
             "difficulty": 3,
             "stars": 6,
@@ -321,12 +321,28 @@
             "userName": "GryphKeeper"
         },
         {
+            "accuracy": 99,
+            "score": 137874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "baggedmilk55"
+        },
+        {
             "accuracy": 98,
             "score": 137286,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "DarksideOrbit017"
+        },
+        {
+            "accuracy": 99,
+            "score": 137118,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DaisyDucatti"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "DARK_SAMURI06"
-        },
-        {
-            "accuracy": 98,
-            "score": 77575,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "metalgearlainey"
-        },
-        {
-            "accuracy": 99,
-            "score": 74760,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jbburke1989"
         }
     ]
 }

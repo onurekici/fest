@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 102903,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "assassixo16"
+        },
+        {
+            "accuracy": 100,
             "score": 102468,
             "difficulty": 3,
             "stars": 6,
@@ -417,6 +425,14 @@
             "userName": "TankLife4Ever"
         },
         {
+            "accuracy": 99,
+            "score": 64907,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Alex Poob"
+        },
+        {
             "accuracy": 97,
             "score": 64698,
             "difficulty": 3,
@@ -577,12 +593,28 @@
             "userName": "Tank69629"
         },
         {
+            "accuracy": 98,
+            "score": 50342,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Thebroin"
+        },
+        {
             "accuracy": 95,
             "score": 47824,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "KingChris1014"
+        },
+        {
+            "accuracy": 95,
+            "score": 46079,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Lena Willmann"
         },
         {
             "accuracy": 99,
@@ -633,6 +665,14 @@
             "userName": "DARKMAGE961651"
         },
         {
+            "accuracy": 96,
+            "score": 42000,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Xorracus"
+        },
+        {
             "accuracy": 99,
             "score": 41762,
             "difficulty": 1,
@@ -655,14 +695,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Poslыshnik"
-        },
-        {
-            "accuracy": 96,
-            "score": 40351,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Xorracus"
         },
         {
             "accuracy": 95,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "CarlaGonzalez550"
-        },
-        {
-            "accuracy": 96,
-            "score": 31809,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "sasabuck1990"
-        },
-        {
-            "accuracy": 95,
-            "score": 30925,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BlackDragon30000"
-        },
-        {
-            "accuracy": 99,
-            "score": 30482,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "IIIAlduinIII"
-        },
-        {
-            "accuracy": 100,
-            "score": 30405,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "1s0ng1"
         }
     ]
 }

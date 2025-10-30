@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 226657,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pepsi Chip"
+        },
+        {
             "accuracy": 99,
             "score": 225945,
             "difficulty": 3,
@@ -10,19 +18,19 @@
         },
         {
             "accuracy": 100,
+            "score": 225306,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DCA_EE"
+        },
+        {
+            "accuracy": 100,
             "score": 223517,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Lethal_Sushi"
-        },
-        {
-            "accuracy": 98,
-            "score": 216397,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DCA_EE"
         },
         {
             "accuracy": 99,
@@ -327,6 +335,22 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bodomx97"
+        },
+        {
+            "accuracy": 94,
+            "score": 163255,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "stαrstruck"
+        },
+        {
+            "accuracy": 95,
+            "score": 161768,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "StudiousScoutFan"
         },
         {
             "accuracy": 95,
@@ -753,6 +777,14 @@
             "userName": "monsterman128"
         },
         {
+            "accuracy": 76,
+            "score": 95930,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "lilscrk"
+        },
+        {
             "accuracy": 81,
             "score": 95419,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ReaperDeathclaw"
-        },
-        {
-            "accuracy": 68,
-            "score": 92171,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "White_Draygon"
-        },
-        {
-            "accuracy": 77,
-            "score": 92150,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "A U R Ø R A"
-        },
-        {
-            "accuracy": 98,
-            "score": 90699,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "hauntingashley"
-        },
-        {
-            "accuracy": 95,
-            "score": 90273,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Velocirock79"
         }
     ]
 }

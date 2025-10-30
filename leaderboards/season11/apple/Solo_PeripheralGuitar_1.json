@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 87,
+            "score": 60645,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SUMMERxRAINS"
+        },
+        {
             "accuracy": 95,
             "score": 60638,
             "difficulty": 3,
@@ -335,6 +343,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "thedadfather"
+        },
+        {
+            "accuracy": 100,
+            "score": 55361,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ChillXeno"
         },
         {
             "accuracy": 94,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MorningFloof"
-        },
-        {
-            "accuracy": 95,
-            "score": 50554,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "warumonoLS"
-        },
-        {
-            "accuracy": 91,
-            "score": 50208,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "parasiteevefan"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 47111,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "LuistheDev"
+        },
+        {
+            "accuracy": 98,
+            "score": 47098,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "The.BigTuna"
+        },
+        {
             "accuracy": 97,
             "score": 47044,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Tou_Can"
-        },
-        {
-            "accuracy": 72,
-            "score": 27750,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "NemoKnows."
-        },
-        {
-            "accuracy": 76,
-            "score": 27715,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "creaky_marble97"
         }
     ]
 }

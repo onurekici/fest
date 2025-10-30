@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 145182,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "omg_its_jelly"
+        },
+        {
+            "accuracy": 100,
             "score": 145098,
             "difficulty": 3,
             "stars": 6,
@@ -537,6 +545,14 @@
             "userName": "Clueless_Manny"
         },
         {
+            "accuracy": 99,
+            "score": 143610,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jaybone110"
+        },
+        {
             "accuracy": 100,
             "score": 143604,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Spiderleinonxbox"
-        },
-        {
-            "accuracy": 99,
-            "score": 143016,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "moorenika"
-        },
-        {
-            "accuracy": 100,
-            "score": 143004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Codename Dice"
         }
     ]
 }
