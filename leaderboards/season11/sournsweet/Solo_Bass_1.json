@@ -234,11 +234,27 @@
         },
         {
             "accuracy": 100,
+            "score": 43220,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "McYeetington"
+        },
+        {
+            "accuracy": 100,
             "score": 43081,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "Octotron2000"
+        },
+        {
+            "accuracy": 97,
+            "score": 42938,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Pro2008_"
         },
         {
             "accuracy": 99,
@@ -431,6 +447,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[XBL] ProIndominus"
+        },
+        {
+            "accuracy": 98,
+            "score": 36420,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "nituzki"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Pikapizza1"
-        },
-        {
-            "accuracy": 97,
-            "score": 30002,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "venulexx"
-        },
-        {
-            "accuracy": 100,
-            "score": 29999,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Turmiosika"
-        },
-        {
-            "accuracy": 97,
-            "score": 29596,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Stat1c Zero"
         }
     ]
 }

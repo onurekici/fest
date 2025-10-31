@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112512,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SensaiGaia1"
+        },
+        {
+            "accuracy": 100,
             "score": 112496,
             "difficulty": 3,
             "stars": 6,
@@ -314,6 +322,14 @@
         },
         {
             "accuracy": 99,
+            "score": 106582,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "chloes_RIGHT_leg"
+        },
+        {
+            "accuracy": 99,
             "score": 106505,
             "difficulty": 3,
             "stars": 6,
@@ -343,14 +359,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "crazzyaidan121"
-        },
-        {
-            "accuracy": 99,
-            "score": 105634,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "chloes_RIGHT_leg"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Turox96"
-        },
-        {
-            "accuracy": 98,
-            "score": 94456,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bizzy_Man 1989"
         }
     ]
 }

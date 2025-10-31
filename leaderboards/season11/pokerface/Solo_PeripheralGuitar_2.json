@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87334,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "buscuit4"
+        },
+        {
             "accuracy": 98,
             "score": 87065,
             "difficulty": 3,
@@ -426,6 +434,14 @@
         },
         {
             "accuracy": 98,
+            "score": 75636,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Xtremegolfer46"
+        },
+        {
+            "accuracy": 98,
             "score": 74977,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[XBL] FoggMoonRanch"
-        },
-        {
-            "accuracy": 95,
-            "score": 67195,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "acon2024"
-        },
-        {
-            "accuracy": 93,
-            "score": 67073,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "VampyLicious"
         }
     ]
 }

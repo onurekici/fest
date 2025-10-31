@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 62444,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LadyPonyta"
+        },
+        {
+            "accuracy": 97,
+            "score": 62130,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Alter Ink"
+        },
+        {
+            "accuracy": 100,
             "score": 61896,
             "difficulty": 1,
             "stars": 5,
@@ -175,6 +191,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "nixnox_21"
+        },
+        {
+            "accuracy": 99,
+            "score": 56288,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "johnnyray11"
         },
         {
             "accuracy": 98,
@@ -665,6 +689,14 @@
             "userName": "Ir1shm4nb3ck"
         },
         {
+            "accuracy": 99,
+            "score": 31126,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Heart.queen3"
+        },
+        {
             "accuracy": 93,
             "score": 30888,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Silverfan2233"
-        },
-        {
-            "accuracy": 95,
-            "score": 26517,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Jess131017"
-        },
-        {
-            "accuracy": 95,
-            "score": 26384,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "IMPURExFoxKing"
-        },
-        {
-            "accuracy": 97,
-            "score": 26246,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "5grav"
-        },
-        {
-            "accuracy": 91,
-            "score": 26123,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "NinoG222"
         }
     ]
 }

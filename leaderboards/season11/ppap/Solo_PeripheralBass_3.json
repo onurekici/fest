@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 52498,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Daniel Chap"
+        },
+        {
             "accuracy": 98,
             "score": 52005,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "LeatherFaceSimp"
-        },
-        {
-            "accuracy": 99,
-            "score": 35645,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hulkh4nds"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 165227,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "xNadia"
+        },
+        {
+            "accuracy": 100,
+            "score": 164500,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ViperSLM"
+        },
+        {
             "accuracy": 90,
             "score": 163724,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Legit2489"
-        },
-        {
-            "accuracy": 88,
-            "score": 64686,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Nuclear_raid53"
-        },
-        {
-            "accuracy": 86,
-            "score": 64251,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "[XBL] VVILLYUM"
         }
     ]
 }

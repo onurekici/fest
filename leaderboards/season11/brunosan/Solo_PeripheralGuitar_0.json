@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 55776,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nick Bodnick"
+        },
+        {
+            "accuracy": 100,
             "score": 55656,
             "difficulty": 3,
             "stars": 6,
@@ -457,6 +465,14 @@
             "userName": "the shovler"
         },
         {
+            "accuracy": 96,
+            "score": 41665,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "stickingwig"
+        },
+        {
             "accuracy": 94,
             "score": 41412,
             "difficulty": 3,
@@ -729,6 +745,14 @@
             "userName": "ArtBrac"
         },
         {
+            "accuracy": 89,
+            "score": 30976,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AlphaCocomelon"
+        },
+        {
             "accuracy": 86,
             "score": 30724,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Weffuls"
-        },
-        {
-            "accuracy": 91,
-            "score": 28363,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Nar-pb09"
-        },
-        {
-            "accuracy": 83,
-            "score": 28210,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Warmind225"
-        },
-        {
-            "accuracy": 78,
-            "score": 28190,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Kitzenko"
         }
     ]
 }

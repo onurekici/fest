@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 63766,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "WildcardCipher"
+        },
+        {
+            "accuracy": 99,
+            "score": 63732,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Catabasis"
+        },
+        {
+            "accuracy": 99,
+            "score": 63627,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pimpoleta"
+        },
+        {
+            "accuracy": 97,
+            "score": 63624,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PurpleZaze"
+        },
+        {
             "accuracy": 99,
             "score": 63622,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ninja Stormz"
-        },
-        {
-            "accuracy": 99,
-            "score": 59452,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Filipioza123"
-        },
-        {
-            "accuracy": 98,
-            "score": 59275,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TaraIn4k"
-        },
-        {
-            "accuracy": 99,
-            "score": 59257,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RazzeJava"
-        },
-        {
-            "accuracy": 99,
-            "score": 59257,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheCnation203"
         }
     ]
 }

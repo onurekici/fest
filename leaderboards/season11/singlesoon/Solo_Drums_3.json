@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123288,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "hnnhlx"
+        },
+        {
             "accuracy": 99,
             "score": 123282,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Zaneafterwards"
-        },
-        {
-            "accuracy": 99,
-            "score": 118590,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-fc948c452e"
         }
     ]
 }

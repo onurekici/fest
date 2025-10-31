@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 266383,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Daryl.00"
+        },
+        {
             "accuracy": 99,
             "score": 266377,
             "difficulty": 3,
@@ -295,6 +303,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "2010ToyotaTacoma"
+        },
+        {
+            "accuracy": 99,
+            "score": 263867,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ᴛɪᴋ ʀᴏɴɴɪᴇ16"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TheMisfits012"
-        },
-        {
-            "accuracy": 100,
-            "score": 260013,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DaRedFox"
-        },
-        {
-            "accuracy": 100,
-            "score": 260009,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GaelSoro"
         }
     ]
 }

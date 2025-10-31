@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 45613,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Cio_d"
+        },
+        {
+            "accuracy": 91,
+            "score": 45411,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Lunithar"
+        },
+        {
             "accuracy": 93,
             "score": 45409,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "axel101193"
-        },
-        {
-            "accuracy": 60,
-            "score": 10027,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "ArsonistLeo"
-        },
-        {
-            "accuracy": 49,
-            "score": 8741,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "EveryBrian96"
         }
     ]
 }

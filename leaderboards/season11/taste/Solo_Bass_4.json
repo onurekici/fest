@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 54958,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pegoryus"
+        },
+        {
+            "accuracy": 100,
+            "score": 54928,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "teagy32"
+        },
+        {
             "accuracy": 100,
             "score": 54891,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Runboy123"
-        },
-        {
-            "accuracy": 100,
-            "score": 51462,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Fishing Godzilla"
-        },
-        {
-            "accuracy": 100,
-            "score": 51453,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "roborovskiii"
         }
     ]
 }

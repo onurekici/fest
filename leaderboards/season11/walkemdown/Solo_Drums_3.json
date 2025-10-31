@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 101685,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MeatyPorkSweats"
+        },
+        {
+            "accuracy": 100,
+            "score": 101510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MightGuy004"
+        },
+        {
             "accuracy": 99,
             "score": 101475,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Antonia9565"
-        },
-        {
-            "accuracy": 99,
-            "score": 96225,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Monster21202"
-        },
-        {
-            "accuracy": 99,
-            "score": 96168,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Maxximus09"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 126674,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DarkDiamond1204"
+        },
+        {
+            "accuracy": 97,
+            "score": 126563,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ICY-Mist"
+        },
+        {
             "accuracy": 88,
             "score": 126437,
             "difficulty": 3,
@@ -633,6 +649,14 @@
             "userName": "Nefaroh"
         },
         {
+            "accuracy": 74,
+            "score": 59286,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "bananapotpie"
+        },
+        {
             "accuracy": 90,
             "score": 56069,
             "difficulty": 1,
@@ -775,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Heart Of Ink"
-        },
-        {
-            "accuracy": 27,
-            "score": 10590,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Luin Lunatic"
-        },
-        {
-            "accuracy": 50,
-            "score": 8146,
-            "difficulty": 1,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "DownBatGirl06"
         }
     ]
 }

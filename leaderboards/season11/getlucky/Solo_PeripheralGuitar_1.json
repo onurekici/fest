@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 256270,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PepisPepisovich"
+        },
+        {
+            "accuracy": 100,
+            "score": 256226,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] Halkett2"
+        },
+        {
+            "accuracy": 93,
+            "score": 254489,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "I DontFeelSoGood"
+        },
+        {
+            "accuracy": 99,
             "score": 254429,
             "difficulty": 2,
             "stars": 5,
@@ -169,28 +193,12 @@
             "userName": "alph4_s"
         },
         {
-            "accuracy": 91,
-            "score": 233623,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Bodomx97"
-        },
-        {
             "accuracy": 98,
             "score": 233158,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "SPARKZicity"
-        },
-        {
-            "accuracy": 99,
-            "score": 231360,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] Halkett2"
         },
         {
             "accuracy": 98,
@@ -262,7 +270,7 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "FuellFire"
+            "userName": "JessIsNotWinning"
         },
         {
             "accuracy": 94,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "POTUSGarrison"
-        },
-        {
-            "accuracy": 94,
-            "score": 169292,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Muncher_Man"
         }
     ]
 }

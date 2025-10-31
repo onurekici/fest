@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 167099,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Godklomp"
+        },
+        {
+            "accuracy": 100,
+            "score": 167094,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Steper kun"
+        },
+        {
+            "accuracy": 100,
+            "score": 167093,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "stinkyymia"
+        },
+        {
             "accuracy": 100,
             "score": 167074,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "n0t.caleb"
-        },
-        {
-            "accuracy": 100,
-            "score": 166188,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "judaskissed"
-        },
-        {
-            "accuracy": 100,
-            "score": 166167,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kaiidenツ"
-        },
-        {
-            "accuracy": 99,
-            "score": 166166,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "just sharp"
         }
     ]
 }

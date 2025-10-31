@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 59468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "inspectahl"
+        },
+        {
+            "accuracy": 100,
+            "score": 59408,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "I-Am-ARandomUser"
+        },
+        {
             "accuracy": 100,
             "score": 59402,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MatTom111111"
-        },
-        {
-            "accuracy": 100,
-            "score": 57259,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "sza mah moot"
-        },
-        {
-            "accuracy": 100,
-            "score": 57230,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MonkeyMuu"
         }
     ]
 }

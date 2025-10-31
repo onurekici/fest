@@ -594,11 +594,27 @@
         },
         {
             "accuracy": 100,
+            "score": 85327,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JP is Pondering"
+        },
+        {
+            "accuracy": 100,
             "score": 85242,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Hexstra_"
+        },
+        {
+            "accuracy": 99,
+            "score": 85236,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Eddy4945"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Paul0_Brificad0"
-        },
-        {
-            "accuracy": 100,
-            "score": 83323,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MostEffectual"
-        },
-        {
-            "accuracy": 100,
-            "score": 83256,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Reloj_oval6"
         }
     ]
 }

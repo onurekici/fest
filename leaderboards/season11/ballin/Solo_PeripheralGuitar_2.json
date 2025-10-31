@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 70616,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "teejmammen"
+        },
+        {
+            "accuracy": 100,
             "score": 70562,
             "difficulty": 2,
             "stars": 5,
@@ -23,6 +31,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BluesugarDK"
+        },
+        {
+            "accuracy": 93,
+            "score": 69283,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CrungleZᵗⁱᵏᵗᵒᵏ"
         },
         {
             "accuracy": 94,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Seafudo"
-        },
-        {
-            "accuracy": 92,
-            "score": 53765,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ツNightmxreツ"
-        },
-        {
-            "accuracy": 100,
-            "score": 53717,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "frankiegear"
         }
     ]
 }

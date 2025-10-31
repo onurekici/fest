@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 122594,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ar.tz"
+        },
+        {
+            "accuracy": 100,
             "score": 122564,
             "difficulty": 3,
             "stars": 6,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Animated Muckles"
+        },
+        {
+            "accuracy": 100,
+            "score": 122150,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "C-Y-R-A-X-21"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RubyRoseTheNeko"
-        },
-        {
-            "accuracy": 99,
-            "score": 121073,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Maxwell Davis"
-        },
-        {
-            "accuracy": 100,
-            "score": 121063,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BillyGweet"
         }
     ]
 }

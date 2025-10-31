@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 129675,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ah-Kira"
+        },
+        {
             "accuracy": 99,
             "score": 129638,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TheHatefulBread"
-        },
-        {
-            "accuracy": 99,
-            "score": 107759,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DizzyO2"
         }
     ]
 }

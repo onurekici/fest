@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 174123,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "durinda-"
+        },
+        {
+            "accuracy": 99,
+            "score": 174109,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Monstaaswagg"
+        },
+        {
+            "accuracy": 100,
             "score": 174067,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IceKingGlazer"
-        },
-        {
-            "accuracy": 98,
-            "score": 169969,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StopRnt"
-        },
-        {
-            "accuracy": 99,
-            "score": 169938,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "danaagadini"
         }
     ]
 }

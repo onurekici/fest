@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 285300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TurtleBugozOff"
+        },
+        {
+            "accuracy": 100,
+            "score": 285270,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RocThomasRocks"
+        },
+        {
             "accuracy": 100,
             "score": 285258,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TheFireDragoon"
-        },
-        {
-            "accuracy": 100,
-            "score": 282624,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Rima_10202006"
-        },
-        {
-            "accuracy": 100,
-            "score": 282612,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CheBoinkey"
         }
     ]
 }

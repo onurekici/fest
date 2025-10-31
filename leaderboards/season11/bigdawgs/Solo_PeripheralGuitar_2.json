@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 44477,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jacobious51"
+        },
+        {
+            "accuracy": 100,
+            "score": 44455,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Sir.FreshPiglet"
+        },
+        {
             "accuracy": 100,
             "score": 44398,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MajChipHazzard"
-        },
-        {
-            "accuracy": 95,
-            "score": 36785,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "NIВВS"
-        },
-        {
-            "accuracy": 94,
-            "score": 36705,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Patty_Vibes"
         }
     ]
 }

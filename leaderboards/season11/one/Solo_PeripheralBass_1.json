@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 154319,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Prestone01"
+        },
+        {
             "accuracy": 93,
             "score": 152206,
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
             "userName": "paya.bot"
+        },
+        {
+            "accuracy": 95,
+            "score": 149549,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "6KeyKey9"
         },
         {
             "accuracy": 94,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "I AM Eツ"
-        },
-        {
-            "accuracy": 97,
-            "score": 51876,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DownBatGirl06"
-        },
-        {
-            "accuracy": 95,
-            "score": 50644,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "chefkitkat8"
         }
     ]
 }
