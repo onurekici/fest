@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 14358,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Mrpura_vida"
+        },
+        {
+            "accuracy": 98,
+            "score": 14336,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "bearyclair11"
+        },
+        {
+            "accuracy": 64,
+            "score": 14327,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "URDRAGONRIDER"
+        },
+        {
             "accuracy": 98,
             "score": 14294,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "GR33V3"
-        },
-        {
-            "accuracy": 92,
-            "score": 9144,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "toots008_"
-        },
-        {
-            "accuracy": 93,
-            "score": 9119,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 86,
-            "score": 8945,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "YouGotSaZZoNed"
         }
     ]
 }

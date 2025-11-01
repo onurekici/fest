@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 19142,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Donatello_9"
+        },
+        {
+            "accuracy": 98,
+            "score": 19127,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DiViNeBuCkEtS"
+        },
+        {
+            "accuracy": 100,
+            "score": 19081,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "cupjello"
+        },
+        {
             "accuracy": 97,
             "score": 19035,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "lille_dk"
-        },
-        {
-            "accuracy": 100,
-            "score": 14358,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Mrpura_vida"
-        },
-        {
-            "accuracy": 98,
-            "score": 14336,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "bearyclair11"
-        },
-        {
-            "accuracy": 64,
-            "score": 14327,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "URDRAGONRIDER"
         }
     ]
 }

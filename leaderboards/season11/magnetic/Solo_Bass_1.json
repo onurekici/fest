@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 101129,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dehrek"
+        },
+        {
+            "accuracy": 100,
+            "score": 100957,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gans_Morigan"
+        },
+        {
+            "accuracy": 99,
+            "score": 100952,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Opathicarum"
+        },
+        {
+            "accuracy": 100,
             "score": 100934,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SanguineSamurai"
-        },
-        {
-            "accuracy": 99,
-            "score": 91253,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Meham1017"
-        },
-        {
-            "accuracy": 99,
-            "score": 90836,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "G0udzyla"
-        },
-        {
-            "accuracy": 99,
-            "score": 90721,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "clamson_"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 91,
+            "score": 65776,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "GREATFLOORPLAN"
+        },
+        {
+            "accuracy": 96,
+            "score": 65501,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheBelknap"
+        },
+        {
             "accuracy": 87,
             "score": 65169,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Levbot_hoan"
-        },
-        {
-            "accuracy": 78,
-            "score": 3900,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Vision_Youtube"
-        },
-        {
-            "accuracy": 39,
-            "score": 1392,
-            "difficulty": 0,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "[PSN] queenchickenbutt"
         }
     ]
 }

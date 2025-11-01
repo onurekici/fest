@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 120997,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Xenoopie"
+        },
+        {
+            "accuracy": 100,
+            "score": 120997,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OpenMPT"
+        },
+        {
             "accuracy": 100,
             "score": 120564,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wetdragongirl33"
-        },
-        {
-            "accuracy": 99,
-            "score": 104881,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LRamosss06"
-        },
-        {
-            "accuracy": 99,
-            "score": 104509,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MrMilk-"
         }
     ]
 }

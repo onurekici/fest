@@ -370,6 +370,14 @@
         },
         {
             "accuracy": 99,
+            "score": 61065,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OnsaNoob"
+        },
+        {
+            "accuracy": 99,
             "score": 60340,
             "difficulty": 3,
             "stars": 6,
@@ -526,7 +534,7 @@
             "difficulty": 0,
             "stars": 5,
             "fullcombo": true,
-            "userName": "Nick Singleton"
+            "userName": null
         },
         {
             "accuracy": 98,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "LALOMATA01"
-        },
-        {
-            "accuracy": 98,
-            "score": 35144,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Skkywarp"
         }
     ]
 }

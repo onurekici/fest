@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 88636,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SongSkipLoser"
+        },
+        {
+            "accuracy": 99,
+            "score": 88587,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "A_ShyGuy"
+        },
+        {
+            "accuracy": 100,
             "score": 88532,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "bossk105"
-        },
-        {
-            "accuracy": 98,
-            "score": 83166,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hypothraxer"
-        },
-        {
-            "accuracy": 99,
-            "score": 83162,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Q_the_1ne"
         }
     ]
 }

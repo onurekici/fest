@@ -146,6 +146,14 @@
         },
         {
             "accuracy": 100,
+            "score": 85726,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Thongkratos"
+        },
+        {
+            "accuracy": 100,
             "score": 85228,
             "difficulty": 2,
             "stars": 5,
@@ -425,6 +433,14 @@
             "userName": "LiloStitch2021"
         },
         {
+            "accuracy": 98,
+            "score": 50373,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Alley_Bear2000"
+        },
+        {
             "accuracy": 99,
             "score": 50299,
             "difficulty": 1,
@@ -649,6 +665,14 @@
             "userName": "ColeTanMan"
         },
         {
+            "accuracy": 95,
+            "score": 26142,
+            "difficulty": 0,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "MaddestLass"
+        },
+        {
             "accuracy": 96,
             "score": 25902,
             "difficulty": 0,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "badboyhalomickey"
-        },
-        {
-            "accuracy": 88,
-            "score": 14957,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 94,
-            "score": 14922,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Aribell20"
-        },
-        {
-            "accuracy": 84,
-            "score": 14861,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SGT DOGE"
         }
     ]
 }

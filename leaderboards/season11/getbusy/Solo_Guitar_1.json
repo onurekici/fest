@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 134727,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "damonaIbarn"
+        },
+        {
+            "accuracy": 100,
+            "score": 134697,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheKennels"
+        },
+        {
+            "accuracy": 100,
             "score": 134577,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "eveyot"
-        },
-        {
-            "accuracy": 99,
-            "score": 129297,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Friday the 15th"
-        },
-        {
-            "accuracy": 99,
-            "score": 129290,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThePhatMonstah"
         }
     ]
 }

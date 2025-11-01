@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 62739,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DC ゝ Marvel"
+        },
+        {
+            "accuracy": 100,
+            "score": 62712,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Sam.szb"
+        },
+        {
             "accuracy": 97,
             "score": 62703,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "8lots0f9erks"
-        },
-        {
-            "accuracy": 99,
-            "score": 57300,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Darkhound68"
-        },
-        {
-            "accuracy": 98,
-            "score": 57288,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JustawildSophia"
         }
     ]
 }

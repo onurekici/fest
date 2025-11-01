@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 31650,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SpyroLT1986"
+        },
+        {
+            "accuracy": 99,
+            "score": 31542,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "chiefs11588"
+        },
+        {
             "accuracy": 94,
             "score": 31504,
             "difficulty": 3,
@@ -215,6 +231,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ymateuzin-BR"
+        },
+        {
+            "accuracy": 89,
+            "score": 29512,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Smitdoge"
         },
         {
             "accuracy": 88,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "l_ckyunclepeanut"
-        },
-        {
-            "accuracy": 95,
-            "score": 23783,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "hex_me"
-        },
-        {
-            "accuracy": 95,
-            "score": 23628,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "frankfurtertrap"
-        },
-        {
-            "accuracy": 82,
-            "score": 23610,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Byroneous"
         }
     ]
 }

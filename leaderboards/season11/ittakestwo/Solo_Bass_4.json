@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 12684,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "StrawberrySushi"
+        },
+        {
+            "accuracy": 97,
+            "score": 12666,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DashLemon"
+        },
+        {
             "accuracy": 79,
             "score": 12624,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Blackkit69"
-        },
-        {
-            "accuracy": 100,
-            "score": 9120,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "User-69ce3ac16f"
-        },
-        {
-            "accuracy": 100,
-            "score": 9080,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SLUMP3D_Z"
         }
     ]
 }

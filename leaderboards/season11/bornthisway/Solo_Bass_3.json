@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 205069,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MRC_0116"
+        },
+        {
+            "accuracy": 99,
+            "score": 205047,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Matisumi."
+        },
+        {
             "accuracy": 99,
             "score": 205015,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "nana07_"
-        },
-        {
-            "accuracy": 99,
-            "score": 200850,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Charlydark_"
-        },
-        {
-            "accuracy": 100,
-            "score": 200728,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "blorat100"
         }
     ]
 }

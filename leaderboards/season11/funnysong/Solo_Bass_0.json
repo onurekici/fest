@@ -286,7 +286,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": "Nick Singleton"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -367,6 +367,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "身心霊"
+        },
+        {
+            "accuracy": 98,
+            "score": 12481,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BennyBlueFox"
         },
         {
             "accuracy": 100,
@@ -602,6 +610,14 @@
         },
         {
             "accuracy": 100,
+            "score": 9180,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "jaybirdsing"
+        },
+        {
+            "accuracy": 100,
             "score": 9118,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "트위치 보상"
-        },
-        {
-            "accuracy": 98,
-            "score": 7375,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "berendichus"
-        },
-        {
-            "accuracy": 98,
-            "score": 7251,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BrokenFangTheCat"
         }
     ]
 }

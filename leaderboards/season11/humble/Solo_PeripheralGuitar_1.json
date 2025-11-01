@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 72693,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VibesRaccoon"
+        },
+        {
+            "accuracy": 99,
+            "score": 72553,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PizzaMaker2030"
+        },
+        {
             "accuracy": 98,
             "score": 72546,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Knightwolf151"
-        },
-        {
-            "accuracy": 99,
-            "score": 62792,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iZonnor"
-        },
-        {
-            "accuracy": 98,
-            "score": 62776,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dingosuar"
         }
     ]
 }

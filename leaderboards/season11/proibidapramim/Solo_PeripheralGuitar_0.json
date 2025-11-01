@@ -225,6 +225,14 @@
             "userName": "Kattanaita"
         },
         {
+            "accuracy": 100,
+            "score": 174676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vibez Tac"
+        },
+        {
             "accuracy": 99,
             "score": 174575,
             "difficulty": 3,
@@ -730,6 +738,14 @@
         },
         {
             "accuracy": 99,
+            "score": 156764,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IRoyzo"
+        },
+        {
+            "accuracy": 99,
             "score": 156610,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "shadowlvr01"
-        },
-        {
-            "accuracy": 99,
-            "score": 153756,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Vanquisher-IX"
-        },
-        {
-            "accuracy": 98,
-            "score": 152422,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Austinheimer"
         }
     ]
 }

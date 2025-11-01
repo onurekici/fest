@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 109075,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SeñorQueso"
+        },
+        {
+            "accuracy": 98,
+            "score": 109050,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KnarTiger"
+        },
+        {
+            "accuracy": 100,
             "score": 109030,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Moni옻"
-        },
-        {
-            "accuracy": 100,
-            "score": 101570,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ÉlBlackWolf"
-        },
-        {
-            "accuracy": 99,
-            "score": 101450,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DrTinyFace"
         }
     ]
 }

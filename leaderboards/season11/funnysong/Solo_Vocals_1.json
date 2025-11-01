@@ -2,11 +2,35 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65354,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hennie Piest"
+        },
+        {
+            "accuracy": 99,
+            "score": 65329,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JoeChief_"
+        },
+        {
+            "accuracy": 100,
             "score": 65256,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "UndeadPunisher"
+        },
+        {
+            "accuracy": 99,
+            "score": 65183,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sunset at last"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "love.divine"
-        },
-        {
-            "accuracy": 99,
-            "score": 51283,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "マリユキ"
-        },
-        {
-            "accuracy": 100,
-            "score": 51110,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JadeViper18"
-        },
-        {
-            "accuracy": 99,
-            "score": 51073,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mater_1027"
         }
     ]
 }

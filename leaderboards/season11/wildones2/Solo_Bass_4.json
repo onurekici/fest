@@ -411,6 +411,14 @@
         {
             "accuracy": 100,
             "score": 25510,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "HighRisër"
+        },
+        {
+            "accuracy": 100,
+            "score": 25510,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "1234ttttrfgfde34"
-        },
-        {
-            "accuracy": 100,
-            "score": 25118,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "nolabean13"
         }
     ]
 }

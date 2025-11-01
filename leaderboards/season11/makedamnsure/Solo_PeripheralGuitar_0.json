@@ -66,6 +66,14 @@
         },
         {
             "accuracy": 100,
+            "score": 206899,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AddMegadeth"
+        },
+        {
+            "accuracy": 100,
             "score": 204340,
             "difficulty": 3,
             "stars": 6,
@@ -777,28 +785,20 @@
             "userName": "Sublethal."
         },
         {
+            "accuracy": 97,
+            "score": 154035,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "D0D0_kai"
+        },
+        {
             "accuracy": 99,
             "score": 153863,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "BRUTALity99"
-        },
-        {
-            "accuracy": 97,
-            "score": 153723,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sponder.DOC"
-        },
-        {
-            "accuracy": 99,
-            "score": 153530,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "VibesRaccoon"
         }
     ]
 }

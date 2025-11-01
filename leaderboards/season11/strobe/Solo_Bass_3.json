@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 118566,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KorderoSalvaje"
+        },
+        {
+            "accuracy": 99,
             "score": 118560,
             "difficulty": 3,
             "stars": 6,
@@ -705,6 +713,14 @@
             "userName": "Yuno9767"
         },
         {
+            "accuracy": 100,
+            "score": 109920,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "elwasof"
+        },
+        {
             "accuracy": 99,
             "score": 109914,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "cxzmxhTv"
-        },
-        {
-            "accuracy": 100,
-            "score": 109075,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SeñorQueso"
-        },
-        {
-            "accuracy": 98,
-            "score": 109050,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KnarTiger"
         }
     ]
 }

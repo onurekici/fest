@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 128287,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GojosCleanSock"
+        },
+        {
             "accuracy": 100,
             "score": 128216,
             "difficulty": 3,
@@ -714,6 +722,14 @@
         },
         {
             "accuracy": 100,
+            "score": 125193,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GingerRage8"
+        },
+        {
+            "accuracy": 100,
             "score": 125175,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CebuMD"
-        },
-        {
-            "accuracy": 100,
-            "score": 124796,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sceptical351"
-        },
-        {
-            "accuracy": 100,
-            "score": 124755,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Manyfiesto"
         }
     ]
 }

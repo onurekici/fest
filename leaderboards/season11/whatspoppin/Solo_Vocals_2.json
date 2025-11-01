@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 140340,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shenhanigan"
+        },
+        {
+            "accuracy": 99,
+            "score": 140316,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Twitch Larambae"
+        },
+        {
+            "accuracy": 100,
+            "score": 140268,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Robogator13"
+        },
+        {
+            "accuracy": 100,
             "score": 140256,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ᵃˢʰ 蓝"
-        },
-        {
-            "accuracy": 99,
-            "score": 138276,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Scyth3r0"
-        },
-        {
-            "accuracy": 100,
-            "score": 138240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Topgear01"
-        },
-        {
-            "accuracy": 100,
-            "score": 138240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CRG_Justified"
         }
     ]
 }

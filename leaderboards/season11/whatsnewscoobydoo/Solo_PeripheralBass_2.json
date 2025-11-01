@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 57765,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Fritura Trash"
+        },
+        {
+            "accuracy": 100,
             "score": 57728,
             "difficulty": 3,
             "stars": 6,
@@ -721,6 +729,14 @@
             "userName": "Galos01"
         },
         {
+            "accuracy": 99,
+            "score": 53473,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Boyle348"
+        },
+        {
             "accuracy": 98,
             "score": 53322,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Warmind225"
-        },
-        {
-            "accuracy": 98,
-            "score": 52911,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Firehawk6655"
-        },
-        {
-            "accuracy": 99,
-            "score": 52911,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Burukkusu"
         }
     ]
 }

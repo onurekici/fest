@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 154530,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "WriothesleyWolf"
+        },
+        {
+            "accuracy": 99,
+            "score": 154518,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tjoffsan1"
+        },
+        {
             "accuracy": 99,
             "score": 154476,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Duda_lagaggio19"
-        },
-        {
-            "accuracy": 99,
-            "score": 149070,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RevengeBlake"
-        },
-        {
-            "accuracy": 99,
-            "score": 149064,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KaleTheKiller300"
         }
     ]
 }

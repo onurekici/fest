@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 71405,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SquarishLamp805"
+        },
+        {
+            "accuracy": 100,
+            "score": 71280,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jboone012"
+        },
+        {
+            "accuracy": 100,
+            "score": 71160,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MrBiz380"
+        },
+        {
+            "accuracy": 99,
             "score": 69995,
             "difficulty": 1,
             "stars": 5,
@@ -649,6 +673,14 @@
             "userName": "Jedi-abgee"
         },
         {
+            "accuracy": 100,
+            "score": 26200,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "doom1283"
+        },
+        {
             "accuracy": 79,
             "score": 26046,
             "difficulty": 3,
@@ -729,11 +761,11 @@
             "userName": "Noodles_420_69"
         },
         {
-            "accuracy": 100,
-            "score": 24110,
+            "accuracy": 99,
+            "score": 24165,
             "difficulty": 0,
             "stars": 5,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "Pookie1394"
         },
         {
@@ -767,38 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Gamer2500"
-        },
-        {
-            "accuracy": 53,
-            "score": 23388,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Duse505"
-        },
-        {
-            "accuracy": 71,
-            "score": 23370,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SilentStorm421"
-        },
-        {
-            "accuracy": 99,
-            "score": 23345,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jackjoarch"
-        },
-        {
-            "accuracy": 83,
-            "score": 23280,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "SonictheBooneHog"
         }
     ]
 }

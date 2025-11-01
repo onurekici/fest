@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 35959,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "eric forman 700"
+        },
+        {
             "accuracy": 99,
             "score": 35936,
             "difficulty": 2,
@@ -249,6 +257,14 @@
             "userName": "Gawr Gura Ch. EN"
         },
         {
+            "accuracy": 99,
+            "score": 32489,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LovedChild14"
+        },
+        {
             "accuracy": 100,
             "score": 32443,
             "difficulty": 0,
@@ -415,6 +431,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Uncle_Howdy-_-"
+        },
+        {
+            "accuracy": 100,
+            "score": 30583,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "omega geto"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Pinguingirl7499"
-        },
-        {
-            "accuracy": 98,
-            "score": 24921,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "IllHeadphone9533"
-        },
-        {
-            "accuracy": 98,
-            "score": 24762,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tc Blåsfisk"
-        },
-        {
-            "accuracy": 98,
-            "score": 24534,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ClassicInsight"
         }
     ]
 }

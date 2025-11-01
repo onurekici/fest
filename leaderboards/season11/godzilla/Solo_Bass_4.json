@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 97283,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "velocibarracuda"
+        },
+        {
+            "accuracy": 99,
+            "score": 97207,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MaggotJELLO"
+        },
+        {
+            "accuracy": 100,
+            "score": 97201,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "FairyZombie"
+        },
+        {
             "accuracy": 99,
             "score": 97149,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RaidedHearts"
-        },
-        {
-            "accuracy": 99,
-            "score": 93295,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CrimsonSouless"
-        },
-        {
-            "accuracy": 99,
-            "score": 93280,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Societat777"
-        },
-        {
-            "accuracy": 100,
-            "score": 93275,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "DarCan97"
         }
     ]
 }

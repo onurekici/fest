@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 256740,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "evermxnt"
+        },
+        {
+            "accuracy": 99,
+            "score": 256620,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Truck Elegant"
+        },
+        {
+            "accuracy": 100,
             "score": 256566,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Demonkid2024"
-        },
-        {
-            "accuracy": 100,
-            "score": 252240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "pikelthedino2002"
-        },
-        {
-            "accuracy": 99,
-            "score": 252234,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "vampybby."
         }
     ]
 }

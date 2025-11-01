@@ -81,6 +81,14 @@
             "userName": "Isaac is Looping"
         },
         {
+            "accuracy": 100,
+            "score": 99051,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sirrufusknight"
+        },
+        {
             "accuracy": 99,
             "score": 99039,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LordMinuit"
-        },
-        {
-            "accuracy": 99,
-            "score": 97573,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "serge01919"
         }
     ]
 }

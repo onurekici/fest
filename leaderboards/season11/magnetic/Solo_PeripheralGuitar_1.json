@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 84,
+            "score": 60116,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Simpsonsfan 1234"
+        },
+        {
+            "accuracy": 97,
+            "score": 59598,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "naitousam"
+        },
+        {
             "accuracy": 78,
             "score": 59399,
             "difficulty": 3,
@@ -159,6 +175,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ArkhamReject"
+        },
+        {
+            "accuracy": 79,
+            "score": 51425,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "donichu_"
         },
         {
             "accuracy": 81,
@@ -617,14 +641,6 @@
             "userName": "SOIFON IS BÆ"
         },
         {
-            "accuracy": 72,
-            "score": 31899,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "donichu_"
-        },
-        {
             "accuracy": 79,
             "score": 31565,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "1m._.Rain"
-        },
-        {
-            "accuracy": 63,
-            "score": 23624,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "PurplFlameGaming"
-        },
-        {
-            "accuracy": 65,
-            "score": 23370,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Richa604rd3001"
         }
     ]
 }

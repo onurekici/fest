@@ -162,6 +162,14 @@
         },
         {
             "accuracy": 100,
+            "score": 86844,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "twozflil"
+        },
+        {
+            "accuracy": 100,
             "score": 86340,
             "difficulty": 3,
             "stars": 6,
@@ -510,7 +518,7 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": "Nick Singleton"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -607,6 +615,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Alduinslayer17"
+        },
+        {
+            "accuracy": 99,
+            "score": 42160,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SMITHBOY77"
         },
         {
             "accuracy": 99,
@@ -762,6 +778,14 @@
         },
         {
             "accuracy": 100,
+            "score": 23905,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LegonardoDaVinci"
+        },
+        {
+            "accuracy": 100,
             "score": 23425,
             "difficulty": 0,
             "stars": 5,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Thewebberkid"
-        },
-        {
-            "accuracy": 100,
-            "score": 21885,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Misty Horses"
-        },
-        {
-            "accuracy": 92,
-            "score": 21174,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MajorGuppy"
-        },
-        {
-            "accuracy": 91,
-            "score": 21060,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "farout1"
         }
     ]
 }

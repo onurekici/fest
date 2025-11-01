@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 199284,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "blackzombie99"
+        },
+        {
+            "accuracy": 100,
+            "score": 199172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sayhitimmy"
+        },
+        {
+            "accuracy": 99,
             "score": 199143,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Timoww"
-        },
-        {
-            "accuracy": 98,
-            "score": 190907,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dark_Link88"
-        },
-        {
-            "accuracy": 99,
-            "score": 190811,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dreamspiked"
         }
     ]
 }

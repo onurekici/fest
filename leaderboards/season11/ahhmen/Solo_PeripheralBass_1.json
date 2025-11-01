@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mary.0604"
+        },
+        {
+            "accuracy": 99,
+            "score": 112200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SaltyLettuce_"
+        },
+        {
+            "accuracy": 100,
             "score": 112110,
             "difficulty": 3,
             "stars": 6,
@@ -79,14 +95,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Dwighty619"
-        },
-        {
-            "accuracy": 99,
-            "score": 110196,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nexus_25"
         },
         {
             "accuracy": 100,
@@ -207,6 +215,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TotusBSC"
+        },
+        {
+            "accuracy": 99,
+            "score": 108366,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "G0DFatherGrotti"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ugranpaptrap"
-        },
-        {
-            "accuracy": 100,
-            "score": 98706,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cr33prr"
-        },
-        {
-            "accuracy": 99,
-            "score": 98682,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jobemthegreat"
         }
     ]
 }

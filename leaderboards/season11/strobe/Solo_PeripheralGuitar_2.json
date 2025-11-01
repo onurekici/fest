@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65514,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "app411"
+        },
+        {
+            "accuracy": 100,
             "score": 65244,
             "difficulty": 1,
             "stars": 5,
@@ -223,6 +231,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RobinO9955"
+        },
+        {
+            "accuracy": 80,
+            "score": 57648,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "GHXSTcii"
         },
         {
             "accuracy": 84,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "SlayerBlindado"
-        },
-        {
-            "accuracy": 78,
-            "score": 36408,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Cluuff"
-        },
-        {
-            "accuracy": 79,
-            "score": 36036,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "XcarexxbearX"
         }
     ]
 }

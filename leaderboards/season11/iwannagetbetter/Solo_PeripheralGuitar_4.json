@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 132402,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TERMINATOR_O88"
+        },
+        {
+            "accuracy": 100,
+            "score": 132269,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Vajerson"
+        },
+        {
             "accuracy": 95,
             "score": 131866,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "iDrzp"
-        },
-        {
-            "accuracy": 100,
-            "score": 76403,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Jupiter Bean"
-        },
-        {
-            "accuracy": 99,
-            "score": 76151,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "jetsetnickradio"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 96948,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SUPER_SLEEPY1216"
+        },
+        {
+            "accuracy": 99,
+            "score": 96942,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "rocking195"
+        },
+        {
             "accuracy": 99,
             "score": 96858,
             "difficulty": 3,
@@ -327,6 +343,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ExTRA.TAR"
+        },
+        {
+            "accuracy": 98,
+            "score": 90444,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[PSN] blibluxd12"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PrintedWeasel615"
-        },
-        {
-            "accuracy": 100,
-            "score": 81664,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Lucybola"
-        },
-        {
-            "accuracy": 100,
-            "score": 81664,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SayciSays"
-        },
-        {
-            "accuracy": 98,
-            "score": 81522,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tenswile"
         }
     ]
 }
