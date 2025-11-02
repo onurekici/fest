@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112314,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tommy_2_times"
+        },
+        {
+            "accuracy": 100,
             "score": 112248,
             "difficulty": 3,
             "stars": 6,
@@ -618,6 +626,14 @@
         },
         {
             "accuracy": 99,
+            "score": 102725,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KJBarks84"
+        },
+        {
+            "accuracy": 99,
             "score": 102723,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ragingmoomoo"
-        },
-        {
-            "accuracy": 99,
-            "score": 98982,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PuRe Pretzel"
-        },
-        {
-            "accuracy": 99,
-            "score": 98808,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ugranpaptrap"
         }
     ]
 }

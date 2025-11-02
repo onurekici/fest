@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 122005,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Panterluc"
+        },
+        {
             "accuracy": 99,
             "score": 121930,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kratos_2735"
-        },
-        {
-            "accuracy": 100,
-            "score": 118400,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheHeavnlyFather"
         }
     ]
 }

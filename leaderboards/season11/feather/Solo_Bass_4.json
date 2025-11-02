@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 93258,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CrimsonDae"
+        },
+        {
+            "accuracy": 100,
+            "score": 93224,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IriStrength"
+        },
+        {
             "accuracy": 99,
             "score": 93214,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "The_Ding"
-        },
-        {
-            "accuracy": 99,
-            "score": 89662,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Starilaaa"
-        },
-        {
-            "accuracy": 100,
-            "score": 89632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "POLyHOOD"
         }
     ]
 }

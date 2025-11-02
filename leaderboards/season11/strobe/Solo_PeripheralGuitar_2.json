@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 66114,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DevoutFiend42"
+        },
+        {
             "accuracy": 100,
             "score": 65514,
             "difficulty": 1,
@@ -425,6 +433,14 @@
             "userName": "kotten_smirnoff"
         },
         {
+            "accuracy": 99,
+            "score": 53340,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Badunkadunk144"
+        },
+        {
             "accuracy": 79,
             "score": 52596,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "CH1CK3NGUY"
-        },
-        {
-            "accuracy": 70,
-            "score": 37110,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "burgertroll"
-        },
-        {
-            "accuracy": 74,
-            "score": 36450,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SlayerBlindado"
         }
     ]
 }

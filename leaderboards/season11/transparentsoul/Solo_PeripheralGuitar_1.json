@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 77334,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Black Zadock"
+        },
+        {
+            "accuracy": 99,
+            "score": 76967,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "chigüireyutu"
+        },
+        {
             "accuracy": 99,
             "score": 76576,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Just_Bapple"
-        },
-        {
-            "accuracy": 96,
-            "score": 58813,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AI_Oracle"
-        },
-        {
-            "accuracy": 98,
-            "score": 58590,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "루차Rucha"
         }
     ]
 }

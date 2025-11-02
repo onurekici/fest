@@ -57,6 +57,14 @@
             "userName": "Thomas Delmotte"
         },
         {
+            "accuracy": 100,
+            "score": 288675,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mattyata_"
+        },
+        {
             "accuracy": 99,
             "score": 288551,
             "difficulty": 3,
@@ -186,6 +194,14 @@
         },
         {
             "accuracy": 100,
+            "score": 283236,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Doom 05"
+        },
+        {
+            "accuracy": 100,
             "score": 282992,
             "difficulty": 3,
             "stars": 6,
@@ -223,14 +239,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "purifiedprune"
-        },
-        {
-            "accuracy": 99,
-            "score": 281340,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Doom 05"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sidinky318"
-        },
-        {
-            "accuracy": 98,
-            "score": 255308,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "coboshia"
         }
     ]
 }

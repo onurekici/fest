@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 36225,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sonicphoto"
+        },
+        {
+            "accuracy": 100,
             "score": 36177,
             "difficulty": 3,
             "stars": 6,
@@ -79,6 +87,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "xXMimonXx"
+        },
+        {
+            "accuracy": 100,
+            "score": 35694,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Raoulioooh"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sniperpirat3"
-        },
-        {
-            "accuracy": 99,
-            "score": 32370,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "elwasof"
-        },
-        {
-            "accuracy": 98,
-            "score": 32358,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lyaasen"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 115404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "thelostwolf98"
+        },
+        {
+            "accuracy": 100,
             "score": 114894,
             "difficulty": 3,
             "stars": 6,
@@ -673,6 +681,14 @@
             "userName": "MintComic210907"
         },
         {
+            "accuracy": 92,
+            "score": 82526,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CreeWithLuv"
+        },
+        {
             "accuracy": 99,
             "score": 82395,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "HexelOksana"
-        },
-        {
-            "accuracy": 99,
-            "score": 74995,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ACRONIIM"
-        },
-        {
-            "accuracy": 96,
-            "score": 74592,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "VincentRuckaRuc"
         }
     ]
 }

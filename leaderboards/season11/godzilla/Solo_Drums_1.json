@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 200142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mellotron Heart"
+        },
+        {
+            "accuracy": 100,
             "score": 200094,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DeathByMedKit"
-        },
-        {
-            "accuracy": 99,
-            "score": 194388,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ADFIV3"
         }
     ]
 }

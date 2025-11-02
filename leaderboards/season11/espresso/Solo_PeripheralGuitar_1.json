@@ -369,6 +369,14 @@
             "userName": "Ghidruh"
         },
         {
+            "accuracy": 100,
+            "score": 84840,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Outchinix"
+        },
+        {
             "accuracy": 98,
             "score": 84766,
             "difficulty": 3,
@@ -698,6 +706,14 @@
         },
         {
             "accuracy": 99,
+            "score": 81626,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kahfs"
+        },
+        {
+            "accuracy": 99,
             "score": 81171,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Twigzo"
-        },
-        {
-            "accuracy": 99,
-            "score": 80175,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Xeraxios"
-        },
-        {
-            "accuracy": 99,
-            "score": 80101,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bad Ewok"
         }
     ]
 }

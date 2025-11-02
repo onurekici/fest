@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 49095,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Dionyza"
+        },
+        {
+            "accuracy": 96,
+            "score": 48825,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Pachacuti617"
+        },
+        {
+            "accuracy": 97,
+            "score": 48675,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "El_gallo_negro"
+        },
+        {
             "accuracy": 90,
             "score": 48645,
             "difficulty": 2,
@@ -175,6 +199,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "StachNaVruble"
+        },
+        {
+            "accuracy": 100,
+            "score": 33965,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Emmy McMahon"
         },
         {
             "accuracy": 90,
@@ -767,14 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "[XBL] underslayer9072"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 2,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "EmotionalEar8758"
         }
     ]
 }

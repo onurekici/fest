@@ -601,12 +601,28 @@
             "userName": "djr2100"
         },
         {
+            "accuracy": 99,
+            "score": 24209,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Grizzly Borealis"
+        },
+        {
             "accuracy": 100,
             "score": 24187,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] MPaquettos"
+        },
+        {
+            "accuracy": 100,
+            "score": 24183,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "WorldCpt_Falcon"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheRozil"
-        },
-        {
-            "accuracy": 100,
-            "score": 23430,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SAMisNERO"
-        },
-        {
-            "accuracy": 100,
-            "score": 23424,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "OhMyJoshImSoDun"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 102572,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "g00dAsh"
+        },
+        {
+            "accuracy": 98,
+            "score": 102538,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DemetriDusk"
+        },
+        {
             "accuracy": 99,
             "score": 102537,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Unbound Hound"
-        },
-        {
-            "accuracy": 99,
-            "score": 97318,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Marqlar"
-        },
-        {
-            "accuracy": 100,
-            "score": 97295,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ISA.TG"
         }
     ]
 }

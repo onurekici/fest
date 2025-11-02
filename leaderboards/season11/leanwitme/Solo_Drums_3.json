@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 96582,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Арбуз Диджей"
+        },
+        {
             "accuracy": 99,
             "score": 96576,
             "difficulty": 3,
@@ -127,6 +135,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "brokenred_"
+        },
+        {
+            "accuracy": 97,
+            "score": 96270,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "brendongoboom"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Nugget200"
-        },
-        {
-            "accuracy": 99,
-            "score": 95058,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Taco_Boi456"
-        },
-        {
-            "accuracy": 100,
-            "score": 95016,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "azane771"
         }
     ]
 }

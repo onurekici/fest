@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 190874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Chewy_unleashed"
+        },
+        {
             "accuracy": 100,
             "score": 190866,
             "difficulty": 3,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "quentinstan"
+        },
+        {
+            "accuracy": 99,
+            "score": 190745,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "probgreeningout"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Henry_Firth4569"
-        },
-        {
-            "accuracy": 100,
-            "score": 190130,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Spec_the_cryptid"
-        },
-        {
-            "accuracy": 100,
-            "score": 190125,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LukovTheRussian"
         }
     ]
 }

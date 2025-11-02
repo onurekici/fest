@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 260526,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GuapoHapo"
+        },
+        {
+            "accuracy": 100,
+            "score": 260437,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Flipthesheets"
+        },
+        {
             "accuracy": 100,
             "score": 260390,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "He_Defender7"
-        },
-        {
-            "accuracy": 99,
-            "score": 257415,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GBleeis"
-        },
-        {
-            "accuracy": 100,
-            "score": 257405,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KinoPakkeli"
         }
     ]
 }

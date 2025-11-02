@@ -401,6 +401,14 @@
             "userName": "IA AKSNES01"
         },
         {
+            "accuracy": 99,
+            "score": 122316,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "smerbos"
+        },
+        {
             "accuracy": 100,
             "score": 122310,
             "difficulty": 3,
@@ -447,6 +455,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "algaetoast"
+        },
+        {
+            "accuracy": 100,
+            "score": 121482,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ywd_hoyper"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "T-mac1236"
-        },
-        {
-            "accuracy": 100,
-            "score": 115968,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "furyarrow01"
-        },
-        {
-            "accuracy": 100,
-            "score": 115914,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "autocoprophagous"
         }
     ]
 }

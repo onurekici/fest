@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 47362,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Hantasma"
+        },
+        {
+            "accuracy": 100,
+            "score": 47281,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TheGilded-One"
+        },
+        {
+            "accuracy": 100,
             "score": 47220,
             "difficulty": 2,
             "stars": 5,
@@ -23,14 +39,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "LizzyTuffy"
-        },
-        {
-            "accuracy": 100,
-            "score": 47133,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Hantasma"
         },
         {
             "accuracy": 99,
@@ -446,7 +454,7 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": "spookshowshay"
+            "userName": "schemashay"
         },
         {
             "accuracy": 100,
@@ -487,6 +495,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "xDanoontje"
+        },
+        {
+            "accuracy": 91,
+            "score": 30320,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Triscuit_Hoe"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Zueriel220389"
-        },
-        {
-            "accuracy": 91,
-            "score": 18958,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "OfficialRavioli"
-        },
-        {
-            "accuracy": 100,
-            "score": 18506,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "yordi5"
         }
     ]
 }

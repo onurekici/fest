@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 118400,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheHeavnlyFather"
+        },
+        {
             "accuracy": 99,
             "score": 118376,
             "difficulty": 3,
@@ -505,6 +513,14 @@
             "userName": "TMIN11"
         },
         {
+            "accuracy": 100,
+            "score": 115927,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MikuKumo"
+        },
+        {
             "accuracy": 99,
             "score": 115830,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "OptiCrunch"
-        },
-        {
-            "accuracy": 99,
-            "score": 114862,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Alierah_"
-        },
-        {
-            "accuracy": 99,
-            "score": 114858,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "rootbeerboy"
         }
     ]
 }

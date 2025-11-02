@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 36020,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] cyanidecudii_"
+        },
+        {
+            "accuracy": 100,
             "score": 36000,
             "difficulty": 2,
             "stars": 5,
@@ -95,6 +103,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "evan39532"
+        },
+        {
+            "accuracy": 99,
+            "score": 31860,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Scappbox"
         },
         {
             "accuracy": 77,
@@ -729,6 +745,14 @@
             "userName": "Marco Display"
         },
         {
+            "accuracy": 99,
+            "score": 22025,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LadyRebel1993"
+        },
+        {
             "accuracy": 100,
             "score": 21885,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Samplech"
-        },
-        {
-            "accuracy": 99,
-            "score": 21110,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Wolfo202643"
-        },
-        {
-            "accuracy": 98,
-            "score": 21065,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Netogodinez"
-        },
-        {
-            "accuracy": 99,
-            "score": 20855,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Skippy.pro"
         }
     ]
 }

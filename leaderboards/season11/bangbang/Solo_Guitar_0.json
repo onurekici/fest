@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 44283,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sabaton-96"
+        },
+        {
+            "accuracy": 100,
             "score": 44136,
             "difficulty": 3,
             "stars": 6,
@@ -111,6 +119,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JustMiauツ"
+        },
+        {
+            "accuracy": 98,
+            "score": 41940,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GauzeRavines"
         },
         {
             "accuracy": 100,
@@ -689,6 +705,14 @@
             "userName": "CC-Commander"
         },
         {
+            "accuracy": 100,
+            "score": 31024,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "xItsNolie"
+        },
+        {
             "accuracy": 98,
             "score": 30693,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "浮雲い小子"
-        },
-        {
-            "accuracy": 97,
-            "score": 28552,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SlimMarrow44622"
-        },
-        {
-            "accuracy": 99,
-            "score": 28331,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "McBlendy"
-        },
-        {
-            "accuracy": 98,
-            "score": 28325,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Boys Breeder 00"
         }
     ]
 }

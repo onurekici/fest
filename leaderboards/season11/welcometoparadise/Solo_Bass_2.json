@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 275046,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shy Washed"
+        },
+        {
+            "accuracy": 100,
             "score": 274896,
             "difficulty": 3,
             "stars": 6,
@@ -135,6 +143,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lord Damian."
+        },
+        {
+            "accuracy": 99,
+            "score": 273180,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KingKae1126"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Loubibear"
-        },
-        {
-            "accuracy": 99,
-            "score": 266900,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Krakatoa_btw"
-        },
-        {
-            "accuracy": 99,
-            "score": 266850,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ravid.exe."
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 79741,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mist_Shark"
+        },
+        {
             "accuracy": 98,
             "score": 79674,
             "difficulty": 3,
@@ -362,6 +370,14 @@
         },
         {
             "accuracy": 100,
+            "score": 73335,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "sandy.oo"
+        },
+        {
+            "accuracy": 100,
             "score": 72522,
             "difficulty": 2,
             "stars": 5,
@@ -375,6 +391,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Ħerø"
+        },
+        {
+            "accuracy": 99,
+            "score": 72266,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Elliexproxy0"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "NerillReal"
-        },
-        {
-            "accuracy": 99,
-            "score": 63339,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "McTaggerNacle"
-        },
-        {
-            "accuracy": 98,
-            "score": 63210,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HuntingCoder515"
-        },
-        {
-            "accuracy": 99,
-            "score": 63076,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ForbiddenScience"
         }
     ]
 }

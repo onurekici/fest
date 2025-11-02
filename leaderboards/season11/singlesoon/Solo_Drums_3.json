@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123420,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "shrubby_bookie1"
+        },
+        {
+            "accuracy": 99,
+            "score": 123342,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "STARS KIWI"
+        },
+        {
+            "accuracy": 100,
             "score": 123288,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "leeleetooshady69"
-        },
-        {
-            "accuracy": 99,
-            "score": 118686,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hailz.c"
-        },
-        {
-            "accuracy": 99,
-            "score": 118680,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zaneafterwards"
         }
     ]
 }

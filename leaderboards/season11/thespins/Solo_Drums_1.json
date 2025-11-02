@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 141534,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fairly insane"
+        },
+        {
+            "accuracy": 99,
+            "score": 141522,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nasuh uwu"
+        },
+        {
+            "accuracy": 100,
             "score": 141450,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Paidbread07"
-        },
-        {
-            "accuracy": 98,
-            "score": 138624,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "tombdarling"
-        },
-        {
-            "accuracy": 100,
-            "score": 138618,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hoovehh"
         }
     ]
 }

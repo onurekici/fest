@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 139789,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CHALAMX"
+        },
+        {
+            "accuracy": 99,
+            "score": 139781,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wolfen-0"
+        },
+        {
+            "accuracy": 100,
             "score": 139767,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Humpdaywhoop20"
-        },
-        {
-            "accuracy": 99,
-            "score": 137782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tricky0range"
-        },
-        {
-            "accuracy": 99,
-            "score": 137779,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JeffLocos"
         }
     ]
 }

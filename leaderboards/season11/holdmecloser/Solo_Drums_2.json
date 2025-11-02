@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 96864,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Slavsia"
+        },
+        {
+            "accuracy": 100,
+            "score": 96840,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ironhidel777"
+        },
+        {
             "accuracy": 100,
             "score": 96810,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] esis_liolic"
-        },
-        {
-            "accuracy": 100,
-            "score": 95232,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Demonaxmefisto"
-        },
-        {
-            "accuracy": 100,
-            "score": 95220,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "petal.puff"
         }
     ]
 }

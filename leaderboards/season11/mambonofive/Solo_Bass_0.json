@@ -226,11 +226,27 @@
         },
         {
             "accuracy": 100,
+            "score": 111656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HeyMama555"
+        },
+        {
+            "accuracy": 100,
             "score": 111478,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "stephlogan23"
+        },
+        {
+            "accuracy": 99,
+            "score": 111362,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ohmyram."
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "WIGORD15"
-        },
-        {
-            "accuracy": 99,
-            "score": 80169,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "killer7guy"
-        },
-        {
-            "accuracy": 98,
-            "score": 79806,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Maybeahitmankid"
         }
     ]
 }
