@@ -193,6 +193,14 @@
             "userName": "Ardition"
         },
         {
+            "accuracy": 100,
+            "score": 209777,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SongSkipLoser"
+        },
+        {
             "accuracy": 98,
             "score": 209590,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Fritura Trash"
-        },
-        {
-            "accuracy": 99,
-            "score": 205123,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Logan2351"
         }
     ]
 }

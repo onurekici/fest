@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123714,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Zokofenrir"
+        },
+        {
+            "accuracy": 100,
             "score": 123693,
             "difficulty": 3,
             "stars": 6,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "killer123546"
+        },
+        {
+            "accuracy": 100,
+            "score": 123447,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Green Gh05t"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Blankenboat22"
-        },
-        {
-            "accuracy": 99,
-            "score": 119783,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kees van de Spek"
-        },
-        {
-            "accuracy": 100,
-            "score": 119762,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lokoino"
         }
     ]
 }

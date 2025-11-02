@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 236123,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MyChemicalDso"
+        },
+        {
             "accuracy": 100,
             "score": 236082,
             "difficulty": 3,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] Thefanguy"
+        },
+        {
+            "accuracy": 100,
+            "score": 235392,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Serial Shmurder"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SILDRA89"
-        },
-        {
-            "accuracy": 100,
-            "score": 233199,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "skullnight_17"
-        },
-        {
-            "accuracy": 100,
-            "score": 233148,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hatsune Niku"
         }
     ]
 }

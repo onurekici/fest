@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 120365,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Megumin-san"
+        },
+        {
             "accuracy": 99,
             "score": 120076,
             "difficulty": 3,
@@ -175,6 +183,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Acoyo"
+        },
+        {
+            "accuracy": 97,
+            "score": 106050,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Tonyvarga33"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Lepaim"
-        },
-        {
-            "accuracy": 100,
-            "score": 70786,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Alex_150000000"
-        },
-        {
-            "accuracy": 100,
-            "score": 70575,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Tyraxor-rl"
         }
     ]
 }

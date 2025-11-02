@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 122027,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "まみいさんかもわからん"
+        },
+        {
             "accuracy": 100,
             "score": 122005,
             "difficulty": 3,
@@ -215,6 +223,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Shinobu Joestar"
+        },
+        {
+            "accuracy": 100,
+            "score": 121037,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kuruwu_san"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CrimsonAqua99"
-        },
-        {
-            "accuracy": 99,
-            "score": 118627,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "fanwat"
-        },
-        {
-            "accuracy": 100,
-            "score": 118524,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kratos_2735"
         }
     ]
 }

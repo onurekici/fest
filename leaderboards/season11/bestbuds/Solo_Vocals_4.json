@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 65725,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 65529,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 65282,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 97,
             "score": 65116,
             "difficulty": 3,
@@ -124,6 +148,14 @@
             "accuracy": 99,
             "score": 61007,
             "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 59694,
+            "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": null
@@ -765,38 +797,6 @@
             "score": 28634,
             "difficulty": 1,
             "stars": 3,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 98,
-            "score": 28238,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 95,
-            "score": 28119,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 89,
-            "score": 28101,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 86,
-            "score": 26129,
-            "difficulty": 3,
-            "stars": 2,
             "fullcombo": false,
             "userName": null
         }

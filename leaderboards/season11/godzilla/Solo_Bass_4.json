@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 97348,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Unbound Hound"
+        },
+        {
             "accuracy": 99,
             "score": 97318,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mirmaidkitten"
-        },
-        {
-            "accuracy": 99,
-            "score": 93395,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "meat7391"
         }
     ]
 }

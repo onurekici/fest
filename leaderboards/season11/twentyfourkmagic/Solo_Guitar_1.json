@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 101411,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HaveNoHp"
+        },
+        {
+            "accuracy": 100,
             "score": 101391,
             "difficulty": 3,
             "stars": 6,
@@ -79,6 +87,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Logs_boi"
+        },
+        {
+            "accuracy": 99,
+            "score": 100567,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[XBL] Necr0Raven"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ttv-MattSlatt"
-        },
-        {
-            "accuracy": 100,
-            "score": 89128,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "the_photle01"
-        },
-        {
-            "accuracy": 100,
-            "score": 89090,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Fiery46_"
         }
     ]
 }

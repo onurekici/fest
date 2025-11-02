@@ -265,6 +265,14 @@
             "userName": "Rocky Road 12345"
         },
         {
+            "accuracy": 99,
+            "score": 199498,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "malachi44"
+        },
+        {
             "accuracy": 100,
             "score": 199330,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Crazybonnie442"
-        },
-        {
-            "accuracy": 99,
-            "score": 179272,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RamuWaffle"
         }
     ]
 }

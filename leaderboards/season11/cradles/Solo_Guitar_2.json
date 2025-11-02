@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 65512,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ipesaurus010"
+        },
+        {
+            "accuracy": 99,
             "score": 65461,
             "difficulty": 3,
             "stars": 6,
@@ -394,6 +402,14 @@
         },
         {
             "accuracy": 100,
+            "score": 62011,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Emilychangui"
+        },
+        {
+            "accuracy": 100,
             "score": 62005,
             "difficulty": 2,
             "stars": 5,
@@ -753,6 +769,14 @@
             "userName": "Pannacota Riv"
         },
         {
+            "accuracy": 99,
+            "score": 59980,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AsrodIronside"
+        },
+        {
             "accuracy": 98,
             "score": 59906,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Undoable"
-        },
-        {
-            "accuracy": 99,
-            "score": 59798,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "K1NG ICE-"
-        },
-        {
-            "accuracy": 100,
-            "score": 59757,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ItsAidoneus"
-        },
-        {
-            "accuracy": 100,
-            "score": 59707,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "EvrFox06"
         }
     ]
 }

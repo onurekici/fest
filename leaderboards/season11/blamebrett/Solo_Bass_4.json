@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 84718,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "KrisciaRosa"
+        },
+        {
+            "accuracy": 100,
+            "score": 84623,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Loudidine"
+        },
+        {
+            "accuracy": 100,
+            "score": 84613,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ChittyKatBang"
+        },
+        {
             "accuracy": 100,
             "score": 84383,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ZReavenCrow"
-        },
-        {
-            "accuracy": 100,
-            "score": 64642,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "mämes"
-        },
-        {
-            "accuracy": 99,
-            "score": 64478,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "tcwchris"
-        },
-        {
-            "accuracy": 98,
-            "score": 64457,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nano997.TTV"
         }
     ]
 }

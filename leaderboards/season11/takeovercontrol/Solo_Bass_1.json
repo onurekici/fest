@@ -357,6 +357,14 @@
             "score": 101214,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": true,
+            "userName": "MyFishBowl3"
+        },
+        {
+            "accuracy": 100,
+            "score": 101214,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": false,
             "userName": "ᏖᏒᏋ"
         },
@@ -602,6 +610,14 @@
         },
         {
             "accuracy": 99,
+            "score": 98424,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FixAWagonHero"
+        },
+        {
+            "accuracy": 99,
             "score": 98316,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Reni-craft"
-        },
-        {
-            "accuracy": 98,
-            "score": 96288,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mosschops04"
-        },
-        {
-            "accuracy": 100,
-            "score": 96180,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Matisaurio96"
         }
     ]
 }

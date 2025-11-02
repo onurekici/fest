@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 190586,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] woods_1217"
+        },
+        {
+            "accuracy": 99,
+            "score": 190503,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZeltronTakeOver"
+        },
+        {
             "accuracy": 99,
             "score": 190486,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NorthWest21"
-        },
-        {
-            "accuracy": 99,
-            "score": 186304,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "vjose_03"
-        },
-        {
-            "accuracy": 99,
-            "score": 186254,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TritonTheWolf"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 86168,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GlizzyBLM"
+        },
+        {
+            "accuracy": 100,
+            "score": 86146,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AMIE 2.0"
+        },
+        {
             "accuracy": 100,
             "score": 86136,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Agarthan"
-        },
-        {
-            "accuracy": 100,
-            "score": 85316,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "plaasters"
-        },
-        {
-            "accuracy": 100,
-            "score": 85293,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "saenz_13"
         }
     ]
 }

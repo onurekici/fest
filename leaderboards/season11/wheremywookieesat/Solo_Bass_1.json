@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 119386,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kloetid"
+        },
+        {
+            "accuracy": 99,
+            "score": 119384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MaddHamsterDev"
+        },
+        {
             "accuracy": 99,
             "score": 119353,
             "difficulty": 3,
@@ -366,7 +382,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Strqwberrii0"
+            "userName": "strqwberrii0"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Cheep5"
-        },
-        {
-            "accuracy": 99,
-            "score": 100094,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] snappy_154"
-        },
-        {
-            "accuracy": 100,
-            "score": 100014,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Moosethepuppy1"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 116580,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "xdbeyda"
+        },
+        {
+            "accuracy": 99,
+            "score": 116563,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JudasTheKid"
+        },
+        {
             "accuracy": 99,
             "score": 116562,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "The Forting Nite"
-        },
-        {
-            "accuracy": 99,
-            "score": 111329,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KyleBob3"
-        },
-        {
-            "accuracy": 98,
-            "score": 111256,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Faith Itself"
         }
     ]
 }

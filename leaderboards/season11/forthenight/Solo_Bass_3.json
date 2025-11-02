@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 43170,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "li222s"
+        },
+        {
+            "accuracy": 98,
+            "score": 43112,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "M3MSlyclon"
+        },
+        {
+            "accuracy": 100,
             "score": 43066,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Titanpine"
-        },
-        {
-            "accuracy": 99,
-            "score": 39525,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Insanlee99"
-        },
-        {
-            "accuracy": 99,
-            "score": 39520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KellyDog2018"
         }
     ]
 }

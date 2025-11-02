@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 32405,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Puzyri"
+        },
+        {
             "accuracy": 95,
             "score": 32385,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Mimikoinu"
-        },
-        {
-            "accuracy": 91,
-            "score": 23497,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "NPKoosh"
         }
     ]
 }

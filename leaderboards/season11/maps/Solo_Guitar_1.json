@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 108930,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RoaringPage2"
+        },
+        {
             "accuracy": 100,
             "score": 108927,
             "difficulty": 3,
@@ -482,6 +490,14 @@
         },
         {
             "accuracy": 100,
+            "score": 105561,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jwwolfgamer"
+        },
+        {
+            "accuracy": 100,
             "score": 105301,
             "difficulty": 3,
             "stars": 6,
@@ -518,7 +534,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Luigi-lp"
+            "userName": "2003Sonic"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Hixxuu"
-        },
-        {
-            "accuracy": 100,
-            "score": 103926,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Weldoom"
-        },
-        {
-            "accuracy": 100,
-            "score": 103923,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TotallyNotLunarr"
         }
     ]
 }

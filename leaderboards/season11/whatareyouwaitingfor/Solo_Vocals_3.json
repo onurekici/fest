@@ -698,6 +698,14 @@
         },
         {
             "accuracy": 99,
+            "score": 123983,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TwitchyUser"
+        },
+        {
+            "accuracy": 99,
             "score": 123978,
             "difficulty": 3,
             "stars": 6,
@@ -719,6 +727,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Yukki._.00"
+        },
+        {
+            "accuracy": 100,
+            "score": 123912,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mxrii.rose"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bavarianpsycho1"
-        },
-        {
-            "accuracy": 99,
-            "score": 123614,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MegaForceBlack1"
-        },
-        {
-            "accuracy": 100,
-            "score": 123572,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "xHerGentleman"
         }
     ]
 }

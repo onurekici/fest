@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 74121,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FoxMafioso"
+        },
+        {
+            "accuracy": 99,
+            "score": 74051,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GL is King51"
+        },
+        {
             "accuracy": 99,
             "score": 74036,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NOT TODAY BUM"
-        },
-        {
-            "accuracy": 99,
-            "score": 70549,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Noella3"
-        },
-        {
-            "accuracy": 100,
-            "score": 70482,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PlebGio"
         }
     ]
 }

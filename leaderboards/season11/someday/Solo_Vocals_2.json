@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 65545,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mr prophunt"
+        },
+        {
+            "accuracy": 100,
+            "score": 65516,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "mocodevee"
+        },
+        {
             "accuracy": 100,
             "score": 65424,
             "difficulty": 3,
@@ -641,6 +657,14 @@
             "userName": "BlackChalice"
         },
         {
+            "accuracy": 95,
+            "score": 53670,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "esp3ctr3"
+        },
+        {
             "accuracy": 98,
             "score": 53288,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Jadeaavon"
-        },
-        {
-            "accuracy": 100,
-            "score": 51136,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Gemma848FDM"
-        },
-        {
-            "accuracy": 99,
-            "score": 50967,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TIMELORD.ZY"
-        },
-        {
-            "accuracy": 100,
-            "score": 50620,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "BigDaddyGreggy"
         }
     ]
 }

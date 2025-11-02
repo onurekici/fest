@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 73205,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Alymooster"
+        },
+        {
             "accuracy": 97,
             "score": 73092,
             "difficulty": 3,
@@ -327,6 +335,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MusicalLynx3436"
+        },
+        {
+            "accuracy": 95,
+            "score": 69672,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Ģrizz"
         },
         {
             "accuracy": 100,
@@ -777,28 +793,12 @@
             "userName": "yurr_cappin"
         },
         {
-            "accuracy": 90,
-            "score": 65586,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Ģrizz"
-        },
-        {
             "accuracy": 99,
             "score": 65495,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "SpizysHyper"
-        },
-        {
-            "accuracy": 99,
-            "score": 65485,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Defined Dark"
         }
     ]
 }

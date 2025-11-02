@@ -209,6 +209,14 @@
             "userName": "BLUE TEAM 435"
         },
         {
+            "accuracy": 100,
+            "score": 200136,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bon_Stroker3"
+        },
+        {
             "accuracy": 99,
             "score": 200008,
             "difficulty": 3,
@@ -431,6 +439,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Archangel_XO"
+        },
+        {
+            "accuracy": 98,
+            "score": 173088,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JOC_Explorer"
         },
         {
             "accuracy": 92,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Minus338"
-        },
-        {
-            "accuracy": 99,
-            "score": 130188,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "K8EB0098"
-        },
-        {
-            "accuracy": 99,
-            "score": 127999,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Muerto_LM7"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 99928,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "viserionII"
+        },
+        {
             "accuracy": 99,
             "score": 99807,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BoredHobo"
-        },
-        {
-            "accuracy": 99,
-            "score": 93886,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TCG Mike"
         }
     ]
 }

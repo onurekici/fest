@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 119076,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 118986,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 91,
             "score": 118704,
             "difficulty": 3,
@@ -625,6 +641,14 @@
             "userName": null
         },
         {
+            "accuracy": 94,
+            "score": 86448,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 98,
             "score": 86345,
             "difficulty": 2,
@@ -683,6 +707,14 @@
         {
             "accuracy": 96,
             "score": 84650,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 84405,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
@@ -766,38 +798,6 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
-            "userName": null
-        },
-        {
-            "accuracy": 97,
-            "score": 80365,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 97,
-            "score": 79405,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 94,
-            "score": 79165,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 95,
-            "score": 79020,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
             "userName": null
         }
     ]

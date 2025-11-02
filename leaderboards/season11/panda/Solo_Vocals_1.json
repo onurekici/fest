@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 241245,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IceCubitzu"
+        },
+        {
+            "accuracy": 100,
+            "score": 240939,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Corzo_2"
+        },
+        {
             "accuracy": 99,
             "score": 240789,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ari_pts_nwrk"
-        },
-        {
-            "accuracy": 100,
-            "score": 227445,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Duckshmuck"
-        },
-        {
-            "accuracy": 100,
-            "score": 227223,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WRENMEW"
         }
     ]
 }

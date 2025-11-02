@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 87,
+            "score": 67926,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ExtriKATE"
+        },
+        {
             "accuracy": 98,
             "score": 67872,
             "difficulty": 2,
@@ -303,6 +311,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Twich2"
+        },
+        {
+            "accuracy": 99,
+            "score": 63144,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "alfredo_gamer214"
         },
         {
             "accuracy": 83,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "tapu_cocoa"
-        },
-        {
-            "accuracy": 97,
-            "score": 54780,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Connorblackops"
-        },
-        {
-            "accuracy": 87,
-            "score": 54618,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "naitousan3"
         }
     ]
 }

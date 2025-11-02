@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 61220,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "fandelostakos"
+        },
+        {
+            "accuracy": 100,
+            "score": 61190,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kirby Girl"
+        },
+        {
+            "accuracy": 88,
+            "score": 60768,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Noagust"
+        },
+        {
+            "accuracy": 100,
+            "score": 60645,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Gabiy80"
+        },
+        {
             "accuracy": 87,
             "score": 60220,
             "difficulty": 2,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PlannedPear4089"
-        },
-        {
-            "accuracy": 98,
-            "score": 43020,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dead-Ant"
-        },
-        {
-            "accuracy": 91,
-            "score": 42306,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SweetCity5113"
-        },
-        {
-            "accuracy": 95,
-            "score": 42290,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dontra_Futama6"
-        },
-        {
-            "accuracy": 91,
-            "score": 42130,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "TR_FazeGuff"
         }
     ]
 }

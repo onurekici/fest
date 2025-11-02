@@ -514,11 +514,27 @@
         },
         {
             "accuracy": 99,
+            "score": 123817,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LukasILuti"
+        },
+        {
+            "accuracy": 99,
             "score": 123721,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Cerulean_Hazard"
+        },
+        {
+            "accuracy": 100,
+            "score": 123457,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VickFirth"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "edwardtech_"
-        },
-        {
-            "accuracy": 99,
-            "score": 115478,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheBakedM8"
-        },
-        {
-            "accuracy": 100,
-            "score": 115451,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kaiden Sosuke"
         }
     ]
 }

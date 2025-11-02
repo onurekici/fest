@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 141240,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Uncle Plunge"
+        },
+        {
+            "accuracy": 99,
+            "score": 141240,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "luis_corbett"
+        },
+        {
+            "accuracy": 100,
             "score": 141234,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "gamerwolf66690"
-        },
-        {
-            "accuracy": 100,
-            "score": 140454,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CashMoney_."
-        },
-        {
-            "accuracy": 100,
-            "score": 140448,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Cant_touch373829"
         }
     ]
 }

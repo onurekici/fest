@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 193899,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DootDoot64"
+        },
+        {
+            "accuracy": 100,
+            "score": 193439,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NymeriasGhost"
+        },
+        {
             "accuracy": 100,
             "score": 193097,
             "difficulty": 3,
@@ -31,14 +47,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WWHM73"
-        },
-        {
-            "accuracy": 99,
-            "score": 192520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "T-mac1236"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gursid13"
-        },
-        {
-            "accuracy": 99,
-            "score": 178176,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "vínyl"
         }
     ]
 }

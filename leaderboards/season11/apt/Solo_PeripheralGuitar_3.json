@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 122520,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Zastrou"
+        },
+        {
+            "accuracy": 100,
+            "score": 122514,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PharoahBC"
+        },
+        {
             "accuracy": 98,
             "score": 122468,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Maadderredd"
-        },
-        {
-            "accuracy": 100,
-            "score": 116580,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "xdbeyda"
-        },
-        {
-            "accuracy": 99,
-            "score": 116563,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JudasTheKid"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 240118,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] Sofkiccc"
+        },
+        {
+            "accuracy": 99,
+            "score": 240001,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "D.WolfV1"
+        },
+        {
             "accuracy": 99,
             "score": 239977,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "castiel シ"
-        },
-        {
-            "accuracy": 99,
-            "score": 236814,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shroom Bloom"
-        },
-        {
-            "accuracy": 99,
-            "score": 236757,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Costco Mop"
         }
     ]
 }

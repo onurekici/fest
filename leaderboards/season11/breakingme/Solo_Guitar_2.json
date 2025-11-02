@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 32438,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "lil_bean1014TTV"
+        },
+        {
+            "accuracy": 100,
             "score": 32417,
             "difficulty": 2,
             "stars": 5,
@@ -183,6 +191,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "The Warbandit"
+        },
+        {
+            "accuracy": 99,
+            "score": 31455,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bill Cosmos."
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "XPrometheusX350"
-        },
-        {
-            "accuracy": 98,
-            "score": 29238,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Beardo-VA"
-        },
-        {
-            "accuracy": 100,
-            "score": 29225,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "the-dread-wolf69"
         }
     ]
 }

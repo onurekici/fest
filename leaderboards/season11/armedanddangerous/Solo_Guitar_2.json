@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 44095,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "lightingmcqueef."
+        },
+        {
             "accuracy": 99,
             "score": 43998,
             "difficulty": 2,
@@ -570,6 +578,14 @@
         },
         {
             "accuracy": 100,
+            "score": 38250,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "NeoVenom"
+        },
+        {
+            "accuracy": 100,
             "score": 38189,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "levi201105"
-        },
-        {
-            "accuracy": 100,
-            "score": 37005,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ReaperDragon215"
-        },
-        {
-            "accuracy": 98,
-            "score": 36969,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SDogg5614"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 32101,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ChristianCWood"
+        },
+        {
             "accuracy": 98,
             "score": 32074,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Quuebi"
-        },
-        {
-            "accuracy": 98,
-            "score": 21864,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "dark_fox_moon"
         }
     ]
 }

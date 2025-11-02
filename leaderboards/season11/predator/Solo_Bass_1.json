@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 87773,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BoxedSnake"
+        },
+        {
             "accuracy": 98,
             "score": 87294,
             "difficulty": 3,
@@ -689,6 +697,14 @@
             "userName": "[XBL] Halkett2"
         },
         {
+            "accuracy": 100,
+            "score": 62650,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] GorillaMonger42"
+        },
+        {
             "accuracy": 99,
             "score": 62634,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "AaronJ_99"
-        },
-        {
-            "accuracy": 97,
-            "score": 61247,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Young Contadino"
-        },
-        {
-            "accuracy": 98,
-            "score": 60869,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "emrknight"
         }
     ]
 }

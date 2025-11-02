@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 36440,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Chill dude man"
+        },
+        {
+            "accuracy": 98,
+            "score": 36300,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MixGaming17"
+        },
+        {
             "accuracy": 98,
             "score": 36190,
             "difficulty": 2,
@@ -753,6 +769,14 @@
             "userName": "xMrsLeslie_x"
         },
         {
+            "accuracy": 66,
+            "score": 5950,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "JimmyDaRat"
+        },
+        {
             "accuracy": 68,
             "score": 5880,
             "difficulty": 1,
@@ -775,14 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "Skullshadow2096"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 0,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "blametrump"
         }
     ]
 }

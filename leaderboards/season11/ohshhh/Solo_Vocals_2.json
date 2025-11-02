@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 100505,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ndess"
+        },
+        {
+            "accuracy": 100,
+            "score": 100210,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "B4add1e"
+        },
+        {
+            "accuracy": 99,
+            "score": 100106,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DibboDabbo"
+        },
+        {
             "accuracy": 99,
             "score": 99635,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "don1p654687tu"
-        },
-        {
-            "accuracy": 98,
-            "score": 76508,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 98,
-            "score": 76290,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "IPala4"
-        },
-        {
-            "accuracy": 99,
-            "score": 75535,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "thib.511"
         }
     ]
 }

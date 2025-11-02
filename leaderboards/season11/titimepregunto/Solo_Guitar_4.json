@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 50648,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] overside12"
+        },
+        {
+            "accuracy": 99,
+            "score": 50638,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FafnirTheGreat11"
+        },
+        {
             "accuracy": 99,
             "score": 50620,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DoReMi.ART"
-        },
-        {
-            "accuracy": 98,
-            "score": 48530,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "inksteel X"
-        },
-        {
-            "accuracy": 99,
-            "score": 48515,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Stoico935115"
         }
     ]
 }

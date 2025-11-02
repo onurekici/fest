@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 259230,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "BigJoe201"
+        },
+        {
+            "accuracy": 93,
+            "score": 258930,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "highitsmesez"
+        },
+        {
             "accuracy": 98,
             "score": 258564,
             "difficulty": 3,
@@ -239,6 +255,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "C.calahan"
+        },
+        {
+            "accuracy": 99,
+            "score": 244062,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Bentrout"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Gardai99"
-        },
-        {
-            "accuracy": 97,
-            "score": 208530,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NinjaGeorge1234"
-        },
-        {
-            "accuracy": 98,
-            "score": 208518,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Maxdonna_"
-        },
-        {
-            "accuracy": 98,
-            "score": 206490,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Debile77"
         }
     ]
 }

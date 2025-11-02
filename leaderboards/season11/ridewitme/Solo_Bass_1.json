@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112014,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "marcos 007"
+        },
+        {
+            "accuracy": 100,
             "score": 111989,
             "difficulty": 3,
             "stars": 6,
@@ -127,6 +135,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "gabyduarte"
+        },
+        {
+            "accuracy": 100,
+            "score": 111415,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cronathedemon"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DuvalGhostface"
-        },
-        {
-            "accuracy": 99,
-            "score": 107399,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ollie_pxrts"
-        },
-        {
-            "accuracy": 99,
-            "score": 107389,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "teemu004"
         }
     ]
 }

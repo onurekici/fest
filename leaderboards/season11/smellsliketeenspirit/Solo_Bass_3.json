@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 236814,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Shroom Bloom"
+        },
+        {
+            "accuracy": 99,
+            "score": 236757,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Costco Mop"
+        },
+        {
             "accuracy": 100,
             "score": 236756,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Skyviper4"
-        },
-        {
-            "accuracy": 99,
-            "score": 232752,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GendoRokobungi"
-        },
-        {
-            "accuracy": 100,
-            "score": 232697,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Cosmic_Catalyst"
         }
     ]
 }

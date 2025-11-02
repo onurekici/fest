@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 14429,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Megumin_2008"
+        },
+        {
+            "accuracy": 93,
+            "score": 14409,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "PersikkaC"
+        },
+        {
             "accuracy": 96,
             "score": 14380,
             "difficulty": 3,
@@ -47,6 +63,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "tinysavv"
+        },
+        {
+            "accuracy": 98,
+            "score": 14234,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "hank.005"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "xLinair7"
-        },
-        {
-            "accuracy": 97,
-            "score": 9369,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BrianJr_92"
-        },
-        {
-            "accuracy": 92,
-            "score": 9316,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "The_Happy_Whale"
-        },
-        {
-            "accuracy": 92,
-            "score": 9297,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Erisepie"
         }
     ]
 }
