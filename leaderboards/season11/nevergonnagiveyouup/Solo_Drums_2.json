@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 183828,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jade Reign"
+        },
+        {
             "accuracy": 99,
             "score": 183810,
             "difficulty": 3,
@@ -593,6 +601,14 @@
             "userName": "TJBodyOil"
         },
         {
+            "accuracy": 99,
+            "score": 182472,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ephemeral_Aeons"
+        },
+        {
             "accuracy": 100,
             "score": 182454,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MrEvilX"
-        },
-        {
-            "accuracy": 100,
-            "score": 182052,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "druppeldruppel"
-        },
-        {
-            "accuracy": 100,
-            "score": 182052,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NekraManT_"
         }
     ]
 }

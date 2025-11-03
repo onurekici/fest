@@ -282,6 +282,14 @@
         },
         {
             "accuracy": 100,
+            "score": 14144,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FarMackk"
+        },
+        {
+            "accuracy": 100,
             "score": 13984,
             "difficulty": 3,
             "stars": 6,
@@ -318,7 +326,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": "ND Singleton"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -447,6 +455,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "chimpanzinibani"
+        },
+        {
+            "accuracy": 100,
+            "score": 12063,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Fnaf Pickle"
         },
         {
             "accuracy": 100,
@@ -665,6 +681,14 @@
             "userName": "Magnes1a"
         },
         {
+            "accuracy": 100,
+            "score": 9291,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "jaybirdsing"
+        },
+        {
             "accuracy": 98,
             "score": 9224,
             "difficulty": 3,
@@ -679,14 +703,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Patsux1"
-        },
-        {
-            "accuracy": 100,
-            "score": 9180,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "jaybirdsing"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TH.MARs"
-        },
-        {
-            "accuracy": 100,
-            "score": 8438,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "КотБармаглот"
-        },
-        {
-            "accuracy": 98,
-            "score": 8363,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PEPE_LIT"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 45130,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Natural_Gemini"
+        },
+        {
+            "accuracy": 99,
+            "score": 45108,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Arthelaiz"
+        },
+        {
             "accuracy": 99,
             "score": 44841,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Or1ovskiy"
-        },
-        {
-            "accuracy": 100,
-            "score": 36557,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "EmperorJJ1"
-        },
-        {
-            "accuracy": 100,
-            "score": 36550,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "diwadreX"
         }
     ]
 }

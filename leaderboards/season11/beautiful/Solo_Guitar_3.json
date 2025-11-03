@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 212868,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kaliskaja"
+        },
+        {
             "accuracy": 99,
             "score": 212868,
             "difficulty": 3,
@@ -326,7 +334,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "ElAtom_IRIS28"
+            "userName": "El_Atøm28"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ona_tm"
-        },
-        {
-            "accuracy": 100,
-            "score": 211331,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iPhavel"
         }
     ]
 }

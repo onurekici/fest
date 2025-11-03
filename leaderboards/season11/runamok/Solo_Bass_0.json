@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 54055,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "シゲル1989"
+        },
+        {
+            "accuracy": 100,
             "score": 53659,
             "difficulty": 3,
             "stars": 6,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Rocketman3700"
+        },
+        {
+            "accuracy": 100,
+            "score": 51483,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Taxidermalicious"
         },
         {
             "accuracy": 100,
@@ -705,6 +721,14 @@
             "userName": "Yellowvulture1"
         },
         {
+            "accuracy": 99,
+            "score": 44796,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Caitykorn"
+        },
+        {
             "accuracy": 100,
             "score": 44679,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mosschops04"
-        },
-        {
-            "accuracy": 99,
-            "score": 43427,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "soldierdance"
-        },
-        {
-            "accuracy": 100,
-            "score": 43002,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TragicTahr5771"
-        },
-        {
-            "accuracy": 99,
-            "score": 42918,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jax_1410"
         }
     ]
 }

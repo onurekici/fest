@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 60207,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "pilotofsomething"
+        },
+        {
             "accuracy": 100,
             "score": 60182,
             "difficulty": 3,
@@ -31,6 +39,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "katekarin23"
+        },
+        {
+            "accuracy": 99,
+            "score": 60117,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Zeymahi Myon"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Deizof"
-        },
-        {
-            "accuracy": 99,
-            "score": 58416,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kitzenko"
-        },
-        {
-            "accuracy": 98,
-            "score": 58385,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WickedxxTurbo"
         }
     ]
 }

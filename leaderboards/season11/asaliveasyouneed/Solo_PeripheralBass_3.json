@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 75976,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "TechieJordan"
+        },
+        {
             "accuracy": 91,
             "score": 75285,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "SaucyJoe21"
-        },
-        {
-            "accuracy": 78,
-            "score": 13332,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MugPuff"
         }
     ]
 }

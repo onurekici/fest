@@ -82,6 +82,14 @@
         },
         {
             "accuracy": 100,
+            "score": 154500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Riff - Spectral"
+        },
+        {
+            "accuracy": 100,
             "score": 154470,
             "difficulty": 3,
             "stars": 6,
@@ -111,6 +119,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FNAFloreExpert"
+        },
+        {
+            "accuracy": 99,
+            "score": 153678,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "zombothy"
         },
         {
             "accuracy": 100,
@@ -223,6 +239,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MoneyBoyT"
+        },
+        {
+            "accuracy": 100,
+            "score": 151782,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Da6kness"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "H2o XL"
-        },
-        {
-            "accuracy": 100,
-            "score": 148206,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GauzeRavines"
-        },
-        {
-            "accuracy": 100,
-            "score": 148146,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ShredMasterJMS"
-        },
-        {
-            "accuracy": 100,
-            "score": 148140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Twentysped"
         }
     ]
 }

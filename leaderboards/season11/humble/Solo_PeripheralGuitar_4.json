@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 32003,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "faxzar"
+        },
+        {
+            "accuracy": 96,
+            "score": 31887,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DSol112"
+        },
+        {
             "accuracy": 92,
             "score": 31857,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "[PSN] Yankees56"
-        },
-        {
-            "accuracy": 64,
-            "score": 9480,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "biggie cheese 00"
-        },
-        {
-            "accuracy": 49,
-            "score": 9066,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "[PSN] lillyfon0103"
         }
     ]
 }

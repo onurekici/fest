@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 32938,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Bullet_Sponge801"
+        },
+        {
+            "accuracy": 92,
+            "score": 32840,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "LaJabberjay"
+        },
+        {
+            "accuracy": 98,
+            "score": 32773,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "VER_Fan_Denni88"
+        },
+        {
             "accuracy": 92,
             "score": 32694,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "JGeezy7"
-        },
-        {
-            "accuracy": 92,
-            "score": 24266,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "snailrepose"
-        },
-        {
-            "accuracy": 92,
-            "score": 24254,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ExmOF_"
-        },
-        {
-            "accuracy": 97,
-            "score": 24225,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Samnqwt"
         }
     ]
 }

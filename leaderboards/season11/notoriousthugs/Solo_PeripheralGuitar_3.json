@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 100500,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "RensU PL"
+        },
+        {
+            "accuracy": 84,
+            "score": 100005,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "julltsu"
+        },
+        {
             "accuracy": 98,
             "score": 97837,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "BunniSushiRoll"
-        },
-        {
-            "accuracy": 67,
-            "score": 35081,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "My5ticSorceress"
-        },
-        {
-            "accuracy": 72,
-            "score": 34067,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Strayknight5311"
         }
     ]
 }

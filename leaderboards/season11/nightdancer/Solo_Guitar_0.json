@@ -57,6 +57,14 @@
             "userName": "I gotta feelingg"
         },
         {
+            "accuracy": 99,
+            "score": 123155,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "シゲル1989"
+        },
+        {
             "accuracy": 100,
             "score": 122289,
             "difficulty": 3,
@@ -90,6 +98,14 @@
         },
         {
             "accuracy": 100,
+            "score": 121300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Keyboardasaurus"
+        },
+        {
+            "accuracy": 100,
             "score": 120797,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +119,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DSL TYPΞ SHHHH"
+        },
+        {
+            "accuracy": 100,
+            "score": 120403,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "undercover_kisse"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Chadisgone"
-        },
-        {
-            "accuracy": 100,
-            "score": 110531,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DerrikkFam"
-        },
-        {
-            "accuracy": 95,
-            "score": 110528,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Molt715"
-        },
-        {
-            "accuracy": 100,
-            "score": 110352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LazyCrayfish5597"
         }
     ]
 }

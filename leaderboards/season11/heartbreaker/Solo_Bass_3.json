@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 138392,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xJustCallMeBoox"
+        },
+        {
             "accuracy": 99,
             "score": 138386,
             "difficulty": 3,
@@ -255,6 +263,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BEEsavage93"
+        },
+        {
+            "accuracy": 100,
+            "score": 134788,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Pakeandynwa"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TangosTacoTruck"
-        },
-        {
-            "accuracy": 99,
-            "score": 129725,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SinisterSistr"
-        },
-        {
-            "accuracy": 99,
-            "score": 129670,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GovernorLobster"
         }
     ]
 }

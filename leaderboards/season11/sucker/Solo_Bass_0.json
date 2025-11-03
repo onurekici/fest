@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123816,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sofnuuy"
+        },
+        {
+            "accuracy": 100,
             "score": 110559,
             "difficulty": 3,
             "stars": 6,
@@ -321,6 +329,14 @@
             "userName": "xMontaguex"
         },
         {
+            "accuracy": 94,
+            "score": 53405,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 98,
             "score": 53364,
             "difficulty": 2,
@@ -463,6 +479,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "NickEh30-1"
+        },
+        {
+            "accuracy": 98,
+            "score": 37235,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dino28rex"
         },
         {
             "accuracy": 97,
@@ -609,6 +633,14 @@
             "userName": "XScotty94X"
         },
         {
+            "accuracy": 86,
+            "score": 25773,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "jjboss9407"
+        },
+        {
             "accuracy": 100,
             "score": 25660,
             "difficulty": 0,
@@ -631,14 +663,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Dead_Shot_156"
-        },
-        {
-            "accuracy": 98,
-            "score": 24520,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Dino28rex"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "G.O.A.T_5.0"
-        },
-        {
-            "accuracy": 83,
-            "score": 15325,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "frickzyfu"
-        },
-        {
-            "accuracy": 97,
-            "score": 14965,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DANAMEGA"
-        },
-        {
-            "accuracy": 97,
-            "score": 14095,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Amberley Vail"
         }
     ]
 }

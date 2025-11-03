@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 190398,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jankysite"
+        },
+        {
+            "accuracy": 100,
+            "score": 190100,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Brixo98"
+        },
+        {
+            "accuracy": 99,
             "score": 190098,
             "difficulty": 3,
             "stars": 5,
@@ -31,6 +47,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "蜂蜜狐 hatimatu"
+        },
+        {
+            "accuracy": 100,
+            "score": 187400,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KND_Manco"
         },
         {
             "accuracy": 97,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "EdLovelaCe"
-        },
-        {
-            "accuracy": 96,
-            "score": 118755,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Not_Rubber_Duck"
-        },
-        {
-            "accuracy": 100,
-            "score": 118385,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Cidral17"
-        },
-        {
-            "accuracy": 92,
-            "score": 118176,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Luksskaywaker"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 73953,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "StonewallSeavey"
+        },
+        {
+            "accuracy": 98,
             "score": 73951,
             "difficulty": 2,
             "stars": 5,
@@ -489,6 +497,14 @@
             "userName": "INkwithN"
         },
         {
+            "accuracy": 100,
+            "score": 65268,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jake Bottomley"
+        },
+        {
             "accuracy": 98,
             "score": 65130,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Colonel Drackula"
-        },
-        {
-            "accuracy": 98,
-            "score": 62721,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "UniKornEvie"
-        },
-        {
-            "accuracy": 100,
-            "score": 62638,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Lusitanux"
         }
     ]
 }

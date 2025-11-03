@@ -154,6 +154,14 @@
         },
         {
             "accuracy": 100,
+            "score": 104835,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pepp3rM1nt"
+        },
+        {
+            "accuracy": 100,
             "score": 104431,
             "difficulty": 3,
             "stars": 6,
@@ -689,6 +697,14 @@
             "userName": "Chinselor"
         },
         {
+            "accuracy": 98,
+            "score": 87224,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GE Water Boy"
+        },
+        {
             "accuracy": 97,
             "score": 86761,
             "difficulty": 3,
@@ -703,6 +719,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Wakko Lad"
+        },
+        {
+            "accuracy": 98,
+            "score": 86206,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Matt Magus"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ExterMM12"
-        },
-        {
-            "accuracy": 96,
-            "score": 83772,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ra1rawr"
-        },
-        {
-            "accuracy": 97,
-            "score": 83629,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jjscrat"
-        },
-        {
-            "accuracy": 96,
-            "score": 83212,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hypothraxer"
         }
     ]
 }

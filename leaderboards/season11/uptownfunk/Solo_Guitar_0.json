@@ -314,6 +314,14 @@
         },
         {
             "accuracy": 100,
+            "score": 124710,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IgnisNuts"
+        },
+        {
+            "accuracy": 100,
             "score": 124554,
             "difficulty": 3,
             "stars": 6,
@@ -470,7 +478,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Fabian o.o"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Protonian"
-        },
-        {
-            "accuracy": 99,
-            "score": 112902,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "sky89765"
         }
     ]
 }

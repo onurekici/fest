@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 61164,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Matt_The_Anomaly"
+        },
+        {
+            "accuracy": 99,
+            "score": 61158,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OliviaOliveTree"
+        },
+        {
+            "accuracy": 100,
             "score": 61158,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Zu_on_hotel_wifi"
-        },
-        {
-            "accuracy": 95,
-            "score": 59520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SilverLeaf909"
-        },
-        {
-            "accuracy": 99,
-            "score": 59520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HungPelican-"
         }
     ]
 }

@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 51687,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cari Freybren"
+        },
+        {
+            "accuracy": 100,
             "score": 51598,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "King_Esca"
+        },
+        {
+            "accuracy": 100,
+            "score": 50179,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mary.0604"
         },
         {
             "accuracy": 100,
@@ -25,12 +41,12 @@
             "userName": "Kansada"
         },
         {
-            "accuracy": 98,
-            "score": 43333,
+            "accuracy": 99,
+            "score": 45040,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Cari Freybren"
+            "userName": "tehJoshie"
         },
         {
             "accuracy": 99,
@@ -39,6 +55,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TikTok JunoHardt"
+        },
+        {
+            "accuracy": 98,
+            "score": 25507,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "welshysbm"
         }
     ]
 }

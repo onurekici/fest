@@ -1,100 +1,804 @@
 {
     "entries": [
         {
-            "accuracy": 85,
-            "score": 4946,
-            "difficulty": 0,
+            "accuracy": 95,
+            "score": 38543,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Pyk0ni"
+        },
+        {
+            "accuracy": 97,
+            "score": 38410,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "TSM_ACEWOLF"
+        },
+        {
+            "accuracy": 95,
+            "score": 38364,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "leeam303"
+        },
+        {
+            "accuracy": 100,
+            "score": 38014,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] Weirdpeople323"
+        },
+        {
+            "accuracy": 96,
+            "score": 37842,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ʳᵃᵛᵉⁿ ツ"
+        },
+        {
+            "accuracy": 100,
+            "score": 37817,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kido427"
+        },
+        {
+            "accuracy": 100,
+            "score": 37791,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] Sprayboy_V"
+        },
+        {
+            "accuracy": 97,
+            "score": 37606,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "mila2114skelet"
+        },
+        {
+            "accuracy": 97,
+            "score": 37490,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "[PSN] mogli_135"
+        },
+        {
+            "accuracy": 100,
+            "score": 37322,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Chilli_Zada"
+        },
+        {
+            "accuracy": 100,
+            "score": 37196,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Matchou9"
+        },
+        {
+            "accuracy": 94,
+            "score": 37158,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "boxedbybillieツ"
+        },
+        {
+            "accuracy": 99,
+            "score": 37083,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "EdgeCrusher6"
+        },
+        {
+            "accuracy": 100,
+            "score": 36744,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "HeadWizard1934"
+        },
+        {
+            "accuracy": 95,
+            "score": 36477,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "DARKASSASSIN_TTV"
+        },
+        {
+            "accuracy": 97,
+            "score": 36395,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "wageysagey"
+        },
+        {
+            "accuracy": 100,
+            "score": 36153,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "extra_thik_burgr"
+        },
+        {
+            "accuracy": 100,
+            "score": 35951,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "XxNicole07xX"
+        },
+        {
+            "accuracy": 100,
+            "score": 35909,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Papi Polak"
+        },
+        {
+            "accuracy": 99,
+            "score": 35844,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PELLILLOX111"
+        },
+        {
+            "accuracy": 96,
+            "score": 35723,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ThiccSnorlaax"
+        },
+        {
+            "accuracy": 100,
+            "score": 35688,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "chase21913"
+        },
+        {
+            "accuracy": 100,
+            "score": 35677,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] AnnaMatthews854"
+        },
+        {
+            "accuracy": 98,
+            "score": 35664,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "marshmallow81319"
+        },
+        {
+            "accuracy": 99,
+            "score": 35643,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "karlzmoney"
+        },
+        {
+            "accuracy": 100,
+            "score": 35638,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] Savanna2329"
+        },
+        {
+            "accuracy": 100,
+            "score": 35627,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Madgeッ"
+        },
+        {
+            "accuracy": 95,
+            "score": 35600,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "tvf1lthyfrank"
+        },
+        {
+            "accuracy": 100,
+            "score": 35593,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "emmuskkaaaaa"
+        },
+        {
+            "accuracy": 100,
+            "score": 35550,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Antochka1701"
+        },
+        {
+            "accuracy": 96,
+            "score": 35361,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "J-Len44"
+        },
+        {
+            "accuracy": 99,
+            "score": 35330,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Luci3ns.Luvrboy"
+        },
+        {
+            "accuracy": 100,
+            "score": 35282,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ExGamer2504"
+        },
+        {
+            "accuracy": 100,
+            "score": 35191,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Beardo-VA"
+        },
+        {
+            "accuracy": 100,
+            "score": 35109,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "r4fago"
+        },
+        {
+            "accuracy": 100,
+            "score": 35037,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ace_Ciel"
+        },
+        {
+            "accuracy": 100,
+            "score": 34837,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Trooper2433"
+        },
+        {
+            "accuracy": 77,
+            "score": 34792,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "brownfinge47"
+        },
+        {
+            "accuracy": 100,
+            "score": 34651,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "tonyhou-"
+        },
+        {
+            "accuracy": 100,
+            "score": 34511,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Getclappedbyfish"
+        },
+        {
+            "accuracy": 100,
+            "score": 34480,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] Electric9207"
+        },
+        {
+            "accuracy": 100,
+            "score": 34405,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Azrae_Ghost"
+        },
+        {
+            "accuracy": 99,
+            "score": 34262,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BusyKitchen7420"
+        },
+        {
+            "accuracy": 98,
+            "score": 34190,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "senisann"
+        },
+        {
+            "accuracy": 100,
+            "score": 34181,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TCA Shelton"
+        },
+        {
+            "accuracy": 99,
+            "score": 34133,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Taste.the.Divine"
+        },
+        {
+            "accuracy": 100,
+            "score": 33990,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Angryduckッ"
+        },
+        {
+            "accuracy": 99,
+            "score": 33864,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] xomikaela"
+        },
+        {
+            "accuracy": 99,
+            "score": 33858,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "summerluxx"
+        },
+        {
+            "accuracy": 99,
+            "score": 33778,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "who_iszu"
+        },
+        {
+            "accuracy": 94,
+            "score": 33368,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Baby yoda2359475"
+        },
+        {
+            "accuracy": 95,
+            "score": 33330,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "RedRager29"
+        },
+        {
+            "accuracy": 100,
+            "score": 33304,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] The_Medic_97"
+        },
+        {
+            "accuracy": 99,
+            "score": 33165,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Chiquilla_1"
+        },
+        {
+            "accuracy": 95,
+            "score": 33154,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "dragibus_orange"
+        },
+        {
+            "accuracy": 93,
+            "score": 33114,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Twilightt_Zone"
+        },
+        {
+            "accuracy": 98,
+            "score": 33086,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Bydystedッ"
+        },
+        {
+            "accuracy": 99,
+            "score": 32680,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "medusasndrgrnd"
+        },
+        {
+            "accuracy": 99,
+            "score": 32653,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] PFS187"
+        },
+        {
+            "accuracy": 96,
+            "score": 32640,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "tinti_lappis"
+        },
+        {
+            "accuracy": 99,
+            "score": 32562,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BellaJustSnipedU"
+        },
+        {
+            "accuracy": 92,
+            "score": 32542,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ALEXANDER7277373"
+        },
+        {
+            "accuracy": 100,
+            "score": 32535,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "lazy_chaos"
+        },
+        {
+            "accuracy": 100,
+            "score": 32328,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Supamanswisher"
+        },
+        {
+            "accuracy": 100,
+            "score": 32212,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SquanchyRage0"
+        },
+        {
+            "accuracy": 100,
+            "score": 32205,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "thelastofus898"
+        },
+        {
+            "accuracy": 99,
+            "score": 32159,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LucasOil23"
+        },
+        {
+            "accuracy": 99,
+            "score": 31999,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "sagofen44"
+        },
+        {
+            "accuracy": 97,
+            "score": 31730,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "alison0228"
+        },
+        {
+            "accuracy": 99,
+            "score": 31698,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] zombie1_boy"
+        },
+        {
+            "accuracy": 99,
+            "score": 31488,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Blessed_1955"
+        },
+        {
+            "accuracy": 97,
+            "score": 31326,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Schlauer_Mensxh"
+        },
+        {
+            "accuracy": 93,
+            "score": 31276,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Deurexi07"
+        },
+        {
+            "accuracy": 91,
+            "score": 31043,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Glitterygoose23"
+        },
+        {
+            "accuracy": 92,
+            "score": 30929,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "bigbrave"
+        },
+        {
+            "accuracy": 94,
+            "score": 30859,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "adarius71"
+        },
+        {
+            "accuracy": 99,
+            "score": 30825,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "sleepywrId"
+        },
+        {
+            "accuracy": 98,
+            "score": 30719,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "BLOODHOUND6900"
+        },
+        {
+            "accuracy": 100,
+            "score": 30646,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] kansas_city26"
+        },
+        {
+            "accuracy": 98,
+            "score": 30570,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "avarii10"
+        },
+        {
+            "accuracy": 73,
+            "score": 30549,
+            "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "Izzybeebs13"
+            "userName": "GhostyGirl9000"
         },
         {
-            "accuracy": 88,
-            "score": 4638,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "bbavacados"
-        },
-        {
-            "accuracy": 88,
-            "score": 4608,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Ariibabby22"
-        },
-        {
-            "accuracy": 85,
-            "score": 4153,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Chewiehufc"
-        },
-        {
-            "accuracy": 82,
-            "score": 3723,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "FluffyHand6277"
-        },
-        {
-            "accuracy": 69,
-            "score": 3123,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Braaaap50"
-        },
-        {
-            "accuracy": 31,
-            "score": 2288,
+            "accuracy": 98,
+            "score": 30425,
             "difficulty": 1,
-            "stars": 1,
+            "stars": 5,
             "fullcombo": false,
-            "userName": "Eevee2032"
+            "userName": "Hampter505"
         },
         {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 1,
-            "stars": 0,
-            "fullcombo": true,
-            "userName": "yelrahquinn"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 0,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "deejspleej"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
+            "accuracy": 89,
+            "score": 30218,
             "difficulty": 3,
-            "stars": 0,
+            "stars": 3,
             "fullcombo": false,
-            "userName": "gooningformegumi"
+            "userName": "Womkerga"
         },
         {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "OG LOC."
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
+            "accuracy": 98,
+            "score": 30120,
             "difficulty": 1,
-            "stars": 0,
+            "stars": 5,
             "fullcombo": false,
-            "userName": "[XBL] Ariana132562"
+            "userName": "Majito_Col"
+        },
+        {
+            "accuracy": 90,
+            "score": 29972,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "TheReactr"
+        },
+        {
+            "accuracy": 97,
+            "score": 29721,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "luckyducklinggg"
+        },
+        {
+            "accuracy": 99,
+            "score": 29616,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Austlnn95"
+        },
+        {
+            "accuracy": 99,
+            "score": 29543,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Playboii659"
+        },
+        {
+            "accuracy": 97,
+            "score": 29509,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MommaB3AR19"
+        },
+        {
+            "accuracy": 100,
+            "score": 29358,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Crismatij"
+        },
+        {
+            "accuracy": 99,
+            "score": 29137,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MaMa_DONUTS"
+        },
+        {
+            "accuracy": 99,
+            "score": 29129,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[XBL] Aubregbabs"
+        },
+        {
+            "accuracy": 89,
+            "score": 29015,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Whalebaby_"
+        },
+        {
+            "accuracy": 97,
+            "score": 28918,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "[XBL] MickeyDavi"
+        },
+        {
+            "accuracy": 92,
+            "score": 28901,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "[PSN] E_Not_Hot_S"
+        },
+        {
+            "accuracy": 98,
+            "score": 28846,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PepperDaPuppy"
+        },
+        {
+            "accuracy": 92,
+            "score": 28753,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "DastardlyDaddy77"
+        },
+        {
+            "accuracy": 98,
+            "score": 28724,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Naruto5087"
+        },
+        {
+            "accuracy": 90,
+            "score": 28556,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Rodsstann"
+        },
+        {
+            "accuracy": 95,
+            "score": 28320,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Catgod1357"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 49247,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "BombR2447"
+        },
+        {
+            "accuracy": 100,
+            "score": 47515,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "StItCh Gibson"
+        },
+        {
+            "accuracy": 77,
+            "score": 47189,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Kitzenko"
+        },
+        {
             "accuracy": 91,
             "score": 45068,
             "difficulty": 3,
@@ -177,6 +201,14 @@
             "userName": "Pikademaru"
         },
         {
+            "accuracy": 83,
+            "score": 19404,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "venus0urluvgod"
+        },
+        {
             "accuracy": 77,
             "score": 18584,
             "difficulty": 2,
@@ -191,6 +223,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Luciferr356"
+        },
+        {
+            "accuracy": 75,
+            "score": 10253,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "KingJulianParty"
         }
     ]
 }

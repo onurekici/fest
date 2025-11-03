@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 268548,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lazy_E5"
+        },
+        {
+            "accuracy": 100,
+            "score": 268531,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "hege600"
+        },
+        {
             "accuracy": 99,
             "score": 268518,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] HirharTheRange"
-        },
-        {
-            "accuracy": 100,
-            "score": 264767,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HaveNoHp"
-        },
-        {
-            "accuracy": 100,
-            "score": 264755,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MasterfloorT1"
         }
     ]
 }

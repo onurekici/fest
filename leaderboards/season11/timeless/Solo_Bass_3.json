@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 50236,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "5gmathews"
+        },
+        {
+            "accuracy": 99,
+            "score": 50204,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fokdsn"
+        },
+        {
+            "accuracy": 100,
             "score": 50187,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "j4selito"
-        },
-        {
-            "accuracy": 100,
-            "score": 45130,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Natural_Gemini"
-        },
-        {
-            "accuracy": 99,
-            "score": 45108,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Arthelaiz"
         }
     ]
 }

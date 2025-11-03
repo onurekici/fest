@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 50249,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mozzie.BT"
+        },
+        {
             "accuracy": 100,
             "score": 50234,
             "difficulty": 3,
@@ -489,6 +497,14 @@
             "userName": "Creature42069"
         },
         {
+            "accuracy": 100,
+            "score": 49108,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "StarDeepZonaPlus"
+        },
+        {
             "accuracy": 99,
             "score": 49107,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Giampfam"
-        },
-        {
-            "accuracy": 99,
-            "score": 48222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bloom_dart935"
-        },
-        {
-            "accuracy": 99,
-            "score": 48200,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kinshinobi"
         }
     ]
 }

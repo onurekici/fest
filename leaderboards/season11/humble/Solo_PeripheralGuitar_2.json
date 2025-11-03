@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 62876,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cheasybeardyo"
+        },
+        {
+            "accuracy": 97,
+            "score": 62850,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SacredCornet18"
+        },
+        {
             "accuracy": 100,
             "score": 62809,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Archaicstar"
-        },
-        {
-            "accuracy": 97,
-            "score": 50419,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Shaved Penguin"
-        },
-        {
-            "accuracy": 98,
-            "score": 50408,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Xxbatman_XD"
         }
     ]
 }

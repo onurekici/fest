@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 96,
+            "score": 66411,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "M16Tarriest"
+        },
+        {
+            "accuracy": 96,
             "score": 66396,
             "difficulty": 3,
             "stars": 5,
@@ -55,6 +63,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Hopper2004"
+        },
+        {
+            "accuracy": 100,
+            "score": 66141,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SagBergTheCloud"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "DoTheDooley"
-        },
-        {
-            "accuracy": 91,
-            "score": 61719,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ThousandWinters"
-        },
-        {
-            "accuracy": 96,
-            "score": 61683,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Soar_Moisy"
         }
     ]
 }

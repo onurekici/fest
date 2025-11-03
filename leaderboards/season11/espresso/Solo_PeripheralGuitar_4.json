@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 53643,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Shaved Penguin"
+        },
+        {
+            "accuracy": 93,
+            "score": 53519,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "iidx8thstyle"
+        },
+        {
+            "accuracy": 98,
+            "score": 53161,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "hutch_dust"
+        },
+        {
             "accuracy": 99,
             "score": 52994,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MrTr8r"
-        },
-        {
-            "accuracy": 93,
-            "score": 38681,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pikademaru"
-        },
-        {
-            "accuracy": 97,
-            "score": 38463,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "senot00000000000"
-        },
-        {
-            "accuracy": 89,
-            "score": 38312,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Razkiinn"
         }
     ]
 }
