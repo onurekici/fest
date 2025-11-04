@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 54678,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Trazgazm"
+        },
+        {
+            "accuracy": 94,
+            "score": 54672,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "adue42"
+        },
+        {
             "accuracy": 96,
             "score": 54582,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GermanOnSight"
-        },
-        {
-            "accuracy": 91,
-            "score": 45606,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "THEmodeLTU"
-        },
-        {
-            "accuracy": 95,
-            "score": 45564,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "G0RiNation"
         }
     ]
 }

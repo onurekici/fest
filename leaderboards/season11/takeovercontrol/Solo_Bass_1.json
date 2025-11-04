@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 105390,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RiddleHeart"
+        },
+        {
+            "accuracy": 99,
+            "score": 105252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "duuzuu"
+        },
+        {
+            "accuracy": 100,
             "score": 105204,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Hombre sencillo"
-        },
-        {
-            "accuracy": 99,
-            "score": 96906,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TTV AnySteam BAS"
-        },
-        {
-            "accuracy": 100,
-            "score": 96642,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mahoad"
         }
     ]
 }

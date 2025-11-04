@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 59627,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dummoi"
+        },
+        {
+            "accuracy": 100,
+            "score": 59576,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "b0me1"
+        },
+        {
+            "accuracy": 100,
             "score": 59536,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "lexi_freakshido"
-        },
-        {
-            "accuracy": 100,
-            "score": 56183,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SgtTicTac"
-        },
-        {
-            "accuracy": 99,
-            "score": 56162,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kamugames77"
         }
     ]
 }

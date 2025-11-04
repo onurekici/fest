@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 50349,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SpiderheadTV"
+        },
+        {
+            "accuracy": 99,
+            "score": 49697,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PielordX"
+        },
+        {
             "accuracy": 85,
             "score": 49457,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "oORedHeadOo"
-        },
-        {
-            "accuracy": 80,
-            "score": 31719,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Vala Wala"
-        },
-        {
-            "accuracy": 94,
-            "score": 31562,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Gabø"
         }
     ]
 }

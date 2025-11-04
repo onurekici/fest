@@ -361,6 +361,14 @@
             "userName": "North Everglow"
         },
         {
+            "accuracy": 99,
+            "score": 169300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Captain_Basil"
+        },
+        {
             "accuracy": 100,
             "score": 169156,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Jackobot13"
-        },
-        {
-            "accuracy": 99,
-            "score": 164626,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AriesOxide"
         }
     ]
 }

@@ -178,6 +178,14 @@
         },
         {
             "accuracy": 100,
+            "score": 167088,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ChuckyFR_"
+        },
+        {
+            "accuracy": 100,
             "score": 166877,
             "difficulty": 3,
             "stars": 6,
@@ -481,12 +489,28 @@
             "userName": "DfinitiveDfalt"
         },
         {
+            "accuracy": 99,
+            "score": 162660,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jayburrrito"
+        },
+        {
             "accuracy": 100,
             "score": 162648,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "HatchetHaro4"
+        },
+        {
+            "accuracy": 100,
+            "score": 162600,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NotJœ"
         },
         {
             "accuracy": 99,
@@ -537,12 +561,12 @@
             "userName": "[PSN] Pop_Copy"
         },
         {
-            "accuracy": 99,
-            "score": 162060,
+            "accuracy": 100,
+            "score": 162120,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "Jayburrrito"
+            "fullcombo": true,
+            "userName": "EcoloVoyager"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "coolwithuuu"
-        },
-        {
-            "accuracy": 100,
-            "score": 159900,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ve_u"
-        },
-        {
-            "accuracy": 100,
-            "score": 159864,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Fireofthetiger"
-        },
-        {
-            "accuracy": 100,
-            "score": 159605,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Art of Kimchi"
         }
     ]
 }

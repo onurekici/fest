@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 378552,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "I012Ijebaited"
+        },
+        {
+            "accuracy": 100,
             "score": 378534,
             "difficulty": 3,
             "stars": 6,
@@ -23,6 +31,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Chef Adachi"
+        },
+        {
+            "accuracy": 100,
+            "score": 378276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nocabby"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Twinky_Doge"
-        },
-        {
-            "accuracy": 100,
-            "score": 369060,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BrizBoy"
-        },
-        {
-            "accuracy": 100,
-            "score": 369048,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "imFREAKingout"
         }
     ]
 }

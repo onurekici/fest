@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126177,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "shxarnn"
+        },
+        {
             "accuracy": 98,
             "score": 126124,
             "difficulty": 3,
@@ -279,6 +287,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Foo tfoot"
+        },
+        {
+            "accuracy": 99,
+            "score": 124598,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "soccerkids1232"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DonRamonTryhard"
-        },
-        {
-            "accuracy": 99,
-            "score": 121992,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EL PAIPPA"
-        },
-        {
-            "accuracy": 100,
-            "score": 121991,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KintamaPower"
         }
     ]
 }

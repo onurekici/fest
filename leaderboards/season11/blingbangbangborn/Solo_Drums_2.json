@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 135648,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "nooobgam1ng"
+        },
+        {
+            "accuracy": 100,
+            "score": 135636,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "plutotides"
+        },
+        {
             "accuracy": 100,
             "score": 135630,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ValeriusMoo"
-        },
-        {
-            "accuracy": 99,
-            "score": 132738,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "unvaxx"
-        },
-        {
-            "accuracy": 100,
-            "score": 132666,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FamorGuns"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 209206,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Diamnye"
+        },
+        {
+            "accuracy": 100,
+            "score": 208906,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kylosoII"
+        },
+        {
+            "accuracy": 99,
             "score": 208751,
             "difficulty": 3,
             "stars": 6,
@@ -359,6 +375,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "dalton32389"
+        },
+        {
+            "accuracy": 100,
+            "score": 204656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DebuggedProgram"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Fresh_Pork"
-        },
-        {
-            "accuracy": 98,
-            "score": 200062,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Voices_Brott"
-        },
-        {
-            "accuracy": 99,
-            "score": 200052,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Vinitx4 Festival"
-        },
-        {
-            "accuracy": 99,
-            "score": 199887,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Spiracorn"
         }
     ]
 }

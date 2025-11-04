@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 110526,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Popdogstasia"
+        },
+        {
+            "accuracy": 99,
+            "score": 110524,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ya ᴴᵒᵒ"
+        },
+        {
             "accuracy": 99,
             "score": 110510,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DonkeyHulkTwitch"
-        },
-        {
-            "accuracy": 100,
-            "score": 102940,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ウロさん"
-        },
-        {
-            "accuracy": 99,
-            "score": 102935,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheSadFella"
         }
     ]
 }

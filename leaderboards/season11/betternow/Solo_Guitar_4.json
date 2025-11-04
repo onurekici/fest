@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 220868,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nikkollaos"
+        },
+        {
             "accuracy": 99,
             "score": 220866,
             "difficulty": 3,
@@ -351,6 +359,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "シSchneetittchenシ"
+        },
+        {
+            "accuracy": 99,
+            "score": 219733,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Murph ツ"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Taco Hoagie"
-        },
-        {
-            "accuracy": 99,
-            "score": 217500,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Reireikyu"
-        },
-        {
-            "accuracy": 99,
-            "score": 217491,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "sjz321"
         }
     ]
 }

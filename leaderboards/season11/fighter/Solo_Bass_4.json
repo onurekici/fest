@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 118319,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JinxGirly513"
+        },
+        {
+            "accuracy": 95,
+            "score": 118299,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Rogue Hylian"
+        },
+        {
             "accuracy": 100,
             "score": 118121,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KarmicKitsune"
-        },
-        {
-            "accuracy": 100,
-            "score": 113507,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "CarWurm"
-        },
-        {
-            "accuracy": 99,
-            "score": 113501,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "04.0404.0"
         }
     ]
 }

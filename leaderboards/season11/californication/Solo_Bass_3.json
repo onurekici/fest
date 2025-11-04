@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 229190,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "thereal_smallx2"
+        },
+        {
             "accuracy": 99,
             "score": 229153,
             "difficulty": 3,
@@ -545,12 +553,20 @@
             "userName": "LordOfFridges"
         },
         {
+            "accuracy": 99,
+            "score": 226415,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Runerigious"
+        },
+        {
             "accuracy": 100,
             "score": 226357,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "ZakkSabbath"
+            "userName": "YoNuncaMato"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "xNäit"
-        },
-        {
-            "accuracy": 100,
-            "score": 225038,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "A Triceratops"
-        },
-        {
-            "accuracy": 99,
-            "score": 224978,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "マッサーロ777"
         }
     ]
 }

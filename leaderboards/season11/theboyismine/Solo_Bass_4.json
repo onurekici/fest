@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 56183,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SgtTicTac"
+        },
+        {
+            "accuracy": 99,
+            "score": 56162,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kamugames77"
+        },
+        {
+            "accuracy": 100,
             "score": 56104,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lil Zan9"
-        },
-        {
-            "accuracy": 100,
-            "score": 53910,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "pastabilities87"
-        },
-        {
-            "accuracy": 100,
-            "score": 53900,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WandyCherrys30"
         }
     ]
 }

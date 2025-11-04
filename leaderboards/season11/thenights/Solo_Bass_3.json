@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 32577,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KAA_TTTE"
+        },
+        {
+            "accuracy": 100,
+            "score": 32456,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "brunosilva007"
+        },
+        {
             "accuracy": 99,
             "score": 32405,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Daqkar"
-        },
-        {
-            "accuracy": 99,
-            "score": 28477,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tatsuya079"
-        },
-        {
-            "accuracy": 100,
-            "score": 28458,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nytavius_16"
         }
     ]
 }

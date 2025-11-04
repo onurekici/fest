@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 73720,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "brothermister"
+        },
+        {
+            "accuracy": 99,
+            "score": 73679,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Howzatwitzer"
+        },
+        {
+            "accuracy": 91,
+            "score": 73510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "pearcider19"
+        },
+        {
             "accuracy": 98,
             "score": 73323,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Baker-34"
-        },
-        {
-            "accuracy": 95,
-            "score": 57695,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mudrax"
-        },
-        {
-            "accuracy": 97,
-            "score": 57408,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "kingbob99"
-        },
-        {
-            "accuracy": 95,
-            "score": 57072,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheVinDrizzle"
         }
     ]
 }

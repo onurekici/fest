@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 120229,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "London-Tamez"
+        },
+        {
             "accuracy": 97,
             "score": 118762,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "teddyberkilla"
-        },
-        {
-            "accuracy": 100,
-            "score": 90740,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Rin Wooder"
         }
     ]
 }

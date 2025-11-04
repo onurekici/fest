@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 31626,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Liquid-INR"
+        },
+        {
+            "accuracy": 75,
+            "score": 31440,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Austinheimer"
+        },
+        {
             "accuracy": 83,
             "score": 31404,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "SueytheFox"
-        },
-        {
-            "accuracy": 88,
-            "score": 24396,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Byroneous"
-        },
-        {
-            "accuracy": 88,
-            "score": 24270,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "HylianVoyager"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 194490,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ToughJello"
+        },
+        {
+            "accuracy": 99,
+            "score": 194454,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DeathByMedKit"
+        },
+        {
             "accuracy": 99,
             "score": 194388,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sr Drama"
-        },
-        {
-            "accuracy": 99,
-            "score": 188004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yellow-Beanz"
-        },
-        {
-            "accuracy": 99,
-            "score": 187998,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CaNdY_FLoSsN"
         }
     ]
 }

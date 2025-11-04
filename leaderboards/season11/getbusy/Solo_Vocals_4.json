@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 206786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lucas_ProM15"
+        },
+        {
+            "accuracy": 99,
+            "score": 206784,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "wikisia_tak"
+        },
+        {
             "accuracy": 99,
             "score": 206778,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FortyMother"
-        },
-        {
-            "accuracy": 99,
-            "score": 203715,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yerkonio"
-        },
-        {
-            "accuracy": 100,
-            "score": 203705,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "lxkyokusanagixl"
         }
     ]
 }

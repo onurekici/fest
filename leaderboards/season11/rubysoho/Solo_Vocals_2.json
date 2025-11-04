@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 104425,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "むーむーまん"
+        },
+        {
+            "accuracy": 100,
+            "score": 104416,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Estéban Aribaud"
+        },
+        {
+            "accuracy": 100,
             "score": 104351,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "StruggleBus319"
-        },
-        {
-            "accuracy": 99,
-            "score": 99050,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LetsGameIt2"
-        },
-        {
-            "accuracy": 99,
-            "score": 98977,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Icefirewiz"
         }
     ]
 }

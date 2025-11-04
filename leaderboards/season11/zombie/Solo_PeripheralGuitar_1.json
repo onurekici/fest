@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 204636,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TrainCharly"
+        },
+        {
+            "accuracy": 99,
+            "score": 204532,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Orlandovg1910"
+        },
+        {
             "accuracy": 99,
             "score": 204483,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Darkkratos1998"
-        },
-        {
-            "accuracy": 99,
-            "score": 198553,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "bennyhz578"
-        },
-        {
-            "accuracy": 99,
-            "score": 198395,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "bluexorchiid"
         }
     ]
 }

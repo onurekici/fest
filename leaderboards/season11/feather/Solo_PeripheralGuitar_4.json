@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 80,
+            "score": 31719,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Vala Wala"
+        },
+        {
+            "accuracy": 94,
+            "score": 31562,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Gabø"
+        },
+        {
             "accuracy": 76,
             "score": 31171,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Zeetheone14"
-        },
-        {
-            "accuracy": 91,
-            "score": 11712,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "LiamRobertson08"
-        },
-        {
-            "accuracy": 56,
-            "score": 11293,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "LootRunG"
         }
     ]
 }

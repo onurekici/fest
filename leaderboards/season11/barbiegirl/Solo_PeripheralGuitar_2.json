@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 114489,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SlimeMan305"
+        },
+        {
+            "accuracy": 100,
+            "score": 114475,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KylJak"
+        },
+        {
             "accuracy": 93,
             "score": 114421,
             "difficulty": 3,
@@ -614,7 +630,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "[PSN] LaStrangler89"
+            "userName": "Lastrangler89"
         },
         {
             "accuracy": 93,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ghouzli"
-        },
-        {
-            "accuracy": 99,
-            "score": 105629,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Caker1"
-        },
-        {
-            "accuracy": 97,
-            "score": 105598,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "loganbannister"
         }
     ]
 }

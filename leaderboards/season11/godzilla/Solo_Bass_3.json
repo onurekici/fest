@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 102940,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ウロさん"
+        },
+        {
+            "accuracy": 99,
+            "score": 102935,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheSadFella"
+        },
+        {
             "accuracy": 99,
             "score": 102738,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "tomamix"
-        },
-        {
-            "accuracy": 100,
-            "score": 97438,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LeoCage01"
-        },
-        {
-            "accuracy": 99,
-            "score": 97378,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "drakecake1"
         }
     ]
 }
