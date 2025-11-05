@@ -210,6 +210,14 @@
         },
         {
             "accuracy": 100,
+            "score": 64835,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ChuyGH"
+        },
+        {
+            "accuracy": 100,
             "score": 64236,
             "difficulty": 3,
             "stars": 6,
@@ -487,6 +495,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "[PSN] Seboss05"
+        },
+        {
+            "accuracy": 99,
+            "score": 50009,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Darreth_3463"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "SleepyCatVT"
-        },
-        {
-            "accuracy": 93,
-            "score": 25521,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "M-D-Z"
-        },
-        {
-            "accuracy": 99,
-            "score": 24918,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Loew42"
         }
     ]
 }

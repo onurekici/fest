@@ -434,6 +434,14 @@
         },
         {
             "accuracy": 99,
+            "score": 84132,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ōnryō"
+        },
+        {
+            "accuracy": 99,
             "score": 83406,
             "difficulty": 3,
             "stars": 6,
@@ -511,14 +519,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "gwenstacyfan"
-        },
-        {
-            "accuracy": 95,
-            "score": 76473,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ōnryō"
         },
         {
             "accuracy": 98,
@@ -657,6 +657,22 @@
             "userName": "KRiossツ"
         },
         {
+            "accuracy": 99,
+            "score": 64632,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "WillyPWilliams90"
+        },
+        {
+            "accuracy": 92,
+            "score": 64255,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Spyro2990"
+        },
+        {
             "accuracy": 96,
             "score": 63867,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Max_D_20"
-        },
-        {
-            "accuracy": 100,
-            "score": 53034,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Diceydice05"
-        },
-        {
-            "accuracy": 97,
-            "score": 52992,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nesro"
         }
     ]
 }

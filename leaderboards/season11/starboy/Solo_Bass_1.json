@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 155946,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Geordielad Alex"
+        },
+        {
+            "accuracy": 100,
+            "score": 155743,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bałzer"
+        },
+        {
             "accuracy": 99,
             "score": 155733,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "polarismkr"
-        },
-        {
-            "accuracy": 99,
-            "score": 145854,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Crazy_tacooo"
-        },
-        {
-            "accuracy": 100,
-            "score": 145810,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RavioliEX"
         }
     ]
 }

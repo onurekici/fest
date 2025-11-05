@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 215255,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lem-san"
+        },
+        {
+            "accuracy": 100,
+            "score": 215209,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Szemi03HUN"
+        },
+        {
             "accuracy": 100,
             "score": 215161,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Mr.GreenNuts"
-        },
-        {
-            "accuracy": 100,
-            "score": 213407,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SnuffyBorg"
-        },
-        {
-            "accuracy": 100,
-            "score": 213391,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "zShimxzy"
         }
     ]
 }

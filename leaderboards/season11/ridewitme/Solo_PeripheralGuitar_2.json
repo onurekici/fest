@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 79855,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheJoshinator"
+        },
+        {
+            "accuracy": 80,
+            "score": 79655,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "SpiritWRLD999"
+        },
+        {
             "accuracy": 90,
             "score": 79445,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "ScantBuns"
-        },
-        {
-            "accuracy": 62,
-            "score": 17208,
-            "difficulty": 1,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Slashfan1132"
-        },
-        {
-            "accuracy": 58,
-            "score": 16920,
-            "difficulty": 1,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Destiny4138"
         }
     ]
 }

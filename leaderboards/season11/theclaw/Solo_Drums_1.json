@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 86020,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Catlord_420"
+        },
+        {
+            "accuracy": 98,
+            "score": 85884,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jayIeeisbetter"
+        },
+        {
             "accuracy": 98,
             "score": 85818,
             "difficulty": 3,
@@ -31,6 +47,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KZR RFF Martine"
+        },
+        {
+            "accuracy": 98,
+            "score": 84312,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ComfyKing_"
         },
         {
             "accuracy": 98,
@@ -241,12 +265,28 @@
             "userName": "Deadderstickel"
         },
         {
+            "accuracy": 98,
+            "score": 70210,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "An 0K Player"
+        },
+        {
             "accuracy": 97,
             "score": 69552,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "bobbybielek"
+        },
+        {
+            "accuracy": 96,
+            "score": 69510,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Osc-Fra"
         },
         {
             "accuracy": 98,
@@ -759,46 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Tokio_matsuda"
-        },
-        {
-            "accuracy": 99,
-            "score": 55150,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ABLOLMK"
-        },
-        {
-            "accuracy": 99,
-            "score": 55080,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CloudKujo"
-        },
-        {
-            "accuracy": 99,
-            "score": 54570,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LexBlago"
-        },
-        {
-            "accuracy": 98,
-            "score": 54480,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Josh05141991"
-        },
-        {
-            "accuracy": 98,
-            "score": 54455,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jasonshaun"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 109333,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "D.Weeb Records"
+        },
+        {
+            "accuracy": 100,
             "score": 109326,
             "difficulty": 3,
             "stars": 6,
@@ -530,6 +538,14 @@
         },
         {
             "accuracy": 100,
+            "score": 108604,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nuzzlord"
+        },
+        {
+            "accuracy": 100,
             "score": 108598,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "imJustAndromeda"
-        },
-        {
-            "accuracy": 99,
-            "score": 108235,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FergonBR"
-        },
-        {
-            "accuracy": 100,
-            "score": 108219,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "D4RKEIKON"
         }
     ]
 }

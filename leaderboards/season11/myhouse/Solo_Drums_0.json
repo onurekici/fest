@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 174234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zombieslayerz07-"
+        },
+        {
+            "accuracy": 100,
             "score": 174072,
             "difficulty": 3,
             "stars": 6,
@@ -546,6 +554,14 @@
         },
         {
             "accuracy": 99,
+            "score": 45745,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] AuntieBasic"
+        },
+        {
+            "accuracy": 99,
             "score": 45525,
             "difficulty": 1,
             "stars": 5,
@@ -559,6 +575,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GODAZspawned"
+        },
+        {
+            "accuracy": 96,
+            "score": 45345,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "E.J.Papi"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "HorrorDragon30"
-        },
-        {
-            "accuracy": 84,
-            "score": 25395,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "[PSN] wlodirydlewo"
-        },
-        {
-            "accuracy": 96,
-            "score": 25340,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Söldner_MV"
-        },
-        {
-            "accuracy": 100,
-            "score": 25340,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "St0rm985"
         }
     ]
 }

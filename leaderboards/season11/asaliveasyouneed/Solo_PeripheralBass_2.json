@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 129476,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ToraToraTora"
+        },
+        {
             "accuracy": 100,
             "score": 128826,
             "difficulty": 2,
@@ -497,6 +505,14 @@
             "userName": "shadowgtrx"
         },
         {
+            "accuracy": 95,
+            "score": 92580,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TT_NaotoBoto"
+        },
+        {
             "accuracy": 89,
             "score": 92175,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Florian USK"
-        },
-        {
-            "accuracy": 95,
-            "score": 79532,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "el_hectoro"
-        },
-        {
-            "accuracy": 89,
-            "score": 78642,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TwiztedOzone"
         }
     ]
 }

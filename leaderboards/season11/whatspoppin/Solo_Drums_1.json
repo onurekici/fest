@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 89088,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "quienesponcho"
+        },
+        {
+            "accuracy": 98,
+            "score": 88776,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Lord_Gargamel"
+        },
+        {
             "accuracy": 97,
             "score": 87978,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "RossSemp"
-        },
-        {
-            "accuracy": 100,
-            "score": 55965,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "EliteGun13"
-        },
-        {
-            "accuracy": 100,
-            "score": 55750,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Victor_von_Doom6"
         }
     ]
 }

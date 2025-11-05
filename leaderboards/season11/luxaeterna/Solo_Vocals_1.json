@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 56195,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Deez Player"
+        },
+        {
             "accuracy": 100,
             "score": 56175,
             "difficulty": 3,
@@ -271,6 +279,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Papi Dire"
+        },
+        {
+            "accuracy": 100,
+            "score": 55866,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PandaYourLife"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MxsticVibesz"
-        },
-        {
-            "accuracy": 100,
-            "score": 55466,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BetterPlate1675"
-        },
-        {
-            "accuracy": 100,
-            "score": 55458,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "XelinnVoid"
         }
     ]
 }

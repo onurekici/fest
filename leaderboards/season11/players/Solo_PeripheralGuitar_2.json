@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 65130,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Narutoboy2424123"
+        },
+        {
+            "accuracy": 99,
+            "score": 64692,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Swervy_Mccurvy"
+        },
+        {
             "accuracy": 70,
             "score": 64319,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "ShinThutz"
-        },
-        {
-            "accuracy": 77,
-            "score": 26876,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Killua765"
-        },
-        {
-            "accuracy": 98,
-            "score": 26712,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Beetroot11"
         }
     ]
 }

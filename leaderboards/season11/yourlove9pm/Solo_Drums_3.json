@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 83400,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Reliant Reptar"
+        },
+        {
+            "accuracy": 100,
+            "score": 83298,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vexahlia218"
+        },
+        {
             "accuracy": 99,
             "score": 83280,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Hotwheelscollect"
-        },
-        {
-            "accuracy": 99,
-            "score": 79560,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LordFrostMuc"
-        },
-        {
-            "accuracy": 99,
-            "score": 79536,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TSM_Ninjas-Son"
         }
     ]
 }

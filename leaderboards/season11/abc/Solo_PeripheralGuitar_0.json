@@ -314,6 +314,14 @@
         },
         {
             "accuracy": 100,
+            "score": 81134,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "goodfrikid22"
+        },
+        {
+            "accuracy": 100,
             "score": 80911,
             "difficulty": 3,
             "stars": 6,
@@ -569,6 +577,14 @@
             "userName": "Skeptic Zombie"
         },
         {
+            "accuracy": 98,
+            "score": 75147,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Zombieraisin"
+        },
+        {
             "accuracy": 100,
             "score": 75085,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ShadedCobra46"
-        },
-        {
-            "accuracy": 99,
-            "score": 69917,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EthanTheDrake"
-        },
-        {
-            "accuracy": 99,
-            "score": 69781,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "King TWheez"
         }
     ]
 }

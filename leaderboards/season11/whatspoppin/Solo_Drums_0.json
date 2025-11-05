@@ -2,7 +2,15 @@
     "entries": [
         {
             "accuracy": 100,
-            "score": 140022,
+            "score": 141864,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Εvıl"
+        },
+        {
+            "accuracy": 100,
+            "score": 140112,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GodzillaABS"
+        },
+        {
+            "accuracy": 99,
+            "score": 125124,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SkullCrusherEX53"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "XoTicZ-ICY-"
-        },
-        {
-            "accuracy": 98,
-            "score": 89088,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "quienesponcho"
-        },
-        {
-            "accuracy": 98,
-            "score": 88776,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lord_Gargamel"
         }
     ]
 }

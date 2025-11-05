@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 243936,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LizzieJG"
+        },
+        {
+            "accuracy": 100,
+            "score": 243930,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AnthumN"
+        },
+        {
+            "accuracy": 99,
             "score": 243924,
             "difficulty": 3,
             "stars": 6,
@@ -295,14 +311,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RominaSch"
-        },
-        {
-            "accuracy": 99,
-            "score": 242598,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Alivastion"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LaidBackTheCamp4"
-        },
-        {
-            "accuracy": 100,
-            "score": 240072,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GreninjaJC"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 108235,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FergonBR"
+        },
+        {
+            "accuracy": 100,
+            "score": 108219,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "D4RKEIKON"
+        },
+        {
             "accuracy": 100,
             "score": 108217,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TeamSixB312"
-        },
-        {
-            "accuracy": 100,
-            "score": 107111,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MÃŠTÉR"
-        },
-        {
-            "accuracy": 100,
-            "score": 107102,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Chamalien"
         }
     ]
 }

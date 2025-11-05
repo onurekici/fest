@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 89100,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ZodaPC"
+        },
+        {
+            "accuracy": 100,
             "score": 89076,
             "difficulty": 3,
             "stars": 6,
@@ -303,6 +311,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tbirdtalan"
+        },
+        {
+            "accuracy": 99,
+            "score": 87864,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dungeonmommiee"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lu_mex_"
-        },
-        {
-            "accuracy": 100,
-            "score": 86172,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ShadowCage64"
-        },
-        {
-            "accuracy": 100,
-            "score": 86154,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "justa1eo"
         }
     ]
 }

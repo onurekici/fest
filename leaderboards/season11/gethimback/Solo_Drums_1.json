@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 201924,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NF_Lucifer"
+        },
+        {
+            "accuracy": 100,
             "score": 201918,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "usual-nick"
+        },
+        {
+            "accuracy": 100,
+            "score": 201366,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Unalomvrizmás"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tav19xx"
-        },
-        {
-            "accuracy": 99,
-            "score": 197730,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jonnu_"
-        },
-        {
-            "accuracy": 100,
-            "score": 197712,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SBoost_"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 91055,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lt_Hale22"
+        },
+        {
+            "accuracy": 100,
+            "score": 91051,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lu_BntyHntr"
+        },
+        {
             "accuracy": 100,
             "score": 91051,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ChonkyFruit"
-        },
-        {
-            "accuracy": 100,
-            "score": 90416,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jamesi03"
-        },
-        {
-            "accuracy": 100,
-            "score": 90415,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Watt3R GG"
         }
     ]
 }

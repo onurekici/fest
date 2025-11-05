@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 25818,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "5nipebite"
+        },
+        {
+            "accuracy": 100,
             "score": 25687,
             "difficulty": 2,
             "stars": 5,
@@ -713,6 +721,14 @@
             "userName": "Terr4blade 2"
         },
         {
+            "accuracy": 87,
+            "score": 17377,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "TheDeadlyTree"
+        },
+        {
             "accuracy": 95,
             "score": 17268,
             "difficulty": 3,
@@ -761,14 +777,6 @@
             "userName": "Surrgeo"
         },
         {
-            "accuracy": 88,
-            "score": 16522,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "TheDeadlyTree"
-        },
-        {
             "accuracy": 95,
             "score": 16398,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "SleepyJo24"
-        },
-        {
-            "accuracy": 98,
-            "score": 16259,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PurpleShyGuy420"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 123006,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TTV_PBSDev"
+        },
+        {
+            "accuracy": 94,
+            "score": 122956,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JulianR15"
+        },
+        {
+            "accuracy": 95,
+            "score": 122909,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Eater Of Pi"
+        },
+        {
             "accuracy": 94,
             "score": 122655,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "DeadMaste3r"
-        },
-        {
-            "accuracy": 90,
-            "score": 100774,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "A Wild G00se"
-        },
-        {
-            "accuracy": 93,
-            "score": 100462,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "AntLoski"
-        },
-        {
-            "accuracy": 98,
-            "score": 100223,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "persiain"
         }
     ]
 }

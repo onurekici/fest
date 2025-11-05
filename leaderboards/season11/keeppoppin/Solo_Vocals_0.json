@@ -538,6 +538,14 @@
         },
         {
             "accuracy": 100,
+            "score": 88079,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LogicalJake"
+        },
+        {
+            "accuracy": 100,
             "score": 88018,
             "difficulty": 3,
             "stars": 6,
@@ -681,6 +689,14 @@
             "userName": "Lizzy4717"
         },
         {
+            "accuracy": 99,
+            "score": 84878,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sa105yen"
+        },
+        {
             "accuracy": 100,
             "score": 84733,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "le_skonce"
-        },
-        {
-            "accuracy": 99,
-            "score": 81846,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Coin06"
-        },
-        {
-            "accuracy": 100,
-            "score": 81800,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PikachuGoesRawr"
         }
     ]
 }
