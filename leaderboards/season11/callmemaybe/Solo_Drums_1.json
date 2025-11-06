@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 118006,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tertel0"
+        },
+        {
             "accuracy": 100,
             "score": 117995,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Happy.Beaver"
-        },
-        {
-            "accuracy": 100,
-            "score": 115373,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ZespDaigo"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 177925,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Atomic_Renegade7"
+        },
+        {
+            "accuracy": 98,
             "score": 177039,
             "difficulty": 3,
             "stars": 5,
@@ -721,6 +729,14 @@
             "userName": "Shift3r_xsi"
         },
         {
+            "accuracy": 90,
+            "score": 83200,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Vanilla I.C.E"
+        },
+        {
             "accuracy": 97,
             "score": 82757,
             "difficulty": 1,
@@ -777,28 +793,12 @@
             "userName": "Pugfromdahood"
         },
         {
-            "accuracy": 85,
-            "score": 72468,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Vanilla I.C.E"
-        },
-        {
             "accuracy": 96,
             "score": 71689,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "knight hwk"
-        },
-        {
-            "accuracy": 96,
-            "score": 70988,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "AKernelOfCorn"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 131418,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheScarecrow96"
+        },
+        {
+            "accuracy": 100,
+            "score": 131406,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IA AKSNES01"
+        },
+        {
             "accuracy": 100,
             "score": 131394,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "lowy.7"
-        },
-        {
-            "accuracy": 100,
-            "score": 130344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zomnoah"
-        },
-        {
-            "accuracy": 99,
-            "score": 130344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TTdied by belend"
         }
     ]
 }

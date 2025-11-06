@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 88324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RaplinRaptor"
+        },
+        {
+            "accuracy": 100,
             "score": 88322,
             "difficulty": 3,
             "stars": 6,
@@ -441,6 +449,14 @@
             "userName": "themonsterandi17"
         },
         {
+            "accuracy": 99,
+            "score": 86842,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dаrkthronе"
+        },
+        {
             "accuracy": 100,
             "score": 86827,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SkullHelm"
-        },
-        {
-            "accuracy": 99,
-            "score": 86044,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "G0DFatherGrotti"
-        },
-        {
-            "accuracy": 99,
-            "score": 86024,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "navid_dewman"
         }
     ]
 }

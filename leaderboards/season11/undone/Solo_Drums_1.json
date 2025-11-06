@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 206832,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "iamgord_"
+        },
+        {
+            "accuracy": 100,
+            "score": 206736,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sesar Puyo"
+        },
+        {
             "accuracy": 100,
             "score": 206706,
             "difficulty": 3,
@@ -55,14 +71,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[PSN] EXPLICITPURPP"
-        },
-        {
-            "accuracy": 100,
-            "score": 206394,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kronsta"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Yoshshshh"
-        },
-        {
-            "accuracy": 99,
-            "score": 197274,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Natsu de Chill"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 132123,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Whatdarks"
+        },
+        {
             "accuracy": 99,
             "score": 132094,
             "difficulty": 3,
@@ -753,6 +761,14 @@
             "userName": "pupivy"
         },
         {
+            "accuracy": 98,
+            "score": 131355,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ᴵᵗᶻᴷᵃᶻᶻʸ"
+        },
+        {
             "accuracy": 100,
             "score": 131353,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TheEmolgaKing"
-        },
-        {
-            "accuracy": 100,
-            "score": 131315,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "YamK1ng"
-        },
-        {
-            "accuracy": 100,
-            "score": 131308,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Speeding Husky"
         }
     ]
 }

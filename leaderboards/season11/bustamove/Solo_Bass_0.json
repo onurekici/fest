@@ -194,6 +194,14 @@
         },
         {
             "accuracy": 100,
+            "score": 187954,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AndyCapitator"
+        },
+        {
+            "accuracy": 100,
             "score": 187897,
             "difficulty": 3,
             "stars": 6,
@@ -287,14 +295,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Omgits_leaky"
-        },
-        {
-            "accuracy": 100,
-            "score": 181390,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AndyCapitator"
         },
         {
             "accuracy": 100,
@@ -546,11 +546,19 @@
         },
         {
             "accuracy": 100,
-            "score": 148749,
+            "score": 149891,
             "difficulty": 2,
             "stars": 5,
-            "fullcombo": false,
+            "fullcombo": true,
             "userName": "Ventura135"
+        },
+        {
+            "accuracy": 98,
+            "score": 148548,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LazerTheWildcard"
         },
         {
             "accuracy": 99,
@@ -663,6 +671,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Xx7LUCIFUR7xX"
+        },
+        {
+            "accuracy": 99,
+            "score": 137324,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Glocktherapy101"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PriorWater8968"
-        },
-        {
-            "accuracy": 99,
-            "score": 116402,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Aetherplasma23"
-        },
-        {
-            "accuracy": 96,
-            "score": 114688,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "werewolf8O"
         }
     ]
 }

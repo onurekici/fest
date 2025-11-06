@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 61811,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Serah Butterfly"
+        },
+        {
+            "accuracy": 98,
+            "score": 61769,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Tony Zomboni"
+        },
+        {
+            "accuracy": 100,
+            "score": 61768,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Bucci973"
+        },
+        {
             "accuracy": 97,
             "score": 61737,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Chakramiles"
-        },
-        {
-            "accuracy": 98,
-            "score": 58831,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ForkOfDestiny"
-        },
-        {
-            "accuracy": 95,
-            "score": 58812,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ShakenDragon23"
-        },
-        {
-            "accuracy": 98,
-            "score": 58706,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TsundereKing42_0"
         }
     ]
 }

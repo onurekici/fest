@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100251,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 100249,
             "difficulty": 3,
             "stars": 6,
@@ -633,6 +641,14 @@
             "userName": "Cloud_Vestro"
         },
         {
+            "accuracy": 99,
+            "score": 99601,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "chica_512"
+        },
+        {
             "accuracy": 100,
             "score": 99599,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "QuintanaDA98"
-        },
-        {
-            "accuracy": 100,
-            "score": 99520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "B1CDKelly"
-        },
-        {
-            "accuracy": 100,
-            "score": 99515,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Woodsy1207"
         }
     ]
 }

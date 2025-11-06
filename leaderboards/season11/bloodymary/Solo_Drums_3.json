@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 159540,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dejja_Harry"
+        },
+        {
+            "accuracy": 100,
+            "score": 159486,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "4ndr3f3lip3"
+        },
+        {
             "accuracy": 99,
             "score": 159432,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WhereThePAWGsAt"
-        },
-        {
-            "accuracy": 100,
-            "score": 157608,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Toppatroni"
-        },
-        {
-            "accuracy": 100,
-            "score": 157608,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Doctor Fink"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 187366,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "McJonesss"
+        },
+        {
+            "accuracy": 99,
+            "score": 187360,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "zohan2011"
+        },
+        {
+            "accuracy": 100,
             "score": 187276,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "nvoystation"
-        },
-        {
-            "accuracy": 99,
-            "score": 182949,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AliceInChains04"
-        },
-        {
-            "accuracy": 100,
-            "score": 182943,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MoistyM"
         }
     ]
 }

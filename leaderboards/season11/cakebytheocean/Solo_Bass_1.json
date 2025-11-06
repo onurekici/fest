@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 166890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The404Link"
+        },
+        {
+            "accuracy": 100,
             "score": 166788,
             "difficulty": 3,
             "stars": 6,
@@ -417,6 +425,14 @@
             "userName": "SirKodeh"
         },
         {
+            "accuracy": 99,
+            "score": 164424,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "匿名希望のGamer"
+        },
+        {
             "accuracy": 100,
             "score": 164304,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "shiggytoucher"
-        },
-        {
-            "accuracy": 99,
-            "score": 162450,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ren_Yamatenk"
-        },
-        {
-            "accuracy": 100,
-            "score": 162432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nyx_Raven"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 74,
+            "score": 52823,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Stinkender Lachs"
+        },
+        {
+            "accuracy": 95,
+            "score": 52697,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vul Amethyst"
+        },
+        {
             "accuracy": 96,
             "score": 52649,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "LuistheDev"
-        },
-        {
-            "accuracy": 88,
-            "score": 36728,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "burgertroll"
-        },
-        {
-            "accuracy": 90,
-            "score": 36583,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "VeryWealthy"
         }
     ]
 }

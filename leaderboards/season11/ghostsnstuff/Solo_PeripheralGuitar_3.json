@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 50301,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Thad_Jarvis99"
+        },
+        {
+            "accuracy": 99,
+            "score": 50255,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bobberaldo"
+        },
+        {
             "accuracy": 98,
             "score": 50249,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VibesRaccoon"
-        },
-        {
-            "accuracy": 98,
-            "score": 48318,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jenkem Fett"
-        },
-        {
-            "accuracy": 99,
-            "score": 48255,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Giampfam"
         }
     ]
 }

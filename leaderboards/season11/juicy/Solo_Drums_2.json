@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123486,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ShadowMario365"
+        },
+        {
             "accuracy": 99,
             "score": 123420,
             "difficulty": 3,
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] M3MO_H3RRADA"
+        },
+        {
+            "accuracy": 100,
+            "score": 121824,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ReBlizzard"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[PSN] freshroads"
-        },
-        {
-            "accuracy": 100,
-            "score": 119532,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "trickstar2000"
-        },
-        {
-            "accuracy": 99,
-            "score": 119382,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nøkk Nøkk"
         }
     ]
 }

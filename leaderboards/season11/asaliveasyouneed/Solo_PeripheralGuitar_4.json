@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 50046,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Avestruz89"
+        },
+        {
+            "accuracy": 97,
+            "score": 49974,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "The_Mysterious03"
+        },
+        {
             "accuracy": 100,
             "score": 49903,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Sysmec"
-        },
-        {
-            "accuracy": 100,
-            "score": 47328,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "maniac with c4"
-        },
-        {
-            "accuracy": 98,
-            "score": 47306,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "oORedHeadOo"
         }
     ]
 }

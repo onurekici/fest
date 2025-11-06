@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 105713,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JoshKunn"
+        },
+        {
+            "accuracy": 99,
+            "score": 105705,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tannermazz"
+        },
+        {
+            "accuracy": 98,
+            "score": 105659,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ghouzli"
+        },
+        {
             "accuracy": 99,
             "score": 105629,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Feenix.TV"
-        },
-        {
-            "accuracy": 95,
-            "score": 91781,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "giantpotato_"
-        },
-        {
-            "accuracy": 97,
-            "score": 91601,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cuban Broski"
-        },
-        {
-            "accuracy": 98,
-            "score": 91337,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AironHorse"
         }
     ]
 }

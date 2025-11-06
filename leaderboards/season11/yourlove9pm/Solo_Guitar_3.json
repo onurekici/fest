@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 49499,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FAS0LI4KA"
+        },
+        {
+            "accuracy": 100,
             "score": 49491,
             "difficulty": 3,
             "stars": 6,
@@ -601,6 +609,14 @@
             "userName": "Fool 2 All"
         },
         {
+            "accuracy": 100,
+            "score": 48381,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ForgottenYam"
+        },
+        {
             "accuracy": 99,
             "score": 48374,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "juninmoraes"
-        },
-        {
-            "accuracy": 100,
-            "score": 47915,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Erzep"
-        },
-        {
-            "accuracy": 99,
-            "score": 47893,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "macchilly"
         }
     ]
 }

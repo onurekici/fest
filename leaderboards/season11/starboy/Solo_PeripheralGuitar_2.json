@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 50574,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Black Zadock"
+        },
+        {
             "accuracy": 98,
             "score": 50571,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Twitch LilRiski"
-        },
-        {
-            "accuracy": 97,
-            "score": 43667,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Naughtydollface"
         }
     ]
 }

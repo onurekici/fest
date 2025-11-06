@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 307464,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sinnesloschennn"
+        },
+        {
+            "accuracy": 99,
+            "score": 307193,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "west manhattan"
+        },
+        {
             "accuracy": 99,
             "score": 307048,
             "difficulty": 3,
@@ -87,6 +103,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Afarx"
+        },
+        {
+            "accuracy": 99,
+            "score": 306436,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ItsToxicJelly2"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Stalker103"
-        },
-        {
-            "accuracy": 99,
-            "score": 302571,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItsHyra"
-        },
-        {
-            "accuracy": 99,
-            "score": 302555,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zombiekiller933"
-        },
-        {
-            "accuracy": 99,
-            "score": 302538,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lumastance"
         }
     ]
 }

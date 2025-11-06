@@ -10,6 +10,14 @@
         },
         {
             "accuracy": 100,
+            "score": 49655,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bonkava"
+        },
+        {
+            "accuracy": 100,
             "score": 49580,
             "difficulty": 3,
             "stars": 6,
@@ -113,12 +121,28 @@
             "userName": "bananapotpie"
         },
         {
+            "accuracy": 99,
+            "score": 37273,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CodoWolf"
+        },
+        {
             "accuracy": 91,
             "score": 11552,
             "difficulty": 1,
             "stars": 4,
             "fullcombo": false,
             "userName": "revelation_pony"
+        },
+        {
+            "accuracy": 64,
+            "score": 6553,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "ttvkanii"
         }
     ]
 }
