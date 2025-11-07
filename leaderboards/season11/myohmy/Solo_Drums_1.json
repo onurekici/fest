@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 105318,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Orrokoro"
+        },
+        {
             "accuracy": 99,
             "score": 103848,
             "difficulty": 3,
@@ -127,6 +135,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[PSN] Johannes_flappie"
+        },
+        {
+            "accuracy": 81,
+            "score": 95682,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DivineHaze"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Twinkle3894"
-        },
-        {
-            "accuracy": 96,
-            "score": 43625,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Vintagewolf6"
-        },
-        {
-            "accuracy": 89,
-            "score": 43188,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "NaxhoUY"
         }
     ]
 }

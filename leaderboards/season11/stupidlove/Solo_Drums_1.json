@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 97115,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "NoctoYuna"
+        },
+        {
+            "accuracy": 97,
+            "score": 97032,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "W1nterR0s3"
+        },
+        {
+            "accuracy": 100,
             "score": 96515,
             "difficulty": 1,
             "stars": 5,
@@ -79,6 +95,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "l1lmth"
+        },
+        {
+            "accuracy": 99,
+            "score": 91465,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RatAttackNat"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Jo89ao"
-        },
-        {
-            "accuracy": 95,
-            "score": 30405,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "DarenC180"
-        },
-        {
-            "accuracy": 78,
-            "score": 30095,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Metropolitalian"
-        },
-        {
-            "accuracy": 86,
-            "score": 29890,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "emlvyn"
         }
     ]
 }

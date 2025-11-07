@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 64249,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "CrystleJade"
+        },
+        {
             "accuracy": 99,
             "score": 64241,
             "difficulty": 3,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Nawel_aglh"
+        },
+        {
+            "accuracy": 98,
+            "score": 63809,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Koncept_Sabo"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "blödchkopf"
-        },
-        {
-            "accuracy": 98,
-            "score": 60053,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Leafpies"
-        },
-        {
-            "accuracy": 99,
-            "score": 59965,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "loickmix"
         }
     ]
 }

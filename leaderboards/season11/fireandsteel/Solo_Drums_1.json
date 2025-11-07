@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 173868,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "M1K3TH3G0D"
+        },
+        {
+            "accuracy": 100,
             "score": 173832,
             "difficulty": 3,
             "stars": 6,
@@ -618,6 +626,14 @@
         },
         {
             "accuracy": 99,
+            "score": 169338,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "THESOUPGOBBELER"
+        },
+        {
+            "accuracy": 99,
             "score": 169260,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "jupiters-knight"
-        },
-        {
-            "accuracy": 96,
-            "score": 167880,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "spartan117cor"
-        },
-        {
-            "accuracy": 99,
-            "score": 167736,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "VTXFrantic"
         }
     ]
 }

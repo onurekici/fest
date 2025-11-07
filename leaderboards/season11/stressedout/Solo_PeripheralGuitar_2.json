@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 49049,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vallon101"
+        },
+        {
+            "accuracy": 100,
+            "score": 48870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MyParadoxicalMe"
+        },
+        {
             "accuracy": 98,
             "score": 48668,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Caffeine22"
-        },
-        {
-            "accuracy": 98,
-            "score": 41972,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Gabomination003"
-        },
-        {
-            "accuracy": 98,
-            "score": 41877,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MrMartson"
         }
     ]
 }

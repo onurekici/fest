@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123529,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Anarchysam"
+        },
+        {
             "accuracy": 99,
             "score": 123527,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NYAN COM3T"
-        },
-        {
-            "accuracy": 99,
-            "score": 121712,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BNF_nattsun_DH"
         }
     ]
 }

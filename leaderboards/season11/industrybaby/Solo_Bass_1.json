@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 51152,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "turntechGnostic"
+        },
+        {
             "accuracy": 99,
             "score": 51002,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Connie0Panda"
-        },
-        {
-            "accuracy": 100,
-            "score": 39381,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LumpiaEnjoyer"
         }
     ]
 }

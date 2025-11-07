@@ -58,6 +58,14 @@
         },
         {
             "accuracy": 100,
+            "score": 128250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PeppermintFox6"
+        },
+        {
+            "accuracy": 100,
             "score": 127968,
             "difficulty": 3,
             "stars": 6,
@@ -690,6 +698,14 @@
         },
         {
             "accuracy": 100,
+            "score": 110538,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Geordie-Lass"
+        },
+        {
+            "accuracy": 100,
             "score": 109686,
             "difficulty": 3,
             "stars": 6,
@@ -738,14 +754,6 @@
         },
         {
             "accuracy": 99,
-            "score": 107388,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Geordie-Lass"
-        },
-        {
-            "accuracy": 99,
             "score": 107004,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sotuttipresimah"
-        },
-        {
-            "accuracy": 100,
-            "score": 105318,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Orrokoro"
         }
     ]
 }

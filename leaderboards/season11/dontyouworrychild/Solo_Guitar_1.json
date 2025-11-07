@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 169664,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VenusKrone"
+        },
+        {
+            "accuracy": 100,
             "score": 169660,
             "difficulty": 3,
             "stars": 6,
@@ -207,6 +215,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Zodiac_Gunner"
+        },
+        {
+            "accuracy": 100,
+            "score": 167893,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "giosdas"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EntropyMoose621"
-        },
-        {
-            "accuracy": 99,
-            "score": 162305,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "The Milker Hero"
-        },
-        {
-            "accuracy": 99,
-            "score": 162263,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Calzónsango"
         }
     ]
 }

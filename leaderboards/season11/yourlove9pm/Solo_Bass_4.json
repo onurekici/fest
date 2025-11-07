@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 40176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mariano Coronel"
+        },
+        {
+            "accuracy": 100,
+            "score": 39849,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "rafael_sos"
+        },
+        {
+            "accuracy": 99,
             "score": 39835,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "enzolourenco1"
-        },
-        {
-            "accuracy": 100,
-            "score": 36813,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "WlLDDOG115"
-        },
-        {
-            "accuracy": 100,
-            "score": 36806,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JimJam12207"
         }
     ]
 }

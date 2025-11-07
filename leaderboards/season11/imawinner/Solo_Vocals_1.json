@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 198572,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zé_ruela_."
+        },
+        {
+            "accuracy": 100,
             "score": 198504,
             "difficulty": 3,
             "stars": 6,
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ToxicKaedaa"
+        },
+        {
+            "accuracy": 99,
+            "score": 193868,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mitnnyl"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "joohn_solo"
-        },
-        {
-            "accuracy": 100,
-            "score": 189463,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Gguirrrao"
-        },
-        {
-            "accuracy": 100,
-            "score": 189454,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FuriousFijian"
         }
     ]
 }

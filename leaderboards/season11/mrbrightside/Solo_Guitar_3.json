@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 174364,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Alex Ezma Rey"
+        },
+        {
+            "accuracy": 100,
+            "score": 174360,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "XL_CloudR8"
+        },
+        {
             "accuracy": 100,
             "score": 174360,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Dragonryanh91"
-        },
-        {
-            "accuracy": 99,
-            "score": 173580,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "d00Pi"
-        },
-        {
-            "accuracy": 100,
-            "score": 173574,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Helmutor07"
         }
     ]
 }

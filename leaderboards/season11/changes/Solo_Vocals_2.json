@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 250595,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MaeLøra"
+        },
+        {
+            "accuracy": 100,
             "score": 250584,
             "difficulty": 3,
             "stars": 6,
@@ -417,6 +425,14 @@
             "userName": "The-Diaz-4"
         },
         {
+            "accuracy": 99,
+            "score": 246940,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ItsCake08"
+        },
+        {
             "accuracy": 100,
             "score": 246801,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Furinas Chair"
-        },
-        {
-            "accuracy": 99,
-            "score": 243758,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Can_be_on"
-        },
-        {
-            "accuracy": 99,
-            "score": 243732,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WhiteSlim07"
         }
     ]
 }

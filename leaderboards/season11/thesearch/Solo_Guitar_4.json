@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 61491,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "willc1428"
+        },
+        {
+            "accuracy": 100,
+            "score": 61483,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JensonNZ"
+        },
+        {
+            "accuracy": 100,
+            "score": 61480,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MrGabimaru"
+        },
+        {
             "accuracy": 98,
             "score": 61432,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "OliverKing122"
-        },
-        {
-            "accuracy": 100,
-            "score": 58404,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PixelPantherYT"
-        },
-        {
-            "accuracy": 98,
-            "score": 58387,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "iiBraeke"
-        },
-        {
-            "accuracy": 100,
-            "score": 58378,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Margolyes"
         }
     ]
 }

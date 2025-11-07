@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 369234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "i get 99 percent"
+        },
+        {
+            "accuracy": 100,
             "score": 369228,
             "difficulty": 3,
             "stars": 6,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VIPR_Dab"
+        },
+        {
+            "accuracy": 100,
+            "score": 368094,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TwitchyUser"
         },
         {
             "accuracy": 100,
@@ -375,14 +391,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Zaicko_RP"
-        },
-        {
-            "accuracy": 99,
-            "score": 366480,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GuilhermeKleeman"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SandvichMan69420"
-        },
-        {
-            "accuracy": 100,
-            "score": 364740,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "shumadin"
         }
     ]
 }

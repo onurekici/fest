@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 211101,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cydoniaparadox"
+        },
+        {
+            "accuracy": 100,
+            "score": 211098,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "David_Hmn"
+        },
+        {
             "accuracy": 100,
             "score": 211083,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "UltraPaws_"
-        },
-        {
-            "accuracy": 100,
-            "score": 209281,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "crosbyscrown"
-        },
-        {
-            "accuracy": 100,
-            "score": 209264,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mamabola_"
         }
     ]
 }

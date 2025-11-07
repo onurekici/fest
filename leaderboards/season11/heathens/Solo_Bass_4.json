@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 23094,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TrentMelts"
+        },
+        {
+            "accuracy": 100,
+            "score": 23087,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Røses_"
+        },
+        {
+            "accuracy": 100,
+            "score": 23080,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Cocktail1232"
+        },
+        {
             "accuracy": 100,
             "score": 23071,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Evan7."
-        },
-        {
-            "accuracy": 100,
-            "score": 19689,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Trintegan_"
-        },
-        {
-            "accuracy": 100,
-            "score": 19576,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MrTarte"
-        },
-        {
-            "accuracy": 98,
-            "score": 19536,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BugHuntress"
         }
     ]
 }

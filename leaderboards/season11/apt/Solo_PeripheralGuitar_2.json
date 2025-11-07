@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127721,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FreekOnALeash"
+        },
+        {
+            "accuracy": 100,
+            "score": 127683,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ninja Katana Boy"
+        },
+        {
             "accuracy": 99,
             "score": 127592,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MarikoTohno"
-        },
-        {
-            "accuracy": 99,
-            "score": 123327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Snyper1Zombie"
-        },
-        {
-            "accuracy": 99,
-            "score": 123280,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jacob_S512"
         }
     ]
 }

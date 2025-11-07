@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 47607,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Babybloods20"
+        },
+        {
+            "accuracy": 100,
             "score": 47601,
             "difficulty": 2,
             "stars": 5,
@@ -378,6 +386,14 @@
         },
         {
             "accuracy": 99,
+            "score": 42175,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DyanmicFabian"
+        },
+        {
+            "accuracy": 99,
             "score": 42051,
             "difficulty": 3,
             "stars": 6,
@@ -471,6 +487,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Leifferio"
+        },
+        {
+            "accuracy": 97,
+            "score": 40516,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HoboMagnolia"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Liam_.Doll"
-        },
-        {
-            "accuracy": 97,
-            "score": 34291,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "johnexis"
-        },
-        {
-            "accuracy": 97,
-            "score": 34252,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ALex0410200"
-        },
-        {
-            "accuracy": 98,
-            "score": 34168,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "VQmarcy2.0"
         }
     ]
 }

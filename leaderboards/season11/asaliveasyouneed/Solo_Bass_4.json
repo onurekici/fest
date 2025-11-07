@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 283932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nine Myles"
+        },
+        {
+            "accuracy": 100,
+            "score": 283902,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "XDxMONTY"
+        },
+        {
             "accuracy": 100,
             "score": 283902,
             "difficulty": 3,
@@ -54,7 +70,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "skdoinit"
+            "userName": "Skdoinit"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "nevervexed"
-        },
-        {
-            "accuracy": 100,
-            "score": 281952,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Skate for lift"
-        },
-        {
-            "accuracy": 100,
-            "score": 281916,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jedi_08"
         }
     ]
 }

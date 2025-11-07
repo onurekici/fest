@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 96,
+            "score": 82820,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "anw33zy"
+        },
+        {
+            "accuracy": 100,
+            "score": 82342,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "persiain"
+        },
+        {
+            "accuracy": 96,
             "score": 81626,
             "difficulty": 3,
             "stars": 5,
@@ -351,6 +367,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "rMAC1EL"
+        },
+        {
+            "accuracy": 98,
+            "score": 64121,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AubrieNomNom"
         },
         {
             "accuracy": 94,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Dustamania"
-        },
-        {
-            "accuracy": 89,
-            "score": 51297,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "TacoMaster85"
-        },
-        {
-            "accuracy": 98,
-            "score": 51223,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Michaelsniper99"
-        },
-        {
-            "accuracy": 90,
-            "score": 50778,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "DogeEatsKebab"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 110554,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "EP1C_Beard"
+        },
+        {
             "accuracy": 100,
             "score": 110540,
             "difficulty": 3,
@@ -79,6 +87,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KING CARBONY"
+        },
+        {
+            "accuracy": 100,
+            "score": 110430,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Random_Silly"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SALEM 1989"
-        },
-        {
-            "accuracy": 100,
-            "score": 109320,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BorisStoch"
-        },
-        {
-            "accuracy": 99,
-            "score": 109301,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jahamis69"
         }
     ]
 }

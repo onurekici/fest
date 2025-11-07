@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 63867,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PanQsitoDeath"
+        },
+        {
+            "accuracy": 100,
             "score": 63866,
             "difficulty": 3,
             "stars": 6,
@@ -522,6 +530,14 @@
         },
         {
             "accuracy": 99,
+            "score": 58386,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sarah_Triade"
+        },
+        {
+            "accuracy": 99,
             "score": 58148,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FnkyColMedina"
-        },
-        {
-            "accuracy": 99,
-            "score": 55120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RSC Raven"
-        },
-        {
-            "accuracy": 99,
-            "score": 54954,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Shadowcloud169"
         }
     ]
 }

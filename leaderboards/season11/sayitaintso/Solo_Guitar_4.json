@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 161264,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Midnight Hagette"
+        },
+        {
+            "accuracy": 100,
+            "score": 161255,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mueds"
+        },
+        {
             "accuracy": 100,
             "score": 161229,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TheRedRocket04"
-        },
-        {
-            "accuracy": 100,
-            "score": 160446,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Lukaiko"
-        },
-        {
-            "accuracy": 100,
-            "score": 160439,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dr.Wibez"
         }
     ]
 }

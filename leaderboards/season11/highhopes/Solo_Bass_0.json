@@ -201,6 +201,14 @@
             "userName": "Smash Guevara"
         },
         {
+            "accuracy": 100,
+            "score": 88582,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "StolenValer13"
+        },
+        {
             "accuracy": 99,
             "score": 88397,
             "difficulty": 3,
@@ -545,6 +553,14 @@
             "userName": "ZanFire."
         },
         {
+            "accuracy": 99,
+            "score": 70284,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "InvaderDPL"
+        },
+        {
             "accuracy": 100,
             "score": 70135,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RustyRatchet18"
-        },
-        {
-            "accuracy": 100,
-            "score": 59713,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SlyKingAnTony123"
-        },
-        {
-            "accuracy": 100,
-            "score": 59519,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "DGus626"
         }
     ]
 }

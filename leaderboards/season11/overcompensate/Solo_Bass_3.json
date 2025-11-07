@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 119879,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "frengulon"
+        },
+        {
+            "accuracy": 100,
+            "score": 119788,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "haddy30"
+        },
+        {
             "accuracy": 98,
             "score": 119745,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sasha2cool4u"
-        },
-        {
-            "accuracy": 99,
-            "score": 113251,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "なぅにゃん"
-        },
-        {
-            "accuracy": 99,
-            "score": 113228,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "thelegitboss99"
         }
     ]
 }

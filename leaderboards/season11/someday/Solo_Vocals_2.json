@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 67621,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "meow.aura"
+        },
+        {
             "accuracy": 100,
             "score": 67594,
             "difficulty": 3,
@@ -135,6 +143,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Νene"
+        },
+        {
+            "accuracy": 100,
+            "score": 66451,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "c000r333y"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CoachPecko"
-        },
-        {
-            "accuracy": 99,
-            "score": 57866,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BsK_Legacy"
-        },
-        {
-            "accuracy": 99,
-            "score": 57564,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Xploudingavacado"
         }
     ]
 }

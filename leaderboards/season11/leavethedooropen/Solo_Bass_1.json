@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 127440,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nixeuu"
+        },
+        {
+            "accuracy": 100,
             "score": 127429,
             "difficulty": 3,
             "stars": 6,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "unicorn.eater976"
+        },
+        {
+            "accuracy": 100,
+            "score": 126506,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LokiRedgrave"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BardOfYarn"
-        },
-        {
-            "accuracy": 99,
-            "score": 121646,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "L_Saph"
-        },
-        {
-            "accuracy": 99,
-            "score": 121486,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lorenzini456"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 74291,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TOSTII_"
+        },
+        {
             "accuracy": 99,
             "score": 74159,
             "difficulty": 3,
@@ -119,6 +127,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "χ 0"
+        },
+        {
+            "accuracy": 99,
+            "score": 72181,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "IMBxUFN"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Germ504"
-        },
-        {
-            "accuracy": 96,
-            "score": 47509,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Demondannie"
-        },
-        {
-            "accuracy": 100,
-            "score": 47252,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Bauchnabelpflanz"
         }
     ]
 }

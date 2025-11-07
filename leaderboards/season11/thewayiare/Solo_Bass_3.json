@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 52137,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PARAPOZZI"
+        },
+        {
+            "accuracy": 100,
+            "score": 52133,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HeavenFellGaming"
+        },
+        {
             "accuracy": 99,
             "score": 52129,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dronesprobes"
-        },
-        {
-            "accuracy": 99,
-            "score": 49696,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "makson_ver.96"
-        },
-        {
-            "accuracy": 100,
-            "score": 49669,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "jboolie1"
         }
     ]
 }

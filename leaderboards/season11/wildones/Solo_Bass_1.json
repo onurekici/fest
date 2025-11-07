@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 50611,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "YamatoZakula"
+        },
+        {
             "accuracy": 94,
             "score": 50345,
             "difficulty": 2,
@@ -143,6 +151,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "des_lee99"
+        },
+        {
+            "accuracy": 99,
+            "score": 39757,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "AniniPanin1"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "Combatgal2494"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "Scarlette_joel"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 0,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "DueDragonfly9007"
         }
     ]
 }

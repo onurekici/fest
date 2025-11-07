@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 105366,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Demongirl_18"
+        },
+        {
+            "accuracy": 99,
+            "score": 105360,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Carlos_Eddu"
+        },
+        {
+            "accuracy": 100,
             "score": 105360,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MarioZecx"
-        },
-        {
-            "accuracy": 100,
-            "score": 103980,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "xStiggzz"
-        },
-        {
-            "accuracy": 100,
-            "score": 103974,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RedOnHead"
         }
     ]
 }

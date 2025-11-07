@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 72196,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DoostinKay"
+        },
+        {
             "accuracy": 93,
             "score": 72016,
             "difficulty": 3,
@@ -151,6 +159,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CarePapa_777"
+        },
+        {
+            "accuracy": 90,
+            "score": 69918,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SunflwrDemon"
         },
         {
             "accuracy": 95,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Nex.GOAT"
-        },
-        {
-            "accuracy": 96,
-            "score": 57202,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ehrenaspekt"
-        },
-        {
-            "accuracy": 97,
-            "score": 57010,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Superiorg4ma"
         }
     ]
 }

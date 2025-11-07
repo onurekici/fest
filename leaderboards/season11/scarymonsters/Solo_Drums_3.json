@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 206160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kxtria"
+        },
+        {
+            "accuracy": 100,
+            "score": 206148,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ミサエ vs AIコップス"
+        },
+        {
             "accuracy": 99,
             "score": 206124,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "owosarah"
-        },
-        {
-            "accuracy": 99,
-            "score": 204690,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WhatTheRift"
-        },
-        {
-            "accuracy": 99,
-            "score": 204690,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mikasa ㅤ"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 307563,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ħssnd"
+        },
+        {
+            "accuracy": 100,
+            "score": 307511,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NotTheBlade_"
+        },
+        {
             "accuracy": 100,
             "score": 307464,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "D_C_vsMARVEL"
-        },
-        {
-            "accuracy": 100,
-            "score": 302633,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "UnpricedAunt"
-        },
-        {
-            "accuracy": 99,
-            "score": 302593,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Stalker103"
         }
     ]
 }

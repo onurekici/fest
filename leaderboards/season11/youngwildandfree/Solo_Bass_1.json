@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 89036,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HotObeseDog69"
+        },
+        {
+            "accuracy": 100,
+            "score": 89010,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "man_spider_293"
+        },
+        {
             "accuracy": 100,
             "score": 89001,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BeholdenHail112"
-        },
-        {
-            "accuracy": 100,
-            "score": 83111,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kaelirion"
-        },
-        {
-            "accuracy": 99,
-            "score": 83065,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lukaizis"
         }
     ]
 }

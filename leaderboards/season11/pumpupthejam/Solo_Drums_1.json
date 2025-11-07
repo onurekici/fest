@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 292002,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "toledotoetickler"
+        },
+        {
             "accuracy": 99,
             "score": 291918,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SuperJersh"
-        },
-        {
-            "accuracy": 100,
-            "score": 281496,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "El Elayaz"
         }
     ]
 }

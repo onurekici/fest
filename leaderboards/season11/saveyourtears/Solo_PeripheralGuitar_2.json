@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 83472,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Nick_Knightshade"
+        },
+        {
+            "accuracy": 98,
             "score": 83018,
             "difficulty": 2,
             "stars": 5,
@@ -641,6 +649,14 @@
             "userName": "TheTuckerCarlzyn"
         },
         {
+            "accuracy": 89,
+            "score": 62978,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OTP_Spencer"
+        },
+        {
             "accuracy": 96,
             "score": 62897,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Gazdad96"
-        },
-        {
-            "accuracy": 100,
-            "score": 60365,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "zNaruto"
-        },
-        {
-            "accuracy": 100,
-            "score": 60290,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Alwayz_Boss24"
         }
     ]
 }

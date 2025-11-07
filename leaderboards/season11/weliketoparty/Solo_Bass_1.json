@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 80903,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Eeven In Arcadia"
+        },
+        {
+            "accuracy": 100,
             "score": 80751,
             "difficulty": 3,
             "stars": 6,
@@ -337,14 +345,6 @@
             "userName": "WolfEB"
         },
         {
-            "accuracy": 99,
-            "score": 73968,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheToxicLake"
-        },
-        {
             "accuracy": 98,
             "score": 73939,
             "difficulty": 3,
@@ -431,6 +431,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NezukoThaNinja"
+        },
+        {
+            "accuracy": 100,
+            "score": 73293,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Radiant_Chrom"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "User-4afee86b62"
-        },
-        {
-            "accuracy": 99,
-            "score": 70648,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-5d181f37c8"
         }
     ]
 }
