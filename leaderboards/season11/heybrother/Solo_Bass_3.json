@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 134865,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "super man of lig"
+        },
+        {
+            "accuracy": 100,
+            "score": 134860,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "thewalking84"
+        },
+        {
             "accuracy": 100,
             "score": 134858,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ERICKLEL"
-        },
-        {
-            "accuracy": 99,
-            "score": 130733,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DARKDESTROYER_84"
-        },
-        {
-            "accuracy": 99,
-            "score": 130731,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BossJosh1214"
         }
     ]
 }

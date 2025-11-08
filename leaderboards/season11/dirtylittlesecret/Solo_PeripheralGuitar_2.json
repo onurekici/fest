@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 225576,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Rob.908"
+        },
+        {
+            "accuracy": 100,
+            "score": 225570,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zedtchh"
+        },
+        {
             "accuracy": 100,
             "score": 225339,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Voodoo-Hendrix"
-        },
-        {
-            "accuracy": 100,
-            "score": 218069,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GeneralGrissom"
-        },
-        {
-            "accuracy": 100,
-            "score": 218061,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ninja119"
         }
     ]
 }

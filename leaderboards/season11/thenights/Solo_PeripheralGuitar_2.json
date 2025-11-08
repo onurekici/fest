@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 65810,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Spiderman56789"
+        },
+        {
+            "accuracy": 93,
+            "score": 65567,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "JSF4P"
+        },
+        {
             "accuracy": 99,
             "score": 65438,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Mano Glicose"
-        },
-        {
-            "accuracy": 83,
-            "score": 41130,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "RayNeos"
-        },
-        {
-            "accuracy": 86,
-            "score": 41066,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "kingDIESELmane"
         }
     ]
 }

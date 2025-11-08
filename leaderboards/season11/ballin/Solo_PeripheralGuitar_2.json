@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 72326,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Darkstar22455"
+        },
+        {
+            "accuracy": 93,
+            "score": 72214,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheDylReaper"
+        },
+        {
             "accuracy": 100,
             "score": 72196,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CommanderGreyFox"
-        },
-        {
-            "accuracy": 90,
-            "score": 58031,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Jumba_Juice"
-        },
-        {
-            "accuracy": 91,
-            "score": 57351,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Nex.GOAT"
         }
     ]
 }

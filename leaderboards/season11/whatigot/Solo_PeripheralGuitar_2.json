@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 67628,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Wonderfool30"
+        },
+        {
             "accuracy": 94,
             "score": 67356,
             "difficulty": 3,
@@ -183,6 +191,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "あなばしー1215"
+        },
+        {
+            "accuracy": 97,
+            "score": 62898,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kaboomtish II"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Jedi Sleia"
-        },
-        {
-            "accuracy": 95,
-            "score": 48953,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SithLordBeard"
-        },
-        {
-            "accuracy": 91,
-            "score": 48949,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "TapAndDrag"
         }
     ]
 }

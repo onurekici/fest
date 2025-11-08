@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 63448,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Gokisan2"
+        },
+        {
+            "accuracy": 100,
+            "score": 62077,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "agent_e11even"
+        },
+        {
+            "accuracy": 100,
+            "score": 58622,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Gemini_Nox"
+        },
+        {
             "accuracy": 99,
             "score": 58512,
             "difficulty": 2,
@@ -15,6 +39,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "LeandrosHUN"
+        },
+        {
+            "accuracy": 100,
+            "score": 57795,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "David22293"
         },
         {
             "accuracy": 100,
@@ -327,6 +359,14 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "Christiancito101"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 0,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "ZaricusMan_"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 180898,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kreaber"
+        },
+        {
+            "accuracy": 100,
             "score": 180862,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "2-2-6"
-        },
-        {
-            "accuracy": 99,
-            "score": 179067,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wrench in water"
         }
     ]
 }

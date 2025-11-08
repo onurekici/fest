@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 131346,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DanDeathwish"
+        },
+        {
+            "accuracy": 91,
+            "score": 131165,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Tidiiz"
+        },
+        {
             "accuracy": 97,
             "score": 129756,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "AvoidntTTV"
-        },
-        {
-            "accuracy": 98,
-            "score": 32460,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tribble613"
-        },
-        {
-            "accuracy": 79,
-            "score": 32237,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "RetroTechMan"
         }
     ]
 }

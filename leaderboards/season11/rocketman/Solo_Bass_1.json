@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 97786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BeggarRaccoon"
+        },
+        {
             "accuracy": 100,
             "score": 97772,
             "difficulty": 3,
@@ -730,6 +738,14 @@
         },
         {
             "accuracy": 100,
+            "score": 96630,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Uncle-Runkle"
+        },
+        {
+            "accuracy": 100,
             "score": 96622,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Incinerator-Mela"
-        },
-        {
-            "accuracy": 100,
-            "score": 96525,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EJ-Butter"
-        },
-        {
-            "accuracy": 100,
-            "score": 96523,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kimac"
         }
     ]
 }

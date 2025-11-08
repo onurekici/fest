@@ -522,6 +522,14 @@
         },
         {
             "accuracy": 100,
+            "score": 248262,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Agent Norf"
+        },
+        {
+            "accuracy": 100,
             "score": 248125,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "llorithaine"
-        },
-        {
-            "accuracy": 100,
-            "score": 240065,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SchneiderAFX"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 30260,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LivingDeadAce"
+        },
+        {
             "accuracy": 98,
             "score": 30214,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "LayzThugg"
-        },
-        {
-            "accuracy": 41,
-            "score": 3628,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Skydive4Ever"
         }
     ]
 }

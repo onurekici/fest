@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 92450,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MustachedEmu"
+        },
+        {
+            "accuracy": 96,
+            "score": 92438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FaZe Vampire"
+        },
+        {
             "accuracy": 97,
             "score": 92318,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "kacperexd"
-        },
-        {
-            "accuracy": 95,
-            "score": 81987,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Faith Itself"
-        },
-        {
-            "accuracy": 97,
-            "score": 81958,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "triplecheese_247"
         }
     ]
 }

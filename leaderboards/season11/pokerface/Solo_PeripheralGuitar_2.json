@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 88597,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "My Friend Frank"
+        },
+        {
+            "accuracy": 97,
+            "score": 88513,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "persiain"
+        },
+        {
             "accuracy": 98,
             "score": 88465,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GibblesXO"
-        },
-        {
-            "accuracy": 98,
-            "score": 70427,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "gamealex19"
-        },
-        {
-            "accuracy": 96,
-            "score": 70300,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Argagar19"
         }
     ]
 }

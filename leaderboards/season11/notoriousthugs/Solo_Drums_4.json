@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 353394,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "闇闇."
+        },
+        {
+            "accuracy": 99,
+            "score": 353286,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "shwooble"
+        },
+        {
             "accuracy": 99,
             "score": 353214,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PurpleTrigga"
-        },
-        {
-            "accuracy": 99,
-            "score": 346368,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "m3adow_"
-        },
-        {
-            "accuracy": 100,
-            "score": 346362,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MunchinMars"
         }
     ]
 }

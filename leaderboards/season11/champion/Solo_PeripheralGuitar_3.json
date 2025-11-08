@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 91560,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TrainCharly"
+        },
+        {
+            "accuracy": 100,
+            "score": 91550,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Peeps Da Fox"
+        },
+        {
             "accuracy": 99,
             "score": 91499,
             "difficulty": 3,
@@ -151,6 +167,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "I_AM_WATCHING_93"
+        },
+        {
+            "accuracy": 100,
+            "score": 90975,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OlGranz"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Elgenericool"
-        },
-        {
-            "accuracy": 99,
-            "score": 88390,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JonnyParkour"
-        },
-        {
-            "accuracy": 99,
-            "score": 88259,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "klontte"
-        },
-        {
-            "accuracy": 99,
-            "score": 88084,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "warachnide"
         }
     ]
 }

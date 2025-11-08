@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 43914,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "moa -chan"
+        },
+        {
+            "accuracy": 100,
             "score": 43909,
             "difficulty": 3,
             "stars": 6,
@@ -167,6 +175,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Knoo0"
+        },
+        {
+            "accuracy": 99,
+            "score": 43102,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GiftMePleaseThxs"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "User-e0454bcf8c"
-        },
-        {
-            "accuracy": 99,
-            "score": 39613,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zanoxrl"
-        },
-        {
-            "accuracy": 98,
-            "score": 39569,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AnonymousERIK"
         }
     ]
 }

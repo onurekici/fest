@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 53696,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MoldyRabbit"
+        },
+        {
+            "accuracy": 93,
+            "score": 52930,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Comrade_Vickers"
+        },
+        {
             "accuracy": 98,
             "score": 52508,
             "difficulty": 1,
@@ -207,6 +223,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Oxidum63"
+        },
+        {
+            "accuracy": 46,
+            "score": 6102,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

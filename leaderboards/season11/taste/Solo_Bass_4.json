@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 55298,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Roranor"
+        },
+        {
+            "accuracy": 99,
+            "score": 55263,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "auchannnn"
+        },
+        {
+            "accuracy": 100,
             "score": 55261,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Synnifer_"
-        },
-        {
-            "accuracy": 99,
-            "score": 51749,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xL iTbeDilly"
-        },
-        {
-            "accuracy": 99,
-            "score": 51748,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Boljimal"
         }
     ]
 }

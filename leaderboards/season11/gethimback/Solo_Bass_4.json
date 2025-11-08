@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 60058,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "blödchkopf"
+        },
+        {
             "accuracy": 98,
             "score": 60053,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Animal_Muerto"
-        },
-        {
-            "accuracy": 98,
-            "score": 57011,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "guisadu"
         }
     ]
 }

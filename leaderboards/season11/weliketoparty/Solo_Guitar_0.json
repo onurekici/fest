@@ -154,6 +154,14 @@
         },
         {
             "accuracy": 100,
+            "score": 125256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "unvaxx"
+        },
+        {
+            "accuracy": 100,
             "score": 125226,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "itz.Spacey"
-        },
-        {
-            "accuracy": 99,
-            "score": 118542,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "unvaxx"
         }
     ]
 }

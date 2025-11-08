@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 23570,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "cano_do_oeste"
+        },
+        {
             "accuracy": 97,
             "score": 23430,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bartholomeus-"
-        },
-        {
-            "accuracy": 98,
-            "score": 19020,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ImMedias"
         }
     ]
 }
