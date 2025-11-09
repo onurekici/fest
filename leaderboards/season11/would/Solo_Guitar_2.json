@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 186470,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "シゲル1989"
+        },
+        {
+            "accuracy": 100,
+            "score": 186447,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "spasya_"
+        },
+        {
             "accuracy": 100,
             "score": 186411,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DaftPlayer1"
-        },
-        {
-            "accuracy": 100,
-            "score": 184851,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "zobnyy"
-        },
-        {
-            "accuracy": 100,
-            "score": 184842,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zombiemurdoras"
         }
     ]
 }

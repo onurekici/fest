@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 213780,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AirToHeir"
+        },
+        {
             "accuracy": 99,
             "score": 213738,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "pagan.13"
-        },
-        {
-            "accuracy": 100,
-            "score": 211782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "D3tronix"
         }
     ]
 }

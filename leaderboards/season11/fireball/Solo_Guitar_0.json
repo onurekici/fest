@@ -50,7 +50,15 @@
         },
         {
             "accuracy": 100,
-            "score": 232698,
+            "score": 234912,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ΑΙive"
+        },
+        {
+            "accuracy": 100,
+            "score": 233652,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -114,6 +122,14 @@
         },
         {
             "accuracy": 100,
+            "score": 225149,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shahzry_Gaming"
+        },
+        {
+            "accuracy": 100,
             "score": 225059,
             "difficulty": 3,
             "stars": 6,
@@ -135,6 +151,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Bronze"
+        },
+        {
+            "accuracy": 100,
+            "score": 224415,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Momstealer29"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Tekkenmaster796"
-        },
-        {
-            "accuracy": 99,
-            "score": 188487,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Powerwilczek"
-        },
-        {
-            "accuracy": 98,
-            "score": 188340,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "UnreadierTitan"
-        },
-        {
-            "accuracy": 99,
-            "score": 187525,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CleanSkorpion"
         }
     ]
 }

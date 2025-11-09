@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 34068,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ThemanMrSir"
+        },
+        {
+            "accuracy": 100,
+            "score": 33972,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "w0uFF"
+        },
+        {
             "accuracy": 97,
             "score": 33852,
             "difficulty": 3,
@@ -191,14 +207,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "jt29589"
-        },
-        {
-            "accuracy": 99,
-            "score": 32802,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "loistaylorr"
         },
         {
             "accuracy": 99,
@@ -738,6 +746,14 @@
         },
         {
             "accuracy": 99,
+            "score": 26184,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Maztheroon"
+        },
+        {
+            "accuracy": 99,
             "score": 26166,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Eragon_Morzanson"
-        },
-        {
-            "accuracy": 100,
-            "score": 25842,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "jetsetnickradio"
-        },
-        {
-            "accuracy": 100,
-            "score": 25668,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "timtumbles"
         }
     ]
 }

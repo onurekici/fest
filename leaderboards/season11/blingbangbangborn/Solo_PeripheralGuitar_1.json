@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 133602,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "rhainmikubeam"
+        },
+        {
             "accuracy": 98,
             "score": 133374,
             "difficulty": 3,
@@ -721,6 +729,14 @@
             "userName": "tønes"
         },
         {
+            "accuracy": 98,
+            "score": 115962,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Skeeling91"
+        },
+        {
             "accuracy": 99,
             "score": 115650,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Instygan"
-        },
-        {
-            "accuracy": 96,
-            "score": 113370,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ShiFu Mephisto"
-        },
-        {
-            "accuracy": 97,
-            "score": 113340,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "The Spesh Guy"
         }
     ]
 }

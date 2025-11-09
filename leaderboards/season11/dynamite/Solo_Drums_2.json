@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 136788,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "pagan.13"
+        },
+        {
+            "accuracy": 99,
+            "score": 136722,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "phoenixpaigeYT"
+        },
+        {
             "accuracy": 99,
             "score": 136716,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "blablaStef"
-        },
-        {
-            "accuracy": 99,
-            "score": 128646,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TcocoTz"
-        },
-        {
-            "accuracy": 99,
-            "score": 128562,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bainhardt"
         }
     ]
 }

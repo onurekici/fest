@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 81012,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Keyboardasaurus"
+        },
+        {
+            "accuracy": 100,
+            "score": 80998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AlexGamer350"
+        },
+        {
             "accuracy": 100,
             "score": 80996,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ドム2099"
-        },
-        {
-            "accuracy": 99,
-            "score": 80351,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xiv0iv_"
-        },
-        {
-            "accuracy": 100,
-            "score": 80343,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TothInFlames"
         }
     ]
 }

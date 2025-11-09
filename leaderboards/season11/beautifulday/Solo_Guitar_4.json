@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 197987,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fatal FR4ME"
+        },
+        {
+            "accuracy": 99,
+            "score": 197979,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fiesta Infinita"
+        },
+        {
             "accuracy": 99,
             "score": 197979,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "controLaur"
-        },
-        {
-            "accuracy": 99,
-            "score": 194651,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lili_Slips"
-        },
-        {
-            "accuracy": 100,
-            "score": 194649,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Yodateusz"
         }
     ]
 }

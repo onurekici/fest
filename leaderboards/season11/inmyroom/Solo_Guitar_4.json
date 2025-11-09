@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 157289,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "trigojerometry"
+        },
+        {
+            "accuracy": 99,
+            "score": 157286,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OG LOC."
+        },
+        {
+            "accuracy": 100,
             "score": 157281,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Panadero97."
-        },
-        {
-            "accuracy": 100,
-            "score": 156767,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kimac"
-        },
-        {
-            "accuracy": 100,
-            "score": 156753,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DapperDrag0n"
         }
     ]
 }

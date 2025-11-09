@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 106166,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Diastereomer"
+        },
+        {
             "accuracy": 100,
             "score": 106069,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "AME-426"
-        },
-        {
-            "accuracy": 97,
-            "score": 97518,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SchwiftyDayman"
         }
     ]
 }

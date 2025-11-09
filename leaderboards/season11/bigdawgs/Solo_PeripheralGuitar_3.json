@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 37172,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Actual_BIGF00T"
+        },
+        {
             "accuracy": 98,
             "score": 37138,
             "difficulty": 1,
@@ -425,6 +433,14 @@
             "userName": "Codaisus"
         },
         {
+            "accuracy": 93,
+            "score": 32928,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "IM_NOT_UR_CUZ"
+        },
+        {
             "accuracy": 89,
             "score": 32921,
             "difficulty": 3,
@@ -551,6 +567,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "AI_Oracle"
+        },
+        {
+            "accuracy": 92,
+            "score": 31531,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SheebeeWolf"
         },
         {
             "accuracy": 94,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "xNadia"
-        },
-        {
-            "accuracy": 96,
-            "score": 28623,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Koolade77"
-        },
-        {
-            "accuracy": 96,
-            "score": 28511,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Alcran"
-        },
-        {
-            "accuracy": 93,
-            "score": 28129,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "FezezDMrchnt"
         }
     ]
 }

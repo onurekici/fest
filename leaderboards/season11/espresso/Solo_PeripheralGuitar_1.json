@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 90708,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DustinB19"
+        },
+        {
+            "accuracy": 100,
+            "score": 90626,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "thomastawney"
+        },
+        {
             "accuracy": 98,
             "score": 90584,
             "difficulty": 3,
@@ -617,6 +633,14 @@
             "userName": "kutthroattshawn"
         },
         {
+            "accuracy": 98,
+            "score": 83740,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ivxnrv"
+        },
+        {
             "accuracy": 97,
             "score": 83616,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "iamJJCD"
-        },
-        {
-            "accuracy": 95,
-            "score": 82026,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "D.T0X"
-        },
-        {
-            "accuracy": 98,
-            "score": 81960,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ttvzacch"
-        },
-        {
-            "accuracy": 100,
-            "score": 81787,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "paya.bot"
         }
     ]
 }

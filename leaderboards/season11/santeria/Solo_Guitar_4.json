@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 108079,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Radioloria"
+        },
+        {
+            "accuracy": 100,
+            "score": 108074,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zedryk_"
+        },
+        {
+            "accuracy": 100,
             "score": 108069,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TheAmazingDodger"
-        },
-        {
-            "accuracy": 100,
-            "score": 107518,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bagley050"
-        },
-        {
-            "accuracy": 100,
-            "score": 107508,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ItsEchoLocation"
         }
     ]
 }

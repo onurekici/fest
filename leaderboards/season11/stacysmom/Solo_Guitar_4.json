@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 165400,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "straycat17"
+        },
+        {
+            "accuracy": 99,
+            "score": 165373,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Merundoh"
+        },
+        {
             "accuracy": 99,
             "score": 165366,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Operatorace833"
-        },
-        {
-            "accuracy": 100,
-            "score": 163757,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "samuel.kntos"
-        },
-        {
-            "accuracy": 100,
-            "score": 163723,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Call_Me_Eet"
         }
     ]
 }

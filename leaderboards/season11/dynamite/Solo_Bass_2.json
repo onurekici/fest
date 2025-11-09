@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 120857,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Toto Bruh"
+        },
+        {
+            "accuracy": 99,
+            "score": 120786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "potatobox356"
+        },
+        {
+            "accuracy": 100,
             "score": 120752,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Obedkins"
-        },
-        {
-            "accuracy": 99,
-            "score": 114519,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Pikachu1234561"
-        },
-        {
-            "accuracy": 100,
-            "score": 114515,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Omqlq"
         }
     ]
 }

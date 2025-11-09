@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 98346,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kazuyette"
+        },
+        {
+            "accuracy": 97,
+            "score": 98280,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cl4tter"
+        },
+        {
             "accuracy": 100,
             "score": 98245,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "A_Knight_13"
-        },
-        {
-            "accuracy": 100,
-            "score": 88975,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Kbrown04"
-        },
-        {
-            "accuracy": 99,
-            "score": 88845,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "coolorchid33"
         }
     ]
 }

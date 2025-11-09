@@ -730,6 +730,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123312,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Puppetflip"
+        },
+        {
+            "accuracy": 100,
             "score": 123258,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "alexotine_TTV"
-        },
-        {
-            "accuracy": 100,
-            "score": 122892,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AlbinoHarambe1"
         }
     ]
 }

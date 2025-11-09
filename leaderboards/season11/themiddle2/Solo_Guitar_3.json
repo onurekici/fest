@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 221225,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GermanJerky"
+        },
+        {
+            "accuracy": 100,
+            "score": 221219,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SuperJersh"
+        },
+        {
             "accuracy": 100,
             "score": 221203,
             "difficulty": 3,
@@ -542,7 +558,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "snordan_"
+            "userName": "Snordan_"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "R_a_n_k_Z"
-        },
-        {
-            "accuracy": 100,
-            "score": 219489,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "tawiand"
-        },
-        {
-            "accuracy": 100,
-            "score": 219432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "XaviHavoc19"
         }
     ]
 }

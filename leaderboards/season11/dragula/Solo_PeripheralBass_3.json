@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 65345,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "I AM Eツ"
+        },
+        {
             "accuracy": 95,
             "score": 65310,
             "difficulty": 1,
@@ -15,14 +23,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "RamblingVagrant"
-        },
-        {
-            "accuracy": 95,
-            "score": 63639,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Deriva2DelSigloX"
         },
         {
             "accuracy": 96,
@@ -370,11 +370,19 @@
         },
         {
             "accuracy": 86,
+            "score": 35621,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Mr.Memes"
+        },
+        {
+            "accuracy": 86,
             "score": 33690,
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
-            "userName": "Ursie_Mom"
+            "userName": "XBettyXBX"
         },
         {
             "accuracy": 76,
@@ -791,14 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "[XBL] Vickykachu"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 0,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "[XBL] Kayan9013"
         }
     ]
 }

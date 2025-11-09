@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 224177,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sgt SnackDaddy"
+        },
+        {
+            "accuracy": 100,
+            "score": 224153,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SimplyPixyStix"
+        },
+        {
             "accuracy": 100,
             "score": 224141,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "2012Mazda3"
-        },
-        {
-            "accuracy": 100,
-            "score": 222941,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "spookamoon"
-        },
-        {
-            "accuracy": 100,
-            "score": 222936,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "the andre harris"
         }
     ]
 }

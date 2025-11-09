@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 102858,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ZIPPERCLAPPER"
+        },
+        {
+            "accuracy": 100,
             "score": 98940,
             "difficulty": 3,
             "stars": 6,
@@ -82,6 +90,14 @@
         },
         {
             "accuracy": 98,
+            "score": 50364,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mr.Memes"
+        },
+        {
+            "accuracy": 98,
             "score": 37614,
             "difficulty": 2,
             "stars": 4,
@@ -127,6 +143,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Not-Translucent"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "Musty Goon Cave"
         }
     ]
 }

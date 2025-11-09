@@ -161,6 +161,14 @@
             "userName": "Jedi Sleia"
         },
         {
+            "accuracy": 100,
+            "score": 81938,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FlashFilm"
+        },
+        {
             "accuracy": 99,
             "score": 81912,
             "difficulty": 3,
@@ -423,6 +431,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "xBodom."
+        },
+        {
+            "accuracy": 99,
+            "score": 80489,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Emma the Knight"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Instagibbons"
-        },
-        {
-            "accuracy": 99,
-            "score": 77327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ah-Kira"
-        },
-        {
-            "accuracy": 98,
-            "score": 77307,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "McBaconStripps"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 90309,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Momoriruru"
+        },
+        {
+            "accuracy": 97,
+            "score": 90058,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "changbrain"
+        },
+        {
             "accuracy": 90,
             "score": 88610,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KillerKittyMrow"
-        },
-        {
-            "accuracy": 79,
-            "score": 26362,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "lvrastro"
-        },
-        {
-            "accuracy": 85,
-            "score": 26297,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Yuma Kugæ"
         }
     ]
 }

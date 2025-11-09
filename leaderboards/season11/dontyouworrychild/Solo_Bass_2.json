@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 67277,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "StevooTheDragon"
+        },
+        {
             "accuracy": 98,
             "score": 67207,
             "difficulty": 3,
@@ -87,6 +95,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "earnestace"
+        },
+        {
+            "accuracy": 99,
+            "score": 65856,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TFplayer"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Naivebird2"
-        },
-        {
-            "accuracy": 99,
-            "score": 57130,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheJinxedBassist"
-        },
-        {
-            "accuracy": 98,
-            "score": 57094,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "xXPsycho_XenaXx"
         }
     ]
 }

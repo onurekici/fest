@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 188810,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rafael-Rmz"
+        },
+        {
+            "accuracy": 99,
+            "score": 188799,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xjakubax"
+        },
+        {
             "accuracy": 98,
             "score": 188773,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NerfHerder1197"
-        },
-        {
-            "accuracy": 99,
-            "score": 175622,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kocliko"
-        },
-        {
-            "accuracy": 99,
-            "score": 175549,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SpiritCrusher36"
         }
     ]
 }

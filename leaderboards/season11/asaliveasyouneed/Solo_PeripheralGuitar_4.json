@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 50145,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UhhhBroderick"
+        },
+        {
+            "accuracy": 97,
+            "score": 50106,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dusty0923"
+        },
+        {
+            "accuracy": 98,
+            "score": 50084,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MacDopia"
+        },
+        {
             "accuracy": 99,
             "score": 50058,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Exeall2DV"
-        },
-        {
-            "accuracy": 99,
-            "score": 47441,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zedtchh"
-        },
-        {
-            "accuracy": 100,
-            "score": 47410,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "AriGrayRaven"
-        },
-        {
-            "accuracy": 98,
-            "score": 47391,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Fusion Kush"
         }
     ]
 }

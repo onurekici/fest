@@ -346,6 +346,14 @@
         },
         {
             "accuracy": 100,
+            "score": 30001,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Belzniccles"
+        },
+        {
+            "accuracy": 100,
             "score": 29999,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "1NS_Ketzi"
-        },
-        {
-            "accuracy": 100,
-            "score": 29479,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EpilepticThief"
         }
     ]
 }

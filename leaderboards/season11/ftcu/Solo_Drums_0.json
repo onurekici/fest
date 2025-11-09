@@ -66,6 +66,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123504,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Кися Мешенггисер"
+        },
+        {
+            "accuracy": 100,
             "score": 123336,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BrockettBBB"
-        },
-        {
-            "accuracy": 100,
-            "score": 117534,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SoapySack"
         }
     ]
 }

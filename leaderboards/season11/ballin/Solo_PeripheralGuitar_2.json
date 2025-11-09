@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 72443,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "The_IrishMexican"
+        },
+        {
             "accuracy": 96,
             "score": 72326,
             "difficulty": 3,
@@ -545,6 +553,14 @@
             "userName": "ScubaManLaFlare"
         },
         {
+            "accuracy": 89,
+            "score": 63540,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Paragon of Doom"
+        },
+        {
             "accuracy": 99,
             "score": 63344,
             "difficulty": 2,
@@ -689,6 +705,14 @@
             "userName": "Worst5669"
         },
         {
+            "accuracy": 91,
+            "score": 60175,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "FlameEsports_TTV"
+        },
+        {
             "accuracy": 95,
             "score": 60169,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "VVOBLACKMAMBA"
-        },
-        {
-            "accuracy": 85,
-            "score": 58343,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "addeboii_"
-        },
-        {
-            "accuracy": 97,
-            "score": 58122,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Famotill"
-        },
-        {
-            "accuracy": 99,
-            "score": 58055,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CommanderGreyFox"
         }
     ]
 }

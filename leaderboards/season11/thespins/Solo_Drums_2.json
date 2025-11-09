@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 138810,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThatWebbyKid"
+        },
+        {
+            "accuracy": 99,
+            "score": 138810,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sarcazically"
+        },
+        {
             "accuracy": 99,
             "score": 138798,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "naxanas"
-        },
-        {
-            "accuracy": 99,
-            "score": 136116,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kain324"
-        },
-        {
-            "accuracy": 100,
-            "score": 136098,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AceWulf"
         }
     ]
 }

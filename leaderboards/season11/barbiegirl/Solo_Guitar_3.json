@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 127565,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CJDJ_10"
+        },
+        {
             "accuracy": 100,
             "score": 127561,
             "difficulty": 3,
@@ -351,6 +359,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IndigoBlaze"
+        },
+        {
+            "accuracy": 100,
+            "score": 126851,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OliviaColomar"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheAce194"
-        },
-        {
-            "accuracy": 100,
-            "score": 126136,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Caio_Duds"
-        },
-        {
-            "accuracy": 100,
-            "score": 126123,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Thumper1478"
         }
     ]
 }

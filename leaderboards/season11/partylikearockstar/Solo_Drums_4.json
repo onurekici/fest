@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 272304,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "wikisia_tak"
+        },
+        {
+            "accuracy": 100,
+            "score": 272262,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PlatinumBahamut"
+        },
+        {
+            "accuracy": 99,
             "score": 272226,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "totallypez"
-        },
-        {
-            "accuracy": 100,
-            "score": 265980,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Heîwa"
-        },
-        {
-            "accuracy": 100,
-            "score": 265926,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "niatheepoo"
         }
     ]
 }

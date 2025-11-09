@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 133644,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Raul-Mario"
+        },
+        {
+            "accuracy": 100,
+            "score": 133596,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "craftyemu"
+        },
+        {
+            "accuracy": 99,
             "score": 133404,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TeaShroom_"
-        },
-        {
-            "accuracy": 99,
-            "score": 127626,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zmuriknarik"
-        },
-        {
-            "accuracy": 99,
-            "score": 127548,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chemster64"
         }
     ]
 }

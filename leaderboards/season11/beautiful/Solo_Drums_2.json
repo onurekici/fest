@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 248784,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Thistle Mouth"
+        },
+        {
             "accuracy": 99,
             "score": 248778,
             "difficulty": 3,
@@ -446,7 +454,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Aaron Nevermind"
+            "userName": "Vanquish.Evil"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Zedroxy"
-        },
-        {
-            "accuracy": 99,
-            "score": 244092,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MiniPicadita"
         }
     ]
 }

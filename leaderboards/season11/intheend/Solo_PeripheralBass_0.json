@@ -113,6 +113,14 @@
             "userName": null
         },
         {
+            "accuracy": 100,
+            "score": 172017,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 171201,
             "difficulty": 3,
@@ -790,14 +798,6 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": null
-        },
-        {
-            "accuracy": 98,
-            "score": 101645,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
             "userName": null
         }
     ]
