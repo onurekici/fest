@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 75132,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "A_VendingMachine"
+        },
+        {
             "accuracy": 100,
             "score": 75102,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Sebbe_lite"
+        },
+        {
+            "accuracy": 99,
+            "score": 74946,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hitoshi shinsou1"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "butter.cream."
-        },
-        {
-            "accuracy": 99,
-            "score": 69198,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CrazyPantsus"
-        },
-        {
-            "accuracy": 99,
-            "score": 69108,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kemch7"
         }
     ]
 }

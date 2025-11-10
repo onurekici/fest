@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 86,
+            "score": 59491,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Its Mac Tonight"
+        },
+        {
+            "accuracy": 100,
+            "score": 59333,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GusMax77"
+        },
+        {
+            "accuracy": 86,
+            "score": 59317,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "bananapotpie"
+        },
+        {
+            "accuracy": 100,
+            "score": 59157,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "aequitas700"
+        },
+        {
             "accuracy": 84,
             "score": 59135,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "DeusCorvo"
-        },
-        {
-            "accuracy": 73,
-            "score": 29301,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MaizeOmnivore13"
-        },
-        {
-            "accuracy": 75,
-            "score": 28872,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Jarret.carrd.co"
-        },
-        {
-            "accuracy": 69,
-            "score": 28773,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "TheMicahSmith"
-        },
-        {
-            "accuracy": 77,
-            "score": 28626,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "DangoV2"
         }
     ]
 }

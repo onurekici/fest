@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 150898,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GingerNINZIN_JPN"
+        },
+        {
+            "accuracy": 100,
             "score": 150549,
             "difficulty": 3,
             "stars": 6,
@@ -514,6 +522,14 @@
         },
         {
             "accuracy": 99,
+            "score": 129280,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ピコぷち"
+        },
+        {
+            "accuracy": 99,
             "score": 128839,
             "difficulty": 3,
             "stars": 6,
@@ -575,6 +591,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IchibanKasuga211"
+        },
+        {
+            "accuracy": 99,
+            "score": 126226,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hiding In Locker"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ArkhamPancake"
-        },
-        {
-            "accuracy": 100,
-            "score": 114098,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "sødeeis"
-        },
-        {
-            "accuracy": 100,
-            "score": 113985,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MonadoBoy3DS"
-        },
-        {
-            "accuracy": 99,
-            "score": 113792,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "A.F.O"
         }
     ]
 }

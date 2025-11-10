@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 48475,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dark_Whelpling"
+        },
+        {
+            "accuracy": 100,
+            "score": 48474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ZypesTheThird"
+        },
+        {
             "accuracy": 98,
             "score": 48437,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "anime.girrl"
-        },
-        {
-            "accuracy": 99,
-            "score": 46377,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cyber_Swordman46"
-        },
-        {
-            "accuracy": 99,
-            "score": 46366,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Viel0404"
         }
     ]
 }

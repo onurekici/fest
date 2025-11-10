@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 185474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Antboy102079"
+        },
+        {
+            "accuracy": 100,
+            "score": 185145,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Chill2Music"
+        },
+        {
             "accuracy": 99,
             "score": 185089,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JohnTonsOfFun"
-        },
-        {
-            "accuracy": 98,
-            "score": 163579,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ShadowRipper.X"
-        },
-        {
-            "accuracy": 98,
-            "score": 163578,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dormidoshka"
         }
     ]
 }

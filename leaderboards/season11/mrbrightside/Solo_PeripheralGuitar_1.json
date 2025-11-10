@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 167340,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JoBroniBologna"
+        },
+        {
+            "accuracy": 99,
+            "score": 167237,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Shiriku"
+        },
+        {
             "accuracy": 99,
             "score": 167166,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ObviouslyMJ"
-        },
-        {
-            "accuracy": 99,
-            "score": 155871,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SirGeneralShell"
-        },
-        {
-            "accuracy": 98,
-            "score": 155844,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JNazmyy YT"
         }
     ]
 }

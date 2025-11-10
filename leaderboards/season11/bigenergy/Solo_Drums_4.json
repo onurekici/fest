@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 134754,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BlueskyJV100"
+        },
+        {
             "accuracy": 99,
             "score": 134712,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Rocky Road 12345"
-        },
-        {
-            "accuracy": 99,
-            "score": 130344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "cmd.Kalash"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 97,
+            "score": 84526,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "pabloAzd"
+        },
+        {
+            "accuracy": 98,
+            "score": 84315,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "changbrain"
+        },
+        {
+            "accuracy": 97,
             "score": 84204,
             "difficulty": 3,
             "stars": 5,
@@ -745,6 +761,14 @@
             "userName": "Squilark"
         },
         {
+            "accuracy": 91,
+            "score": 62394,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "JOKalex23"
+        },
+        {
             "accuracy": 92,
             "score": 61929,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Tarks II"
-        },
-        {
-            "accuracy": 95,
-            "score": 61083,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DetachedTexas"
-        },
-        {
-            "accuracy": 90,
-            "score": 61018,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "AtomicCurrse"
-        },
-        {
-            "accuracy": 100,
-            "score": 60989,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "chiclosky"
         }
     ]
 }

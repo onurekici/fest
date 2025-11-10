@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 221240,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Link the Chicken"
+        },
+        {
+            "accuracy": 99,
+            "score": 221232,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JayTheGod115"
+        },
+        {
             "accuracy": 99,
             "score": 221225,
             "difficulty": 3,
@@ -394,14 +410,6 @@
         },
         {
             "accuracy": 99,
-            "score": 220180,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "csGreenz"
-        },
-        {
-            "accuracy": 99,
             "score": 220174,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FidgetSpinner450"
-        },
-        {
-            "accuracy": 100,
-            "score": 219506,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "R_a_n_k_Z"
         }
     ]
 }

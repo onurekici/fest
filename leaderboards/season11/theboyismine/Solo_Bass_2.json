@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 62220,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tee-005"
+        },
+        {
+            "accuracy": 100,
             "score": 62207,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VBuckarooBanzai"
-        },
-        {
-            "accuracy": 99,
-            "score": 59829,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "The Pineapple"
         }
     ]
 }

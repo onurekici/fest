@@ -441,6 +441,14 @@
             "userName": "Pepsi Chip"
         },
         {
+            "accuracy": 99,
+            "score": 242088,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PunishedDakota"
+        },
+        {
             "accuracy": 100,
             "score": 242076,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WalkedVirus5928"
-        },
-        {
-            "accuracy": 100,
-            "score": 240792,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TokyoRosez"
         }
     ]
 }

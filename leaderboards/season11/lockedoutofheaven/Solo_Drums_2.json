@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 193818,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kewpiefan"
+        },
+        {
+            "accuracy": 100,
+            "score": 193812,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sweet Nougat"
+        },
+        {
+            "accuracy": 100,
             "score": 193788,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "InsomniacFvr"
-        },
-        {
-            "accuracy": 100,
-            "score": 192174,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "animexmazing"
-        },
-        {
-            "accuracy": 99,
-            "score": 192126,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Noomi水"
         }
     ]
 }

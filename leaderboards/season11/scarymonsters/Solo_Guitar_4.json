@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123263,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Big Paul innit"
+        },
+        {
+            "accuracy": 100,
             "score": 123228,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NoobyGD"
-        },
-        {
-            "accuracy": 99,
-            "score": 122373,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "No0b1E52"
         }
     ]
 }

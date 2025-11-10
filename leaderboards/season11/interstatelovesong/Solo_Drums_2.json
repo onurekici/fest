@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 165648,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zilbally"
+        },
+        {
+            "accuracy": 100,
             "score": 165600,
             "difficulty": 3,
             "stars": 6,
@@ -55,6 +63,22 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RaplinRaptor"
+        },
+        {
+            "accuracy": 100,
+            "score": 165252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "epixest"
+        },
+        {
+            "accuracy": 99,
+            "score": 165228,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CaliKidMyke"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dreadhorizon_GT2"
-        },
-        {
-            "accuracy": 100,
-            "score": 162150,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Lyras Bird"
-        },
-        {
-            "accuracy": 99,
-            "score": 162144,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JɅY"
-        },
-        {
-            "accuracy": 100,
-            "score": 162120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ReddishCarp"
         }
     ]
 }

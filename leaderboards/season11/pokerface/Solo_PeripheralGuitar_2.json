@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 89220,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Hounddog197"
+        },
+        {
+            "accuracy": 98,
+            "score": 89151,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MaximumMaximus"
+        },
+        {
             "accuracy": 99,
             "score": 88736,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "julltsu"
-        },
-        {
-            "accuracy": 94,
-            "score": 71630,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AlyxSSBM"
-        },
-        {
-            "accuracy": 97,
-            "score": 71070,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DoyoulikeJazzㅤ"
         }
     ]
 }

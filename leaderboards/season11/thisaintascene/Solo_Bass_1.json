@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 203522,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "moewedes"
+        },
+        {
+            "accuracy": 100,
+            "score": 203519,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UFOCommander"
+        },
+        {
+            "accuracy": 99,
             "score": 203371,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Somi v"
-        },
-        {
-            "accuracy": 99,
-            "score": 191845,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "aivanvanbuuren"
-        },
-        {
-            "accuracy": 99,
-            "score": 191742,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HunterNoe"
         }
     ]
 }

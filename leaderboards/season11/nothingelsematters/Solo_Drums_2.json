@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 143718,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kenaji"
+        },
+        {
+            "accuracy": 100,
+            "score": 143700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "EthanosDaMan2009"
+        },
+        {
+            "accuracy": 100,
             "score": 143700,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "albert-king1"
-        },
-        {
-            "accuracy": 100,
-            "score": 142500,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Wild_Cat_92"
-        },
-        {
-            "accuracy": 100,
-            "score": 142482,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bludgen140"
         }
     ]
 }

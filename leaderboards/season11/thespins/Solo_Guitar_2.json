@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 137643,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BrokenFUB"
+        },
+        {
+            "accuracy": 100,
+            "score": 137598,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UncannyAphid"
+        },
+        {
             "accuracy": 99,
             "score": 137520,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "cadogmas"
-        },
-        {
-            "accuracy": 100,
-            "score": 135126,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "345_pingplayer"
-        },
-        {
-            "accuracy": 100,
-            "score": 135103,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-d2d0e836e2"
         }
     ]
 }

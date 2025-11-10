@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 113592,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Instygan"
+        },
+        {
             "accuracy": 96,
             "score": 113370,
             "difficulty": 3,
@@ -367,6 +375,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TsarSalazar"
+        },
+        {
+            "accuracy": 97,
+            "score": 102612,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JimTheJackhammer"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Cyzer 101"
-        },
-        {
-            "accuracy": 96,
-            "score": 91476,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Crazymadkiller"
-        },
-        {
-            "accuracy": 93,
-            "score": 91446,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Apathett"
         }
     ]
 }

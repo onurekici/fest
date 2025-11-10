@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 229669,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mrbean9877"
+        },
+        {
             "accuracy": 100,
             "score": 229657,
             "difficulty": 3,
@@ -785,20 +793,12 @@
             "userName": "DrPikachu101"
         },
         {
-            "accuracy": 99,
-            "score": 227613,
+            "accuracy": 100,
+            "score": 227619,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "Скyпердяй"
-        },
-        {
-            "accuracy": 99,
-            "score": 227546,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "VeltVillain"
+            "fullcombo": true,
+            "userName": "Kidnas"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 65556,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BMXPERT06"
+        },
+        {
             "accuracy": 99,
             "score": 65147,
             "difficulty": 1,
@@ -175,6 +183,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Bjekas."
+        },
+        {
+            "accuracy": 73,
+            "score": 55130,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "A person 1.0"
         },
         {
             "accuracy": 65,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "astralsoda13"
-        },
-        {
-            "accuracy": 62,
-            "score": 29263,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MongeCalango"
-        },
-        {
-            "accuracy": 81,
-            "score": 28660,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "DanieltacoRich1"
         }
     ]
 }

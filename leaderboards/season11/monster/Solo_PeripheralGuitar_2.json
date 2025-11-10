@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 86557,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DebuggedProgram"
+        },
+        {
             "accuracy": 99,
             "score": 86556,
             "difficulty": 3,
@@ -633,6 +641,14 @@
             "userName": "Kinshinobi"
         },
         {
+            "accuracy": 98,
+            "score": 83295,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "spookyluke60"
+        },
+        {
             "accuracy": 100,
             "score": 83207,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BlindxSniper"
-        },
-        {
-            "accuracy": 98,
-            "score": 82413,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Astroydz"
-        },
-        {
-            "accuracy": 99,
-            "score": 82397,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mohawk2k12"
         }
     ]
 }

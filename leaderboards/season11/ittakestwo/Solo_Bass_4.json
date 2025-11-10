@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 13128,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "だんのり"
+        },
+        {
             "accuracy": 99,
             "score": 13115,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "[PSN] flash-larva90"
-        },
-        {
-            "accuracy": 100,
-            "score": 9370,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LoneSurvivor2.0"
         }
     ]
 }

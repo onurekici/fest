@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 159680,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "pluto_leclerc"
+        },
+        {
             "accuracy": 99,
             "score": 159666,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ame_8_"
-        },
-        {
-            "accuracy": 98,
-            "score": 143202,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Craticus311"
         }
     ]
 }

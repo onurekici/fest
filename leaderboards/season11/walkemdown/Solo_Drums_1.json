@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 113156,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "alysigh"
+        },
+        {
+            "accuracy": 100,
+            "score": 113055,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Holden_01"
+        },
+        {
             "accuracy": 100,
             "score": 113013,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Armos_"
-        },
-        {
-            "accuracy": 100,
-            "score": 108369,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Elmuki_deDios"
-        },
-        {
-            "accuracy": 100,
-            "score": 108297,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Blancobabi24"
         }
     ]
 }

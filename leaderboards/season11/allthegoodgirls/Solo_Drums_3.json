@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100386,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "smerbos"
+        },
+        {
+            "accuracy": 100,
             "score": 100368,
             "difficulty": 3,
             "stars": 6,
@@ -183,6 +191,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "木ノ葉の黄色い閃光 ジ"
+        },
+        {
+            "accuracy": 100,
+            "score": 100200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HeyYouWhatsUp"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kae_Supai"
-        },
-        {
-            "accuracy": 99,
-            "score": 99396,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MindOfKrissy"
-        },
-        {
-            "accuracy": 100,
-            "score": 99390,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "untamed_XD"
         }
     ]
 }

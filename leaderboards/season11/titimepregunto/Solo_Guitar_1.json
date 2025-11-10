@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 59859,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "StarryMoi"
+        },
+        {
+            "accuracy": 100,
+            "score": 59824,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "rоssy"
+        },
+        {
             "accuracy": 100,
             "score": 59817,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ericc-TheCreator"
-        },
-        {
-            "accuracy": 99,
-            "score": 56546,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Beliight"
-        },
-        {
-            "accuracy": 100,
-            "score": 56544,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "WFHordey"
         }
     ]
 }

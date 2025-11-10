@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 215313,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ma name joe"
+        },
+        {
+            "accuracy": 100,
+            "score": 215293,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "InfiniteBoa3208"
+        },
+        {
+            "accuracy": 99,
             "score": 215291,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "The404Link"
-        },
-        {
-            "accuracy": 99,
-            "score": 212367,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "esproquer"
-        },
-        {
-            "accuracy": 99,
-            "score": 212319,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bporkchop"
         }
     ]
 }

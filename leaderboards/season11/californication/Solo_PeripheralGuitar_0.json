@@ -137,6 +137,14 @@
             "userName": "Sgt. Snowmando"
         },
         {
+            "accuracy": 100,
+            "score": 405872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sugatsu"
+        },
+        {
             "accuracy": 99,
             "score": 405644,
             "difficulty": 3,
@@ -175,6 +183,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "yuckymortuary"
+        },
+        {
+            "accuracy": 99,
+            "score": 404990,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jxwe"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Captain_Basil"
-        },
-        {
-            "accuracy": 100,
-            "score": 379049,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ASOT500_RU123"
-        },
-        {
-            "accuracy": 100,
-            "score": 378214,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ais763"
         }
     ]
 }

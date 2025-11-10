@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 65562,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "shinhito"
+        },
+        {
+            "accuracy": 95,
+            "score": 65430,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "futurecrayon"
+        },
+        {
             "accuracy": 95,
             "score": 65184,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "xanikar"
-        },
-        {
-            "accuracy": 93,
-            "score": 45630,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "D-Umbra"
-        },
-        {
-            "accuracy": 100,
-            "score": 45486,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bloodsmithy"
         }
     ]
 }

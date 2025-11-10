@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 92178,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dany-San"
+        },
+        {
+            "accuracy": 93,
+            "score": 92141,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JetSetAndross"
+        },
+        {
             "accuracy": 95,
             "score": 91794,
             "difficulty": 2,
@@ -601,6 +617,14 @@
             "userName": "GizmoXOTTV"
         },
         {
+            "accuracy": 95,
+            "score": 71066,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Nøodle"
+        },
+        {
             "accuracy": 81,
             "score": 70990,
             "difficulty": 3,
@@ -738,6 +762,14 @@
         },
         {
             "accuracy": 94,
+            "score": 66325,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "cowcommander"
+        },
+        {
+            "accuracy": 94,
             "score": 66226,
             "difficulty": 2,
             "stars": 4,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "GrandWarrior905"
-        },
-        {
-            "accuracy": 100,
-            "score": 64542,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Dangerboy0925"
-        },
-        {
-            "accuracy": 99,
-            "score": 64182,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Amirkhan21"
-        },
-        {
-            "accuracy": 87,
-            "score": 63978,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SenorPineapple"
-        },
-        {
-            "accuracy": 96,
-            "score": 63278,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "iFiizzy"
         }
     ]
 }

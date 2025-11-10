@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 25902,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Martz2091"
+        },
+        {
+            "accuracy": 100,
             "score": 25867,
             "difficulty": 1,
             "stars": 5,
@@ -255,6 +263,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ツユ Pika"
+        },
+        {
+            "accuracy": 98,
+            "score": 22741,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GothPinata"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "WrigglyBrick551"
-        },
-        {
-            "accuracy": 96,
-            "score": 16897,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Streah"
-        },
-        {
-            "accuracy": 95,
-            "score": 16861,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "LyraKin"
         }
     ]
 }

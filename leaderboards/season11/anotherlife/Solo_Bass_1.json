@@ -330,6 +330,14 @@
         },
         {
             "accuracy": 100,
+            "score": 121631,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DaemoniumMortis"
+        },
+        {
+            "accuracy": 100,
             "score": 121572,
             "difficulty": 3,
             "stars": 6,
@@ -351,6 +359,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Boatѕ"
+        },
+        {
+            "accuracy": 100,
+            "score": 121524,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tartarugus"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Microge"
-        },
-        {
-            "accuracy": 100,
-            "score": 120520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ATL1456"
-        },
-        {
-            "accuracy": 100,
-            "score": 120505,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "OskrEdge"
         }
     ]
 }
