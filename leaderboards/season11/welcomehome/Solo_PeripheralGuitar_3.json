@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 226447,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kryptonite_Joker"
+        },
+        {
             "accuracy": 98,
             "score": 225956,
             "difficulty": 3,
@@ -449,8 +457,8 @@
             "userName": "sybau_monkey"
         },
         {
-            "accuracy": 94,
-            "score": 203737,
+            "accuracy": 93,
+            "score": 203937,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Docris"
-        },
-        {
-            "accuracy": 95,
-            "score": 186380,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Omgivelsene"
         }
     ]
 }

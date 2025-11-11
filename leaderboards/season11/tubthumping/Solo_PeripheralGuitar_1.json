@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130947,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sopranohh"
+        },
+        {
+            "accuracy": 99,
+            "score": 130933,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "00 Naris"
+        },
+        {
             "accuracy": 99,
             "score": 130836,
             "difficulty": 3,
@@ -55,14 +71,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Cryptic_Howl_"
-        },
-        {
-            "accuracy": 100,
-            "score": 130182,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ℬℰatniksℰs"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "andthewoods"
-        },
-        {
-            "accuracy": 99,
-            "score": 118904,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cody Celibate"
         }
     ]
 }

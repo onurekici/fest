@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 56730,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] Alex83098"
+        },
+        {
             "accuracy": 99,
             "score": 56685,
             "difficulty": 1,
@@ -31,6 +39,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "FELLONKNEE187"
+        },
+        {
+            "accuracy": 99,
+            "score": 56345,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Busrker"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Gh0sKt"
-        },
-        {
-            "accuracy": 98,
-            "score": 36285,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HungryStorm2"
-        },
-        {
-            "accuracy": 96,
-            "score": 36080,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Risketo32"
         }
     ]
 }

@@ -2,10 +2,10 @@
     "entries": [
         {
             "accuracy": 100,
-            "score": 260869,
+            "score": 261724,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "xoxo.teatime"
         },
         {
@@ -625,6 +625,14 @@
             "userName": "Dewbiepet"
         },
         {
+            "accuracy": 100,
+            "score": 242470,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MinerParker"
+        },
+        {
             "accuracy": 99,
             "score": 242264,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Wolfen_Ex"
-        },
-        {
-            "accuracy": 99,
-            "score": 238685,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "solace_succ973"
         }
     ]
 }

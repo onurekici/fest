@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 95485,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jenurox"
+        },
+        {
+            "accuracy": 98,
+            "score": 95468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[XBL] Bluegrave6132"
+        },
+        {
             "accuracy": 99,
             "score": 95422,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "fluid ponders"
-        },
-        {
-            "accuracy": 99,
-            "score": 89802,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Agentevil"
-        },
-        {
-            "accuracy": 100,
-            "score": 89601,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MaMoiza-"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 80618,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wolfsilver97"
+        },
+        {
+            "accuracy": 100,
+            "score": 80608,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Redbloody"
+        },
+        {
             "accuracy": 100,
             "score": 80602,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Monster245678"
-        },
-        {
-            "accuracy": 100,
-            "score": 79985,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Snadrazz"
-        },
-        {
-            "accuracy": 100,
-            "score": 79983,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MxsterofPuppets"
         }
     ]
 }

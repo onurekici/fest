@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 156942,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DrDemonix"
+        },
+        {
+            "accuracy": 100,
             "score": 156912,
             "difficulty": 3,
             "stars": 6,
@@ -729,6 +737,14 @@
             "userName": "Matthew Larue"
         },
         {
+            "accuracy": 99,
+            "score": 154524,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Superprokilla56"
+        },
+        {
             "accuracy": 100,
             "score": 154506,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Shoto Todoroki-z"
-        },
-        {
-            "accuracy": 99,
-            "score": 154392,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nichip"
-        },
-        {
-            "accuracy": 100,
-            "score": 154380,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "InvisibleJinx"
         }
     ]
 }

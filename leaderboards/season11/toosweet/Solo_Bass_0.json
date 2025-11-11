@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 138276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Aapelikaapeli."
+        },
+        {
+            "accuracy": 100,
             "score": 135366,
             "difficulty": 3,
             "stars": 6,
@@ -586,6 +594,14 @@
         },
         {
             "accuracy": 99,
+            "score": 114000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZeSnarkyPuppy"
+        },
+        {
+            "accuracy": 99,
             "score": 113917,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "[XBL] RamenBerymin"
-        },
-        {
-            "accuracy": 99,
-            "score": 104248,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "normalwoopa"
-        },
-        {
-            "accuracy": 100,
-            "score": 103668,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LoweredSum02160"
         }
     ]
 }

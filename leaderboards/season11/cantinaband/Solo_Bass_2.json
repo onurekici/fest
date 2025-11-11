@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 108124,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DerpyChap"
+        },
+        {
+            "accuracy": 100,
+            "score": 108122,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Slyky04"
+        },
+        {
             "accuracy": 99,
             "score": 108055,
             "difficulty": 3,
@@ -530,6 +546,14 @@
         },
         {
             "accuracy": 100,
+            "score": 105587,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Llanero1303"
+        },
+        {
+            "accuracy": 100,
             "score": 105567,
             "difficulty": 3,
             "stars": 6,
@@ -753,6 +777,14 @@
             "userName": "Garf House"
         },
         {
+            "accuracy": 99,
+            "score": 104473,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TacoMan_69_"
+        },
+        {
             "accuracy": 100,
             "score": 104466,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Hessian7"
-        },
-        {
-            "accuracy": 99,
-            "score": 104338,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dolphin1273"
-        },
-        {
-            "accuracy": 100,
-            "score": 104304,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Grizzly Borealis"
-        },
-        {
-            "accuracy": 100,
-            "score": 104240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Vyrsaxe"
-        },
-        {
-            "accuracy": 100,
-            "score": 104229,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Haugebass"
         }
     ]
 }

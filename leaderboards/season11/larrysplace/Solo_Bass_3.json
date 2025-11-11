@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42562,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ALEXIAIRIN"
+        },
+        {
+            "accuracy": 99,
+            "score": 42559,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BigBlossom32"
+        },
+        {
             "accuracy": 99,
             "score": 42551,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Cowie37"
-        },
-        {
-            "accuracy": 100,
-            "score": 41977,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tower4711"
-        },
-        {
-            "accuracy": 100,
-            "score": 41976,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "theoriginalQLA"
         }
     ]
 }

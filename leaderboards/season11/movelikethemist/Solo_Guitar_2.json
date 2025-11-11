@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 157364,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "g1ockh"
+        },
+        {
+            "accuracy": 99,
+            "score": 157346,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ChuyGH"
+        },
+        {
+            "accuracy": 100,
             "score": 157337,
             "difficulty": 3,
             "stars": 6,
@@ -63,6 +79,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Darkwanie"
+        },
+        {
+            "accuracy": 100,
+            "score": 156622,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Skyblake23"
         },
         {
             "accuracy": 100,
@@ -450,14 +474,6 @@
         },
         {
             "accuracy": 99,
-            "score": 153238,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Skyblake23"
-        },
-        {
-            "accuracy": 99,
             "score": 153236,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Puzzle003"
-        },
-        {
-            "accuracy": 99,
-            "score": 149672,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "misti1"
-        },
-        {
-            "accuracy": 99,
-            "score": 149381,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mysticaltime13"
         }
     ]
 }

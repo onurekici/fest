@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 36620,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Dada dab"
+        },
+        {
+            "accuracy": 98,
+            "score": 36613,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mrs._.unbekannt"
+        },
+        {
+            "accuracy": 100,
+            "score": 36583,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 36361,
             "difficulty": 1,
@@ -319,6 +343,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Snake del Colo"
+        },
+        {
+            "accuracy": 100,
+            "score": 33671,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "N1c2y"
         },
         {
             "accuracy": 98,
@@ -689,6 +721,14 @@
             "userName": "ConnLokiMom"
         },
         {
+            "accuracy": 99,
+            "score": 28578,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "milesdoesnotcare"
+        },
+        {
             "accuracy": 97,
             "score": 28272,
             "difficulty": 2,
@@ -759,46 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "StableBird956"
-        },
-        {
-            "accuracy": 98,
-            "score": 27668,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] AshProDuty"
-        },
-        {
-            "accuracy": 100,
-            "score": 27365,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "87chuck"
-        },
-        {
-            "accuracy": 99,
-            "score": 27238,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SilverWolfe2"
-        },
-        {
-            "accuracy": 99,
-            "score": 27126,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FireFuzzed"
-        },
-        {
-            "accuracy": 95,
-            "score": 27125,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Blink_Jl"
         }
     ]
 }

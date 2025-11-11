@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 147789,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "еlіza"
+        },
+        {
+            "accuracy": 100,
             "score": 147787,
             "difficulty": 3,
             "stars": 6,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MaximumPanda594"
+        },
+        {
+            "accuracy": 100,
+            "score": 147570,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ReddishCarp"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AnimusAssassin"
-        },
-        {
-            "accuracy": 99,
-            "score": 146623,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Keksu-"
-        },
-        {
-            "accuracy": 100,
-            "score": 146621,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Drakorok"
         }
     ]
 }

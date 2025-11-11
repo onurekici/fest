@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 186594,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SammySama7"
+        },
+        {
+            "accuracy": 100,
+            "score": 186558,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mel_Lancoli"
+        },
+        {
+            "accuracy": 99,
+            "score": 186546,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "nath-exe"
+        },
+        {
             "accuracy": 99,
             "score": 186438,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CassiKat"
-        },
-        {
-            "accuracy": 100,
-            "score": 174030,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "egg2629"
-        },
-        {
-            "accuracy": 99,
-            "score": 173808,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zeitimus"
-        },
-        {
-            "accuracy": 99,
-            "score": 173784,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ogo99"
         }
     ]
 }

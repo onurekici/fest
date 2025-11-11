@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 77358,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MyDogsAreMooing"
+        },
+        {
+            "accuracy": 100,
             "score": 77233,
             "difficulty": 3,
             "stars": 6,
@@ -753,6 +761,14 @@
             "userName": "Vooslarum"
         },
         {
+            "accuracy": 99,
+            "score": 70105,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TeammiiGaming"
+        },
+        {
             "accuracy": 100,
             "score": 70057,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Activist9485"
-        },
-        {
-            "accuracy": 100,
-            "score": 69818,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Laboucane69"
-        },
-        {
-            "accuracy": 99,
-            "score": 69769,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GhostOfRonin"
         }
     ]
 }

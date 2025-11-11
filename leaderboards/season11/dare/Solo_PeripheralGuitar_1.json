@@ -50,11 +50,27 @@
         },
         {
             "accuracy": 100,
+            "score": 108077,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Poomsday"
+        },
+        {
+            "accuracy": 100,
             "score": 108037,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "toasterslinger"
+        },
+        {
+            "accuracy": 99,
+            "score": 108021,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZeRo Bmg"
         },
         {
             "accuracy": 100,
@@ -721,6 +737,14 @@
             "userName": "eFx_Delirious"
         },
         {
+            "accuracy": 100,
+            "score": 104957,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dks Siol"
+        },
+        {
             "accuracy": 99,
             "score": 104941,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Eater Of Pi"
-        },
-        {
-            "accuracy": 99,
-            "score": 104601,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "guitardude12"
-        },
-        {
-            "accuracy": 100,
-            "score": 104540,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ChaoiaKaos"
-        },
-        {
-            "accuracy": 99,
-            "score": 104499,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DewtSuit"
         }
     ]
 }

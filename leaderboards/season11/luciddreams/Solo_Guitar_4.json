@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 125874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "X_THE_REAPER"
+        },
+        {
+            "accuracy": 99,
+            "score": 125874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VoIdTermania"
+        },
+        {
             "accuracy": 99,
             "score": 125868,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BruenBunnyRaider"
-        },
-        {
-            "accuracy": 100,
-            "score": 125243,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ranzerai"
-        },
-        {
-            "accuracy": 99,
-            "score": 125234,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ew00k1e"
         }
     ]
 }

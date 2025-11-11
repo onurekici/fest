@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 190678,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mint noelle"
+        },
+        {
+            "accuracy": 100,
+            "score": 190585,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BlueSphereManic0"
+        },
+        {
             "accuracy": 100,
             "score": 190522,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Artist0ftime"
-        },
-        {
-            "accuracy": 99,
-            "score": 187871,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gerg6431"
-        },
-        {
-            "accuracy": 99,
-            "score": 187853,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Eluckie"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 47761,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Irishmaniac316"
+        },
+        {
+            "accuracy": 100,
+            "score": 47737,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KARMATOOSIE"
+        },
+        {
+            "accuracy": 100,
             "score": 47486,
             "difficulty": 3,
             "stars": 6,
@@ -215,6 +231,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HorrorDragon30"
+        },
+        {
+            "accuracy": 99,
+            "score": 44521,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DatRatLife"
         },
         {
             "accuracy": 99,
@@ -689,14 +713,6 @@
             "userName": "the wicked end."
         },
         {
-            "accuracy": 100,
-            "score": 39534,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DatRatLife"
-        },
-        {
             "accuracy": 98,
             "score": 39474,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Groot12500"
-        },
-        {
-            "accuracy": 100,
-            "score": 37401,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Benihime12th"
-        },
-        {
-            "accuracy": 97,
-            "score": 37287,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DragonWing451"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 40044,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Xero Ichi"
+        },
+        {
             "accuracy": 97,
             "score": 40005,
             "difficulty": 3,
@@ -63,6 +71,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Pikachufrenzy17"
+        },
+        {
+            "accuracy": 96,
+            "score": 38649,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DopeyOaf"
         },
         {
             "accuracy": 95,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "MIKINATIONYT"
-        },
-        {
-            "accuracy": 95,
-            "score": 25420,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "IllMicrowave9641"
-        },
-        {
-            "accuracy": 96,
-            "score": 25350,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Ev1lirish"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 180690,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jake on 1pingツ"
+        },
+        {
+            "accuracy": 99,
+            "score": 180684,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Leg4Me"
+        },
+        {
+            "accuracy": 100,
             "score": 180672,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RubiksRenegade"
-        },
-        {
-            "accuracy": 99,
-            "score": 178866,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Maple-Bee"
-        },
-        {
-            "accuracy": 100,
-            "score": 178860,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "OfficerPorkmeat"
         }
     ]
 }

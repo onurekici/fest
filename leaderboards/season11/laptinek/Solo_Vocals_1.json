@@ -169,6 +169,14 @@
             "userName": "Beefenstein"
         },
         {
+            "accuracy": 100,
+            "score": 78563,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HappyCFW"
+        },
+        {
             "accuracy": 99,
             "score": 78535,
             "difficulty": 3,
@@ -634,6 +642,14 @@
         },
         {
             "accuracy": 100,
+            "score": 73518,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PufftheBun"
+        },
+        {
+            "accuracy": 100,
             "score": 73396,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Randomrobc"
-        },
-        {
-            "accuracy": 99,
-            "score": 71117,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Onacian"
-        },
-        {
-            "accuracy": 99,
-            "score": 71073,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ab.vyb"
         }
     ]
 }

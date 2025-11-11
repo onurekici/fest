@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 89256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "piederer"
+        },
+        {
+            "accuracy": 100,
+            "score": 89148,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Wiian_21"
+        },
+        {
+            "accuracy": 100,
             "score": 89136,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Grim_Solace"
-        },
-        {
-            "accuracy": 99,
-            "score": 86298,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nate_Squared"
-        },
-        {
-            "accuracy": 100,
-            "score": 86268,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "youmana"
         }
     ]
 }

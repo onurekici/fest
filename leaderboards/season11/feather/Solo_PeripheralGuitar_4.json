@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 86,
+            "score": 37061,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Pikademaru"
+        },
+        {
+            "accuracy": 98,
+            "score": 36974,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PinguFilms"
+        },
+        {
             "accuracy": 96,
             "score": 36843,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Agusontorinto"
-        },
-        {
-            "accuracy": 94,
-            "score": 17887,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Chicken Tarp"
-        },
-        {
-            "accuracy": 72,
-            "score": 17879,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "OsvaSama"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 142182,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "paplaukes"
+        },
+        {
+            "accuracy": 100,
+            "score": 142176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "One SwoodGuy"
+        },
+        {
+            "accuracy": 100,
+            "score": 142176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Not_Evolutions"
+        },
+        {
             "accuracy": 100,
             "score": 142176,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Moins Vif"
-        },
-        {
-            "accuracy": 99,
-            "score": 140328,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MonkeEmir"
-        },
-        {
-            "accuracy": 98,
-            "score": 140256,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nictosha"
-        },
-        {
-            "accuracy": 99,
-            "score": 140238,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "professorPLJ"
         }
     ]
 }

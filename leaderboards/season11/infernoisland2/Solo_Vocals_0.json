@@ -282,6 +282,14 @@
         },
         {
             "accuracy": 100,
+            "score": 107139,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Stax_Manyan."
+        },
+        {
+            "accuracy": 100,
             "score": 107131,
             "difficulty": 3,
             "stars": 6,
@@ -303,6 +311,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] L3ATH3R_C18"
+        },
+        {
+            "accuracy": 99,
+            "score": 106263,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Stax_Enchan."
         },
         {
             "accuracy": 100,
@@ -391,6 +407,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "brojacked"
+        },
+        {
+            "accuracy": 99,
+            "score": 95468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "d_cubillo"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Leowyld"
-        },
-        {
-            "accuracy": 94,
-            "score": 26693,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "matteo_280811"
-        },
-        {
-            "accuracy": 93,
-            "score": 26243,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "KineTIG"
-        },
-        {
-            "accuracy": 98,
-            "score": 19641,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lo_retti"
         }
     ]
 }

@@ -330,11 +330,27 @@
         },
         {
             "accuracy": 100,
+            "score": 23714,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Obakke鶏肉"
+        },
+        {
+            "accuracy": 100,
             "score": 23610,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Golemon21"
+        },
+        {
+            "accuracy": 100,
+            "score": 23597,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Danseing"
         },
         {
             "accuracy": 100,
@@ -551,6 +567,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ᴸᴱᴺᴼ ʚïɞ"
+        },
+        {
+            "accuracy": 99,
+            "score": 21998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Safira151"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Manu_Raspberry"
-        },
-        {
-            "accuracy": 98,
-            "score": 19918,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ThickHanz"
-        },
-        {
-            "accuracy": 100,
-            "score": 19836,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "One Mean Wolf"
-        },
-        {
-            "accuracy": 100,
-            "score": 19795,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Bobby-Luv"
         }
     ]
 }

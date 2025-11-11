@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 79860,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kuliath"
+        },
+        {
             "accuracy": 99,
             "score": 79860,
             "difficulty": 3,
@@ -770,6 +778,14 @@
         },
         {
             "accuracy": 99,
+            "score": 77460,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Puppetflip"
+        },
+        {
+            "accuracy": 99,
             "score": 77442,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "アイノカタマリ"
-        },
-        {
-            "accuracy": 99,
-            "score": 77388,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Acelya1330"
-        },
-        {
-            "accuracy": 99,
-            "score": 77370,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sunsoul03"
         }
     ]
 }

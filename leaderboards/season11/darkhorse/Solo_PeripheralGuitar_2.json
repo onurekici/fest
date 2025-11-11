@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 72849,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ascully"
+        },
+        {
             "accuracy": 96,
             "score": 72559,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "OhFishstick"
-        },
-        {
-            "accuracy": 80,
-            "score": 53788,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ATSTORO"
         }
     ]
 }

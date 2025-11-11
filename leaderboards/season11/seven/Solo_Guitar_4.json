@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 79926,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BillyCheezburg"
+        },
+        {
+            "accuracy": 99,
+            "score": 79909,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "boo-28"
+        },
+        {
             "accuracy": 100,
             "score": 79888,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "sncf nathan"
-        },
-        {
-            "accuracy": 100,
-            "score": 79109,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Änni_07"
-        },
-        {
-            "accuracy": 100,
-            "score": 79109,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "JustaLilKiss"
         }
     ]
 }

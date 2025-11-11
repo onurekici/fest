@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 163645,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Big Guy Obby"
+        },
+        {
+            "accuracy": 99,
+            "score": 163640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "YoshiFyghter"
+        },
+        {
+            "accuracy": 100,
             "score": 163614,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Greyfase"
-        },
-        {
-            "accuracy": 100,
-            "score": 161526,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Maxikaksi"
-        },
-        {
-            "accuracy": 100,
-            "score": 161506,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PotatoLova69"
         }
     ]
 }

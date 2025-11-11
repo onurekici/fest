@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 89802,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Agentevil"
+        },
+        {
+            "accuracy": 100,
+            "score": 89601,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MaMoiza-"
+        },
+        {
+            "accuracy": 99,
             "score": 89567,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "CreamZone"
-        },
-        {
-            "accuracy": 99,
-            "score": 80280,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hernfrog97"
-        },
-        {
-            "accuracy": 98,
-            "score": 80256,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RevolverOcelot14"
         }
     ]
 }

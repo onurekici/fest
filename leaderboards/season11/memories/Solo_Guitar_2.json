@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 100856,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ParkerB_1"
+        },
+        {
+            "accuracy": 100,
+            "score": 100803,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Metalhead_39"
+        },
+        {
             "accuracy": 100,
             "score": 100745,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "puggness"
-        },
-        {
-            "accuracy": 100,
-            "score": 95485,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jenurox"
-        },
-        {
-            "accuracy": 98,
-            "score": 95468,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "[XBL] Bluegrave6132"
         }
     ]
 }

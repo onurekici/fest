@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 32765,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bürgi_Geld"
+        },
+        {
+            "accuracy": 100,
             "score": 32753,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TsunDiddler"
-        },
-        {
-            "accuracy": 100,
-            "score": 30035,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zokenkai"
         }
     ]
 }

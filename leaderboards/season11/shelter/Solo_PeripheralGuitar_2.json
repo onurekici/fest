@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 233306,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Henryen"
+        },
+        {
             "accuracy": 99,
             "score": 232863,
             "difficulty": 3,
@@ -319,14 +327,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mr. Hingers"
-        },
-        {
-            "accuracy": 98,
-            "score": 227895,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ℬℰatniksℰs"
         },
         {
             "accuracy": 99,
@@ -697,6 +697,14 @@
             "userName": "whatanotaku"
         },
         {
+            "accuracy": 97,
+            "score": 222614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NelBeat9"
+        },
+        {
             "accuracy": 98,
             "score": 222496,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FlavrlssPorkDisk"
-        },
-        {
-            "accuracy": 97,
-            "score": 221322,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iTenshiSenpai"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 160986,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FunkyMrWulf"
+        },
+        {
+            "accuracy": 100,
+            "score": 160986,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MisterMoolah10"
+        },
+        {
             "accuracy": 100,
             "score": 160974,
             "difficulty": 3,
@@ -119,6 +135,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ecpse"
+        },
+        {
+            "accuracy": 100,
+            "score": 160710,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TarkoomanTTV"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GDK GiggleFart"
-        },
-        {
-            "accuracy": 100,
-            "score": 159570,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TrippingUp"
-        },
-        {
-            "accuracy": 100,
-            "score": 159570,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "D3XINS"
-        },
-        {
-            "accuracy": 99,
-            "score": 159564,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "vozveratu"
         }
     ]
 }

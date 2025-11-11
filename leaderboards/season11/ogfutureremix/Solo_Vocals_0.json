@@ -130,6 +130,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123968,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The Madcap Tax"
+        },
+        {
+            "accuracy": 100,
             "score": 123954,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "traffic123456"
-        },
-        {
-            "accuracy": 100,
-            "score": 119744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EternityAV"
         }
     ]
 }

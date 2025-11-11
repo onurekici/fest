@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 103374,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GROIX_X"
+        },
+        {
+            "accuracy": 100,
+            "score": 103356,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Warzone201"
+        },
+        {
+            "accuracy": 100,
             "score": 103356,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "McLOVIN2Lose"
-        },
-        {
-            "accuracy": 99,
-            "score": 100848,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Slime Hina"
-        },
-        {
-            "accuracy": 99,
-            "score": 100830,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "rocking195"
         }
     ]
 }

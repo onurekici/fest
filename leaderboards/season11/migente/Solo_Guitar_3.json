@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 65938,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VitorMzt"
+        },
+        {
             "accuracy": 100,
             "score": 65938,
             "difficulty": 3,
@@ -31,6 +39,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RMMCarmine"
+        },
+        {
+            "accuracy": 100,
+            "score": 65920,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "General BigMan"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BanzerTM"
-        },
-        {
-            "accuracy": 100,
-            "score": 65535,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[XBL] BlackBee7680"
-        },
-        {
-            "accuracy": 100,
-            "score": 65533,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BafflingAce2060"
         }
     ]
 }

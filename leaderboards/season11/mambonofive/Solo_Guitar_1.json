@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 99251,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "gameraidan"
+        },
+        {
             "accuracy": 98,
             "score": 99212,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Eduardofofinho"
-        },
-        {
-            "accuracy": 98,
-            "score": 72885,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "spec5d"
         }
     ]
 }

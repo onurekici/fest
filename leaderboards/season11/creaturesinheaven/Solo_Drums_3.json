@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 221892,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ford Durango"
+        },
+        {
+            "accuracy": 100,
+            "score": 221844,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DarrAdar"
+        },
+        {
             "accuracy": 99,
             "score": 221838,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FanaticBaker564"
-        },
-        {
-            "accuracy": 100,
-            "score": 220296,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Navinki420"
-        },
-        {
-            "accuracy": 100,
-            "score": 220260,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "StyroNo1"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 167148,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jxwe"
+        },
+        {
+            "accuracy": 99,
+            "score": 166984,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "nonTrotsky"
+        },
+        {
             "accuracy": 99,
             "score": 166833,
             "difficulty": 3,
@@ -175,6 +191,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Tchaikovskyzz"
+        },
+        {
+            "accuracy": 99,
+            "score": 163501,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RetroDex"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "elias_nie"
-        },
-        {
-            "accuracy": 99,
-            "score": 153788,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Brightrock"
-        },
-        {
-            "accuracy": 98,
-            "score": 153709,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sonseit"
-        },
-        {
-            "accuracy": 99,
-            "score": 153575,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Molllen"
         }
     ]
 }

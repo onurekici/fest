@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 35904,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dwrek89"
+        },
+        {
             "accuracy": 99,
             "score": 35877,
             "difficulty": 2,
@@ -239,6 +247,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "brokenhook129"
+        },
+        {
+            "accuracy": 100,
+            "score": 32616,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Overdosemaster"
         },
         {
             "accuracy": 100,
@@ -545,6 +561,14 @@
             "userName": "Capitan_Cyborg"
         },
         {
+            "accuracy": 100,
+            "score": 26456,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "R1PZ4ME"
+        },
+        {
             "accuracy": 97,
             "score": 26453,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "quebo12"
-        },
-        {
-            "accuracy": 92,
-            "score": 18715,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Stitch_Maddison"
-        },
-        {
-            "accuracy": 96,
-            "score": 18684,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ME_Peirce"
-        },
-        {
-            "accuracy": 100,
-            "score": 18571,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": true,
-            "userName": "GogenFanBeg"
         }
     ]
 }

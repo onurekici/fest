@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 90098,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "eGianT"
+        },
+        {
+            "accuracy": 99,
+            "score": 90092,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TikiBass"
+        },
+        {
+            "accuracy": 100,
+            "score": 90060,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Erron-Black._"
+        },
+        {
+            "accuracy": 100,
             "score": 89987,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Laughing_Luck"
-        },
-        {
-            "accuracy": 100,
-            "score": 88088,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Unigun_destroyer"
-        },
-        {
-            "accuracy": 99,
-            "score": 88085,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SimplyMythical"
-        },
-        {
-            "accuracy": 100,
-            "score": 88075,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nikastor"
         }
     ]
 }
