@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 144561,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Florgendorp13"
+        },
+        {
+            "accuracy": 98,
             "score": 144452,
             "difficulty": 3,
             "stars": 6,
@@ -57,14 +65,6 @@
             "userName": "Warmind225"
         },
         {
-            "accuracy": 100,
-            "score": 143048,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Spiracorn"
-        },
-        {
             "accuracy": 99,
             "score": 142273,
             "difficulty": 3,
@@ -111,6 +111,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GMonito22"
+        },
+        {
+            "accuracy": 99,
+            "score": 141601,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Chickenmelon420"
         },
         {
             "accuracy": 98,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "NarutoOokami"
-        },
-        {
-            "accuracy": 97,
-            "score": 128512,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Grizzly Borealis"
         }
     ]
 }

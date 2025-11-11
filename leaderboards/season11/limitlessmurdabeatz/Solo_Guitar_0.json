@@ -74,6 +74,14 @@
         },
         {
             "accuracy": 100,
+            "score": 99030,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BKstreet_i_l_i_"
+        },
+        {
+            "accuracy": 100,
             "score": 99000,
             "difficulty": 3,
             "stars": 6,
@@ -263,6 +271,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bryciclex"
+        },
+        {
+            "accuracy": 100,
+            "score": 94992,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "curasio"
         },
         {
             "accuracy": 100,
@@ -737,6 +753,14 @@
             "userName": "Veemo_7"
         },
         {
+            "accuracy": 99,
+            "score": 88182,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cromconquistador"
+        },
+        {
             "accuracy": 100,
             "score": 88019,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LORD_ROSE_8"
-        },
-        {
-            "accuracy": 99,
-            "score": 87492,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Absentedmind"
-        },
-        {
-            "accuracy": 99,
-            "score": 87099,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iamfye_"
-        },
-        {
-            "accuracy": 100,
-            "score": 86936,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ricky.aldro"
         }
     ]
 }

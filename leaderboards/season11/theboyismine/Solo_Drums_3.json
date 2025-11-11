@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 119058,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ENVI6ION"
+        },
+        {
+            "accuracy": 100,
             "score": 119052,
             "difficulty": 3,
             "stars": 6,
@@ -642,6 +650,14 @@
         },
         {
             "accuracy": 100,
+            "score": 117780,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GrassSmacker"
+        },
+        {
+            "accuracy": 100,
             "score": 117774,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "StellarChoonk"
-        },
-        {
-            "accuracy": 99,
-            "score": 117324,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Paranoid Andriod"
-        },
-        {
-            "accuracy": 100,
-            "score": 117312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "IrishDingus"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 244254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "glethaijam"
+        },
+        {
+            "accuracy": 100,
+            "score": 244230,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MickTheDarkyx"
+        },
+        {
+            "accuracy": 99,
             "score": 244188,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Shadyyiii"
-        },
-        {
-            "accuracy": 100,
-            "score": 240738,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Unfearior"
-        },
-        {
-            "accuracy": 100,
-            "score": 240708,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DARKFOX9897"
         }
     ]
 }

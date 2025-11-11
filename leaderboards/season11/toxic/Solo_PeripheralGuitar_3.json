@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 125434,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "dmbdaw"
+        },
+        {
+            "accuracy": 97,
+            "score": 125404,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MrDelnick"
+        },
+        {
             "accuracy": 98,
             "score": 125361,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "LemonSqueezeVEVO"
-        },
-        {
-            "accuracy": 95,
-            "score": 109433,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pablo Freshcabar"
-        },
-        {
-            "accuracy": 98,
-            "score": 109417,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TwistedBotツ"
         }
     ]
 }

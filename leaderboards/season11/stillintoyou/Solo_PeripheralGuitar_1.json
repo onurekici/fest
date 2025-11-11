@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 220789,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Slash27_"
+        },
+        {
+            "accuracy": 99,
+            "score": 220515,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Code Flecx"
+        },
+        {
             "accuracy": 99,
             "score": 220419,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RT_SKuR4"
-        },
-        {
-            "accuracy": 99,
-            "score": 203286,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DoomSlayerApex"
-        },
-        {
-            "accuracy": 98,
-            "score": 203140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Luisloera615"
         }
     ]
 }

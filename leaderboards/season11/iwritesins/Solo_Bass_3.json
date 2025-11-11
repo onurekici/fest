@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 138959,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tôgin"
+        },
+        {
+            "accuracy": 100,
+            "score": 138944,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SainteΩ"
+        },
+        {
+            "accuracy": 99,
             "score": 138803,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ZUCKNE_027"
-        },
-        {
-            "accuracy": 100,
-            "score": 135430,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DFallBR"
-        },
-        {
-            "accuracy": 100,
-            "score": 135424,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "2020joshuaf"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 60284,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "BADMANGAMING01"
+        },
+        {
+            "accuracy": 97,
+            "score": 60278,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Orocheetos"
+        },
+        {
             "accuracy": 99,
             "score": 60220,
             "difficulty": 3,
@@ -39,6 +55,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "loickmix"
+        },
+        {
+            "accuracy": 99,
+            "score": 59953,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "xG3NJUTSUx"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GajeMcdaniel"
-        },
-        {
-            "accuracy": 99,
-            "score": 57148,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "EvilMachine11"
-        },
-        {
-            "accuracy": 99,
-            "score": 57124,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "kendoswifeyy"
-        },
-        {
-            "accuracy": 97,
-            "score": 57118,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheVargard"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 109528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Imagesbreaker"
+        },
+        {
+            "accuracy": 100,
+            "score": 109476,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "We_Are_Andy"
+        },
+        {
+            "accuracy": 99,
             "score": 109452,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Misslimegreen"
-        },
-        {
-            "accuracy": 100,
-            "score": 105477,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dgraydr"
-        },
-        {
-            "accuracy": 99,
-            "score": 105453,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Johnny Kongkeo"
         }
     ]
 }

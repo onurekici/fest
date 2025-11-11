@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 102718,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CSGamma."
+        },
+        {
+            "accuracy": 95,
+            "score": 102698,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Little Lizzer"
+        },
+        {
+            "accuracy": 96,
+            "score": 102554,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Peakins"
+        },
+        {
             "accuracy": 97,
             "score": 102483,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "MYP37"
-        },
-        {
-            "accuracy": 99,
-            "score": 88305,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Fargnbastige"
-        },
-        {
-            "accuracy": 93,
-            "score": 88296,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "MymelodyRat"
-        },
-        {
-            "accuracy": 92,
-            "score": 88116,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "johnnadonna"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112018,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rex Kwon Dough"
+        },
+        {
+            "accuracy": 100,
             "score": 111935,
             "difficulty": 3,
             "stars": 6,
@@ -489,6 +497,14 @@
             "userName": "Hawkman0212"
         },
         {
+            "accuracy": 100,
+            "score": 109494,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Minan.e404"
+        },
+        {
             "accuracy": 99,
             "score": 109463,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dominik-Badinka"
-        },
-        {
-            "accuracy": 100,
-            "score": 108350,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RageTheKidd"
-        },
-        {
-            "accuracy": 100,
-            "score": 108339,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Fizzy-OwO"
         }
     ]
 }

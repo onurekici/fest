@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 114282,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "stolasgayming"
+        },
+        {
+            "accuracy": 100,
+            "score": 114246,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Artist0ftime"
+        },
+        {
             "accuracy": 100,
             "score": 114192,
             "difficulty": 3,
@@ -261,6 +277,14 @@
             "score": 113460,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": true,
+            "userName": "hansdayz"
+        },
+        {
+            "accuracy": 100,
+            "score": 113460,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": false,
             "userName": "kasuojisan"
         },
@@ -295,14 +319,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Pork12521252"
-        },
-        {
-            "accuracy": 100,
-            "score": 113376,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "hansdayz"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "imcinderella"
-        },
-        {
-            "accuracy": 100,
-            "score": 111744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ShloopBurger"
-        },
-        {
-            "accuracy": 100,
-            "score": 111744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "plorabre"
         }
     ]
 }

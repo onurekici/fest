@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 98424,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Xzyroox"
+        },
+        {
+            "accuracy": 100,
+            "score": 98364,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Itzel5V"
+        },
+        {
             "accuracy": 99,
             "score": 98346,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "6Fold"
-        },
-        {
-            "accuracy": 98,
-            "score": 89286,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] Deadheart983"
-        },
-        {
-            "accuracy": 99,
-            "score": 89170,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] exebladex"
         }
     ]
 }

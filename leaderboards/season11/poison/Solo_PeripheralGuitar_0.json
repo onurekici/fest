@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 57544,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nick Bodnick"
+        },
+        {
+            "accuracy": 100,
             "score": 57453,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Luin Lunatic"
-        },
-        {
-            "accuracy": 43,
-            "score": 3441,
-            "difficulty": 1,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "iwantnotlive"
         }
     ]
 }

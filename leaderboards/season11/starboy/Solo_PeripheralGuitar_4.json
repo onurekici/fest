@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 33782,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "musiciancolton"
+        },
+        {
             "accuracy": 94,
             "score": 33456,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Kona Yukiko"
-        },
-        {
-            "accuracy": 87,
-            "score": 14993,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Joking Sam"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 144374,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Terminator_115"
+        },
+        {
+            "accuracy": 100,
+            "score": 144364,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VeryWealthy"
+        },
+        {
             "accuracy": 100,
             "score": 144351,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ArchangelJake"
-        },
-        {
-            "accuracy": 99,
-            "score": 141106,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kraet"
-        },
-        {
-            "accuracy": 99,
-            "score": 141105,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "[XBL] Doctor Chapel"
         }
     ]
 }

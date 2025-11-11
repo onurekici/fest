@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 106360,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Soccer_Fanof30"
+        },
+        {
             "accuracy": 99,
             "score": 106125,
             "difficulty": 1,
@@ -193,6 +201,14 @@
             "userName": "HitTheBricks255"
         },
         {
+            "accuracy": 98,
+            "score": 84305,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "StoneCade19"
+        },
+        {
             "accuracy": 97,
             "score": 83645,
             "difficulty": 1,
@@ -359,6 +375,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Altair_The_Wise"
+        },
+        {
+            "accuracy": 99,
+            "score": 63095,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mimic253"
         },
         {
             "accuracy": 94,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "LocalBuzzard4187"
-        },
-        {
-            "accuracy": 83,
-            "score": 17845,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "uckztzz7"
-        },
-        {
-            "accuracy": 45,
-            "score": 16914,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 69,
-            "score": 16640,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "slayer_birthday"
         }
     ]
 }

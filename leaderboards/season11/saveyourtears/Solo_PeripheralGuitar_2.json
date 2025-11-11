@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 84876,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Doodlevil"
+        },
+        {
             "accuracy": 97,
             "score": 84526,
             "difficulty": 3,
@@ -359,6 +367,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "JoshKunn"
+        },
+        {
+            "accuracy": 97,
+            "score": 74232,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TSKREAPER"
         },
         {
             "accuracy": 93,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "A7XPVNK"
-        },
-        {
-            "accuracy": 99,
-            "score": 61308,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "cjvolcom"
-        },
-        {
-            "accuracy": 100,
-            "score": 61172,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Tarks II"
         }
     ]
 }

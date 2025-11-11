@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 40266,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "RenjiAkairu"
+        },
+        {
+            "accuracy": 100,
+            "score": 40092,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Amirkhan21"
+        },
+        {
+            "accuracy": 89,
+            "score": 40068,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Shlaps-"
+        },
+        {
             "accuracy": 86,
             "score": 40020,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "booger_cat-69"
-        },
-        {
-            "accuracy": 98,
-            "score": 32382,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "banditzk"
-        },
-        {
-            "accuracy": 98,
-            "score": 32322,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "gothreaper345"
-        },
-        {
-            "accuracy": 86,
-            "score": 32280,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "FooliosDumpy"
         }
     ]
 }

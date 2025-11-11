@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 56588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HeroOnPS"
+        },
+        {
+            "accuracy": 100,
+            "score": 56588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jack11isthebest"
+        },
+        {
             "accuracy": 100,
             "score": 56579,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Aqua Reign"
-        },
-        {
-            "accuracy": 100,
-            "score": 55947,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NymeriasGhost"
-        },
-        {
-            "accuracy": 100,
-            "score": 55947,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CJay"
         }
     ]
 }

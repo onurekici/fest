@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 100476,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZombiSkull666"
+        },
+        {
+            "accuracy": 100,
+            "score": 100368,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ChuyGH"
+        },
+        {
             "accuracy": 99,
             "score": 100158,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "arau_20"
-        },
-        {
-            "accuracy": 99,
-            "score": 90372,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jhSherbert17"
-        },
-        {
-            "accuracy": 99,
-            "score": 90053,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ilovepotatos456"
         }
     ]
 }

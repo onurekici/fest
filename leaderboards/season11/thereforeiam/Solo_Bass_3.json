@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vim_ver_o_macaco"
+        },
+        {
+            "accuracy": 100,
             "score": 99991,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "sadly_itskylee99"
-        },
-        {
-            "accuracy": 100,
-            "score": 99093,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[XBL] Cdub9187"
         }
     ]
 }

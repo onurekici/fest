@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 61308,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "cjvolcom"
+        },
+        {
+            "accuracy": 100,
+            "score": 61172,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Tarks II"
+        },
+        {
             "accuracy": 95,
             "score": 61083,
             "difficulty": 2,
@@ -119,6 +135,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ascully"
+        },
+        {
+            "accuracy": 90,
+            "score": 59204,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Cheddarbeatz"
         },
         {
             "accuracy": 91,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[XBL] Potato Nunz"
-        },
-        {
-            "accuracy": 97,
-            "score": 41682,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Majin The King"
-        },
-        {
-            "accuracy": 97,
-            "score": 41391,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TayLikesFrogs"
-        },
-        {
-            "accuracy": 97,
-            "score": 41373,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "[XBL] TermedLawyer940"
         }
     ]
 }
