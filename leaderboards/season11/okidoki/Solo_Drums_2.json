@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 31530,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Ryoshideru"
+        },
+        {
             "accuracy": 98,
             "score": 31510,
             "difficulty": 1,
@@ -71,6 +79,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Twinkle3894"
+        },
+        {
+            "accuracy": 97,
+            "score": 30350,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Viictor.200210"
         },
         {
             "accuracy": 61,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "spv_2"
-        },
-        {
-            "accuracy": 93,
-            "score": 17830,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "User-a81acdd98e"
-        },
-        {
-            "accuracy": 100,
-            "score": 17740,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "VOVOXV"
         }
     ]
 }

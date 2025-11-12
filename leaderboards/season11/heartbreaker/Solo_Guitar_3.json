@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 213410,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GuZtafsen"
+        },
+        {
+            "accuracy": 100,
+            "score": 213395,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Twitch Frightwtf"
+        },
+        {
             "accuracy": 99,
             "score": 213391,
             "difficulty": 3,
@@ -175,14 +191,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FِِِِِT"
-        },
-        {
-            "accuracy": 100,
-            "score": 212774,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FadedThunderTTV"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kae9066"
-        },
-        {
-            "accuracy": 100,
-            "score": 211140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DjSadBoy"
         }
     ]
 }

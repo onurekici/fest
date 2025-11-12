@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 93905,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sr.BeanMan"
+        },
+        {
+            "accuracy": 99,
+            "score": 93903,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "marimargo"
+        },
+        {
             "accuracy": 100,
             "score": 93900,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ZuCoTho"
-        },
-        {
-            "accuracy": 98,
-            "score": 80279,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Spykitten69"
-        },
-        {
-            "accuracy": 100,
-            "score": 80235,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LucaEpli"
         }
     ]
 }

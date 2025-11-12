@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 40968,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Sozpop"
+        },
+        {
+            "accuracy": 100,
             "score": 40930,
             "difficulty": 2,
             "stars": 5,
@@ -545,6 +553,14 @@
             "userName": "pizzaniwa"
         },
         {
+            "accuracy": 99,
+            "score": 36725,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Valhalla_vanill3"
+        },
+        {
             "accuracy": 100,
             "score": 36502,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Elijahyar21"
-        },
-        {
-            "accuracy": 99,
-            "score": 35442,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JordoTheLordo"
-        },
-        {
-            "accuracy": 100,
-            "score": 35413,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Donnywastakenwas"
         }
     ]
 }

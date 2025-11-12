@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 56645,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "scorn.eat.humans"
+        },
+        {
+            "accuracy": 99,
+            "score": 56622,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Günther 1234455"
+        },
+        {
             "accuracy": 99,
             "score": 56577,
             "difficulty": 3,
@@ -79,6 +95,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "berry bomber787"
+        },
+        {
+            "accuracy": 100,
+            "score": 55060,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "FwAllzys"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Caruss"
-        },
-        {
-            "accuracy": 100,
-            "score": 46980,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TS_201503"
-        },
-        {
-            "accuracy": 99,
-            "score": 46860,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dragonlord_01"
-        },
-        {
-            "accuracy": 100,
-            "score": 46860,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "yu_ni_chan"
         }
     ]
 }

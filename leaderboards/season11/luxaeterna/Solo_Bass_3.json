@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 269998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Rocky Road 12345"
+        },
+        {
+            "accuracy": 100,
+            "score": 269951,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Swan-Senpai"
+        },
+        {
             "accuracy": 99,
             "score": 269939,
             "difficulty": 3,
@@ -231,14 +247,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jajauk"
-        },
-        {
-            "accuracy": 99,
-            "score": 268756,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ＭａｊｉｍａＧｏｒｏ"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FlappyToe"
-        },
-        {
-            "accuracy": 99,
-            "score": 266082,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Belzniccles"
         }
     ]
 }

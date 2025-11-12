@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 91768,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dogesun"
+        },
+        {
+            "accuracy": 99,
+            "score": 91724,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MaximPepper"
+        },
+        {
             "accuracy": 100,
             "score": 91701,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gasoline inhale"
-        },
-        {
-            "accuracy": 98,
-            "score": 86140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DaniosGM"
-        },
-        {
-            "accuracy": 100,
-            "score": 86046,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Noemie200612"
         }
     ]
 }

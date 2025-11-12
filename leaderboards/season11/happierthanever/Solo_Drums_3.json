@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 54280,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SilentOwl501"
+        },
+        {
+            "accuracy": 98,
+            "score": 54174,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Munza209"
+        },
+        {
             "accuracy": 99,
             "score": 54132,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Agent22867486"
-        },
-        {
-            "accuracy": 99,
-            "score": 47170,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BigBoi582"
-        },
-        {
-            "accuracy": 99,
-            "score": 47155,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "eig334"
         }
     ]
 }

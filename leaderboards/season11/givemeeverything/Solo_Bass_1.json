@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 65766,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AkZoey"
+        },
+        {
+            "accuracy": 99,
             "score": 65736,
             "difficulty": 3,
             "stars": 6,
@@ -247,6 +255,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "nucli13"
+        },
+        {
+            "accuracy": 100,
+            "score": 60870,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "BAC30"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "zeze_z3001"
-        },
-        {
-            "accuracy": 100,
-            "score": 56645,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "scorn.eat.humans"
-        },
-        {
-            "accuracy": 99,
-            "score": 56622,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Günther 1234455"
         }
     ]
 }

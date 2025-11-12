@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 50458,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "DiscoFly"
+        },
+        {
+            "accuracy": 97,
+            "score": 48617,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Pandapanda000000"
+        },
+        {
             "accuracy": 93,
             "score": 48560,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "bob the guy 99"
-        },
-        {
-            "accuracy": 96,
-            "score": 20981,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "NeonZeroKnight"
-        },
-        {
-            "accuracy": 95,
-            "score": 20892,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ChaChaB00M"
         }
     ]
 }

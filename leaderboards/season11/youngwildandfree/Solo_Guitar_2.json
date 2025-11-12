@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123209,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RSC Raven"
+        },
+        {
+            "accuracy": 100,
             "score": 123202,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Saintsplayer137"
-        },
-        {
-            "accuracy": 100,
-            "score": 121784,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "THICC_TURBO"
         }
     ]
 }

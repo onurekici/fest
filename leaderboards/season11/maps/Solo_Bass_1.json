@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 93528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Monk_Gamer"
+        },
+        {
+            "accuracy": 99,
+            "score": 93420,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Gluvz"
+        },
+        {
+            "accuracy": 100,
             "score": 93276,
             "difficulty": 3,
             "stars": 6,
@@ -111,6 +127,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ShinraiX信頼X"
+        },
+        {
+            "accuracy": 99,
+            "score": 92064,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "剛掌波は避けたいニャピちゃん"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "X-Shini_gam1-X"
-        },
-        {
-            "accuracy": 100,
-            "score": 80085,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "klulk"
-        },
-        {
-            "accuracy": 99,
-            "score": 79926,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DougieFreshFly_"
-        },
-        {
-            "accuracy": 99,
-            "score": 79860,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "moorair"
         }
     ]
 }

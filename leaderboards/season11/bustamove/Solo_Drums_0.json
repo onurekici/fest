@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 264960,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ilikekittens82"
+        },
+        {
+            "accuracy": 100,
             "score": 264528,
             "difficulty": 3,
             "stars": 6,
@@ -87,14 +95,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "fnkindasucks"
-        },
-        {
-            "accuracy": 100,
-            "score": 262842,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ilikekittens82"
         },
         {
             "accuracy": 100,
@@ -609,6 +609,14 @@
             "userName": "Sebastian Zarate"
         },
         {
+            "accuracy": 99,
+            "score": 191658,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "M0j0 M4ng0"
+        },
+        {
             "accuracy": 98,
             "score": 190122,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ShuraiOMEN"
-        },
-        {
-            "accuracy": 95,
-            "score": 115255,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "HuntingBots"
         }
     ]
 }

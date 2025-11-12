@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 103001,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SingleMcNugget"
+        },
+        {
+            "accuracy": 100,
+            "score": 102992,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DREAD_2003"
+        },
+        {
             "accuracy": 99,
             "score": 102914,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Jaques1981"
-        },
-        {
-            "accuracy": 98,
-            "score": 94795,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "smiggieballs7"
-        },
-        {
-            "accuracy": 99,
-            "score": 94685,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AshHyme"
         }
     ]
 }

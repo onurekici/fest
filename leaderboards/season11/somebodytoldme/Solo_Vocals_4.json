@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 129404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chip941"
+        },
+        {
+            "accuracy": 100,
+            "score": 129399,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NahhItsGizmo"
+        },
+        {
+            "accuracy": 100,
             "score": 129398,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RandomName7927"
-        },
-        {
-            "accuracy": 100,
-            "score": 128823,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Majin Venom"
-        },
-        {
-            "accuracy": 100,
-            "score": 128821,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Karlito420"
         }
     ]
 }

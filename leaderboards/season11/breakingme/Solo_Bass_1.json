@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 53539,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Meicyn"
+        },
+        {
+            "accuracy": 100,
+            "score": 53346,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pia2504"
+        },
+        {
             "accuracy": 100,
             "score": 53157,
             "difficulty": 3,
@@ -417,6 +433,14 @@
             "userName": "DonVolio"
         },
         {
+            "accuracy": 100,
+            "score": 46562,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Luixtremo"
+        },
+        {
             "accuracy": 99,
             "score": 46501,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ÆtherGœsWyld"
-        },
-        {
-            "accuracy": 99,
-            "score": 43114,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BlueRose5120"
-        },
-        {
-            "accuracy": 99,
-            "score": 43059,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ItsPentos"
-        },
-        {
-            "accuracy": 100,
-            "score": 43043,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KingKentrell"
         }
     ]
 }

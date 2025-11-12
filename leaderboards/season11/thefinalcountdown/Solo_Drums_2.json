@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 201294,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PocketDachshund"
+        },
+        {
+            "accuracy": 99,
+            "score": 201252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vifted"
+        },
+        {
             "accuracy": 99,
             "score": 201060,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Danton32OG"
-        },
-        {
-            "accuracy": 99,
-            "score": 196848,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "negitoro_92"
-        },
-        {
-            "accuracy": 99,
-            "score": 196782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xSpartanCdsX"
         }
     ]
 }

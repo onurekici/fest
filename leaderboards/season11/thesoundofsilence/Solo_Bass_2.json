@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 37423,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Groot12500"
+        },
+        {
             "accuracy": 100,
             "score": 37401,
             "difficulty": 2,
@@ -417,6 +425,14 @@
             "userName": "Mack_0914"
         },
         {
+            "accuracy": 100,
+            "score": 34150,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SchneakySchteve"
+        },
+        {
             "accuracy": 98,
             "score": 34124,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Bengelmäuschen"
-        },
-        {
-            "accuracy": 100,
-            "score": 31130,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Flaying Hirsch"
-        },
-        {
-            "accuracy": 99,
-            "score": 31071,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sneaksteve"
         }
     ]
 }

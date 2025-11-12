@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 224399,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KingRippley"
+        },
+        {
+            "accuracy": 100,
             "score": 224321,
             "difficulty": 3,
             "stars": 6,
@@ -569,6 +577,14 @@
             "userName": "OMGitsBearz"
         },
         {
+            "accuracy": 100,
+            "score": 220632,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "avalon.nichols"
+        },
+        {
             "accuracy": 99,
             "score": 220562,
             "difficulty": 3,
@@ -639,6 +655,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Leon Kunttedy"
+        },
+        {
+            "accuracy": 99,
+            "score": 220335,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vintoki1"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "匸计王匚长巨几"
-        },
-        {
-            "accuracy": 100,
-            "score": 219635,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "pilotofsomething"
-        },
-        {
-            "accuracy": 100,
-            "score": 219611,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DireVariable620"
-        },
-        {
-            "accuracy": 99,
-            "score": 219592,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Walkthru101"
         }
     ]
 }

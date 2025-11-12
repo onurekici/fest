@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 27499,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Keg Of Tetley"
+        },
+        {
+            "accuracy": 100,
+            "score": 27480,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ItsFriday2141"
+        },
+        {
             "accuracy": 100,
             "score": 27233,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Charlie161426"
-        },
-        {
-            "accuracy": 98,
-            "score": 19795,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "WESTALIS_BK"
-        },
-        {
-            "accuracy": 97,
-            "score": 19716,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "kilophael9"
         }
     ]
 }

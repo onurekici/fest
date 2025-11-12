@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 63585,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "connordrbs20"
+        },
+        {
+            "accuracy": 95,
+            "score": 63564,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Bigkient"
+        },
+        {
+            "accuracy": 100,
             "score": 63520,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Srixkiant"
-        },
-        {
-            "accuracy": 96,
-            "score": 50451,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "VoluntaryElk9883"
-        },
-        {
-            "accuracy": 95,
-            "score": 50351,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "just4lexxx"
         }
     ]
 }

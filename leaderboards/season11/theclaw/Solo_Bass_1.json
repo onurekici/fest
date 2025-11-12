@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87769,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LUClDREAMING"
+        },
+        {
             "accuracy": 98,
             "score": 87726,
             "difficulty": 3,
@@ -681,6 +689,14 @@
             "userName": "REVRNDX"
         },
         {
+            "accuracy": 100,
+            "score": 64834,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "YungKingRO"
+        },
+        {
             "accuracy": 97,
             "score": 64798,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Slushy Phonics4"
-        },
-        {
-            "accuracy": 100,
-            "score": 63585,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "connordrbs20"
-        },
-        {
-            "accuracy": 95,
-            "score": 63564,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bigkient"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 36636,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "neoncursed"
+        },
+        {
             "accuracy": 98,
             "score": 36569,
             "difficulty": 3,
@@ -47,14 +55,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ShaUebyBlya"
-        },
-        {
-            "accuracy": 98,
-            "score": 36313,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Spider-Jorden"
         },
         {
             "accuracy": 100,
@@ -609,12 +609,28 @@
             "userName": "Federica2505"
         },
         {
+            "accuracy": 99,
+            "score": 29414,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[XBL] DeadGrlRotX"
+        },
+        {
             "accuracy": 98,
             "score": 29380,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "Ownsiredshelf"
+        },
+        {
+            "accuracy": 100,
+            "score": 29343,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Bean.Sydhe"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "[PSN] Merihem999"
-        },
-        {
-            "accuracy": 98,
-            "score": 27499,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Keg Of Tetley"
-        },
-        {
-            "accuracy": 100,
-            "score": 27480,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ItsFriday2141"
         }
     ]
 }

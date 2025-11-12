@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 55080,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "YaboyDeath420"
+        },
+        {
+            "accuracy": 100,
             "score": 54965,
             "difficulty": 3,
             "stars": 6,
@@ -722,6 +730,14 @@
         },
         {
             "accuracy": 99,
+            "score": 48483,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TTV_brody_xd"
+        },
+        {
+            "accuracy": 99,
             "score": 48472,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "GeorgeNcognito"
-        },
-        {
-            "accuracy": 100,
-            "score": 48050,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TS_Frostyy_"
-        },
-        {
-            "accuracy": 100,
-            "score": 48049,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "vluckyshot"
         }
     ]
 }

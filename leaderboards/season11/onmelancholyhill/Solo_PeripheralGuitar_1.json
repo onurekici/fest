@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 65374,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Xani_En"
+        },
+        {
+            "accuracy": 95,
+            "score": 65342,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Shiki-j"
+        },
+        {
             "accuracy": 99,
             "score": 65263,
             "difficulty": 2,
@@ -247,6 +263,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DizzyCitrus"
+        },
+        {
+            "accuracy": 94,
+            "score": 62985,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KlutchMuchKuz"
         },
         {
             "accuracy": 91,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SRejected"
-        },
-        {
-            "accuracy": 95,
-            "score": 60506,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "urpalcoin"
-        },
-        {
-            "accuracy": 90,
-            "score": 60503,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GefroNJZ"
-        },
-        {
-            "accuracy": 88,
-            "score": 60432,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Little Lizzer"
         }
     ]
 }

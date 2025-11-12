@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 222396,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FrostLadyD"
+        },
+        {
+            "accuracy": 99,
+            "score": 222384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sinigami4276"
+        },
+        {
+            "accuracy": 100,
             "score": 222348,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Fioirs"
-        },
-        {
-            "accuracy": 99,
-            "score": 219312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheUnnamedKnight"
-        },
-        {
-            "accuracy": 99,
-            "score": 219312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sfrost72"
         }
     ]
 }

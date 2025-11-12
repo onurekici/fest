@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 54575,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jawtchua"
+        },
+        {
             "accuracy": 100,
             "score": 54002,
             "difficulty": 2,
@@ -319,6 +327,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ViZaunita"
+        },
+        {
+            "accuracy": 100,
+            "score": 46769,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AustinCole57"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "wagonstealer101"
-        },
-        {
-            "accuracy": 100,
-            "score": 42363,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "GamerBoyke4ever"
-        },
-        {
-            "accuracy": 100,
-            "score": 42348,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "GoldenJim10"
         }
     ]
 }

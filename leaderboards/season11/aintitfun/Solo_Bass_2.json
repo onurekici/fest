@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 250721,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GlooomiFox"
+        },
+        {
+            "accuracy": 99,
+            "score": 250637,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "bobbyd1996"
+        },
+        {
             "accuracy": 99,
             "score": 250624,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Rhomboid_Cola52"
-        },
-        {
-            "accuracy": 100,
-            "score": 246709,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "StunV2"
-        },
-        {
-            "accuracy": 99,
-            "score": 246676,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Knightly_Weeb"
         }
     ]
 }

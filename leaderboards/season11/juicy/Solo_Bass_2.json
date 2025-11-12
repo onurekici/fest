@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 130410,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LodoDmodo"
+        },
+        {
+            "accuracy": 99,
             "score": 130365,
             "difficulty": 3,
             "stars": 6,
@@ -47,6 +55,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WarPigs1970"
+        },
+        {
+            "accuracy": 100,
+            "score": 130243,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kata235-"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Baby_Cakes2007"
-        },
-        {
-            "accuracy": 100,
-            "score": 126635,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "0range_spidercat"
-        },
-        {
-            "accuracy": 99,
-            "score": 126629,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bingo-Spingo"
         }
     ]
 }

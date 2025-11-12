@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 246709,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "StunV2"
+        },
+        {
+            "accuracy": 99,
+            "score": 246676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Knightly_Weeb"
+        },
+        {
             "accuracy": 99,
             "score": 246645,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ZeroPanic70"
-        },
-        {
-            "accuracy": 100,
-            "score": 243503,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Affinityx420"
-        },
-        {
-            "accuracy": 100,
-            "score": 243312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Six Paths Mong"
         }
     ]
 }

@@ -130,6 +130,14 @@
         },
         {
             "accuracy": 100,
+            "score": 86886,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Major Yahtzee"
+        },
+        {
+            "accuracy": 100,
             "score": 86377,
             "difficulty": 3,
             "stars": 6,
@@ -681,6 +689,14 @@
             "userName": "[XBL] xAlphaCenturion"
         },
         {
+            "accuracy": 99,
+            "score": 66863,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Toastyr_"
+        },
+        {
             "accuracy": 98,
             "score": 66088,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ghost-Button_09"
-        },
-        {
-            "accuracy": 99,
-            "score": 60941,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Noirrosestar"
-        },
-        {
-            "accuracy": 99,
-            "score": 60655,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Musa_m98"
         }
     ]
 }

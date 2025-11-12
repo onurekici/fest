@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 176178,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DarioFPS"
+        },
+        {
+            "accuracy": 100,
+            "score": 176172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MattElstiq"
+        },
+        {
             "accuracy": 100,
             "score": 176154,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tsak970"
-        },
-        {
-            "accuracy": 100,
-            "score": 174060,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RealMulchiePug"
-        },
-        {
-            "accuracy": 99,
-            "score": 174060,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "THE IKUSA"
         }
     ]
 }

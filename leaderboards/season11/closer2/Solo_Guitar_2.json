@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130831,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Carol Cattan"
+        },
+        {
+            "accuracy": 99,
+            "score": 130816,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "seatqueen97"
+        },
+        {
+            "accuracy": 100,
             "score": 130756,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Djustin34"
-        },
-        {
-            "accuracy": 100,
-            "score": 128857,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NobleBleu"
-        },
-        {
-            "accuracy": 100,
-            "score": 128773,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "rupincoolfriend"
         }
     ]
 }

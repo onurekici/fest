@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 65346,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Demon3Mangos"
+        },
+        {
             "accuracy": 99,
             "score": 65334,
             "difficulty": 3,
@@ -287,6 +295,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "0kami_Kuro"
+        },
+        {
+            "accuracy": 100,
+            "score": 64740,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZeniMonkey"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Misaki0_"
-        },
-        {
-            "accuracy": 99,
-            "score": 63828,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PeaPhoenix33"
-        },
-        {
-            "accuracy": 100,
-            "score": 63816,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RoK_Tanaka"
         }
     ]
 }

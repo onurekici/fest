@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 94893,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Fraustega"
+        },
+        {
+            "accuracy": 98,
+            "score": 94887,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Hypa64"
+        },
+        {
             "accuracy": 98,
             "score": 94633,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "s0ulman4evr"
-        },
-        {
-            "accuracy": 99,
-            "score": 73843,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DoTheDooley"
-        },
-        {
-            "accuracy": 100,
-            "score": 73748,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Goesasu"
         }
     ]
 }

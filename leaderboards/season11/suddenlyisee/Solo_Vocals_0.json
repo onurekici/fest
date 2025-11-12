@@ -242,6 +242,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123311,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Stephie_boo"
+        },
+        {
+            "accuracy": 100,
             "score": 123249,
             "difficulty": 3,
             "stars": 6,
@@ -601,6 +609,14 @@
             "userName": "อมรเทพสองกำมิด"
         },
         {
+            "accuracy": 99,
+            "score": 115863,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kae_Supai"
+        },
+        {
             "accuracy": 100,
             "score": 115787,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "avaberries"
-        },
-        {
-            "accuracy": 99,
-            "score": 111432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HM Sonches"
-        },
-        {
-            "accuracy": 99,
-            "score": 111431,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Maur Maur ii"
         }
     ]
 }

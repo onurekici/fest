@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 53205,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Liozeus"
+        },
+        {
             "accuracy": 90,
             "score": 52800,
             "difficulty": 2,
@@ -303,6 +311,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Moody.00"
+        },
+        {
+            "accuracy": 100,
+            "score": 43323,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "rusbell.melo"
         },
         {
             "accuracy": 92,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "B0X_TR0LL"
-        },
-        {
-            "accuracy": 89,
-            "score": 38039,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "MyBellyRolls"
-        },
-        {
-            "accuracy": 99,
-            "score": 37950,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "teflonfrog"
         }
     ]
 }

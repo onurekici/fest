@@ -586,6 +586,14 @@
         },
         {
             "accuracy": 100,
+            "score": 33894,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Rubicovski"
+        },
+        {
+            "accuracy": 100,
             "score": 33610,
             "difficulty": 1,
             "stars": 5,
@@ -737,6 +745,14 @@
             "userName": "GhostsAreSpooky"
         },
         {
+            "accuracy": 99,
+            "score": 30008,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "wernerhundrainer"
+        },
+        {
             "accuracy": 98,
             "score": 29907,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[PSN] tornadomarkus"
-        },
-        {
-            "accuracy": 99,
-            "score": 28823,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TurtleTimmerson"
-        },
-        {
-            "accuracy": 93,
-            "score": 28512,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Romajely"
         }
     ]
 }

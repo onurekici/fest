@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 65406,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Lyagushka_жаба"
+        },
+        {
+            "accuracy": 92,
+            "score": 64902,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "theeFubu"
+        },
+        {
             "accuracy": 95,
             "score": 64650,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "sougamoto"
-        },
-        {
-            "accuracy": 99,
-            "score": 48805,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Luciis92"
-        },
-        {
-            "accuracy": 100,
-            "score": 48770,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "CarsAttack7"
         }
     ]
 }

@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 60724,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Naaomicote28"
+        },
+        {
             "accuracy": 99,
             "score": 60470,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "C_gull_"
+        },
+        {
+            "accuracy": 100,
+            "score": 60467,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Blaze182011"
         },
         {
             "accuracy": 99,
@@ -159,6 +175,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SpecialCakeAlert"
+        },
+        {
+            "accuracy": 99,
+            "score": 58073,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "awkippie"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "toujours-plus"
-        },
-        {
-            "accuracy": 99,
-            "score": 44760,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "renatosan12"
-        },
-        {
-            "accuracy": 96,
-            "score": 44661,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Sithking25"
-        },
-        {
-            "accuracy": 97,
-            "score": 44573,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MariXMafia"
         }
     ]
 }

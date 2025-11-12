@@ -410,6 +410,14 @@
         },
         {
             "accuracy": 100,
+            "score": 171630,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DaCableGuy"
+        },
+        {
+            "accuracy": 100,
             "score": 171606,
             "difficulty": 3,
             "stars": 6,
@@ -495,14 +503,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Taji愛のない"
-        },
-        {
-            "accuracy": 100,
-            "score": 171282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DaCableGuy"
         },
         {
             "accuracy": 100,
@@ -793,12 +793,12 @@
             "userName": "ilikekittens82"
         },
         {
-            "accuracy": 99,
+            "accuracy": 100,
             "score": 170352,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "tristan40b"
+            "fullcombo": true,
+            "userName": "I_Like_Rushing_"
         }
     ]
 }

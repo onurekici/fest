@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 119738,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kodiakus21"
+        },
+        {
             "accuracy": 97,
             "score": 119715,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Llama2128"
-        },
-        {
-            "accuracy": 85,
-            "score": 87882,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "masked_acid"
         }
     ]
 }

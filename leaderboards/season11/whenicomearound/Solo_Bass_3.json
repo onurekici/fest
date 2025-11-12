@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 150400,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Paulo Maike"
+        },
+        {
+            "accuracy": 99,
+            "score": 150233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TigaTiga25"
+        },
+        {
             "accuracy": 99,
             "score": 150020,
             "difficulty": 3,
@@ -191,6 +207,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kefe56"
+        },
+        {
+            "accuracy": 99,
+            "score": 146663,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Til3005v"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "alegre_mamut858"
-        },
-        {
-            "accuracy": 99,
-            "score": 131760,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Vilify-_-"
-        },
-        {
-            "accuracy": 98,
-            "score": 131533,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ValeTrve"
-        },
-        {
-            "accuracy": 98,
-            "score": 131478,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ChunkyMonkey179"
         }
     ]
 }

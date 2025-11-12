@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 84888,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HiroPinto"
+        },
+        {
+            "accuracy": 100,
+            "score": 84834,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DEVIN_STUDIOS"
+        },
+        {
             "accuracy": 99,
             "score": 84762,
             "difficulty": 3,
@@ -47,14 +63,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ᴷⁿⁱᵍʰᵗʇ"
-        },
-        {
-            "accuracy": 99,
-            "score": 84312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Purplegluesnack"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FerociousFIippy"
-        },
-        {
-            "accuracy": 100,
-            "score": 76315,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "astrid_warrior"
         }
     ]
 }

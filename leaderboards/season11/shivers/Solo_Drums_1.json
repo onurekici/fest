@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 110364,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "omage86"
+        },
+        {
             "accuracy": 93,
             "score": 108348,
             "difficulty": 3,
@@ -223,6 +231,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "CoyoteXO247"
+        },
+        {
+            "accuracy": 100,
+            "score": 86345,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DukeAndDestroy72"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "TommyTomThomas50"
-        },
-        {
-            "accuracy": 85,
-            "score": 45306,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Witch_Beatrice"
-        },
-        {
-            "accuracy": 92,
-            "score": 44180,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Silverstar71"
         }
     ]
 }

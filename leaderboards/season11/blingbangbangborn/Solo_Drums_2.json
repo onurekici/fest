@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 136428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NeMo Furry"
+        },
+        {
+            "accuracy": 100,
             "score": 136092,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "tr4mpo"
-        },
-        {
-            "accuracy": 100,
-            "score": 133146,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DuffmanBFG"
         }
     ]
 }

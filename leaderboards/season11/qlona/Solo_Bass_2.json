@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 31273,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TINYBUGGORL"
+        },
+        {
             "accuracy": 98,
             "score": 31142,
             "difficulty": 3,
@@ -193,6 +201,14 @@
             "userName": "Viera_0"
         },
         {
+            "accuracy": 98,
+            "score": 28149,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Starving_artist9"
+        },
+        {
             "accuracy": 95,
             "score": 27896,
             "difficulty": 3,
@@ -343,6 +359,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "griggus420"
+        },
+        {
+            "accuracy": 99,
+            "score": 25015,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KunaPR"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "TheKiller6255"
-        },
-        {
-            "accuracy": 94,
-            "score": 18530,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Crispin2001K"
-        },
-        {
-            "accuracy": 100,
-            "score": 18517,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ala_lu"
-        },
-        {
-            "accuracy": 100,
-            "score": 18449,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MootNutria2"
         }
     ]
 }

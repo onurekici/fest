@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 96810,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Calli_G19"
+        },
+        {
+            "accuracy": 100,
+            "score": 96798,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nobodyrot"
+        },
+        {
             "accuracy": 99,
             "score": 96768,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "444underscore444"
-        },
-        {
-            "accuracy": 100,
-            "score": 94440,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "knothic"
-        },
-        {
-            "accuracy": 99,
-            "score": 94422,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lilsunli_"
         }
     ]
 }

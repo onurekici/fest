@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 72395,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "IntellectuaIApe"
+        },
+        {
+            "accuracy": 98,
             "score": 71615,
             "difficulty": 1,
             "stars": 5,
@@ -265,6 +273,14 @@
             "userName": "mstercastl"
         },
         {
+            "accuracy": 91,
+            "score": 55355,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "nagiwito"
+        },
+        {
             "accuracy": 97,
             "score": 55075,
             "difficulty": 1,
@@ -359,6 +375,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "INSANE727"
+        },
+        {
+            "accuracy": 96,
+            "score": 49640,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Spamzilla_yourip"
         },
         {
             "accuracy": 88,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "IcyDawn6606"
-        },
-        {
-            "accuracy": 87,
-            "score": 26960,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Zoulister"
-        },
-        {
-            "accuracy": 86,
-            "score": 26375,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "AmbarXion"
-        },
-        {
-            "accuracy": 98,
-            "score": 26360,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ccihanburakk"
         }
     ]
 }

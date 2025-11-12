@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 78909,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Saft_Dapper"
+        },
+        {
+            "accuracy": 100,
             "score": 78902,
             "difficulty": 3,
             "stars": 6,
@@ -761,6 +769,14 @@
             "userName": "hansotex"
         },
         {
+            "accuracy": 100,
+            "score": 77133,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RedViper19666"
+        },
+        {
             "accuracy": 99,
             "score": 77109,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Maarten Requiem"
-        },
-        {
-            "accuracy": 100,
-            "score": 76978,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Foxx_Ryder"
-        },
-        {
-            "accuracy": 100,
-            "score": 76920,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "420CursedEchoes"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 82200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "schmell_"
+        },
+        {
+            "accuracy": 100,
             "score": 82169,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FwenchiCwoissant"
-        },
-        {
-            "accuracy": 99,
-            "score": 79592,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SailorPeachy_"
         }
     ]
 }

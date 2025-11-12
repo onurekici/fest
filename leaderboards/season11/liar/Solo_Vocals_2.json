@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123280,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TaisGoodGirl"
+        },
+        {
+            "accuracy": 99,
+            "score": 123211,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "chëřřÿ"
+        },
+        {
+            "accuracy": 100,
+            "score": 123037,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Renowndmoonlight"
+        },
+        {
+            "accuracy": 100,
             "score": 123017,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Storm_Shatterer"
-        },
-        {
-            "accuracy": 99,
-            "score": 116443,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WolfSpark 343"
-        },
-        {
-            "accuracy": 98,
-            "score": 116288,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rodent Destroyer"
-        },
-        {
-            "accuracy": 99,
-            "score": 116280,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MegaMichatronk"
         }
     ]
 }

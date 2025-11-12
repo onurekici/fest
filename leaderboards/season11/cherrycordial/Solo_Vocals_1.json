@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 179027,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Texthebeast01"
+        },
+        {
+            "accuracy": 100,
             "score": 178995,
             "difficulty": 3,
             "stars": 6,
@@ -601,6 +609,14 @@
             "userName": "Alcroteau"
         },
         {
+            "accuracy": 99,
+            "score": 174901,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SlothRiver"
+        },
+        {
             "accuracy": 100,
             "score": 174888,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "shinydw"
-        },
-        {
-            "accuracy": 100,
-            "score": 173155,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Myapieyaa"
-        },
-        {
-            "accuracy": 100,
-            "score": 173005,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KiwiFritz"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 197025,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PipaPuks"
+        },
+        {
+            "accuracy": 100,
+            "score": 197011,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dem3z"
+        },
+        {
+            "accuracy": 100,
+            "score": 197000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "I am a baka"
+        },
+        {
             "accuracy": 100,
             "score": 196998,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ξlisa"
-        },
-        {
-            "accuracy": 100,
-            "score": 195740,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "little-weazel"
-        },
-        {
-            "accuracy": 99,
-            "score": 195736,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SlingingSlashR"
-        },
-        {
-            "accuracy": 100,
-            "score": 195732,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jay-bird"
         }
     ]
 }

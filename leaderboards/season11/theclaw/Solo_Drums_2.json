@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 65075,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Olfio_81"
+        },
+        {
+            "accuracy": 98,
+            "score": 65030,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TastyFluoride"
+        },
+        {
             "accuracy": 97,
             "score": 64855,
             "difficulty": 2,
@@ -761,6 +777,14 @@
             "userName": "Bret Sedgwick"
         },
         {
+            "accuracy": 99,
+            "score": 52210,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BruunoVSO"
+        },
+        {
             "accuracy": 95,
             "score": 52075,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Volt2122"
-        },
-        {
-            "accuracy": 95,
-            "score": 51798,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Ailstair 6743"
-        },
-        {
-            "accuracy": 99,
-            "score": 51770,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "YT Dudes Parsons"
-        },
-        {
-            "accuracy": 97,
-            "score": 51670,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SpibbleDribs"
         }
     ]
 }

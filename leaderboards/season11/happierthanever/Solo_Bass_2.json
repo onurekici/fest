@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 46087,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WolverineDawn"
+        },
+        {
+            "accuracy": 100,
+            "score": 46060,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ColossalSQUlD"
+        },
+        {
             "accuracy": 100,
             "score": 46046,
             "difficulty": 2,
@@ -327,6 +343,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ProxyReject"
+        },
+        {
+            "accuracy": 100,
+            "score": 44697,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SallyStitches3"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "MrSteggle"
-        },
-        {
-            "accuracy": 100,
-            "score": 42664,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Schatzili_13"
-        },
-        {
-            "accuracy": 100,
-            "score": 42639,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kamillysantoss"
-        },
-        {
-            "accuracy": 100,
-            "score": 42635,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Xing.lii"
         }
     ]
 }

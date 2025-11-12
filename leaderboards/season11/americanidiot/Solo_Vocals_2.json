@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 73249,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "zuknut"
+        },
+        {
+            "accuracy": 100,
+            "score": 73208,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "hevenslasthope3"
+        },
+        {
             "accuracy": 100,
             "score": 73198,
             "difficulty": 3,
@@ -47,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tonyh_1994"
+        },
+        {
+            "accuracy": 100,
+            "score": 73101,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kovuraa"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DEMONRAZORD91"
-        },
-        {
-            "accuracy": 100,
-            "score": 68404,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MelodyMae1"
-        },
-        {
-            "accuracy": 99,
-            "score": 68389,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FrostySuits"
-        },
-        {
-            "accuracy": 99,
-            "score": 68374,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "tidy-ripple"
         }
     ]
 }

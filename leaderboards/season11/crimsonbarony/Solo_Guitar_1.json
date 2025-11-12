@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 55323,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Graci_143"
+        },
+        {
             "accuracy": 99,
             "score": 55291,
             "difficulty": 3,
@@ -207,6 +215,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LOZZA DB"
+        },
+        {
+            "accuracy": 100,
+            "score": 54406,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fujoshilord420"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "VanSprink"
-        },
-        {
-            "accuracy": 99,
-            "score": 52243,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "chopperteus"
-        },
-        {
-            "accuracy": 99,
-            "score": 52222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "b3lla-ma1"
         }
     ]
 }
