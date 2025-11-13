@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 60459,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "vFase"
+        },
+        {
+            "accuracy": 99,
+            "score": 60431,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PickleRickSander"
+        },
+        {
+            "accuracy": 100,
             "score": 60402,
             "difficulty": 3,
             "stars": 6,
@@ -626,6 +642,14 @@
         },
         {
             "accuracy": 100,
+            "score": 59145,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SchwiftyDayman"
+        },
+        {
+            "accuracy": 100,
             "score": 59128,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AAB_EG"
-        },
-        {
-            "accuracy": 100,
-            "score": 58808,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jaxx83"
-        },
-        {
-            "accuracy": 99,
-            "score": 58779,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TTTorinator"
-        },
-        {
-            "accuracy": 100,
-            "score": 58769,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Arryl"
         }
     ]
 }

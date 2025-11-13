@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 146862,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bamboofled"
+        },
+        {
+            "accuracy": 100,
             "score": 146844,
             "difficulty": 3,
             "stars": 6,
@@ -749,6 +757,14 @@
             "score": 145644,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "The Kintsugi K1d"
+        },
+        {
+            "accuracy": 100,
+            "score": 145644,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "Pharõ"
         },
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "alibirch16"
-        },
-        {
-            "accuracy": 100,
-            "score": 145548,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ChipTheRebel"
-        },
-        {
-            "accuracy": 100,
-            "score": 145542,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wandinha Addamz"
         }
     ]
 }

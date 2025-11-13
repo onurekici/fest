@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 229723,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Heroic Vigilante"
+        },
+        {
             "accuracy": 99,
             "score": 229670,
             "difficulty": 3,
@@ -183,6 +191,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Gang_ster3455"
+        },
+        {
+            "accuracy": 99,
+            "score": 228986,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dyllie_Dally"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "I-Arjay-I"
-        },
-        {
-            "accuracy": 100,
-            "score": 227006,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Always_Derpy"
-        },
-        {
-            "accuracy": 100,
-            "score": 226970,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EstrellaPreciado"
         }
     ]
 }

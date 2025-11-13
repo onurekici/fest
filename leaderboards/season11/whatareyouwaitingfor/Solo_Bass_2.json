@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 52491,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ph0quer"
+        },
+        {
+            "accuracy": 98,
+            "score": 51805,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "yogicipton"
+        },
+        {
+            "accuracy": 99,
+            "score": 51773,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "saint.exe1"
+        },
+        {
             "accuracy": 98,
             "score": 51730,
             "difficulty": 3,
@@ -111,6 +135,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Chairface2"
+        },
+        {
+            "accuracy": 99,
+            "score": 49829,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Banyanners"
         },
         {
             "accuracy": 99,
@@ -481,14 +513,6 @@
             "userName": "II Atsu II"
         },
         {
-            "accuracy": 82,
-            "score": 39411,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "KGBCROCO"
-        },
-        {
             "accuracy": 100,
             "score": 39271,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "AssistantBoa399"
-        },
-        {
-            "accuracy": 98,
-            "score": 31200,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lizzie.Moon"
-        },
-        {
-            "accuracy": 93,
-            "score": 31021,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Noyou_420"
-        },
-        {
-            "accuracy": 97,
-            "score": 30557,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sleepy_Barbarian"
         }
     ]
 }

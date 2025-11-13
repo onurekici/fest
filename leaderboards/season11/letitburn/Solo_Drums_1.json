@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 137760,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fnkindasucks"
+        },
+        {
+            "accuracy": 100,
             "score": 137676,
             "difficulty": 3,
             "stars": 6,
@@ -361,6 +369,14 @@
             "userName": "CheshireMafia"
         },
         {
+            "accuracy": 99,
+            "score": 135708,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LordEntelol"
+        },
+        {
             "accuracy": 100,
             "score": 135666,
             "difficulty": 3,
@@ -383,6 +399,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ChunkyRam"
+        },
+        {
+            "accuracy": 99,
+            "score": 135498,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jennnn96"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GardenGnomeGames"
-        },
-        {
-            "accuracy": 99,
-            "score": 132924,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "IceStakey"
-        },
-        {
-            "accuracy": 100,
-            "score": 132876,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "津久里せんと"
-        },
-        {
-            "accuracy": 100,
-            "score": 132816,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Siana-xo"
         }
     ]
 }

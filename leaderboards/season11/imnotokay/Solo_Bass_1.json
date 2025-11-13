@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 218112,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RyanSnow25"
+        },
+        {
+            "accuracy": 99,
+            "score": 217902,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ElFred_48"
+        },
+        {
+            "accuracy": 100,
             "score": 217872,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Chez_Piggy"
-        },
-        {
-            "accuracy": 99,
-            "score": 212574,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TacticalNavi"
-        },
-        {
-            "accuracy": 100,
-            "score": 212568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mellow_Magic_"
         }
     ]
 }

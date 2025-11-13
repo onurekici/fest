@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125284,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "weetbix02"
+        },
+        {
+            "accuracy": 99,
+            "score": 125278,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hladych"
+        },
+        {
+            "accuracy": 100,
             "score": 125253,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "p1r4mbu"
-        },
-        {
-            "accuracy": 100,
-            "score": 123651,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FabMonster"
-        },
-        {
-            "accuracy": 100,
-            "score": 123636,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CupidDBD"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 206808,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TRAVIS SUKOTTO"
+        },
+        {
+            "accuracy": 100,
+            "score": 206801,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "putangyna"
+        },
+        {
             "accuracy": 99,
             "score": 206783,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "nooooxz"
-        },
-        {
-            "accuracy": 100,
-            "score": 203544,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sly-Rat"
-        },
-        {
-            "accuracy": 99,
-            "score": 203481,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "orinlovemail"
         }
     ]
 }

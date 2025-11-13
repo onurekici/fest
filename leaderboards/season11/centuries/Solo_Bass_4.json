@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 111641,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ShortBit"
+        },
+        {
+            "accuracy": 99,
+            "score": 111599,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DekuOzMaster117"
+        },
+        {
+            "accuracy": 100,
             "score": 111597,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Beddora04"
-        },
-        {
-            "accuracy": 99,
-            "score": 109732,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hunterblake1"
-        },
-        {
-            "accuracy": 100,
-            "score": 109720,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bhigorna"
         }
     ]
 }

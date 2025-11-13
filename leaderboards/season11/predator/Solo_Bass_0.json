@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 150539,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MarioFan1993"
+        },
+        {
+            "accuracy": 100,
             "score": 141592,
             "difficulty": 3,
             "stars": 6,
@@ -111,6 +119,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ReceWazX01"
+        },
+        {
+            "accuracy": 99,
+            "score": 124787,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Spec.Yo"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Tanja_Quinn"
-        },
-        {
-            "accuracy": 99,
-            "score": 99743,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "duh_homie_b"
-        },
-        {
-            "accuracy": 99,
-            "score": 99578,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MiztressMoon"
         }
     ]
 }

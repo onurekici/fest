@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 205273,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "playerPURPL3"
+        },
+        {
             "accuracy": 100,
             "score": 205196,
             "difficulty": 3,
@@ -586,6 +594,14 @@
         },
         {
             "accuracy": 100,
+            "score": 200689,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Purple_Link"
+        },
+        {
+            "accuracy": 100,
             "score": 200618,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mudrax"
-        },
-        {
-            "accuracy": 99,
-            "score": 199189,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mr.Kuabster"
-        },
-        {
-            "accuracy": 99,
-            "score": 199182,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Draconian D3vil"
         }
     ]
 }

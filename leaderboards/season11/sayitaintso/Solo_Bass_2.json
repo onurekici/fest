@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 109724,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SunsingerWarlock"
+        },
+        {
+            "accuracy": 100,
+            "score": 109717,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Atherillos"
+        },
+        {
             "accuracy": 100,
             "score": 109716,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "hotaruika05"
-        },
-        {
-            "accuracy": 100,
-            "score": 107857,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MC_CHicK_MP4"
-        },
-        {
-            "accuracy": 100,
-            "score": 107835,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HypnoMushroom"
         }
     ]
 }

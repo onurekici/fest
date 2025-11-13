@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 65177,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DeeNnoitra"
+        },
+        {
             "accuracy": 99,
             "score": 65140,
             "difficulty": 3,
@@ -626,6 +634,14 @@
         },
         {
             "accuracy": 100,
+            "score": 61777,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "uravitykisser"
+        },
+        {
+            "accuracy": 100,
             "score": 61765,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lexcor200"
-        },
-        {
-            "accuracy": 99,
-            "score": 61128,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "axelman71"
-        },
-        {
-            "accuracy": 99,
-            "score": 61112,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Aloy_2048"
         }
     ]
 }

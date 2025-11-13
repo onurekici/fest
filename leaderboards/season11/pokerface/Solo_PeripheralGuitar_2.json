@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 89749,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Draconize"
+        },
+        {
             "accuracy": 98,
             "score": 89629,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Stromligth64"
-        },
-        {
-            "accuracy": 98,
-            "score": 72749,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JoseAnguizola"
         }
     ]
 }

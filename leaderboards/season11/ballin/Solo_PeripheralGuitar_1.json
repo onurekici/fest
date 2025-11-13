@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 96532,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "finlopp"
+        },
+        {
             "accuracy": 98,
             "score": 96490,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TheFurnaceKnight"
-        },
-        {
-            "accuracy": 100,
-            "score": 72942,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SkullySG"
         }
     ]
 }

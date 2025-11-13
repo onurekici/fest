@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 24018,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Its Brode"
+        },
+        {
             "accuracy": 97,
             "score": 24018,
             "difficulty": 3,
@@ -137,6 +145,14 @@
             "userName": "rockbot5"
         },
         {
+            "accuracy": 99,
+            "score": 22872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Aadi_Rug"
+        },
+        {
             "accuracy": 100,
             "score": 22835,
             "difficulty": 2,
@@ -191,6 +207,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "[PSN] QuasarMaker"
+        },
+        {
+            "accuracy": 100,
+            "score": 22605,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Zarclaw"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Serenitymay1"
-        },
-        {
-            "accuracy": 99,
-            "score": 20022,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "vøÿd"
-        },
-        {
-            "accuracy": 97,
-            "score": 19980,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Shubunkin11"
-        },
-        {
-            "accuracy": 98,
-            "score": 19944,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kmkdaniel"
         }
     ]
 }

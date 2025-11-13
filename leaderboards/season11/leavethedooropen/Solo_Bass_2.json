@@ -2,19 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125063,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tragic_slushy"
+        },
+        {
+            "accuracy": 99,
+            "score": 125035,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SithRaccoon爱"
+        },
+        {
+            "accuracy": 100,
             "score": 124984,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "RatonVaquerouwu"
-        },
-        {
-            "accuracy": 100,
-            "score": 124979,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "unvaxx"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "familienglad"
-        },
-        {
-            "accuracy": 100,
-            "score": 119482,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CSF Central"
         }
     ]
 }

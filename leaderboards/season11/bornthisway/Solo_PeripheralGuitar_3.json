@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 93532,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BalsamicPen"
+        },
+        {
+            "accuracy": 84,
+            "score": 93445,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "itsLolmaniac"
+        },
+        {
             "accuracy": 97,
             "score": 93169,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Megamanboii"
-        },
-        {
-            "accuracy": 98,
-            "score": 73391,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "krystinct2001"
-        },
-        {
-            "accuracy": 92,
-            "score": 73364,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "1m._.Rain"
         }
     ]
 }

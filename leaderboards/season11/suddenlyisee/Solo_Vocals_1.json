@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 111829,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Secretly A Lamp"
+        },
+        {
+            "accuracy": 99,
+            "score": 111592,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "avaberries"
+        },
+        {
             "accuracy": 99,
             "score": 111432,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "OLPHY22"
-        },
-        {
-            "accuracy": 99,
-            "score": 97016,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "superironclaws"
-        },
-        {
-            "accuracy": 98,
-            "score": 96708,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "azzyraphale222"
         }
     ]
 }

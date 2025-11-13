@@ -98,6 +98,14 @@
         },
         {
             "accuracy": 99,
+            "score": 123312,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PuRe Pretzel"
+        },
+        {
+            "accuracy": 99,
             "score": 123211,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FlashFilm"
-        },
-        {
-            "accuracy": 99,
-            "score": 115404,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ASOT500_RU123"
         }
     ]
 }

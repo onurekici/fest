@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 163890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "stupidsnakes"
+        },
+        {
+            "accuracy": 100,
             "score": 163872,
             "difficulty": 3,
             "stars": 6,
@@ -698,6 +706,14 @@
         },
         {
             "accuracy": 99,
+            "score": 160248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WilPump0"
+        },
+        {
+            "accuracy": 99,
             "score": 160236,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GioJotaro"
-        },
-        {
-            "accuracy": 99,
-            "score": 159564,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jtrane33879"
-        },
-        {
-            "accuracy": 99,
-            "score": 159522,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Devary"
         }
     ]
 }

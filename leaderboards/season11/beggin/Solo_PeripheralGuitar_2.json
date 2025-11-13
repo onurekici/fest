@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 128828,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "HunterMagnet"
+        },
+        {
             "accuracy": 97,
             "score": 128536,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "LemonSqueezeVEVO"
-        },
-        {
-            "accuracy": 95,
-            "score": 115665,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dark_Shadows235"
         }
     ]
 }

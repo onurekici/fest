@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 86833,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-88e37eb38c"
+        },
+        {
             "accuracy": 100,
             "score": 86830,
             "difficulty": 3,
@@ -754,6 +762,14 @@
         },
         {
             "accuracy": 100,
+            "score": 86222,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mangofandango42"
+        },
+        {
+            "accuracy": 100,
             "score": 86215,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Missayee"
-        },
-        {
-            "accuracy": 99,
-            "score": 86183,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LongviewMan"
-        },
-        {
-            "accuracy": 99,
-            "score": 86182,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PraiseBeFenrir"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 232722,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Iguana Albina"
+        },
+        {
             "accuracy": 100,
             "score": 232688,
             "difficulty": 3,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Swaggxxy"
+        },
+        {
+            "accuracy": 100,
+            "score": 232326,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MarkusPumpkin"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ric_MS"
-        },
-        {
-            "accuracy": 100,
-            "score": 228284,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Cirrus."
-        },
-        {
-            "accuracy": 100,
-            "score": 228186,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "2005-Sam"
         }
     ]
 }

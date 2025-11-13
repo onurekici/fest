@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 200934,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Va1aron"
+        },
+        {
+            "accuracy": 100,
+            "score": 200874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nepes.is"
+        },
+        {
             "accuracy": 100,
             "score": 200760,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KrystalKresnik"
-        },
-        {
-            "accuracy": 100,
-            "score": 190572,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tokyo no Kumo"
-        },
-        {
-            "accuracy": 100,
-            "score": 190524,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "newangel13"
         }
     ]
 }

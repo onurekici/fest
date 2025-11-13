@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 40639,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "taylorthesir"
+        },
+        {
+            "accuracy": 98,
+            "score": 40639,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Karaenerys"
+        },
+        {
+            "accuracy": 99,
+            "score": 40560,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "hlnvlln"
+        },
+        {
             "accuracy": 99,
             "score": 40483,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Jednohubka"
-        },
-        {
-            "accuracy": 100,
-            "score": 36959,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "xXatanne441Xx"
-        },
-        {
-            "accuracy": 100,
-            "score": 36951,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Demolidor TTT"
-        },
-        {
-            "accuracy": 99,
-            "score": 36946,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ptsi52"
         }
     ]
 }

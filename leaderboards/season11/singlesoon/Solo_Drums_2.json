@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 127524,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jannik Nors"
+        },
+        {
+            "accuracy": 100,
             "score": 127476,
             "difficulty": 3,
             "stars": 6,
@@ -263,6 +271,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "valraeemar"
+        },
+        {
+            "accuracy": 99,
+            "score": 126438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "geekhi"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Novato990"
-        },
-        {
-            "accuracy": 99,
-            "score": 124092,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ʚjazziebugɞ"
-        },
-        {
-            "accuracy": 100,
-            "score": 124062,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dethklok9601"
         }
     ]
 }

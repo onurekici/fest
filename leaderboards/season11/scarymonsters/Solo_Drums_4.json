@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 204720,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chef Adachi"
+        },
+        {
+            "accuracy": 99,
+            "score": 204720,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GusionPaxleyML"
+        },
+        {
+            "accuracy": 100,
             "score": 204708,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "anikk003"
-        },
-        {
-            "accuracy": 99,
-            "score": 203586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BeanBrook"
-        },
-        {
-            "accuracy": 100,
-            "score": 203586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "iLyric"
         }
     ]
 }

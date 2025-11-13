@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 170154,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "EchoOfMystery"
+        },
+        {
             "accuracy": 100,
             "score": 170154,
             "difficulty": 3,
@@ -722,6 +730,14 @@
         },
         {
             "accuracy": 100,
+            "score": 167592,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CustomsGaming"
+        },
+        {
+            "accuracy": 100,
             "score": 167586,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ExpertJulian"
-        },
-        {
-            "accuracy": 100,
-            "score": 167463,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Totalorphan"
-        },
-        {
-            "accuracy": 100,
-            "score": 167422,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FadeToBlack4480"
         }
     ]
 }

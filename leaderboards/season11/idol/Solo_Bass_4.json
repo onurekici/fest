@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 154941,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "うさみ ころ"
+        },
+        {
+            "accuracy": 100,
+            "score": 154915,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nugget200"
+        },
+        {
             "accuracy": 100,
             "score": 154899,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "aether_iron"
-        },
-        {
-            "accuracy": 100,
-            "score": 151282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Venomous.Serpent"
-        },
-        {
-            "accuracy": 100,
-            "score": 151103,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Panarck"
         }
     ]
 }

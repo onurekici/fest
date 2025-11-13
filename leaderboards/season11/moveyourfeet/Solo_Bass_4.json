@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 73590,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "doctor_1031"
+        },
+        {
             "accuracy": 99,
             "score": 73589,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Luc4s F4gundes"
-        },
-        {
-            "accuracy": 100,
-            "score": 71816,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DarthKermit13"
         }
     ]
 }

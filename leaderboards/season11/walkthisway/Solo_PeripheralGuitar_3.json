@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 151475,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Black Zadock"
+        },
+        {
+            "accuracy": 92,
+            "score": 151133,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ColtonsBull"
+        },
+        {
             "accuracy": 92,
             "score": 151114,
             "difficulty": 3,
@@ -681,6 +697,14 @@
             "userName": "Wh1teGuyFromD12"
         },
         {
+            "accuracy": 98,
+            "score": 124892,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dokkoishi"
+        },
+        {
             "accuracy": 91,
             "score": 124822,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "RockyRambos"
-        },
-        {
-            "accuracy": 83,
-            "score": 122447,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Tekky5_11"
-        },
-        {
-            "accuracy": 97,
-            "score": 121665,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AlexSerket"
-        },
-        {
-            "accuracy": 91,
-            "score": 121382,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "BreadGod05"
         }
     ]
 }

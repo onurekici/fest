@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 115502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Twitch Aireiy"
+        },
+        {
+            "accuracy": 100,
             "score": 115223,
             "difficulty": 3,
             "stars": 6,
@@ -273,6 +281,14 @@
             "userName": "Mr.Kuabster"
         },
         {
+            "accuracy": 97,
+            "score": 98630,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ferretmon"
+        },
+        {
             "accuracy": 99,
             "score": 98599,
             "difficulty": 3,
@@ -519,6 +535,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ExtinctPizza163"
+        },
+        {
+            "accuracy": 93,
+            "score": 83764,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Baraapudding"
         },
         {
             "accuracy": 95,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "aninnocentcat"
-        },
-        {
-            "accuracy": 95,
-            "score": 75219,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BIG RIG MARK"
-        },
-        {
-            "accuracy": 93,
-            "score": 73736,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tidiiz"
-        },
-        {
-            "accuracy": 97,
-            "score": 73561,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Eagle_Scout2019"
         }
     ]
 }
