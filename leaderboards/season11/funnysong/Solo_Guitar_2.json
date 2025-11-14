@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 57151,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ごう山"
+        },
+        {
             "accuracy": 98,
             "score": 57142,
             "difficulty": 3,
@@ -737,6 +745,14 @@
             "userName": "tomato1018"
         },
         {
+            "accuracy": 98,
+            "score": 44077,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RollinSmoke1019"
+        },
+        {
             "accuracy": 100,
             "score": 43826,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "nakuna panda_rin"
-        },
-        {
-            "accuracy": 98,
-            "score": 43420,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "pyykonen"
-        },
-        {
-            "accuracy": 100,
-            "score": 43376,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Veyron4472"
         }
     ]
 }

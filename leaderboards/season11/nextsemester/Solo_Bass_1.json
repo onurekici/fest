@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 164470,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "gaypyramidhead"
+        },
+        {
+            "accuracy": 99,
+            "score": 164399,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OhNoItsAnubis"
+        },
+        {
             "accuracy": 99,
             "score": 164273,
             "difficulty": 3,
@@ -223,6 +239,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sushii.salmon"
+        },
+        {
+            "accuracy": 99,
+            "score": 158280,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "palirroia"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RyanTech"
-        },
-        {
-            "accuracy": 100,
-            "score": 144888,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Savitaire"
-        },
-        {
-            "accuracy": 100,
-            "score": 144729,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "XMamakoX"
-        },
-        {
-            "accuracy": 99,
-            "score": 144687,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheCrazyCar"
         }
     ]
 }

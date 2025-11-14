@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 179767,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cat_1995"
+        },
+        {
+            "accuracy": 100,
             "score": 179762,
             "difficulty": 3,
             "stars": 6,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ʀeveri"
+        },
+        {
+            "accuracy": 99,
+            "score": 179219,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PolarPuncha"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "no1 nerd"
-        },
-        {
-            "accuracy": 100,
-            "score": 177449,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SmokinSadStyle"
-        },
-        {
-            "accuracy": 100,
-            "score": 177398,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ausausin"
         }
     ]
 }

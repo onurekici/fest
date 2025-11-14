@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 194715,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "EnguS2"
+        },
+        {
+            "accuracy": 100,
+            "score": 194616,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DoodAfro"
+        },
+        {
+            "accuracy": 99,
             "score": 194382,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AlcaClan"
-        },
-        {
-            "accuracy": 99,
-            "score": 186036,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JugadorDePayday3"
-        },
-        {
-            "accuracy": 99,
-            "score": 185904,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MyParadoxicalMe"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 91333,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Julls408"
+        },
+        {
+            "accuracy": 100,
             "score": 91324,
             "difficulty": 3,
             "stars": 6,
@@ -713,6 +721,14 @@
             "userName": "eripovic.ttv"
         },
         {
+            "accuracy": 99,
+            "score": 88518,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Commonscout"
+        },
+        {
             "accuracy": 100,
             "score": 88512,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Mr.Kuabster"
-        },
-        {
-            "accuracy": 99,
-            "score": 88428,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "oso_HMM"
-        },
-        {
-            "accuracy": 100,
-            "score": 88404,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mattyata_"
         }
     ]
 }

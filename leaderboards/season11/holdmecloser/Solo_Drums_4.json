@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 93324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HarbingerOfHugs"
+        },
+        {
             "accuracy": 99,
             "score": 93318,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ari-jure"
-        },
-        {
-            "accuracy": 99,
-            "score": 91170,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SanRobtoez"
         }
     ]
 }

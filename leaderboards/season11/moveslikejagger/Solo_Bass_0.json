@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 128124,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Melownius"
+        },
+        {
+            "accuracy": 100,
             "score": 125502,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Sofnuuy"
+        },
+        {
+            "accuracy": 100,
+            "score": 123588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ᵀᶦᵏᵀᵒᵏKitKat"
         },
         {
             "accuracy": 100,
@@ -247,6 +263,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GoofyGuyGamesᵀᵀ"
+        },
+        {
+            "accuracy": 99,
+            "score": 97620,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheFunnyMan05"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Wozzywoo"
-        },
-        {
-            "accuracy": 93,
-            "score": 66816,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "crispyplays7667"
-        },
-        {
-            "accuracy": 91,
-            "score": 66774,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "jpbouch"
-        },
-        {
-            "accuracy": 98,
-            "score": 66588,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DynamicRain4412"
         }
     ]
 }

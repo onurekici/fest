@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 109752,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "duck_billed_joe"
+        },
+        {
+            "accuracy": 100,
+            "score": 109752,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "echokillfighter"
+        },
+        {
             "accuracy": 99,
             "score": 109719,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gen.eral.Eric"
-        },
-        {
-            "accuracy": 100,
-            "score": 106041,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ErencioJoaquin"
-        },
-        {
-            "accuracy": 99,
-            "score": 106026,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EggsMcGoof"
         }
     ]
 }

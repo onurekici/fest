@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 186972,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Da6kness"
+        },
+        {
+            "accuracy": 100,
+            "score": 186966,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PapaCarlos_"
+        },
+        {
             "accuracy": 100,
             "score": 186924,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Chicken Spearz"
-        },
-        {
-            "accuracy": 100,
-            "score": 184800,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "StylishStew1092"
-        },
-        {
-            "accuracy": 100,
-            "score": 184776,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EL_rigoberto"
         }
     ]
 }

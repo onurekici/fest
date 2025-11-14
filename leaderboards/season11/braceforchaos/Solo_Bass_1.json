@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 80988,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JKramer89"
+        },
+        {
+            "accuracy": 99,
             "score": 80693,
             "difficulty": 3,
             "stars": 6,
@@ -127,6 +135,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "JuicyLu313"
+        },
+        {
+            "accuracy": 100,
+            "score": 77144,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "worm_slime"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "AdjacentArm5458"
-        },
-        {
-            "accuracy": 94,
-            "score": 61859,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Waitedcamera563"
-        },
-        {
-            "accuracy": 100,
-            "score": 61794,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "nhtl123"
         }
     ]
 }

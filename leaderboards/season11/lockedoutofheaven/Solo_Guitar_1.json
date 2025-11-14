@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 200982,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PhenominalRLB"
+        },
+        {
+            "accuracy": 100,
             "score": 200918,
             "difficulty": 3,
             "stars": 6,
@@ -319,6 +327,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Animated Muckles"
+        },
+        {
+            "accuracy": 100,
+            "score": 199144,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CheBoinkey"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FellowAdvice5105"
-        },
-        {
-            "accuracy": 100,
-            "score": 197069,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Reacher729"
-        },
-        {
-            "accuracy": 99,
-            "score": 197053,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tenacitie"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 181422,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dany-Elaa"
+        },
+        {
+            "accuracy": 100,
+            "score": 181404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FlexingOnDaBlind"
+        },
+        {
             "accuracy": 99,
             "score": 181242,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ernie_1111"
-        },
-        {
-            "accuracy": 99,
-            "score": 169992,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Purplecrypts"
-        },
-        {
-            "accuracy": 99,
-            "score": 169890,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "coolcat297"
         }
     ]
 }

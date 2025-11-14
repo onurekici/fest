@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123348,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UltMage"
+        },
+        {
+            "accuracy": 100,
+            "score": 123327,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Podiwod"
+        },
+        {
+            "accuracy": 100,
             "score": 123315,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JareBear_2069"
-        },
-        {
-            "accuracy": 100,
-            "score": 121851,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kennray"
-        },
-        {
-            "accuracy": 99,
-            "score": 121840,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SoggyMonkei"
         }
     ]
 }

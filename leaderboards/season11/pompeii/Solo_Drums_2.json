@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 189024,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vanes_03"
+        },
+        {
+            "accuracy": 100,
             "score": 189012,
             "difficulty": 3,
             "stars": 6,
@@ -465,6 +473,14 @@
             "userName": "Twitch Larambae"
         },
         {
+            "accuracy": 100,
+            "score": 187668,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Emotionlesszzz"
+        },
+        {
             "accuracy": 99,
             "score": 187668,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "hug songbird"
-        },
-        {
-            "accuracy": 99,
-            "score": 186972,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Da6kness"
-        },
-        {
-            "accuracy": 100,
-            "score": 186966,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PapaCarlos_"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 88428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "oso_HMM"
+        },
+        {
+            "accuracy": 100,
+            "score": 88404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mattyata_"
+        },
+        {
             "accuracy": 100,
             "score": 88374,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Portable_Head"
-        },
-        {
-            "accuracy": 99,
-            "score": 86088,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hoovehh"
-        },
-        {
-            "accuracy": 100,
-            "score": 86071,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "wyy2k"
         }
     ]
 }

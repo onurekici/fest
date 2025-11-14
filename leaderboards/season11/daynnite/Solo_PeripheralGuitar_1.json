@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 148938,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DACOOKIEMONST_R"
+        },
+        {
+            "accuracy": 99,
+            "score": 148758,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Techau"
+        },
+        {
             "accuracy": 99,
             "score": 148674,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "speedbanshee"
-        },
-        {
-            "accuracy": 99,
-            "score": 130782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "VeganSalad64"
-        },
-        {
-            "accuracy": 98,
-            "score": 130734,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GameOver_420XD"
         }
     ]
 }

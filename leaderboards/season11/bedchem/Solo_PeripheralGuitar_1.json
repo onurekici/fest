@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 83060,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "andyhoover"
+        },
+        {
+            "accuracy": 100,
             "score": 83031,
             "difficulty": 3,
             "stars": 6,
@@ -319,6 +327,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "jett_123808"
+        },
+        {
+            "accuracy": 99,
+            "score": 80756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dave_McCoy"
         },
         {
             "accuracy": 97,
@@ -697,14 +713,6 @@
             "userName": "vNunieeOnTikTok"
         },
         {
-            "accuracy": 98,
-            "score": 76613,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dave_McCoy"
-        },
-        {
             "accuracy": 100,
             "score": 76519,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MrGravityBull"
-        },
-        {
-            "accuracy": 99,
-            "score": 75696,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Unsaturated15"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123012,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ryan_Robert"
+        },
+        {
+            "accuracy": 100,
+            "score": 122992,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Staxellion"
+        },
+        {
+            "accuracy": 100,
             "score": 122949,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Th3FirePho3nix"
-        },
-        {
-            "accuracy": 100,
-            "score": 119560,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "durrdy-burrdy"
-        },
-        {
-            "accuracy": 99,
-            "score": 119470,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Alcroteau"
         }
     ]
 }

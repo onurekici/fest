@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 101076,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Theleansphinx"
+        },
+        {
             "accuracy": 99,
             "score": 101058,
             "difficulty": 3,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Bye bye for now"
+        },
+        {
+            "accuracy": 99,
+            "score": 100278,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Marttina_S"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Brandon9489"
-        },
-        {
-            "accuracy": 99,
-            "score": 98928,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RecklessMando"
-        },
-        {
-            "accuracy": 100,
-            "score": 98898,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "power885"
         }
     ]
 }

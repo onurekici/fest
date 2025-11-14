@@ -146,6 +146,14 @@
         },
         {
             "accuracy": 100,
+            "score": 77236,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sofnuuy"
+        },
+        {
+            "accuracy": 100,
             "score": 76808,
             "difficulty": 3,
             "stars": 6,
@@ -489,6 +497,14 @@
             "userName": "shatteredpanda"
         },
         {
+            "accuracy": 100,
+            "score": 70646,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pajarus19"
+        },
+        {
             "accuracy": 99,
             "score": 70176,
             "difficulty": 3,
@@ -551,6 +567,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Spawn Daemon"
+        },
+        {
+            "accuracy": 99,
+            "score": 69502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NDz Deykeerz"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "O It A Coisa"
-        },
-        {
-            "accuracy": 100,
-            "score": 64119,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Black_Frost"
-        },
-        {
-            "accuracy": 99,
-            "score": 63972,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NuxShark"
-        },
-        {
-            "accuracy": 99,
-            "score": 63792,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jarraxe"
         }
     ]
 }

@@ -6,6 +6,14 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 62502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
             "userName": "A-iham_7"
         },
         {
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ゲヘナ学園所属の両面宿儺"
-        },
-        {
-            "accuracy": 99,
-            "score": 61212,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ezuzia"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123185,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "RJ_McQ"
+        },
+        {
+            "accuracy": 100,
             "score": 122513,
             "difficulty": 1,
             "stars": 5,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Jamescox32101"
-        },
-        {
-            "accuracy": 93,
-            "score": 53682,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Razberry0_o"
         }
     ]
 }

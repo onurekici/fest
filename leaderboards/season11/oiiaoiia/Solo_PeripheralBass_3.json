@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 26196,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "SleepieSkye"
+        },
+        {
+            "accuracy": 99,
+            "score": 26166,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ohcathugger"
+        },
+        {
             "accuracy": 100,
             "score": 26129,
             "difficulty": 1,
@@ -71,14 +87,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Boltsies"
-        },
-        {
-            "accuracy": 99,
-            "score": 25344,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cotnana"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Terr4blade 2"
-        },
-        {
-            "accuracy": 87,
-            "score": 17377,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "TheDeadlyTree"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 63403,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SnakeWithTinyHat"
+        },
+        {
+            "accuracy": 97,
+            "score": 63403,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TUTI_T_REX"
+        },
+        {
             "accuracy": 99,
             "score": 63363,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "PiHaze314"
-        },
-        {
-            "accuracy": 99,
-            "score": 58327,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DelphWolf"
-        },
-        {
-            "accuracy": 98,
-            "score": 58321,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hermanos_03"
         }
     ]
 }

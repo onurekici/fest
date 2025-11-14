@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 275106,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SAMM011"
+        },
+        {
+            "accuracy": 100,
+            "score": 275094,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PublicEmeny"
+        },
+        {
             "accuracy": 100,
             "score": 275076,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lil_Raccoon_08"
-        },
-        {
-            "accuracy": 100,
-            "score": 273312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Pachî"
-        },
-        {
-            "accuracy": 100,
-            "score": 273306,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MrCarDart23"
         }
     ]
 }

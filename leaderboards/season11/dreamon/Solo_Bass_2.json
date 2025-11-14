@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 80857,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Hoyviken"
+        },
+        {
+            "accuracy": 99,
+            "score": 80768,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BlizzardMoon"
+        },
+        {
+            "accuracy": 99,
+            "score": 80711,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Parting_Ghost"
+        },
+        {
+            "accuracy": 100,
             "score": 80676,
             "difficulty": 1,
             "stars": 5,
@@ -375,6 +399,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ActarusVidal"
+        },
+        {
+            "accuracy": 89,
+            "score": 73811,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JohansenVR"
         },
         {
             "accuracy": 99,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Le_Raph70"
-        },
-        {
-            "accuracy": 99,
-            "score": 65461,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Glibtar"
-        },
-        {
-            "accuracy": 99,
-            "score": 65382,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LezAf1994"
-        },
-        {
-            "accuracy": 98,
-            "score": 65323,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "leon0465"
-        },
-        {
-            "accuracy": 97,
-            "score": 65138,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "S.p.a.r.k.z.y.y"
         }
     ]
 }

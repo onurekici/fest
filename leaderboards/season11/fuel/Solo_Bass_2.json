@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 305717,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NOTORIOUS_COREY"
+        },
+        {
+            "accuracy": 100,
+            "score": 305641,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shadowkit28"
+        },
+        {
             "accuracy": 99,
             "score": 305482,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "s_antiix"
-        },
-        {
-            "accuracy": 99,
-            "score": 299831,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TwinkAYE"
-        },
-        {
-            "accuracy": 100,
-            "score": 299796,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ElecSir_TNP"
         }
     ]
 }

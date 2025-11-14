@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 69196,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "teejmammen"
+        },
+        {
             "accuracy": 99,
             "score": 69133,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ke-entre-Lachina"
-        },
-        {
-            "accuracy": 98,
-            "score": 65356,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Flyin-Spagetti"
         }
     ]
 }

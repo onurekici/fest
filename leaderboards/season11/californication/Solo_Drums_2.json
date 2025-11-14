@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 287274,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "234t134123"
+        },
+        {
+            "accuracy": 100,
+            "score": 287232,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Flipthesheets"
+        },
+        {
             "accuracy": 100,
             "score": 287196,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ninjabutagirl"
-        },
-        {
-            "accuracy": 100,
-            "score": 285222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "owlpharaohz"
-        },
-        {
-            "accuracy": 100,
-            "score": 285222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TOXIC_CHEETOPUFF"
         }
     ]
 }

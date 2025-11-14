@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123201,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "the andre harris"
+        },
+        {
+            "accuracy": 100,
             "score": 123181,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Vini2295"
-        },
-        {
-            "accuracy": 100,
-            "score": 121981,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Promptonaut"
         }
     ]
 }

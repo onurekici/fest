@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 204510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "iBrxnL"
+        },
+        {
+            "accuracy": 99,
+            "score": 204504,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jin Zahazaki"
+        },
+        {
+            "accuracy": 100,
             "score": 204486,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AshtonCake"
-        },
-        {
-            "accuracy": 100,
-            "score": 203490,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zont-zoit"
-        },
-        {
-            "accuracy": 100,
-            "score": 203478,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CheBoinkey"
         }
     ]
 }

@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 71826,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 41286,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 38665,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 95,
             "score": 32250,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
-            "userName": "XxFreakMxX"
+            "userName": null
         },
         {
             "accuracy": 94,
@@ -14,7 +38,7 @@
             "difficulty": 1,
             "stars": 4,
             "fullcombo": false,
-            "userName": "PAEGATTV"
+            "userName": null
         }
     ]
 }

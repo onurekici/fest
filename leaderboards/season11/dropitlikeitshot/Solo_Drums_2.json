@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 113082,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jencapsi"
+        },
+        {
+            "accuracy": 100,
+            "score": 113052,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mahola1019"
+        },
+        {
+            "accuracy": 99,
             "score": 113022,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WimpyLeaf"
-        },
-        {
-            "accuracy": 99,
-            "score": 109566,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Goblin.Girlee"
-        },
-        {
-            "accuracy": 99,
-            "score": 109518,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gotenjose"
         }
     ]
 }

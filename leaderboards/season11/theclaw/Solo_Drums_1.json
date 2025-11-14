@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 99084,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "darthmanda93"
+        },
+        {
+            "accuracy": 100,
+            "score": 98855,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Dootlez"
+        },
+        {
+            "accuracy": 99,
             "score": 98760,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "bobbybielek"
-        },
-        {
-            "accuracy": 96,
-            "score": 69510,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Osc-Fra"
-        },
-        {
-            "accuracy": 98,
-            "score": 68975,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MO007N"
         }
     ]
 }

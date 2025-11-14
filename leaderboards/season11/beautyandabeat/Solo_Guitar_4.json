@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 117642,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dragonryanh91"
+        },
+        {
+            "accuracy": 100,
+            "score": 117630,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SSRDeku"
+        },
+        {
             "accuracy": 100,
             "score": 117630,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dacnikel"
-        },
-        {
-            "accuracy": 100,
-            "score": 116556,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BizzareLazar"
-        },
-        {
-            "accuracy": 100,
-            "score": 116544,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zerofire.3"
         }
     ]
 }

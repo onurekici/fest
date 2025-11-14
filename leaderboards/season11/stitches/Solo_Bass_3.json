@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 68049,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GambitTSG"
+        },
+        {
+            "accuracy": 100,
+            "score": 68002,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RZonigiri"
+        },
+        {
+            "accuracy": 100,
             "score": 67985,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "tojis dihh"
-        },
-        {
-            "accuracy": 99,
-            "score": 64469,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "P.A.N.G.U"
-        },
-        {
-            "accuracy": 100,
-            "score": 64448,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Lynx_303"
         }
     ]
 }

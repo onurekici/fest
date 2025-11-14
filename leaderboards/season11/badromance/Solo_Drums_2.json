@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 180078,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "МаксФулБокс"
+        },
+        {
+            "accuracy": 100,
+            "score": 180024,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fairly insane"
+        },
+        {
             "accuracy": 100,
             "score": 180024,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sky_Queen24"
-        },
-        {
-            "accuracy": 100,
-            "score": 178224,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sgugger4000"
-        },
-        {
-            "accuracy": 100,
-            "score": 178206,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Starnight701891"
         }
     ]
 }

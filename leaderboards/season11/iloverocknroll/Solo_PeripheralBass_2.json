@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 40625,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "XDHappyy"
+        },
+        {
             "accuracy": 96,
             "score": 40344,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "GrumpyD324"
-        },
-        {
-            "accuracy": 98,
-            "score": 25716,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "WRAITH.VOX"
         }
     ]
 }

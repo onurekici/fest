@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 161820,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "guymanhi"
+        },
+        {
+            "accuracy": 100,
+            "score": 161808,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DexterMorgan bh"
+        },
+        {
             "accuracy": 100,
             "score": 161771,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bigobaker"
-        },
-        {
-            "accuracy": 100,
-            "score": 160920,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AriesOxide"
-        },
-        {
-            "accuracy": 100,
-            "score": 160894,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "文cptobvious文"
         }
     ]
 }

@@ -534,7 +534,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "clﱞoﱞuﱞd"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -770,6 +770,14 @@
         },
         {
             "accuracy": 100,
+            "score": 111432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Katbtws"
+        },
+        {
+            "accuracy": 100,
             "score": 111429,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "PlayingForTheFun"
-        },
-        {
-            "accuracy": 100,
-            "score": 111325,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "zaralol."
         }
     ]
 }

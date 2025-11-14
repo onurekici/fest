@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 54790,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "zz_shadowlerois"
+        },
+        {
             "accuracy": 100,
             "score": 14724,
             "difficulty": 3,
@@ -578,6 +586,14 @@
         },
         {
             "accuracy": 100,
+            "score": 14154,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AaronDropEmOff"
+        },
+        {
+            "accuracy": 100,
             "score": 14148,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "kylecorre"
-        },
-        {
-            "accuracy": 100,
-            "score": 14100,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kukulsky"
-        },
-        {
-            "accuracy": 100,
-            "score": 14094,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Non_Stop_Pig"
         }
     ]
 }

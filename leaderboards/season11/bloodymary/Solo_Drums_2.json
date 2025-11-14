@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 161682,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HoneyIsFreak"
+        },
+        {
             "accuracy": 100,
             "score": 161682,
             "difficulty": 3,
@@ -189,7 +197,7 @@
             "score": 160962,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
+            "fullcombo": true,
             "userName": "cyio21"
         },
         {
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Jogarozam"
-        },
-        {
-            "accuracy": 100,
-            "score": 159738,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Slavsia"
         }
     ]
 }
