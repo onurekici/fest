@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112806,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mrs.paenda"
+        },
+        {
+            "accuracy": 99,
+            "score": 112737,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "yan_https"
+        },
+        {
+            "accuracy": 100,
             "score": 112730,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Boss Tubbs"
-        },
-        {
-            "accuracy": 99,
-            "score": 109807,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "fu4fu9"
-        },
-        {
-            "accuracy": 100,
-            "score": 109780,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "G_kmbr59"
         }
     ]
 }

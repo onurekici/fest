@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 338544,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VaterBaum"
+        },
+        {
+            "accuracy": 100,
+            "score": 338532,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ıain"
+        },
+        {
             "accuracy": 99,
             "score": 338502,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[XBL] Segardian"
-        },
-        {
-            "accuracy": 100,
-            "score": 334956,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jayber Crow"
-        },
-        {
-            "accuracy": 99,
-            "score": 334956,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Roger_DxZ"
         }
     ]
 }

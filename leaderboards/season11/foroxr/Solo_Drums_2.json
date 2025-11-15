@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 146334,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "yenabeans"
+        },
+        {
             "accuracy": 99,
             "score": 146328,
             "difficulty": 3,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Renegade-Boo"
+        },
+        {
+            "accuracy": 100,
+            "score": 146088,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NEO.027"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Jrandisaack"
-        },
-        {
-            "accuracy": 99,
-            "score": 143322,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cirrus."
-        },
-        {
-            "accuracy": 99,
-            "score": 143274,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "sinigami4276"
         }
     ]
 }

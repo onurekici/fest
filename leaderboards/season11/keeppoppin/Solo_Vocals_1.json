@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 88079,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LogicalJake"
+        },
+        {
+            "accuracy": 100,
             "score": 88018,
             "difficulty": 3,
             "stars": 6,
@@ -553,6 +561,14 @@
             "userName": "Emilyolok24"
         },
         {
+            "accuracy": 99,
+            "score": 76474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lost_Mizu"
+        },
+        {
             "accuracy": 100,
             "score": 76428,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "icedchaikuromi"
-        },
-        {
-            "accuracy": 98,
-            "score": 71187,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Luka愛"
-        },
-        {
-            "accuracy": 99,
-            "score": 71154,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Resistance_x13"
         }
     ]
 }

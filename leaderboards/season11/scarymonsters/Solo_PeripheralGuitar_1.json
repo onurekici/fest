@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123294,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sneasler"
+        },
+        {
             "accuracy": 99,
             "score": 123157,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Nativejojo"
-        },
-        {
-            "accuracy": 99,
-            "score": 116883,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BlakeWasTaken"
         }
     ]
 }

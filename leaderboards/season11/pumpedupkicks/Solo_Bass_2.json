@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123214,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jpcarvalhosa"
+        },
+        {
+            "accuracy": 100,
             "score": 123201,
             "difficulty": 3,
             "stars": 6,
@@ -279,6 +287,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MadKingLenin"
+        },
+        {
+            "accuracy": 100,
+            "score": 122778,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Heisencum"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SviBea"
-        },
-        {
-            "accuracy": 100,
-            "score": 121994,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Gleaming5"
-        },
-        {
-            "accuracy": 100,
-            "score": 121990,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Vini2295"
         }
     ]
 }

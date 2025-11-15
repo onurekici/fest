@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 184208,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "lewie_999"
+        },
+        {
+            "accuracy": 99,
+            "score": 183805,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DJBirb"
+        },
+        {
+            "accuracy": 99,
+            "score": 183579,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "beastblack54"
+        },
+        {
             "accuracy": 99,
             "score": 183542,
             "difficulty": 3,
@@ -311,6 +335,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BLCKB4T"
+        },
+        {
+            "accuracy": 99,
+            "score": 178511,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sierra ponders"
         },
         {
             "accuracy": 99,
@@ -721,14 +753,6 @@
             "userName": "lexi melvin"
         },
         {
-            "accuracy": 98,
-            "score": 170712,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kyledab2468"
-        },
-        {
             "accuracy": 99,
             "score": 170691,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "JBratwurst"
-        },
-        {
-            "accuracy": 98,
-            "score": 169492,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "snoopchu"
-        },
-        {
-            "accuracy": 99,
-            "score": 169469,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Wybe24"
-        },
-        {
-            "accuracy": 98,
-            "score": 169446,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Osore_Prime"
         }
     ]
 }

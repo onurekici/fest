@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 174171,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RyanMcInally11"
+        },
+        {
+            "accuracy": 100,
             "score": 174115,
             "difficulty": 3,
             "stars": 6,
@@ -553,6 +561,14 @@
             "userName": "野菜1207"
         },
         {
+            "accuracy": 100,
+            "score": 155041,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SantiDias_"
+        },
+        {
             "accuracy": 99,
             "score": 154998,
             "difficulty": 3,
@@ -647,6 +663,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Vernonhoke"
+        },
+        {
+            "accuracy": 99,
+            "score": 153736,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jestingstatue"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "QTRNevermore"
-        },
-        {
-            "accuracy": 100,
-            "score": 151673,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "La Dispute"
-        },
-        {
-            "accuracy": 100,
-            "score": 151615,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ello_1087"
-        },
-        {
-            "accuracy": 100,
-            "score": 151609,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FuriousFijian"
         }
     ]
 }

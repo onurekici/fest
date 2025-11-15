@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 118184,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Arthronic"
+        },
+        {
+            "accuracy": 100,
             "score": 118089,
             "difficulty": 3,
             "stars": 6,
@@ -129,6 +137,14 @@
             "userName": "Hotrodcmk"
         },
         {
+            "accuracy": 100,
+            "score": 103108,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xNadia"
+        },
+        {
             "accuracy": 99,
             "score": 101897,
             "difficulty": 3,
@@ -143,14 +159,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Taji愛のない"
-        },
-        {
-            "accuracy": 99,
-            "score": 100659,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xNadia"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DownBatGirl06"
-        },
-        {
-            "accuracy": 99,
-            "score": 48221,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MayoBelmont22"
         }
     ]
 }

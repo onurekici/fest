@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 242878,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Koz III"
+        },
+        {
+            "accuracy": 99,
+            "score": 242841,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MrRyanGosling"
+        },
+        {
+            "accuracy": 99,
+            "score": 242765,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FreaksBiteMe"
+        },
+        {
+            "accuracy": 100,
             "score": 242734,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "de1sey"
-        },
-        {
-            "accuracy": 99,
-            "score": 238988,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "blopkop"
-        },
-        {
-            "accuracy": 99,
-            "score": 238980,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Limescented"
-        },
-        {
-            "accuracy": 100,
-            "score": 238937,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "prophxttz"
         }
     ]
 }

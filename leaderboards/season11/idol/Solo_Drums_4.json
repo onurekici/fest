@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 271266,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "El Pollonメ"
+        },
+        {
+            "accuracy": 100,
+            "score": 271242,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zedan69420"
+        },
+        {
             "accuracy": 100,
             "score": 271236,
             "difficulty": 3,
@@ -63,6 +79,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WizX_86"
+        },
+        {
+            "accuracy": 100,
+            "score": 271050,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SH1N1Z"
         },
         {
             "accuracy": 99,
@@ -353,14 +377,6 @@
             "userName": "Silly Skittles"
         },
         {
-            "accuracy": 99,
-            "score": 270216,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NahhItsGizmo"
-        },
-        {
             "accuracy": 100,
             "score": 270216,
             "difficulty": 3,
@@ -447,22 +463,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MorganeGraziani2"
-        },
-        {
-            "accuracy": 100,
-            "score": 270006,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SH1N1Z"
-        },
-        {
-            "accuracy": 99,
-            "score": 269994,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Anamnesisもちろん"
         },
         {
             "accuracy": 99,
@@ -689,6 +689,14 @@
             "userName": "Noskal_"
         },
         {
+            "accuracy": 99,
+            "score": 269496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HerrHenrimann"
+        },
+        {
             "accuracy": 100,
             "score": 269472,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "destructcaos21"
-        },
-        {
-            "accuracy": 99,
-            "score": 269292,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Swear-Spark"
         }
     ]
 }

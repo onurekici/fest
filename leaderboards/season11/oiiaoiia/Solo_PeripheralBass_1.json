@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 59241,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Rammst0ne"
+        },
+        {
             "accuracy": 100,
             "score": 58944,
             "difficulty": 3,
@@ -127,6 +135,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Jedi Sleia"
+        },
+        {
+            "accuracy": 97,
+            "score": 51694,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OriginalItzmay"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "killer6196"
-        },
-        {
-            "accuracy": 99,
-            "score": 36325,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "lifelessling"
-        },
-        {
-            "accuracy": 100,
-            "score": 36120,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "tiotestes"
         }
     ]
 }

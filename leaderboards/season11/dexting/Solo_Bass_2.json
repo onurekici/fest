@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 35783,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SaikaIzanami101"
+        },
+        {
             "accuracy": 99,
             "score": 35779,
             "difficulty": 3,
@@ -441,6 +449,14 @@
             "userName": "DoryStardust"
         },
         {
+            "accuracy": 97,
+            "score": 33658,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DownToEatBats"
+        },
+        {
             "accuracy": 98,
             "score": 33646,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ChlpatyPecer"
-        },
-        {
-            "accuracy": 100,
-            "score": 32027,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "RichiVera"
-        },
-        {
-            "accuracy": 100,
-            "score": 31958,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "kassielliana"
         }
     ]
 }

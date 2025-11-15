@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 102327,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "StickosMax"
+        },
+        {
+            "accuracy": 100,
+            "score": 102283,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SirRonDog"
+        },
+        {
+            "accuracy": 100,
             "score": 102278,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "iJVEK24"
-        },
-        {
-            "accuracy": 99,
-            "score": 99352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SuperKewl74"
-        },
-        {
-            "accuracy": 99,
-            "score": 99351,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Karrlita"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 123458,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ChickenACC"
+        },
+        {
             "accuracy": 95,
             "score": 123314,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FreeUrMacaco"
-        },
-        {
-            "accuracy": 94,
-            "score": 79130,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "The_GameFreak899"
         }
     ]
 }

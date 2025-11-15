@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 156354,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Captain_Gange"
+        },
+        {
             "accuracy": 99,
             "score": 156327,
             "difficulty": 3,
@@ -697,6 +705,14 @@
             "userName": "StabbedM"
         },
         {
+            "accuracy": 98,
+            "score": 148769,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CampingForCats"
+        },
+        {
             "accuracy": 97,
             "score": 148535,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Megadosing"
-        },
-        {
-            "accuracy": 97,
-            "score": 147764,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dewbiepet"
-        },
-        {
-            "accuracy": 99,
-            "score": 147660,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "juicyhoneybuns"
         }
     ]
 }

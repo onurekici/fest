@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 53666,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "WolfNotIncluded"
+        },
+        {
+            "accuracy": 97,
+            "score": 53451,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Erodrael"
+        },
+        {
             "accuracy": 100,
             "score": 53063,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "nat.4713"
-        },
-        {
-            "accuracy": 95,
-            "score": 37598,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Flaming Llama"
-        },
-        {
-            "accuracy": 91,
-            "score": 37509,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "dqxf."
         }
     ]
 }

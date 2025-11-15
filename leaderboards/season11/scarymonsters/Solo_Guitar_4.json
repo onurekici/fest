@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123287,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "temp-926574"
+        },
+        {
+            "accuracy": 100,
+            "score": 123282,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ColossalApex"
+        },
+        {
+            "accuracy": 100,
             "score": 123281,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "YoRHa Elegance"
-        },
-        {
-            "accuracy": 100,
-            "score": 122444,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "eocacoe"
-        },
-        {
-            "accuracy": 100,
-            "score": 122432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ExquisiteLotus"
         }
     ]
 }

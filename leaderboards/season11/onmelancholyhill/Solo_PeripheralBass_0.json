@@ -162,6 +162,14 @@
         },
         {
             "accuracy": 100,
+            "score": 101220,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Spartan D"
+        },
+        {
+            "accuracy": 100,
             "score": 101088,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Bob_the_Bean1"
-        },
-        {
-            "accuracy": 99,
-            "score": 77184,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sm-180"
         }
     ]
 }

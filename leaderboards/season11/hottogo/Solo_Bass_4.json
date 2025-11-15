@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 161165,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Amroc99"
+        },
+        {
+            "accuracy": 99,
+            "score": 161118,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fabzsky"
+        },
+        {
             "accuracy": 99,
             "score": 161035,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "treboRSant32"
-        },
-        {
-            "accuracy": 99,
-            "score": 149034,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] Darkseid837"
-        },
-        {
-            "accuracy": 98,
-            "score": 148902,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TulinSage20"
         }
     ]
 }

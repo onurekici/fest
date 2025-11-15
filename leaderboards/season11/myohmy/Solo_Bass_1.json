@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 51859,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Alexsson"
+        },
+        {
+            "accuracy": 99,
+            "score": 51648,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MosforniteSlayer"
+        },
+        {
             "accuracy": 99,
             "score": 51596,
             "difficulty": 3,
@@ -31,6 +47,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Maur Maur ii"
+        },
+        {
+            "accuracy": 99,
+            "score": 51263,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DANGER-A-JO"
         },
         {
             "accuracy": 99,
@@ -95,6 +119,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "おでんのしるとめし"
+        },
+        {
+            "accuracy": 99,
+            "score": 49842,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "The_Y2Kev"
         },
         {
             "accuracy": 99,
@@ -231,6 +263,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Saracat2010"
+        },
+        {
+            "accuracy": 99,
+            "score": 48198,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nergalyx"
         },
         {
             "accuracy": 100,
@@ -658,14 +698,6 @@
         },
         {
             "accuracy": 99,
-            "score": 39760,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DANGER-A-JO"
-        },
-        {
-            "accuracy": 99,
             "score": 39545,
             "difficulty": 2,
             "stars": 5,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PatberKx"
-        },
-        {
-            "accuracy": 100,
-            "score": 35852,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Sousou.bdx"
-        },
-        {
-            "accuracy": 97,
-            "score": 35153,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SaltySquidster"
-        },
-        {
-            "accuracy": 100,
-            "score": 35087,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Zapb0x"
-        },
-        {
-            "accuracy": 100,
-            "score": 35014,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "poussinpower"
         }
     ]
 }

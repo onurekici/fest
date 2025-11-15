@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 41823,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cosmicform"
+        },
+        {
+            "accuracy": 100,
+            "score": 41817,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SamiiKatt"
+        },
+        {
+            "accuracy": 99,
             "score": 41799,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Nathan22cal"
-        },
-        {
-            "accuracy": 100,
-            "score": 38743,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "erique_07"
-        },
-        {
-            "accuracy": 100,
-            "score": 38717,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Annijalol2009"
         }
     ]
 }

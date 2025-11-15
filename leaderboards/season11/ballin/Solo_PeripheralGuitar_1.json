@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 96671,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jurassic_John14"
+        },
+        {
             "accuracy": 97,
             "score": 96532,
             "difficulty": 3,
@@ -713,6 +721,14 @@
             "userName": "kahhyl"
         },
         {
+            "accuracy": 93,
+            "score": 76406,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DaddyJapanda"
+        },
+        {
             "accuracy": 94,
             "score": 75955,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "RapidCorrus115"
-        },
-        {
-            "accuracy": 97,
-            "score": 73323,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ABurntNugget04"
-        },
-        {
-            "accuracy": 100,
-            "score": 73044,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TheFurnaceKnight"
         }
     ]
 }

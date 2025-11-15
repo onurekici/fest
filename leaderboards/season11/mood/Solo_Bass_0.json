@@ -226,6 +226,14 @@
         },
         {
             "accuracy": 100,
+            "score": 48271,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zackurai22"
+        },
+        {
+            "accuracy": 100,
             "score": 47948,
             "difficulty": 3,
             "stars": 6,
@@ -455,6 +463,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CallsignDamocles"
+        },
+        {
+            "accuracy": 99,
+            "score": 39476,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pao_Pavito"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Duplex11ra"
-        },
-        {
-            "accuracy": 99,
-            "score": 31822,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "blearylearner56"
-        },
-        {
-            "accuracy": 100,
-            "score": 31719,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Carlacatss22"
         }
     ]
 }

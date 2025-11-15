@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 79370,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheTacŏDude"
+        },
+        {
+            "accuracy": 100,
             "score": 79241,
             "difficulty": 3,
             "stars": 6,
@@ -762,6 +770,14 @@
         },
         {
             "accuracy": 99,
+            "score": 46919,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SpoonDiceMusic"
+        },
+        {
+            "accuracy": 99,
             "score": 46640,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BakerBaker001"
-        },
-        {
-            "accuracy": 98,
-            "score": 45253,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Glowshroomi"
-        },
-        {
-            "accuracy": 99,
-            "score": 45114,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Delayther"
         }
     ]
 }

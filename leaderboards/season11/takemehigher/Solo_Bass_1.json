@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 64870,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "phins75"
+        },
+        {
+            "accuracy": 100,
             "score": 64711,
             "difficulty": 2,
             "stars": 5,
@@ -497,6 +505,14 @@
             "userName": "frangodofwar"
         },
         {
+            "accuracy": 98,
+            "score": 49900,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ksh.1228"
+        },
+        {
             "accuracy": 100,
             "score": 49864,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "netuin"
-        },
-        {
-            "accuracy": 98,
-            "score": 45226,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LuisGC1202"
-        },
-        {
-            "accuracy": 99,
-            "score": 45121,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "c0nethebarbari4n"
         }
     ]
 }

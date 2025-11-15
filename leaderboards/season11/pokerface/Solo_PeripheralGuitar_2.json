@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 89781,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NervousFilly934"
+        },
+        {
+            "accuracy": 100,
+            "score": 89757,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Skelator85"
+        },
+        {
             "accuracy": 100,
             "score": 89749,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bkjespo93"
-        },
-        {
-            "accuracy": 99,
-            "score": 72863,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "INFEC ABU3L0"
-        },
-        {
-            "accuracy": 96,
-            "score": 72786,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Stromligth64"
         }
     ]
 }

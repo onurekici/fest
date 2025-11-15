@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 291671,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kitten803"
+        },
+        {
+            "accuracy": 100,
             "score": 291666,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "G3ckay"
+        },
+        {
+            "accuracy": 99,
+            "score": 291129,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NPCeeBee"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "R4TMF"
-        },
-        {
-            "accuracy": 100,
-            "score": 288696,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sire Lynx"
-        },
-        {
-            "accuracy": 99,
-            "score": 288674,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Decentmass"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 51426,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Solstoid"
+        },
+        {
+            "accuracy": 100,
+            "score": 51426,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MarsSpiders"
+        },
+        {
             "accuracy": 100,
             "score": 51402,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Littlebiglion"
-        },
-        {
-            "accuracy": 100,
-            "score": 50328,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "OffGun13"
-        },
-        {
-            "accuracy": 100,
-            "score": 50322,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ADrunkenRage"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 136135,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "アサシンクーナ"
+        },
+        {
+            "accuracy": 100,
+            "score": 136128,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "natnek02"
+        },
+        {
+            "accuracy": 100,
             "score": 136016,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "yenabeans"
-        },
-        {
-            "accuracy": 100,
-            "score": 131768,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ABG_Aesthete"
-        },
-        {
-            "accuracy": 99,
-            "score": 131767,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BajaRit0"
         }
     ]
 }

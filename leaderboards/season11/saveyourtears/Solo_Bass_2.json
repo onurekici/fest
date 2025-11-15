@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 168095,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UCKAArg"
+        },
+        {
+            "accuracy": 100,
+            "score": 168084,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wind_Sparda"
+        },
+        {
+            "accuracy": 100,
             "score": 168078,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheGrim_33Reaper"
-        },
-        {
-            "accuracy": 99,
-            "score": 161680,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "143512"
-        },
-        {
-            "accuracy": 99,
-            "score": 161672,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "fashionmonsta"
         }
     ]
 }

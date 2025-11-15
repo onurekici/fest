@@ -778,6 +778,14 @@
         },
         {
             "accuracy": 100,
+            "score": 121343,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "gummi frog"
+        },
+        {
+            "accuracy": 100,
             "score": 121337,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "bobwithahat"
-        },
-        {
-            "accuracy": 100,
-            "score": 121211,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "fizzy_taco"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 105597,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BroomDaBoomBoom"
+        },
+        {
             "accuracy": 100,
             "score": 105582,
             "difficulty": 3,
@@ -553,6 +561,14 @@
             "userName": "mphstz"
         },
         {
+            "accuracy": 100,
+            "score": 103370,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Roogumin"
+        },
+        {
             "accuracy": 99,
             "score": 103302,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "A BetterKangaroo"
-        },
-        {
-            "accuracy": 100,
-            "score": 102327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "StickosMax"
-        },
-        {
-            "accuracy": 100,
-            "score": 102283,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SirRonDog"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 103296,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GTRacing65"
+        },
+        {
+            "accuracy": 100,
+            "score": 103285,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BeyondBrook"
+        },
+        {
             "accuracy": 100,
             "score": 103278,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Raw_Flavaz18"
-        },
-        {
-            "accuracy": 100,
-            "score": 102480,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "I GO HAM 365"
-        },
-        {
-            "accuracy": 100,
-            "score": 102471,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[PSN] A_Krene"
         }
     ]
 }

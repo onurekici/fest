@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 218322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tachanka No.1"
+        },
+        {
             "accuracy": 100,
             "score": 218280,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MysteriousD"
-        },
-        {
-            "accuracy": 100,
-            "score": 215604,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ExtremeCutie"
         }
     ]
 }

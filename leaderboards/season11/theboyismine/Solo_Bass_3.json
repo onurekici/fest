@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 60336,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Triscuit_Hoe"
+        },
+        {
+            "accuracy": 100,
+            "score": 60305,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "l Bounty l"
+        },
+        {
             "accuracy": 100,
             "score": 60166,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "brownsusu"
-        },
-        {
-            "accuracy": 100,
-            "score": 56659,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BeanSauced"
-        },
-        {
-            "accuracy": 99,
-            "score": 56649,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mosschops04"
         }
     ]
 }

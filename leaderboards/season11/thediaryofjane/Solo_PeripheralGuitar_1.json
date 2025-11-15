@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 151461,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GloopWoop"
+        },
+        {
+            "accuracy": 100,
             "score": 151452,
             "difficulty": 3,
             "stars": 6,
@@ -449,6 +457,14 @@
             "userName": "GoPirate3921"
         },
         {
+            "accuracy": 99,
+            "score": 147342,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "baggedmilk55"
+        },
+        {
             "accuracy": 100,
             "score": 147135,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WabbitFiend"
-        },
-        {
-            "accuracy": 99,
-            "score": 144879,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "toxcwill"
-        },
-        {
-            "accuracy": 99,
-            "score": 144870,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LycanWaterBoy"
         }
     ]
 }

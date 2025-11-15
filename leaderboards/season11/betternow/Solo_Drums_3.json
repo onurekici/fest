@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123144,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kaycat94"
+        },
+        {
+            "accuracy": 100,
+            "score": 123126,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Exotic Devil"
+        },
+        {
             "accuracy": 100,
             "score": 123108,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "xzSuperNovaXz"
-        },
-        {
-            "accuracy": 99,
-            "score": 121272,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kanfil"
-        },
-        {
-            "accuracy": 100,
-            "score": 121272,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SandsharkDriver"
         }
     ]
 }

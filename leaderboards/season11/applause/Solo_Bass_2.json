@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 67671,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Perunavasa"
+        },
+        {
             "accuracy": 99,
             "score": 67243,
             "difficulty": 3,
@@ -47,6 +55,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "blessthisswag"
+        },
+        {
+            "accuracy": 99,
+            "score": 66769,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mr_PhoenixX_"
         },
         {
             "accuracy": 99,
@@ -279,6 +295,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Buck_Marley"
+        },
+        {
+            "accuracy": 99,
+            "score": 63539,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[XBL] Th3yLuvSum3r"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "castorice777"
-        },
-        {
-            "accuracy": 98,
-            "score": 55013,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Johnelys17"
-        },
-        {
-            "accuracy": 100,
-            "score": 54984,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MaxFrai235"
-        },
-        {
-            "accuracy": 100,
-            "score": 54920,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Boom_chalk"
         }
     ]
 }
