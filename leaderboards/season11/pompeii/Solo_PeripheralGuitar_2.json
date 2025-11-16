@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 200605,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "darrenprice41"
+        },
+        {
+            "accuracy": 96,
+            "score": 200296,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lil Nuggs X"
+        },
+        {
             "accuracy": 97,
             "score": 199793,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GreasyMonkey93"
-        },
-        {
-            "accuracy": 99,
-            "score": 182235,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] banoyf"
-        },
-        {
-            "accuracy": 97,
-            "score": 182174,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RealSmiddy"
         }
     ]
 }

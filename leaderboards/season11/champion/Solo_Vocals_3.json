@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 137796,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JeffTheSugarbabe"
+        },
+        {
+            "accuracy": 99,
+            "score": 137789,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kiloire"
+        },
+        {
+            "accuracy": 100,
             "score": 137785,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "bl0w4zenon"
-        },
-        {
-            "accuracy": 100,
-            "score": 137071,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Z_Tavares"
-        },
-        {
-            "accuracy": 100,
-            "score": 137065,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "rhnyrtye"
         }
     ]
 }

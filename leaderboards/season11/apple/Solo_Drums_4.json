@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125628,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tiffowo"
+        },
+        {
+            "accuracy": 100,
             "score": 125580,
             "difficulty": 3,
             "stars": 6,
@@ -593,6 +601,14 @@
             "userName": "Jonah Brianez"
         },
         {
+            "accuracy": 99,
+            "score": 123684,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Navinki420"
+        },
+        {
             "accuracy": 100,
             "score": 123618,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Shumaker32"
-        },
-        {
-            "accuracy": 99,
-            "score": 123006,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-eea3141bd9"
-        },
-        {
-            "accuracy": 100,
-            "score": 123006,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AirToHeir"
         }
     ]
 }

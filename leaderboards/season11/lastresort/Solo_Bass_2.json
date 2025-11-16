@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 187416,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AresTheWolf1"
+        },
+        {
+            "accuracy": 100,
+            "score": 187362,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ApdrYo"
+        },
+        {
             "accuracy": 100,
             "score": 187350,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "C Manzella"
-        },
-        {
-            "accuracy": 100,
-            "score": 183888,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Prank_Sinatra_"
-        },
-        {
-            "accuracy": 99,
-            "score": 183882,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NateeDaw-TTV"
         }
     ]
 }

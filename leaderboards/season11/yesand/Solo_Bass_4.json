@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 77940,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "It is Rik"
+        },
+        {
+            "accuracy": 99,
+            "score": 77911,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Cheddar Cheesey"
+        },
+        {
+            "accuracy": 100,
+            "score": 77810,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PizaGamer16"
+        },
+        {
             "accuracy": 99,
             "score": 77734,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Sass and salt"
-        },
-        {
-            "accuracy": 99,
-            "score": 74214,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "rick_457"
-        },
-        {
-            "accuracy": 99,
-            "score": 74149,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bjorn0216"
-        },
-        {
-            "accuracy": 99,
-            "score": 74118,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lupio93"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 80474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Darth Feeraus"
+        },
+        {
             "accuracy": 100,
             "score": 80451,
             "difficulty": 3,
@@ -666,6 +674,14 @@
         },
         {
             "accuracy": 100,
+            "score": 79569,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cx07"
+        },
+        {
+            "accuracy": 100,
             "score": 79551,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TH Iron13"
-        },
-        {
-            "accuracy": 100,
-            "score": 79412,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "JuicyJuro"
-        },
-        {
-            "accuracy": 100,
-            "score": 79389,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "viimene mammutti"
         }
     ]
 }

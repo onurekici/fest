@@ -66,6 +66,14 @@
         },
         {
             "accuracy": 100,
+            "score": 118086,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BeefNuggetStew"
+        },
+        {
+            "accuracy": 100,
             "score": 117950,
             "difficulty": 3,
             "stars": 6,
@@ -606,7 +614,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "FumiTaki"
+            "userName": "fumitaki"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "roggzer-z"
-        },
-        {
-            "accuracy": 97,
-            "score": 89814,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MrMcCracken2"
         }
     ]
 }

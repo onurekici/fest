@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 95593,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KahoKubo"
+        },
+        {
+            "accuracy": 100,
+            "score": 95591,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ubaixin"
+        },
+        {
+            "accuracy": 100,
             "score": 95588,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ET_318"
-        },
-        {
-            "accuracy": 99,
-            "score": 94632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EVA01_Sharpened"
-        },
-        {
-            "accuracy": 100,
-            "score": 94626,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "freckled soul"
         }
     ]
 }

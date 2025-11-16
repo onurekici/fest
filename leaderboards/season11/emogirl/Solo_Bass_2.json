@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 146032,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Halostarwars24"
+        },
+        {
+            "accuracy": 100,
             "score": 146001,
             "difficulty": 3,
             "stars": 6,
@@ -625,6 +633,14 @@
             "userName": "JaIIcano"
         },
         {
+            "accuracy": 99,
+            "score": 139210,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "antihoecial"
+        },
+        {
             "accuracy": 98,
             "score": 139145,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sіlencio gil"
-        },
-        {
-            "accuracy": 99,
-            "score": 137107,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GonpachiroBreads"
-        },
-        {
-            "accuracy": 99,
-            "score": 137081,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JosueRomo10"
         }
     ]
 }

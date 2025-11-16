@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 116655,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "aDrunken Noodle"
+        },
+        {
+            "accuracy": 100,
             "score": 116520,
             "difficulty": 3,
             "stars": 6,
@@ -298,6 +306,14 @@
         },
         {
             "accuracy": 98,
+            "score": 97362,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kbear087"
+        },
+        {
+            "accuracy": 98,
             "score": 96818,
             "difficulty": 3,
             "stars": 6,
@@ -393,12 +409,28 @@
             "userName": "Xylerius"
         },
         {
+            "accuracy": 96,
+            "score": 88755,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Codeye Deadeye"
+        },
+        {
             "accuracy": 99,
             "score": 88555,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Nar-pb09"
+        },
+        {
+            "accuracy": 98,
+            "score": 88506,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Brair"
         },
         {
             "accuracy": 97,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Frank Fioni"
-        },
-        {
-            "accuracy": 90,
-            "score": 43850,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Cheesy_Dust64"
-        },
-        {
-            "accuracy": 82,
-            "score": 41526,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "on gekyume vro"
-        },
-        {
-            "accuracy": 81,
-            "score": 41307,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "BaseNinja51"
-        },
-        {
-            "accuracy": 86,
-            "score": 40747,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "TwinnedSage06"
         }
     ]
 }

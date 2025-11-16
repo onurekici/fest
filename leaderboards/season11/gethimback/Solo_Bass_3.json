@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 64712,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "jason1080108"
+        },
+        {
+            "accuracy": 99,
+            "score": 64696,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LarraJCarter"
+        },
+        {
+            "accuracy": 100,
             "score": 64661,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "vim wolf"
-        },
-        {
-            "accuracy": 99,
-            "score": 60414,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "glumolumo"
-        },
-        {
-            "accuracy": 99,
-            "score": 60389,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Revnutt"
         }
     ]
 }

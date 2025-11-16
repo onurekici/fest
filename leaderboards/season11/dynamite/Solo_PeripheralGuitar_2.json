@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 53748,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SpankedEagle"
+        },
+        {
             "accuracy": 87,
             "score": 53370,
             "difficulty": 3,
@@ -657,6 +665,14 @@
             "userName": "[PSN] shrewish-zolge"
         },
         {
+            "accuracy": 77,
+            "score": 19895,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "[PSN] WholeCoffeeBean"
+        },
+        {
             "accuracy": 73,
             "score": 19575,
             "difficulty": 3,
@@ -695,14 +711,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TGB6733"
-        },
-        {
-            "accuracy": 87,
-            "score": 16476,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "[PSN] WholeCoffeeBean"
         },
         {
             "accuracy": 65,
@@ -791,14 +799,6 @@
             "stars": 0,
             "fullcombo": false,
             "userName": "UseCodeMrvampire"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 2,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "LemonGazelle5750"
         }
     ]
 }

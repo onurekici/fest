@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 50942,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SummerPanda96"
+        },
+        {
             "accuracy": 99,
             "score": 50859,
             "difficulty": 3,
@@ -678,7 +686,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "VelarisNightsTTV"
+            "userName": "VelarisNights"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "henryortega 1992"
-        },
-        {
-            "accuracy": 99,
-            "score": 47311,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Benji the fox"
         }
     ]
 }

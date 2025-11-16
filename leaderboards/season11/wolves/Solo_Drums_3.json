@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 119816,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ComandantePitaya"
+        },
+        {
             "accuracy": 99,
             "score": 119804,
             "difficulty": 3,
@@ -287,6 +295,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Juicey fruit cup"
+        },
+        {
+            "accuracy": 99,
+            "score": 118691,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Benpoint"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "buge-burger0103"
-        },
-        {
-            "accuracy": 100,
-            "score": 116163,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KingBradyn_13"
-        },
-        {
-            "accuracy": 100,
-            "score": 116131,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Alec0202"
         }
     ]
 }

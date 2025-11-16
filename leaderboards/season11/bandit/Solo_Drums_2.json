@@ -218,6 +218,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rockstar Wendell"
+        },
+        {
+            "accuracy": 100,
             "score": 123558,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Commander_Neru"
-        },
-        {
-            "accuracy": 99,
-            "score": 122676,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DannyP 23"
         }
     ]
 }

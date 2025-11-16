@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 98256,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vex Noir"
+        },
+        {
             "accuracy": 97,
             "score": 98226,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Serah Butterfly"
-        },
-        {
-            "accuracy": 97,
-            "score": 81666,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SteevieWeevie"
         }
     ]
 }

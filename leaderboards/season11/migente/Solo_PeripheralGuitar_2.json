@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 44750,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KKing_Kaneki"
+        },
+        {
+            "accuracy": 100,
+            "score": 44532,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "OliverPMc"
+        },
+        {
             "accuracy": 98,
             "score": 44436,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "SAICO FX"
-        },
-        {
-            "accuracy": 91,
-            "score": 21335,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "xISennaIx"
-        },
-        {
-            "accuracy": 85,
-            "score": 20644,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ZSxSweetSymphony"
         }
     ]
 }

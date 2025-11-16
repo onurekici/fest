@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 31216,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Grymboom"
+        },
+        {
+            "accuracy": 99,
+            "score": 31090,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MediumMatty"
+        },
+        {
             "accuracy": 94,
             "score": 31057,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MeridianHades5"
-        },
-        {
-            "accuracy": 99,
-            "score": 26591,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "zNaruto"
-        },
-        {
-            "accuracy": 95,
-            "score": 26575,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] Toimeton"
         }
     ]
 }

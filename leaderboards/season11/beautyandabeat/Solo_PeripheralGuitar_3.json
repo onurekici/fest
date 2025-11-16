@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 53418,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "alexjpgr"
+        },
+        {
+            "accuracy": 92,
+            "score": 53154,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Kayahrii"
+        },
+        {
             "accuracy": 87,
             "score": 53142,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "AtomicCurrse"
-        },
-        {
-            "accuracy": 81,
-            "score": 30162,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "coollin64"
-        },
-        {
-            "accuracy": 97,
-            "score": 29886,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "[PSN] Alex_The_Lion101"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123241,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "とぅみきゅん"
+        },
+        {
+            "accuracy": 99,
+            "score": 123213,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Costpanic76"
+        },
+        {
+            "accuracy": 100,
             "score": 123210,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "mf.mood"
-        },
-        {
-            "accuracy": 100,
-            "score": 122199,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Anticitizen_"
-        },
-        {
-            "accuracy": 100,
-            "score": 122190,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "OA2005"
         }
     ]
 }

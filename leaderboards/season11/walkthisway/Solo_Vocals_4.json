@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123745,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sleepy Tayyy"
+        },
+        {
+            "accuracy": 99,
+            "score": 123690,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kerti_Kertész"
+        },
+        {
             "accuracy": 100,
             "score": 123659,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "せいゆん"
-        },
-        {
-            "accuracy": 100,
-            "score": 122067,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "brutalitytour"
-        },
-        {
-            "accuracy": 100,
-            "score": 122041,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Damdaniel328"
         }
     ]
 }

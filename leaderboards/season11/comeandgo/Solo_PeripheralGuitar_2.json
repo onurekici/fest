@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 104561,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Apollo.png"
+        },
+        {
             "accuracy": 98,
             "score": 104185,
             "difficulty": 3,
@@ -514,6 +522,14 @@
         },
         {
             "accuracy": 95,
+            "score": 88848,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Daedrate"
+        },
+        {
+            "accuracy": 95,
             "score": 88445,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "jetsetnickradio"
-        },
-        {
-            "accuracy": 93,
-            "score": 81434,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ExtriKATE"
-        },
-        {
-            "accuracy": 94,
-            "score": 81424,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ellomax4"
         }
     ]
 }

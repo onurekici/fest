@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 175884,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "frlWHIP"
+        },
+        {
+            "accuracy": 100,
+            "score": 175812,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SoapySack"
+        },
+        {
             "accuracy": 100,
             "score": 175800,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "temu impala"
-        },
-        {
-            "accuracy": 100,
-            "score": 172584,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Halo_lond"
-        },
-        {
-            "accuracy": 99,
-            "score": 172584,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "REGINONT"
         }
     ]
 }

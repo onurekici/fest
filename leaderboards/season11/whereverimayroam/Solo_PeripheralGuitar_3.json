@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 184257,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "A7X-Slayer"
+        },
+        {
+            "accuracy": 96,
+            "score": 184203,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TaliSoprano"
+        },
+        {
             "accuracy": 94,
             "score": 184178,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Mythic_Shotgun"
-        },
-        {
-            "accuracy": 100,
-            "score": 170857,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ChillXeno"
-        },
-        {
-            "accuracy": 92,
-            "score": 170807,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "2starmikey"
         }
     ]
 }

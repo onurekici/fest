@@ -138,6 +138,14 @@
         },
         {
             "accuracy": 100,
+            "score": 160300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ArDissidia"
+        },
+        {
+            "accuracy": 100,
             "score": 160172,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SeanFolfo"
-        },
-        {
-            "accuracy": 100,
-            "score": 149692,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "InquisidorGrunt1"
         }
     ]
 }

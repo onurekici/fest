@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 75,
+            "score": 70827,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ButterFingah"
+        },
+        {
             "accuracy": 80,
             "score": 70570,
             "difficulty": 3,
@@ -529,6 +537,14 @@
             "userName": "Fran oo"
         },
         {
+            "accuracy": 99,
+            "score": 59398,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Riolucake"
+        },
+        {
             "accuracy": 80,
             "score": 59321,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Mathew1151"
-        },
-        {
-            "accuracy": 97,
-            "score": 54708,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mr_Pavel"
-        },
-        {
-            "accuracy": 75,
-            "score": 54566,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "SJSharkMaster"
         }
     ]
 }

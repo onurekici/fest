@@ -274,6 +274,14 @@
         },
         {
             "accuracy": 100,
+            "score": 192422,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Robo Cod"
+        },
+        {
+            "accuracy": 100,
             "score": 192058,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Go_Go_Gojira"
-        },
-        {
-            "accuracy": 99,
-            "score": 181361,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "UFOCommander"
         }
     ]
 }

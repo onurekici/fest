@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 313772,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JayTheGod115"
+        },
+        {
+            "accuracy": 100,
+            "score": 313671,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TTVMoxie_The_Rat"
+        },
+        {
             "accuracy": 100,
             "score": 313669,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "P1 Donut"
-        },
-        {
-            "accuracy": 99,
-            "score": 305750,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Two-Bits"
-        },
-        {
-            "accuracy": 100,
-            "score": 305725,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "El Real Agasajo"
         }
     ]
 }

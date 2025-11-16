@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 91,
+            "score": 62041,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "bomb6OOO"
+        },
+        {
+            "accuracy": 98,
+            "score": 61696,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DarkMagician29"
+        },
+        {
+            "accuracy": 98,
+            "score": 61319,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DasManagement"
+        },
+        {
             "accuracy": 93,
             "score": 61150,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "sidocat"
-        },
-        {
-            "accuracy": 94,
-            "score": 45149,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sous Chef Sam"
-        },
-        {
-            "accuracy": 84,
-            "score": 45043,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "todowokie"
-        },
-        {
-            "accuracy": 81,
-            "score": 44855,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Highlander4x"
         }
     ]
 }

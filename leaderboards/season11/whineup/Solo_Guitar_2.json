@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 108143,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BigJoe201"
+        },
+        {
+            "accuracy": 100,
+            "score": 108112,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Myst1cs BF"
+        },
+        {
             "accuracy": 100,
             "score": 108048,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Aaralyn_Skye"
-        },
-        {
-            "accuracy": 100,
-            "score": 104923,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Velocimanda"
-        },
-        {
-            "accuracy": 99,
-            "score": 104914,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BeaniButt"
         }
     ]
 }

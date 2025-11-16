@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 70085,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LiGrîm"
+        },
+        {
+            "accuracy": 100,
+            "score": 69933,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BasksterPunk"
+        },
+        {
             "accuracy": 100,
             "score": 69891,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NeverThatOneGrl"
-        },
-        {
-            "accuracy": 98,
-            "score": 66362,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Eclipseapex01"
-        },
-        {
-            "accuracy": 100,
-            "score": 66334,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Vitrex890"
         }
     ]
 }

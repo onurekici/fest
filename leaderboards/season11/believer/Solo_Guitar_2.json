@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 118747,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SylerTheCyborg"
+        },
+        {
+            "accuracy": 100,
+            "score": 118735,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TrentExists"
+        },
+        {
             "accuracy": 99,
             "score": 118626,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "corttnilee"
-        },
-        {
-            "accuracy": 99,
-            "score": 115394,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JusttAlf"
-        },
-        {
-            "accuracy": 99,
-            "score": 115387,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shu Clawthorne"
         }
     ]
 }

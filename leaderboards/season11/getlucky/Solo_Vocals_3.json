@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 224345,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Joshyb123"
+        },
+        {
+            "accuracy": 100,
+            "score": 224345,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FACTS LAST"
+        },
+        {
+            "accuracy": 100,
             "score": 224341,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Shigo96H"
-        },
-        {
-            "accuracy": 100,
-            "score": 223025,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zeo-teX"
-        },
-        {
-            "accuracy": 99,
-            "score": 223009,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jarachic"
         }
     ]
 }

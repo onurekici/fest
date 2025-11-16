@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 44298,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Vanilla I.C.E"
+        },
+        {
+            "accuracy": 99,
+            "score": 44235,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "John_Vindertech"
+        },
+        {
+            "accuracy": 99,
+            "score": 43757,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RottenDracula"
+        },
+        {
+            "accuracy": 100,
             "score": 43616,
             "difficulty": 3,
             "stars": 6,
@@ -281,6 +305,14 @@
             "userName": "DubBlowsHeaven"
         },
         {
+            "accuracy": 99,
+            "score": 39118,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Festive Radish"
+        },
+        {
             "accuracy": 100,
             "score": 38844,
             "difficulty": 2,
@@ -529,6 +561,14 @@
             "userName": "Im2Swazzy"
         },
         {
+            "accuracy": 99,
+            "score": 32202,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ProspectMigz"
+        },
+        {
             "accuracy": 98,
             "score": 32024,
             "difficulty": 3,
@@ -759,46 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "saxatron18"
-        },
-        {
-            "accuracy": 96,
-            "score": 20153,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "N1cu P4l3ru"
-        },
-        {
-            "accuracy": 100,
-            "score": 19842,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MikeRoark819"
-        },
-        {
-            "accuracy": 100,
-            "score": 19704,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RedEyedWolf04"
-        },
-        {
-            "accuracy": 94,
-            "score": 19696,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "PapaJoeMan"
-        },
-        {
-            "accuracy": 96,
-            "score": 19080,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Soupadria94"
         }
     ]
 }

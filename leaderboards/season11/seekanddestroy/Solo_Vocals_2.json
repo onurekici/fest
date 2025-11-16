@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85848,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Noli 웃"
+        },
+        {
             "accuracy": 100,
             "score": 85812,
             "difficulty": 3,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MauvaisTrooper"
+        },
+        {
+            "accuracy": 100,
+            "score": 85669,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Xav_TP"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DarkAether99"
-        },
-        {
-            "accuracy": 100,
-            "score": 84934,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "smol_xd"
-        },
-        {
-            "accuracy": 100,
-            "score": 84922,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ironicnotyours"
         }
     ]
 }

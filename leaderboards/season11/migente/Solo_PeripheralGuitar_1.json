@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 62102,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Battle - Bacon"
+        },
+        {
             "accuracy": 100,
             "score": 62029,
             "difficulty": 3,
@@ -215,6 +223,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Wondertwins2002"
+        },
+        {
+            "accuracy": 99,
+            "score": 58831,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GauNt3r"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "JoshLegLC"
-        },
-        {
-            "accuracy": 96,
-            "score": 44750,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KKing_Kaneki"
-        },
-        {
-            "accuracy": 100,
-            "score": 44532,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "OliverPMc"
         }
     ]
 }

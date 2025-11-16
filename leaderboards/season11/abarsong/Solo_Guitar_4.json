@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 136676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Alex_playz92"
+        },
+        {
+            "accuracy": 100,
+            "score": 136676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lnfendus"
+        },
+        {
+            "accuracy": 99,
             "score": 136664,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "victorinth"
-        },
-        {
-            "accuracy": 100,
-            "score": 135486,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "saotome87"
-        },
-        {
-            "accuracy": 100,
-            "score": 135453,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LeonScKennedy311"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 89072,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "StoneWarrior04"
+        },
+        {
+            "accuracy": 89,
+            "score": 88912,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "bfitz32"
+        },
+        {
+            "accuracy": 80,
+            "score": 88778,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "ZombDude444"
+        },
+        {
             "accuracy": 91,
             "score": 88264,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Daniel Chap"
-        },
-        {
-            "accuracy": 81,
-            "score": 34416,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Cobrachaim"
-        },
-        {
-            "accuracy": 80,
-            "score": 33966,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Virus3430"
-        },
-        {
-            "accuracy": 41,
-            "score": 33086,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "AD Sukuna"
         }
     ]
 }

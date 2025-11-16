@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 124280,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bobby Smore"
+        },
+        {
             "accuracy": 99,
             "score": 124266,
             "difficulty": 3,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "bbqmeow"
+        },
+        {
+            "accuracy": 99,
+            "score": 124207,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Young_Apxllo303"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheMr_Juicy"
-        },
-        {
-            "accuracy": 99,
-            "score": 118511,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lolwthbbq"
-        },
-        {
-            "accuracy": 100,
-            "score": 118422,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ryoreilz"
         }
     ]
 }
