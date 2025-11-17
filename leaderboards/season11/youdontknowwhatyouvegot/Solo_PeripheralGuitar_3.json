@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 131888,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ChrisBraithwaite"
+        },
+        {
             "accuracy": 99,
             "score": 131802,
             "difficulty": 2,
@@ -263,6 +271,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "UnDeAD UniON"
+        },
+        {
+            "accuracy": 99,
+            "score": 123247,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DIGICRASH5E"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "mruszczyk"
-        },
-        {
-            "accuracy": 95,
-            "score": 96480,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lykan IX"
-        },
-        {
-            "accuracy": 100,
-            "score": 96324,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Dimestore_saint"
         }
     ]
 }

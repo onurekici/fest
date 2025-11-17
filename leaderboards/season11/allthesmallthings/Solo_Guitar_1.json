@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 207569,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mochizou Chris"
+        },
+        {
+            "accuracy": 100,
+            "score": 207546,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ElongatedMuskTTV"
+        },
+        {
             "accuracy": 100,
             "score": 207516,
             "difficulty": 3,
@@ -199,14 +215,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Oskii_Snow"
-        },
-        {
-            "accuracy": 100,
-            "score": 206610,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Twitch Frightwtf"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Wandinha Addamz"
-        },
-        {
-            "accuracy": 100,
-            "score": 204727,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DoujinMaster69"
         }
     ]
 }

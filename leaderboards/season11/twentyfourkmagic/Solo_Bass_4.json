@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 138816,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nekozuit"
+        },
+        {
+            "accuracy": 100,
+            "score": 138781,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AllaryKing"
+        },
+        {
+            "accuracy": 100,
             "score": 138771,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ray_w01"
-        },
-        {
-            "accuracy": 100,
-            "score": 137281,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Iumenaire"
-        },
-        {
-            "accuracy": 100,
-            "score": 137267,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GreenJustice69"
         }
     ]
 }

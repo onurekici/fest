@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125634,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FlexHogan"
+        },
+        {
+            "accuracy": 99,
+            "score": 125634,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Starinet"
+        },
+        {
+            "accuracy": 100,
             "score": 125628,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[PSN] gbaba5393"
-        },
-        {
-            "accuracy": 99,
-            "score": 123138,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mojun_nya"
-        },
-        {
-            "accuracy": 99,
-            "score": 123030,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shumaker32"
         }
     ]
 }

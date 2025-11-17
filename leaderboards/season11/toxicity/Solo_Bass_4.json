@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 242622,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gliiaach"
+        },
+        {
+            "accuracy": 99,
+            "score": 242563,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cujo832022"
+        },
+        {
+            "accuracy": 100,
             "score": 242538,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "JanineHeckler"
-        },
-        {
-            "accuracy": 100,
-            "score": 240263,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Missric_"
-        },
-        {
-            "accuracy": 99,
-            "score": 240262,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chiraggity"
         }
     ]
 }

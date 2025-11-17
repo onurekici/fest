@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 86244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Csocsii007"
+        },
+        {
+            "accuracy": 100,
+            "score": 86232,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Haphazardum"
+        },
+        {
+            "accuracy": 99,
             "score": 86232,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Zaheadan"
-        },
-        {
-            "accuracy": 100,
-            "score": 83046,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "luv evie."
-        },
-        {
-            "accuracy": 99,
-            "score": 83040,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LeontheBen"
         }
     ]
 }

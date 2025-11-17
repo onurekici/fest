@@ -1,20 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 87,
+            "score": 40340,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Duectorch"
+        },
+        {
+            "accuracy": 96,
+            "score": 40253,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheKiGrimReaper"
+        },
+        {
             "accuracy": 89,
             "score": 39932,
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
             "userName": "aT_Flynn"
-        },
-        {
-            "accuracy": 92,
-            "score": 39496,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MIKINATIONYT"
         },
         {
             "accuracy": 86,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "randomzombie09"
-        },
-        {
-            "accuracy": 87,
-            "score": 15833,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Killer_bladi"
         }
     ]
 }

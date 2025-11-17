@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 45029,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CrucialRiefer"
+        },
+        {
+            "accuracy": 100,
             "score": 45017,
             "difficulty": 3,
             "stars": 6,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "trin453"
+        },
+        {
+            "accuracy": 98,
+            "score": 44676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Narukirageta"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Dmasy"
-        },
-        {
-            "accuracy": 100,
-            "score": 44278,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Popcorn.v2"
-        },
-        {
-            "accuracy": 100,
-            "score": 44260,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hyper Logics"
         }
     ]
 }

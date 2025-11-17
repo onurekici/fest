@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 64021,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Richie3225"
+        },
+        {
             "accuracy": 98,
             "score": 64016,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BaltotheFox"
-        },
-        {
-            "accuracy": 100,
-            "score": 57943,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mr Apfel 1.0"
         }
     ]
 }

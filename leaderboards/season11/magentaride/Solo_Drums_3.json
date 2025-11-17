@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 109722,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mphstz"
+        },
+        {
+            "accuracy": 100,
+            "score": 109722,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DaysOfFuturePast"
+        },
+        {
             "accuracy": 100,
             "score": 109710,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AllSum_Prime"
-        },
-        {
-            "accuracy": 100,
-            "score": 107646,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "subl1me89vision"
-        },
-        {
-            "accuracy": 99,
-            "score": 107628,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Eclapsed"
         }
     ]
 }

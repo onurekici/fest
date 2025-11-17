@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 124660,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "HunterMagnet"
+        },
+        {
+            "accuracy": 91,
+            "score": 124550,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Dj Playman"
+        },
+        {
+            "accuracy": 88,
+            "score": 124085,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Keybladera"
+        },
+        {
             "accuracy": 87,
             "score": 124061,
             "difficulty": 3,
@@ -545,14 +569,6 @@
             "userName": "Alwayz_Boss24"
         },
         {
-            "accuracy": 86,
-            "score": 92302,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "IM-SO_DERPY"
-        },
-        {
             "accuracy": 100,
             "score": 91843,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "[XBL] SovietSuperBear"
-        },
-        {
-            "accuracy": 100,
-            "score": 86382,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ReelWomenFlyFish"
-        },
-        {
-            "accuracy": 96,
-            "score": 86153,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "frownybois"
         }
     ]
 }

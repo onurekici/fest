@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 165125,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ScrubbyChou"
+        },
+        {
+            "accuracy": 100,
+            "score": 164952,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KylJak"
+        },
+        {
             "accuracy": 99,
             "score": 164898,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "I Vitor Hugo I"
-        },
-        {
-            "accuracy": 99,
-            "score": 158202,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kalel de chill"
-        },
-        {
-            "accuracy": 100,
-            "score": 157988,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "logan05229"
         }
     ]
 }

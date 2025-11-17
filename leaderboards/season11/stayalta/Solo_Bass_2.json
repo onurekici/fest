@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 75432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Armin_Mealho"
+        },
+        {
             "accuracy": 98,
             "score": 75377,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "stills67"
-        },
-        {
-            "accuracy": 100,
-            "score": 64021,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Richie3225"
         }
     ]
 }

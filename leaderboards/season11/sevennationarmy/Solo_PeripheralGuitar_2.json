@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 51830,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Paragon of Doom"
+        },
+        {
             "accuracy": 99,
             "score": 51829,
             "difficulty": 2,
@@ -95,6 +103,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MyLadBurnyBoy"
+        },
+        {
+            "accuracy": 97,
+            "score": 50486,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Xavinci"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "AnAbsoluteGoober"
-        },
-        {
-            "accuracy": 96,
-            "score": 43149,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "tinydinosaur918"
-        },
-        {
-            "accuracy": 99,
-            "score": 42790,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nyandos"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 93810,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zachyousmartie"
+        },
+        {
+            "accuracy": 99,
+            "score": 93725,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RaccRune"
+        },
+        {
             "accuracy": 99,
             "score": 93717,
             "difficulty": 3,
@@ -209,6 +225,14 @@
             "userName": "Scubanick99"
         },
         {
+            "accuracy": 100,
+            "score": 91625,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Benji3619"
+        },
+        {
             "accuracy": 99,
             "score": 91603,
             "difficulty": 3,
@@ -311,14 +335,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EDDOK_"
-        },
-        {
-            "accuracy": 99,
-            "score": 90641,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Benji3619"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kodywr13"
-        },
-        {
-            "accuracy": 98,
-            "score": 86662,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "killakayra"
-        },
-        {
-            "accuracy": 99,
-            "score": 86501,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Red Haimerej"
         }
     ]
 }

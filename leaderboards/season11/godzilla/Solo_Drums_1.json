@@ -426,6 +426,14 @@
         },
         {
             "accuracy": 100,
+            "score": 198252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dan_Tr4pD00r"
+        },
+        {
+            "accuracy": 100,
             "score": 198138,
             "difficulty": 3,
             "stars": 6,
@@ -463,6 +471,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "EpilepticThief"
+        },
+        {
+            "accuracy": 99,
+            "score": 198036,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Scamprd_5"
         },
         {
             "accuracy": 100,
@@ -551,14 +567,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "A_NameIGuess"
-        },
-        {
-            "accuracy": 100,
-            "score": 197496,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dan_Tr4pD00r"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Pal Bro"
-        },
-        {
-            "accuracy": 99,
-            "score": 195858,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Neroir12"
         }
     ]
 }

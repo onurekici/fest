@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 187332,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThrillKill124"
+        },
+        {
+            "accuracy": 100,
             "score": 187320,
             "difficulty": 3,
             "stars": 6,
@@ -47,6 +55,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Shoryukitten"
+        },
+        {
+            "accuracy": 100,
+            "score": 187098,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rogue_Warrior91"
         },
         {
             "accuracy": 100,
@@ -383,6 +399,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Sakura ホ"
+        },
+        {
+            "accuracy": 100,
+            "score": 185790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SandanSaiyan"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VenomPacifier"
-        },
-        {
-            "accuracy": 100,
-            "score": 184290,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BungleKrunk"
-        },
-        {
-            "accuracy": 99,
-            "score": 184260,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "youmana"
-        },
-        {
-            "accuracy": 100,
-            "score": 184248,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "magnario"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 92018,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The_Beastness"
+        },
+        {
+            "accuracy": 99,
+            "score": 91980,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pакa"
+        },
+        {
             "accuracy": 99,
             "score": 91921,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Chill2Music"
-        },
-        {
-            "accuracy": 99,
-            "score": 86826,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SleepyHatsune"
-        },
-        {
-            "accuracy": 99,
-            "score": 86745,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ScrubBear"
         }
     ]
 }

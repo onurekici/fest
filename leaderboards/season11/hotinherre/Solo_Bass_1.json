@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 47430,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Foo tfoot"
+        },
+        {
+            "accuracy": 100,
             "score": 47412,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "t1naa-o-"
-        },
-        {
-            "accuracy": 100,
-            "score": 46788,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TorqueHydra"
         }
     ]
 }

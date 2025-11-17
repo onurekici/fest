@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 51098,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tr00l games"
+        },
+        {
+            "accuracy": 99,
+            "score": 51087,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "й proper"
+        },
+        {
+            "accuracy": 100,
             "score": 51080,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TheHammer1978"
-        },
-        {
-            "accuracy": 99,
-            "score": 49711,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zach.is.Back"
-        },
-        {
-            "accuracy": 100,
-            "score": 49699,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mareckoum"
         }
     ]
 }

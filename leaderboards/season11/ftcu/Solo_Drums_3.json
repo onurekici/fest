@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 112614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lynx_vamp"
+        },
+        {
             "accuracy": 100,
             "score": 112560,
             "difficulty": 3,
@@ -617,6 +625,14 @@
             "userName": "wanji_"
         },
         {
+            "accuracy": 100,
+            "score": 110598,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rogue_Warrior91"
+        },
+        {
             "accuracy": 99,
             "score": 110592,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ba3hiba"
-        },
-        {
-            "accuracy": 99,
-            "score": 110136,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mandylii"
-        },
-        {
-            "accuracy": 100,
-            "score": 110118,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AshenAnri"
         }
     ]
 }

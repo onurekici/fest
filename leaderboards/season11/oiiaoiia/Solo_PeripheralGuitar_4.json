@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 95,
+            "score": 35355,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "dyziu love"
+        },
+        {
+            "accuracy": 95,
             "score": 35337,
             "difficulty": 3,
             "stars": 5,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FiredUpInferno"
-        },
-        {
-            "accuracy": 100,
-            "score": 32507,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TheNeoRex"
         }
     ]
 }

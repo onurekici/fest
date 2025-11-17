@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 121383,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DinoDaddy2003"
+        },
+        {
+            "accuracy": 99,
+            "score": 121314,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lostabc"
+        },
+        {
+            "accuracy": 100,
             "score": 121254,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sally_soma"
-        },
-        {
-            "accuracy": 99,
-            "score": 108175,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xdrylin"
-        },
-        {
-            "accuracy": 99,
-            "score": 107962,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WowItsJet"
         }
     ]
 }

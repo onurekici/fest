@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 65197,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Layton20"
+        },
+        {
+            "accuracy": 99,
+            "score": 65160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "miracle_tathu"
+        },
+        {
             "accuracy": 99,
             "score": 65157,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Côwpoke"
-        },
-        {
-            "accuracy": 99,
-            "score": 62203,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Reign_AFK"
-        },
-        {
-            "accuracy": 100,
-            "score": 62178,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Fortiche1"
         }
     ]
 }

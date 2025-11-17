@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 49711,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Zach.is.Back"
+        },
+        {
+            "accuracy": 100,
+            "score": 49699,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mareckoum"
+        },
+        {
             "accuracy": 100,
             "score": 49691,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "danielbunting200"
-        },
-        {
-            "accuracy": 97,
-            "score": 48336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "OrionPlays"
-        },
-        {
-            "accuracy": 100,
-            "score": 48336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Aritz Ramos"
         }
     ]
 }

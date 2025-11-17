@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 133886,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Yasha 1"
+        },
+        {
+            "accuracy": 100,
             "score": 133813,
             "difficulty": 3,
             "stars": 6,
@@ -306,10 +314,10 @@
         },
         {
             "accuracy": 100,
-            "score": 131506,
+            "score": 131547,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "JoBroniBologna"
         },
         {
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Toastymyth"
+        },
+        {
+            "accuracy": 100,
+            "score": 130975,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xIFxWARZ SMOKER"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ExterMM12"
-        },
-        {
-            "accuracy": 99,
-            "score": 128523,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TypicalEclipse"
-        },
-        {
-            "accuracy": 99,
-            "score": 128521,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MIKUMIKUBEAAAAMM"
         }
     ]
 }

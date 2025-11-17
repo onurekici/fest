@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 42003,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jxce.m"
+        },
+        {
+            "accuracy": 100,
             "score": 41993,
             "difficulty": 3,
             "stars": 6,
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Vamargado"
+        },
+        {
+            "accuracy": 99,
+            "score": 41776,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SñrChulupiO.o"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mochimugi555"
-        },
-        {
-            "accuracy": 99,
-            "score": 41391,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wallewalt"
-        },
-        {
-            "accuracy": 100,
-            "score": 41389,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Himmelsnetz"
         }
     ]
 }

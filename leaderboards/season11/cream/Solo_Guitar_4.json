@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112080,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "wong-tastic8"
+        },
+        {
+            "accuracy": 99,
+            "score": 112077,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cover_Your_Bones"
+        },
+        {
+            "accuracy": 100,
             "score": 112064,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "allyrauchhh"
-        },
-        {
-            "accuracy": 100,
-            "score": 111054,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ortizle1k"
-        },
-        {
-            "accuracy": 99,
-            "score": 111051,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cookie1550"
         }
     ]
 }

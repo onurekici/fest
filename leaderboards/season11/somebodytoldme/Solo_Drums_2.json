@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 222312,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ka4ok Mok"
+        },
+        {
+            "accuracy": 100,
+            "score": 222228,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "valtteri ت"
+        },
+        {
             "accuracy": 100,
             "score": 222222,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Right_eye2"
-        },
-        {
-            "accuracy": 99,
-            "score": 219534,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Drummer-Dude666"
-        },
-        {
-            "accuracy": 100,
-            "score": 219522,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "YuriLover217"
         }
     ]
 }

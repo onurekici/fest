@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 156906,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "franrcaivano"
+        },
+        {
+            "accuracy": 100,
+            "score": 156834,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NotJœ"
+        },
+        {
+            "accuracy": 99,
             "score": 156750,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Belzniccles"
-        },
-        {
-            "accuracy": 98,
-            "score": 147804,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "squarewindow"
-        },
-        {
-            "accuracy": 99,
-            "score": 147744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "VicesSB"
         }
     ]
 }

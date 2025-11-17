@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 85,
+            "score": 60025,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Thirstable"
+        },
+        {
+            "accuracy": 100,
+            "score": 60020,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DarkDeeDee"
+        },
+        {
             "accuracy": 94,
             "score": 60018,
             "difficulty": 3,
@@ -287,6 +303,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "DarkFoxxy"
+        },
+        {
+            "accuracy": 88,
+            "score": 56084,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "llokust"
         },
         {
             "accuracy": 89,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Random Smells"
-        },
-        {
-            "accuracy": 89,
-            "score": 49088,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "WG_FURY"
-        },
-        {
-            "accuracy": 85,
-            "score": 48748,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Dallen49"
-        },
-        {
-            "accuracy": 80,
-            "score": 48610,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "yoalexisyo"
         }
     ]
 }

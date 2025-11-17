@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 233832,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GlizzyBLM"
+        },
+        {
+            "accuracy": 100,
             "score": 232758,
             "difficulty": 3,
             "stars": 6,
@@ -409,6 +417,14 @@
             "userName": "nameistaco"
         },
         {
+            "accuracy": 98,
+            "score": 195018,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sukunasho"
+        },
+        {
             "accuracy": 99,
             "score": 193632,
             "difficulty": 3,
@@ -503,6 +519,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "theegoldrushrat"
+        },
+        {
+            "accuracy": 99,
+            "score": 180168,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BiggieCheese780"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "HitmanElijah"
-        },
-        {
-            "accuracy": 96,
-            "score": 129204,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Teadybear5977"
-        },
-        {
-            "accuracy": 96,
-            "score": 125640,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "igagyu"
-        },
-        {
-            "accuracy": 97,
-            "score": 123570,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "krclem26"
         }
     ]
 }

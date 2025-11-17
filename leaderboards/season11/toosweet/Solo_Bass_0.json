@@ -410,6 +410,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123622,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Phantom_Dabi"
+        },
+        {
+            "accuracy": 100,
             "score": 123523,
             "difficulty": 3,
             "stars": 6,
@@ -511,6 +519,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NFFVIP"
+        },
+        {
+            "accuracy": 99,
+            "score": 119837,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "eltorolocoloco"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sōsōno Frieren"
-        },
-        {
-            "accuracy": 100,
-            "score": 109022,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Nyrillen"
-        },
-        {
-            "accuracy": 99,
-            "score": 108552,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tojisbabymama11"
         }
     ]
 }

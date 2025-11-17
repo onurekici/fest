@@ -441,6 +441,14 @@
             "userName": "Logiwan"
         },
         {
+            "accuracy": 100,
+            "score": 95623,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KevinOrDevin"
+        },
+        {
             "accuracy": 99,
             "score": 95379,
             "difficulty": 3,
@@ -514,19 +522,19 @@
         },
         {
             "accuracy": 100,
+            "score": 94140,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TrrbleTerryTate"
+        },
+        {
+            "accuracy": 100,
             "score": 94096,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "iTenshiSenpai"
-        },
-        {
-            "accuracy": 99,
-            "score": 93916,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TrrbleTerryTate"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "King_Ryker18"
-        },
-        {
-            "accuracy": 98,
-            "score": 86213,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sysmec"
         }
     ]
 }

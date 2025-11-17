@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 37596,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MetalManic1"
+        },
+        {
             "accuracy": 93,
             "score": 37445,
             "difficulty": 3,
@@ -159,6 +167,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "johnnadonna"
+        },
+        {
+            "accuracy": 91,
+            "score": 35821,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Prevok DK"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Goldsoda8115448"
-        },
-        {
-            "accuracy": 100,
-            "score": 29580,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "RecklessMike777"
-        },
-        {
-            "accuracy": 96,
-            "score": 29492,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BoomaDingus"
         }
     ]
 }

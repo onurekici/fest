@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123846,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Macha Neka"
+        },
+        {
             "accuracy": 100,
             "score": 123846,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mightypapamoose"
-        },
-        {
-            "accuracy": 99,
-            "score": 120198,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ExtSnipes"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 63567,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MC_Gardener"
+        },
+        {
+            "accuracy": 99,
+            "score": 63506,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mur16"
+        },
+        {
+            "accuracy": 100,
             "score": 63480,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Punishr2."
-        },
-        {
-            "accuracy": 100,
-            "score": 61657,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "pr3sepe"
-        },
-        {
-            "accuracy": 99,
-            "score": 61640,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FelipeEsc123"
         }
     ]
 }

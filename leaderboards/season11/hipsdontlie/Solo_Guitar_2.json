@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 115903,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BombasticTom"
+        },
+        {
             "accuracy": 100,
             "score": 115881,
             "difficulty": 3,
@@ -383,6 +391,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PipaPuks"
+        },
+        {
+            "accuracy": 100,
+            "score": 115164,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SirSavvyyy"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Fomally"
-        },
-        {
-            "accuracy": 100,
-            "score": 114623,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Doppelgänger 997"
-        },
-        {
-            "accuracy": 100,
-            "score": 114622,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Vicckster"
         }
     ]
 }

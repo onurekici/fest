@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 233100,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 233094,
             "difficulty": 3,
@@ -787,14 +795,6 @@
         {
             "accuracy": 100,
             "score": 230148,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": null
-        },
-        {
-            "accuracy": 100,
-            "score": 230070,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,

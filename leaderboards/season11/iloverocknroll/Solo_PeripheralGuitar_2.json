@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 88444,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mr.Kuabster"
+        },
+        {
             "accuracy": 99,
             "score": 88428,
             "difficulty": 3,
@@ -135,6 +143,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SaucedBlackGuy"
+        },
+        {
+            "accuracy": 100,
+            "score": 88044,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "vínyl"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "xoebs"
-        },
-        {
-            "accuracy": 100,
-            "score": 86171,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "P1NKSNIPERX"
-        },
-        {
-            "accuracy": 100,
-            "score": 86100,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Portable_Head"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 254087,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "My Friend Frank"
+        },
+        {
+            "accuracy": 98,
+            "score": 253835,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Adalbortinho"
+        },
+        {
             "accuracy": 98,
             "score": 253476,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Random Smells"
-        },
-        {
-            "accuracy": 98,
-            "score": 234324,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Reventius"
-        },
-        {
-            "accuracy": 96,
-            "score": 234109,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ㄷam"
         }
     ]
 }

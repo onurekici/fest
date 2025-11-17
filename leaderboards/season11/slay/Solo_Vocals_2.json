@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 76782,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lonely_Lv"
+        },
+        {
             "accuracy": 100,
             "score": 76770,
             "difficulty": 3,
@@ -622,6 +630,14 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
+            "userName": "安らかに眠れ agxny"
+        },
+        {
+            "accuracy": 100,
+            "score": 76278,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
             "userName": "Ｐａｒａｌｙｚｅ"
         },
         {
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "最弱リリリンゴ"
-        },
-        {
-            "accuracy": 100,
-            "score": 76176,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Loki_L1130"
-        },
-        {
-            "accuracy": 100,
-            "score": 76176,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Glomonux"
         }
     ]
 }

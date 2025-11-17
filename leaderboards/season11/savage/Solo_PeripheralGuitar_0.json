@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 81394,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nick Bodnick"
+        },
+        {
+            "accuracy": 100,
             "score": 79897,
             "difficulty": 3,
             "stars": 6,
@@ -41,6 +49,14 @@
             "userName": "ToraToraTora"
         },
         {
+            "accuracy": 98,
+            "score": 74762,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GK Speed"
+        },
+        {
             "accuracy": 99,
             "score": 67924,
             "difficulty": 3,
@@ -49,12 +65,36 @@
             "userName": "dirtylopez_06"
         },
         {
+            "accuracy": 100,
+            "score": 67735,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fatalundead"
+        },
+        {
+            "accuracy": 95,
+            "score": 67351,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Reeferman191"
+        },
+        {
             "accuracy": 98,
             "score": 66900,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "aT_Flynn"
+        },
+        {
+            "accuracy": 98,
+            "score": 65280,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "thegreatzach"
         },
         {
             "accuracy": 97,
@@ -95,6 +135,22 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "I DontFeelSoGood"
+        },
+        {
+            "accuracy": 56,
+            "score": 9560,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "lamy101"
+        },
+        {
+            "accuracy": 43,
+            "score": 5454,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Aj_baller10"
         }
     ]
 }
