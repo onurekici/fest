@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 30815,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "HerMonkey1"
+        },
+        {
+            "accuracy": 99,
+            "score": 30810,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ЭЙВОР-МК"
+        },
+        {
+            "accuracy": 100,
             "score": 30805,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "MaxaroniClipz"
-        },
-        {
-            "accuracy": 100,
-            "score": 29655,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Cpt.BriX"
-        },
-        {
-            "accuracy": 100,
-            "score": 29640,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Arturificoo"
         }
     ]
 }

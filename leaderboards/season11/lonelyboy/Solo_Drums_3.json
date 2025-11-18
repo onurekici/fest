@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 253338,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "theTrickyReborn"
+        },
+        {
             "accuracy": 99,
             "score": 253248,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Linkin Theory"
-        },
-        {
-            "accuracy": 100,
-            "score": 249576,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Pepe_el_chido"
         }
     ]
 }

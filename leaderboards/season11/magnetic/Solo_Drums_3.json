@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 115530,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "まいごんたん"
+        },
+        {
+            "accuracy": 99,
+            "score": 115530,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Romanodop2323"
+        },
+        {
             "accuracy": 99,
             "score": 115464,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "quiche_."
-        },
-        {
-            "accuracy": 99,
-            "score": 113118,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zkip.EXE"
-        },
-        {
-            "accuracy": 99,
-            "score": 113112,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FajitaPlatter31"
         }
     ]
 }

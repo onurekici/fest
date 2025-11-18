@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 118630,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Slashii"
+        },
+        {
+            "accuracy": 99,
+            "score": 118590,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FoxySmile63"
+        },
+        {
+            "accuracy": 100,
             "score": 118580,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "crazylilrocker"
-        },
-        {
-            "accuracy": 99,
-            "score": 108340,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FzePepinillo"
-        },
-        {
-            "accuracy": 99,
-            "score": 108315,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Spookybeepumpkin"
         }
     ]
 }

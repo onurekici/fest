@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 134653,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Skeptic Zombie"
+        },
+        {
             "accuracy": 99,
             "score": 134545,
             "difficulty": 3,
@@ -490,6 +498,14 @@
         },
         {
             "accuracy": 99,
+            "score": 128470,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "eversincexo"
+        },
+        {
+            "accuracy": 99,
             "score": 128301,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "seabass289"
-        },
-        {
-            "accuracy": 99,
-            "score": 124632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tidiiz"
-        },
-        {
-            "accuracy": 99,
-            "score": 124592,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Leggy-94"
         }
     ]
 }

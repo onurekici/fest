@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 80874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Leandr056"
+        },
+        {
+            "accuracy": 100,
+            "score": 80868,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DakishMyakish"
+        },
+        {
+            "accuracy": 99,
+            "score": 80790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "gryphonnohpyrg"
+        },
+        {
             "accuracy": 99,
             "score": 80766,
             "difficulty": 3,
@@ -610,14 +634,6 @@
         },
         {
             "accuracy": 99,
-            "score": 77904,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CaxrtoD"
-        },
-        {
-            "accuracy": 99,
             "score": 77856,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "kazuyette"
-        },
-        {
-            "accuracy": 99,
-            "score": 76890,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MarkusHSVer"
-        },
-        {
-            "accuracy": 99,
-            "score": 76758,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "popdamtrigger"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 93839,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sairus_Ryu"
+        },
+        {
+            "accuracy": 100,
+            "score": 93838,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AtomicChoripan"
+        },
+        {
+            "accuracy": 100,
+            "score": 93823,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Link0815"
+        },
+        {
             "accuracy": 100,
             "score": 93812,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SucculentStirfry"
-        },
-        {
-            "accuracy": 100,
-            "score": 92234,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BadKarma0406"
-        },
-        {
-            "accuracy": 100,
-            "score": 92217,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GG_Björni"
-        },
-        {
-            "accuracy": 100,
-            "score": 92214,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BillyBoy_2018"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 255143,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "earthratninja"
+        },
+        {
+            "accuracy": 100,
+            "score": 255115,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "thomastawney"
+        },
+        {
+            "accuracy": 100,
             "score": 255109,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Clash_Kicker"
-        },
-        {
-            "accuracy": 99,
-            "score": 243658,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-9d12246fbf"
-        },
-        {
-            "accuracy": 99,
-            "score": 243614,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mama_Luigi21"
         }
     ]
 }

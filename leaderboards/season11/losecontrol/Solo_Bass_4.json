@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85266,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "franvi04"
+        },
+        {
+            "accuracy": 100,
+            "score": 85253,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lon3Wolf_115"
+        },
+        {
             "accuracy": 100,
             "score": 85231,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Soulfulblock25"
-        },
-        {
-            "accuracy": 99,
-            "score": 84240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Adnaphi"
-        },
-        {
-            "accuracy": 100,
-            "score": 84232,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BlueberryLily3"
         }
     ]
 }

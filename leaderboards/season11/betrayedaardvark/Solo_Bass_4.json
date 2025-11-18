@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 80587,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AlexisskaCZ"
+        },
+        {
+            "accuracy": 99,
+            "score": 80581,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ravended"
+        },
+        {
+            "accuracy": 100,
             "score": 80560,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Cha.7"
-        },
-        {
-            "accuracy": 100,
-            "score": 79132,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AsteriTheVeloci"
-        },
-        {
-            "accuracy": 99,
-            "score": 79116,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KawaiiZenko"
         }
     ]
 }

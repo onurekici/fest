@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 292013,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nayie77"
+        },
+        {
+            "accuracy": 99,
+            "score": 291962,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "julydanymol"
+        },
+        {
             "accuracy": 99,
             "score": 291936,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KaoticBeat"
-        },
-        {
-            "accuracy": 100,
-            "score": 288783,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "bchan009"
-        },
-        {
-            "accuracy": 100,
-            "score": 288771,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "dbia04"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 86424,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] SovietSuperBear"
+        },
+        {
+            "accuracy": 100,
             "score": 86382,
             "difficulty": 1,
             "stars": 5,
@@ -609,6 +617,14 @@
             "userName": "ShadowzI"
         },
         {
+            "accuracy": 84,
+            "score": 62223,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Abel N"
+        },
+        {
             "accuracy": 70,
             "score": 62080,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "bwheeler123"
-        },
-        {
-            "accuracy": 90,
-            "score": 55137,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Heatrick11"
-        },
-        {
-            "accuracy": 89,
-            "score": 55101,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Pikademaru"
         }
     ]
 }

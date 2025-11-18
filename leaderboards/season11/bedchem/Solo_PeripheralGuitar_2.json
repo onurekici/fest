@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 75964,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "K1NGSL4YA"
+        },
+        {
             "accuracy": 99,
             "score": 75916,
             "difficulty": 3,
@@ -351,6 +359,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ErebusTheEntity"
+        },
+        {
+            "accuracy": 97,
+            "score": 70510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Phantomfadez"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Azazel_Boi"
-        },
-        {
-            "accuracy": 94,
-            "score": 61610,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ITZ_SOOLE"
-        },
-        {
-            "accuracy": 96,
-            "score": 61154,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RealLehione"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 230042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TMMattos"
+        },
+        {
+            "accuracy": 99,
+            "score": 230042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Toribio_04"
+        },
+        {
             "accuracy": 99,
             "score": 229953,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[PSN] emerald_rabbit63"
-        },
-        {
-            "accuracy": 99,
-            "score": 226105,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ozarn."
-        },
-        {
-            "accuracy": 99,
-            "score": 226083,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Iru15_"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 151421,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Meliodas63"
+        },
+        {
+            "accuracy": 99,
             "score": 151233,
             "difficulty": 3,
             "stars": 6,
@@ -681,6 +689,14 @@
             "userName": "JusDeBread"
         },
         {
+            "accuracy": 100,
+            "score": 141690,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LeeWonian"
+        },
+        {
             "accuracy": 99,
             "score": 141618,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AurelionJohn"
-        },
-        {
-            "accuracy": 100,
-            "score": 140605,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Star_The_Protag"
-        },
-        {
-            "accuracy": 99,
-            "score": 140588,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AstroToast6000"
         }
     ]
 }

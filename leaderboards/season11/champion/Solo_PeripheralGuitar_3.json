@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 91894,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AbroadHorizon25"
+        },
+        {
+            "accuracy": 100,
+            "score": 91859,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SenorSheep"
+        },
+        {
             "accuracy": 100,
             "score": 91858,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "dalton32389"
-        },
-        {
-            "accuracy": 100,
-            "score": 89039,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DACOOKIEMONST_R"
-        },
-        {
-            "accuracy": 99,
-            "score": 89038,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "blpritzel20"
         }
     ]
 }

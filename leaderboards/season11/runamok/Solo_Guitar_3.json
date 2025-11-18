@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 27452,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "elAlexmiko"
+        },
+        {
+            "accuracy": 100,
+            "score": 27442,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AcuteCaribou6191"
+        },
+        {
             "accuracy": 100,
             "score": 27426,
             "difficulty": 3,
@@ -194,6 +210,14 @@
         },
         {
             "accuracy": 100,
+            "score": 27106,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "charmodie"
+        },
+        {
+            "accuracy": 100,
             "score": 27087,
             "difficulty": 2,
             "stars": 5,
@@ -226,6 +250,14 @@
         },
         {
             "accuracy": 100,
+            "score": 26946,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "UnevenMicrotrex"
+        },
+        {
+            "accuracy": 100,
             "score": 26941,
             "difficulty": 2,
             "stars": 5,
@@ -247,14 +279,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Tamamittsune"
-        },
-        {
-            "accuracy": 100,
-            "score": 26923,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "UnevenMicrotrex"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Jun Asuru"
-        },
-        {
-            "accuracy": 100,
-            "score": 26168,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "du_pacheco07"
-        },
-        {
-            "accuracy": 100,
-            "score": 26160,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Fireballdez"
-        },
-        {
-            "accuracy": 99,
-            "score": 26155,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": null
         }
     ]
 }

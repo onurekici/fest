@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 286619,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pamela Erin"
+        },
+        {
+            "accuracy": 100,
             "score": 286589,
             "difficulty": 3,
             "stars": 6,
@@ -529,6 +537,14 @@
             "userName": "npc_vac"
         },
         {
+            "accuracy": 99,
+            "score": 283032,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Warmach1ne"
+        },
+        {
             "accuracy": 100,
             "score": 283001,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "EMIKO el kitsune"
-        },
-        {
-            "accuracy": 100,
-            "score": 281873,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BiggieWonggie"
-        },
-        {
-            "accuracy": 100,
-            "score": 281871,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AquaMiniRally"
         }
     ]
 }

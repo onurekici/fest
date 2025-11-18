@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 34912,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "FratBoyJohn69"
+        },
+        {
             "accuracy": 99,
             "score": 34901,
             "difficulty": 1,
@@ -383,6 +391,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "AlejandroSDz13"
+        },
+        {
+            "accuracy": 86,
+            "score": 31816,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "EoL Sigil"
         },
         {
             "accuracy": 95,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Lego_hamburger"
-        },
-        {
-            "accuracy": 94,
-            "score": 27696,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Lil_dannyx"
-        },
-        {
-            "accuracy": 99,
-            "score": 27687,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "blanchet2146"
         }
     ]
 }

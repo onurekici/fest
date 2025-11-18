@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 66146,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "D.T0X"
+        },
+        {
+            "accuracy": 94,
+            "score": 66110,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OneNOnly_Bmann"
+        },
+        {
             "accuracy": 94,
             "score": 66079,
             "difficulty": 3,
@@ -183,6 +199,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Master Wolfiez"
+        },
+        {
+            "accuracy": 94,
+            "score": 64322,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "trevlick"
         },
         {
             "accuracy": 95,
@@ -439,6 +463,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "jdogg7842"
+        },
+        {
+            "accuracy": 95,
+            "score": 62562,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RT_SKuR4"
         },
         {
             "accuracy": 90,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Psyko658"
-        },
-        {
-            "accuracy": 90,
-            "score": 61076,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ScrubBear"
-        },
-        {
-            "accuracy": 88,
-            "score": 61039,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "syncman842"
-        },
-        {
-            "accuracy": 97,
-            "score": 61035,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "asumsaus"
-        },
-        {
-            "accuracy": 92,
-            "score": 61000,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MrGladwart"
         }
     ]
 }

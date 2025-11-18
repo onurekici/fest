@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 222324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jayeboy1234"
+        },
+        {
+            "accuracy": 100,
             "score": 222314,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "bahdito"
-        },
-        {
-            "accuracy": 99,
-            "score": 219058,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GoobyMarco"
         }
     ]
 }

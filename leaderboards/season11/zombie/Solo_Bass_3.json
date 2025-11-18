@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 214515,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "João_gr"
+        },
+        {
+            "accuracy": 100,
+            "score": 214443,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tone1zone"
+        },
+        {
             "accuracy": 100,
             "score": 214419,
             "difficulty": 3,
@@ -327,14 +343,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "undeadnightfall"
-        },
-        {
-            "accuracy": 100,
-            "score": 213645,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ER3N YEAG3R"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Cya Chump"
-        },
-        {
-            "accuracy": 100,
-            "score": 212223,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EmSpeedster"
         }
     ]
 }

@@ -305,6 +305,14 @@
             "userName": "Cofie La Iguana"
         },
         {
+            "accuracy": 100,
+            "score": 49263,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Richboy102"
+        },
+        {
             "accuracy": 99,
             "score": 49227,
             "difficulty": 3,
@@ -319,6 +327,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AWapplez"
+        },
+        {
+            "accuracy": 99,
+            "score": 49087,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ElDarker"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "movi30hz"
-        },
-        {
-            "accuracy": 100,
-            "score": 46086,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ArkhamMatt2001"
-        },
-        {
-            "accuracy": 99,
-            "score": 46083,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "iamkupa"
         }
     ]
 }

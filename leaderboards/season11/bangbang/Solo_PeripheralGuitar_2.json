@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 26516,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Pod_04"
+        },
+        {
+            "accuracy": 100,
+            "score": 26502,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Luigi16azk"
+        },
+        {
             "accuracy": 96,
             "score": 26438,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "P1atinum b0i"
-        },
-        {
-            "accuracy": 92,
-            "score": 18876,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Gabomination003"
-        },
-        {
-            "accuracy": 100,
-            "score": 18792,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Olizabeth25"
         }
     ]
 }

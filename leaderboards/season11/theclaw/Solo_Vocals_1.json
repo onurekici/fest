@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 142928,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hakuna matata 34"
+        },
+        {
+            "accuracy": 100,
             "score": 142923,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "StackScruggs"
+        },
+        {
+            "accuracy": 99,
+            "score": 142785,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Stupid_Grandma"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Galbrena_"
-        },
-        {
-            "accuracy": 99,
-            "score": 134911,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nerosoren"
-        },
-        {
-            "accuracy": 99,
-            "score": 134721,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AstroSparda"
         }
     ]
 }

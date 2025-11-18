@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 70839,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "drewari"
+        },
+        {
             "accuracy": 100,
             "score": 70832,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "GrimmGarcia"
-        },
-        {
-            "accuracy": 100,
-            "score": 67234,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "bearchann"
         }
     ]
 }

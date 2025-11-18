@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 63846,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "divineinjustice"
+        },
+        {
+            "accuracy": 97,
+            "score": 63753,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Alkazary"
+        },
+        {
             "accuracy": 100,
             "score": 63591,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Goob_Bot"
-        },
-        {
-            "accuracy": 91,
-            "score": 29905,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "DaZapow"
-        },
-        {
-            "accuracy": 92,
-            "score": 29722,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "JimmyMaxCarnage"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 97254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "T_A_N_T_I_I"
+        },
+        {
+            "accuracy": 99,
             "score": 97110,
             "difficulty": 3,
             "stars": 6,
@@ -570,6 +578,14 @@
         },
         {
             "accuracy": 100,
+            "score": 91095,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "pastabilities87"
+        },
+        {
+            "accuracy": 100,
             "score": 91068,
             "difficulty": 3,
             "stars": 6,
@@ -663,6 +679,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MadsSeesYou"
+        },
+        {
+            "accuracy": 100,
+            "score": 89985,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "spahgettiheidi"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RewRun"
-        },
-        {
-            "accuracy": 99,
-            "score": 88806,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JUAJO_H4KU"
-        },
-        {
-            "accuracy": 100,
-            "score": 88610,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "buhni"
-        },
-        {
-            "accuracy": 99,
-            "score": 88584,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nolxi_"
         }
     ]
 }

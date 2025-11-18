@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 208651,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sillylad_mel"
+        },
+        {
+            "accuracy": 100,
+            "score": 208380,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Drákoth"
+        },
+        {
+            "accuracy": 99,
             "score": 207857,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "unknownlogin"
-        },
-        {
-            "accuracy": 99,
-            "score": 170352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "littlemommaerin"
-        },
-        {
-            "accuracy": 99,
-            "score": 169561,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FewDragonfly4952"
         }
     ]
 }

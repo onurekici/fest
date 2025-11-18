@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 10191,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "balding042poodle"
+        },
+        {
+            "accuracy": 98,
+            "score": 10172,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Brentlees"
+        },
+        {
+            "accuracy": 100,
             "score": 10168,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Mrs. Thielhammer"
-        },
-        {
-            "accuracy": 98,
-            "score": 8140,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ahkicapone"
-        },
-        {
-            "accuracy": 100,
-            "score": 7995,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KingClash267"
         }
     ]
 }

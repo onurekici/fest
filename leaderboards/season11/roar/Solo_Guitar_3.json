@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 125494,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JwLektor"
+        },
+        {
             "accuracy": 99,
             "score": 125351,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "PochoARG"
+        },
+        {
+            "accuracy": 98,
+            "score": 125210,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ghost2tact"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "no_one.17"
-        },
-        {
-            "accuracy": 99,
-            "score": 120416,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tотяǃ"
-        },
-        {
-            "accuracy": 100,
-            "score": 120380,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Erickrc92"
         }
     ]
 }

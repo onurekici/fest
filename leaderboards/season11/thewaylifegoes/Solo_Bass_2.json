@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 11853,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SLEEPY_2024"
+        },
+        {
             "accuracy": 100,
             "score": 11844,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "CR8TER1"
+        },
+        {
+            "accuracy": 100,
+            "score": 11813,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] dosbeams"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TravisisMid"
-        },
-        {
-            "accuracy": 100,
-            "score": 10191,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "balding042poodle"
-        },
-        {
-            "accuracy": 98,
-            "score": 10172,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Brentlees"
         }
     ]
 }

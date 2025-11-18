@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 89039,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DACOOKIEMONST_R"
+        },
+        {
+            "accuracy": 99,
+            "score": 89038,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "blpritzel20"
+        },
+        {
             "accuracy": 99,
             "score": 88994,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "White_Draygon"
-        },
-        {
-            "accuracy": 99,
-            "score": 84457,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sean_T_Ellis"
-        },
-        {
-            "accuracy": 99,
-            "score": 84430,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Simpsonboys2330"
         }
     ]
 }

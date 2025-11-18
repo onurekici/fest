@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 122345,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "W-Ry"
+        },
+        {
+            "accuracy": 98,
+            "score": 122310,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheMaskedPotato"
+        },
+        {
+            "accuracy": 100,
+            "score": 122260,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Archer_Preciado"
+        },
+        {
             "accuracy": 100,
             "score": 122247,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "allex.dee"
-        },
-        {
-            "accuracy": 99,
-            "score": 113860,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Crazy8chic"
-        },
-        {
-            "accuracy": 99,
-            "score": 113631,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Reelyn_"
-        },
-        {
-            "accuracy": 99,
-            "score": 113517,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "iiBlazedJoker"
         }
     ]
 }

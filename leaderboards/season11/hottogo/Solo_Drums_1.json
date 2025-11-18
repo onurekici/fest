@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 198258,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tenacitie"
+        },
+        {
+            "accuracy": 100,
             "score": 198228,
             "difficulty": 3,
             "stars": 6,
@@ -457,6 +465,14 @@
             "userName": "JavoElite117"
         },
         {
+            "accuracy": 99,
+            "score": 193104,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Aguiimar"
+        },
+        {
             "accuracy": 100,
             "score": 193020,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "User-db49cfe353"
-        },
-        {
-            "accuracy": 99,
-            "score": 189816,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MyloGMZ"
-        },
-        {
-            "accuracy": 100,
-            "score": 189780,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LG-Wolverine"
         }
     ]
 }

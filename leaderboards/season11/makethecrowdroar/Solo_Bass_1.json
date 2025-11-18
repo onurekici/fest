@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 85040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shigo96H"
+        },
+        {
             "accuracy": 99,
             "score": 85028,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CafeConeja"
-        },
-        {
-            "accuracy": 100,
-            "score": 74589,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "zDrgnz"
         }
     ]
 }

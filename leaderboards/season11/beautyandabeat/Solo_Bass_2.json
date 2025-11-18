@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 209500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JayBruce4Heisman"
+        },
+        {
+            "accuracy": 100,
+            "score": 209485,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cozyboki"
+        },
+        {
+            "accuracy": 100,
             "score": 209452,
             "difficulty": 3,
             "stars": 6,
@@ -689,6 +705,14 @@
             "userName": "VladxD6"
         },
         {
+            "accuracy": 100,
+            "score": 205107,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "crarc_d"
+        },
+        {
             "accuracy": 99,
             "score": 205038,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ILoveMJ5"
-        },
-        {
-            "accuracy": 100,
-            "score": 204555,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ScrewLogic03"
-        },
-        {
-            "accuracy": 99,
-            "score": 204517,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "luis_corbett"
-        },
-        {
-            "accuracy": 99,
-            "score": 204514,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EccentricMudkip"
         }
     ]
 }

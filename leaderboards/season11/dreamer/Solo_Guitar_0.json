@@ -138,6 +138,14 @@
         },
         {
             "accuracy": 100,
+            "score": 111222,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KeltaTheFool"
+        },
+        {
+            "accuracy": 100,
             "score": 111203,
             "difficulty": 3,
             "stars": 6,
@@ -303,6 +311,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Seba_Milla17"
+        },
+        {
+            "accuracy": 99,
+            "score": 107945,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Goofy-Woofy"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "EL FLASH R"
-        },
-        {
-            "accuracy": 99,
-            "score": 101603,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "IronCladEye"
-        },
-        {
-            "accuracy": 99,
-            "score": 101585,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "felts33333"
         }
     ]
 }

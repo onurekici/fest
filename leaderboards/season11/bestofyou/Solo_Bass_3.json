@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 181178,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NotSoSeriousNick"
+        },
+        {
+            "accuracy": 99,
+            "score": 181166,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "G3PÆRDØ"
+        },
+        {
             "accuracy": 99,
             "score": 181161,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Joonebugg"
-        },
-        {
-            "accuracy": 99,
-            "score": 174334,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NellyeII"
-        },
-        {
-            "accuracy": 99,
-            "score": 174323,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lady_ofAces"
         }
     ]
 }
