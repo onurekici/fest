@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 256314,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "André Trigo"
+        },
+        {
             "accuracy": 99,
             "score": 256265,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "EerieMimikyu"
-        },
-        {
-            "accuracy": 99,
-            "score": 253642,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xodaiya"
         }
     ]
 }

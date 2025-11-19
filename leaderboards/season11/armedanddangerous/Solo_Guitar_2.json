@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 49969,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "The_Real_Shaft"
+        },
+        {
             "accuracy": 99,
             "score": 49887,
             "difficulty": 3,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Soulfulvexx"
+        },
+        {
+            "accuracy": 100,
+            "score": 49119,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Synthnicity"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "[PSN] crisp_shampoo7"
-        },
-        {
-            "accuracy": 99,
-            "score": 45878,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ShadeMusic3"
-        },
-        {
-            "accuracy": 100,
-            "score": 45798,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "V12_Dragon"
         }
     ]
 }

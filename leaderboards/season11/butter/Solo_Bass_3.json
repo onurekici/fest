@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 33357,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LupinKross"
+        },
+        {
             "accuracy": 100,
             "score": 33335,
             "difficulty": 1,
@@ -497,6 +505,14 @@
             "userName": "Steevohbmokin"
         },
         {
+            "accuracy": 100,
+            "score": 26219,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TCS_りーまる"
+        },
+        {
             "accuracy": 93,
             "score": 26183,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "AK20003"
-        },
-        {
-            "accuracy": 92,
-            "score": 23308,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "TiiLeila"
-        },
-        {
-            "accuracy": 85,
-            "score": 23243,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Morphklown90"
         }
     ]
 }

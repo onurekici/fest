@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 45903,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HolyMotherOfSin4"
+        },
+        {
             "accuracy": 96,
             "score": 45084,
             "difficulty": 3,
@@ -151,6 +159,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "PUPPYLOVE3895"
+        },
+        {
+            "accuracy": 100,
+            "score": 38592,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jake Bottomley"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "heyimjustvibin"
-        },
-        {
-            "accuracy": 90,
-            "score": 25551,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Paladin Morgan"
-        },
-        {
-            "accuracy": 99,
-            "score": 25283,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheJdogg80"
         }
     ]
 }

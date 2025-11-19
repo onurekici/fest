@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 137964,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "De_mon_2"
+        },
+        {
             "accuracy": 100,
             "score": 137958,
             "difficulty": 3,
@@ -255,6 +263,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Techie Folf"
+        },
+        {
+            "accuracy": 100,
+            "score": 137460,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BrawlBomber13"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "hellokillly"
-        },
-        {
-            "accuracy": 100,
-            "score": 136518,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mr_Shrub"
-        },
-        {
-            "accuracy": 100,
-            "score": 136506,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Red_Jedi_101"
         }
     ]
 }

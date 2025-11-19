@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 86829,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DownNut_"
+        },
+        {
+            "accuracy": 81,
+            "score": 86750,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "JSF4P"
+        },
+        {
             "accuracy": 100,
             "score": 86646,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "mizzrizzjr"
-        },
-        {
-            "accuracy": 77,
-            "score": 56598,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Herer42o"
-        },
-        {
-            "accuracy": 76,
-            "score": 55403,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "GrandWarrior905"
         }
     ]
 }

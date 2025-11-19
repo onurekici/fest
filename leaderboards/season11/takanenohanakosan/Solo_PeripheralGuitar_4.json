@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 252695,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Jean Simp"
+        },
+        {
+            "accuracy": 97,
+            "score": 252666,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FloppyBobcat3"
+        },
+        {
             "accuracy": 98,
             "score": 252627,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "eyeamsour"
-        },
-        {
-            "accuracy": 97,
-            "score": 222986,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pillow n Spiders"
-        },
-        {
-            "accuracy": 98,
-            "score": 222831,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "hagridvonharris"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 54150,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "pinetownmusic"
+        },
+        {
+            "accuracy": 100,
+            "score": 54146,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sky_Queen24"
+        },
+        {
             "accuracy": 100,
             "score": 54093,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Rusianbear3"
-        },
-        {
-            "accuracy": 100,
-            "score": 51796,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "bapnator"
-        },
-        {
-            "accuracy": 97,
-            "score": 51754,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mikeyt_74"
         }
     ]
 }

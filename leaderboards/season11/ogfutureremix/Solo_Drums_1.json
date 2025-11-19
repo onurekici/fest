@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 136830,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ジバニャンー"
+        },
+        {
+            "accuracy": 100,
+            "score": 136752,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ちみつA"
+        },
+        {
+            "accuracy": 99,
             "score": 136674,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "user-flyZ"
-        },
-        {
-            "accuracy": 99,
-            "score": 129798,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sianpudsa"
-        },
-        {
-            "accuracy": 99,
-            "score": 129678,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "whitnez"
         }
     ]
 }

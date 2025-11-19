@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 49686,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ssnuf"
+        },
+        {
+            "accuracy": 94,
+            "score": 49488,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "bford_16"
+        },
+        {
+            "accuracy": 95,
+            "score": 49110,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Nik4o_12"
+        },
+        {
             "accuracy": 100,
             "score": 49099,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "カアキ"
-        },
-        {
-            "accuracy": 99,
-            "score": 37204,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "milo_vw"
-        },
-        {
-            "accuracy": 97,
-            "score": 37084,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "alleykatt99"
-        },
-        {
-            "accuracy": 92,
-            "score": 36948,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "tadpole722"
         }
     ]
 }

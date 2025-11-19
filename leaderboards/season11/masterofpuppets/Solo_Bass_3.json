@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 592232,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LW007"
+        },
+        {
+            "accuracy": 99,
+            "score": 592206,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "zShimxzy"
+        },
+        {
+            "accuracy": 100,
             "score": 592199,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RespectYourParen"
-        },
-        {
-            "accuracy": 100,
-            "score": 587116,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DeidarA._"
-        },
-        {
-            "accuracy": 100,
-            "score": 587064,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "usual-nick"
         }
     ]
 }

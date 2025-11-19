@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 154890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Eljako267"
+        },
+        {
+            "accuracy": 100,
+            "score": 154776,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Leon_ardox69"
+        },
+        {
             "accuracy": 100,
             "score": 154596,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dany-Elaa"
-        },
-        {
-            "accuracy": 100,
-            "score": 152508,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Francisco D Gome"
-        },
-        {
-            "accuracy": 100,
-            "score": 152496,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "IceShadowSamurai"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 90555,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Alfredo_K_ase00"
+        },
+        {
+            "accuracy": 100,
             "score": 90452,
             "difficulty": 3,
             "stars": 6,
@@ -762,6 +770,14 @@
         },
         {
             "accuracy": 99,
+            "score": 84666,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Noriaan."
+        },
+        {
+            "accuracy": 99,
             "score": 84603,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Doktor_Es"
-        },
-        {
-            "accuracy": 100,
-            "score": 84415,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "huu_tan"
-        },
-        {
-            "accuracy": 99,
-            "score": 84170,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SpeedyThor"
         }
     ]
 }

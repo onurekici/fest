@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 298025,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chatterbox223"
+        },
+        {
+            "accuracy": 100,
             "score": 298000,
             "difficulty": 3,
             "stars": 6,
@@ -681,11 +689,11 @@
             "userName": "Silver6396"
         },
         {
-            "accuracy": 100,
-            "score": 295085,
+            "accuracy": 99,
+            "score": 295129,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "mmskywalker"
         },
         {
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Will.H101"
-        },
-        {
-            "accuracy": 100,
-            "score": 294369,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Vinicius250890"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 193920,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AndreGulka"
+        },
+        {
+            "accuracy": 99,
+            "score": 193912,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mechromancy."
+        },
+        {
+            "accuracy": 100,
             "score": 193900,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Speedy2002-_-"
-        },
-        {
-            "accuracy": 100,
-            "score": 191967,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "chubi01"
-        },
-        {
-            "accuracy": 100,
-            "score": 191929,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FireTaco65"
         }
     ]
 }

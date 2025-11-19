@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 150713,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "i am wlw"
+        },
+        {
+            "accuracy": 100,
             "score": 150686,
             "difficulty": 3,
             "stars": 6,
@@ -642,6 +650,14 @@
         },
         {
             "accuracy": 99,
+            "score": 143777,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Quismeister_XO"
+        },
+        {
+            "accuracy": 99,
             "score": 143623,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "sk8r_wybie"
-        },
-        {
-            "accuracy": 100,
-            "score": 141951,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HotGamerfurry"
-        },
-        {
-            "accuracy": 99,
-            "score": 141924,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "hyuify"
         }
     ]
 }

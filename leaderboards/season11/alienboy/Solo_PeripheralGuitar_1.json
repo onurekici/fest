@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 49735,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sonictheboss8472"
+        },
+        {
+            "accuracy": 100,
             "score": 49724,
             "difficulty": 3,
             "stars": 6,
@@ -177,6 +185,14 @@
             "userName": "James_the_parkor"
         },
         {
+            "accuracy": 98,
+            "score": 47866,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PaternalCobra64"
+        },
+        {
             "accuracy": 100,
             "score": 47819,
             "difficulty": 3,
@@ -271,6 +287,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "andthewoods"
+        },
+        {
+            "accuracy": 100,
+            "score": 47114,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KingMarz1lla"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Conor_The_Fish"
-        },
-        {
-            "accuracy": 99,
-            "score": 42115,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zixvq"
-        },
-        {
-            "accuracy": 96,
-            "score": 41994,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GuitarHero709"
-        },
-        {
-            "accuracy": 100,
-            "score": 41991,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "zNaruto"
         }
     ]
 }

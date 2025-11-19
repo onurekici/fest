@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 115756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThatSonUvaGun"
+        },
+        {
             "accuracy": 99,
             "score": 115687,
             "difficulty": 3,
@@ -71,6 +79,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Invalidstring49"
+        },
+        {
+            "accuracy": 99,
+            "score": 115480,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RAMBO99989"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HUNTERSHADOW_123"
-        },
-        {
-            "accuracy": 99,
-            "score": 113196,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RashVashTS"
-        },
-        {
-            "accuracy": 99,
-            "score": 113176,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hunterblake1"
         }
     ]
 }

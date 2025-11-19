@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 76464,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mary.0604"
+        },
+        {
+            "accuracy": 100,
             "score": 76432,
             "difficulty": 3,
             "stars": 6,
@@ -393,6 +401,14 @@
             "userName": "v FantasyMan x"
         },
         {
+            "accuracy": 97,
+            "score": 72300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "UnseenQuas"
+        },
+        {
             "accuracy": 99,
             "score": 72192,
             "difficulty": 2,
@@ -479,6 +495,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PharoahBC"
+        },
+        {
+            "accuracy": 99,
+            "score": 70553,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SunSet_17"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "JkL0254788"
-        },
-        {
-            "accuracy": 98,
-            "score": 65676,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DXCortEX"
-        },
-        {
-            "accuracy": 97,
-            "score": 65525,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Techh10"
-        },
-        {
-            "accuracy": 98,
-            "score": 65226,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SoSoSpice"
         }
     ]
 }

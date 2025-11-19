@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 46505,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CCG Rize"
+        },
+        {
+            "accuracy": 100,
             "score": 46469,
             "difficulty": 2,
             "stars": 5,
@@ -409,6 +417,14 @@
             "userName": "StarNightwind"
         },
         {
+            "accuracy": 99,
+            "score": 45033,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "qIVincentIp"
+        },
+        {
             "accuracy": 98,
             "score": 44993,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "foxycoxy47"
-        },
-        {
-            "accuracy": 100,
-            "score": 43962,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "L1CUA6718"
-        },
-        {
-            "accuracy": 100,
-            "score": 43926,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "KI3RENDABD"
         }
     ]
 }

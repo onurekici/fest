@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 195306,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ashburg2"
+        },
+        {
+            "accuracy": 100,
+            "score": 195288,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Krakatoa_btw"
+        },
+        {
+            "accuracy": 99,
             "score": 195276,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mgrlabs"
-        },
-        {
-            "accuracy": 99,
-            "score": 192564,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FXKES12"
-        },
-        {
-            "accuracy": 100,
-            "score": 192546,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ray Gougarf"
         }
     ]
 }

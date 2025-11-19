@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 74421,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Fizzco Games"
+        },
+        {
+            "accuracy": 100,
             "score": 74403,
             "difficulty": 3,
             "stars": 6,
@@ -385,12 +393,28 @@
             "userName": "Senor Pukie"
         },
         {
+            "accuracy": 97,
+            "score": 70336,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Prof.Hoss"
+        },
+        {
             "accuracy": 99,
             "score": 70327,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "dams52000"
+        },
+        {
+            "accuracy": 99,
+            "score": 70152,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tomasxo11"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ᵀᴼᴷᴵₙᵢₜₜₒ YT"
-        },
-        {
-            "accuracy": 96,
-            "score": 66374,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dj Chalupa"
-        },
-        {
-            "accuracy": 100,
-            "score": 66224,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ryan-BigLion"
-        },
-        {
-            "accuracy": 99,
-            "score": 66224,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xF3ARLess420"
         }
     ]
 }

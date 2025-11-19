@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 119384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JakMonkeyFunk"
+        },
+        {
             "accuracy": 99,
             "score": 119369,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Hacksource13"
-        },
-        {
-            "accuracy": 100,
-            "score": 115756,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ThatSonUvaGun"
         }
     ]
 }

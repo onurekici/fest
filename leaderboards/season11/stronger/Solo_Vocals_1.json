@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 143500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Caliiinsky"
+        },
+        {
+            "accuracy": 100,
             "score": 143489,
             "difficulty": 3,
             "stars": 6,
@@ -375,6 +383,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LithiumBits"
+        },
+        {
+            "accuracy": 99,
+            "score": 137921,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "terminetorsim"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BrightLight_2000"
-        },
-        {
-            "accuracy": 100,
-            "score": 131632,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ICE GamerToni"
-        },
-        {
-            "accuracy": 99,
-            "score": 131627,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BigMappsy44"
         }
     ]
 }

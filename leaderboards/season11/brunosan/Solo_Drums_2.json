@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65766,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "blanca ʚїɞ"
+        },
+        {
+            "accuracy": 100,
             "score": 65748,
             "difficulty": 3,
             "stars": 6,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Cirque_mio"
+        },
+        {
+            "accuracy": 100,
+            "score": 65400,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kenaji"
         },
         {
             "accuracy": 100,
@@ -518,6 +534,14 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
+            "userName": "gyadzilla"
+        },
+        {
+            "accuracy": 100,
+            "score": 64914,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
             "userName": "RobotChill"
         },
         {
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ToxicTokki"
-        },
-        {
-            "accuracy": 99,
-            "score": 64464,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wanda-190"
-        },
-        {
-            "accuracy": 99,
-            "score": 64452,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "pizza87222"
-        },
-        {
-            "accuracy": 100,
-            "score": 64434,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "A_Wild_Pancake"
         }
     ]
 }

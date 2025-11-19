@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 141234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ヒクシー"
+        },
+        {
+            "accuracy": 95,
+            "score": 140340,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cataQMF91"
+        },
+        {
             "accuracy": 100,
             "score": 139656,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "YT Dudes Parsons"
-        },
-        {
-            "accuracy": 100,
-            "score": 52315,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "botsknockedme"
-        },
-        {
-            "accuracy": 100,
-            "score": 51640,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "odre1977"
         }
     ]
 }

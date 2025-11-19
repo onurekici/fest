@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 68790,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Cyberdyne23"
+        },
+        {
             "accuracy": 87,
             "score": 68346,
             "difficulty": 2,
@@ -601,6 +609,14 @@
             "userName": "OutsideToad6284"
         },
         {
+            "accuracy": 87,
+            "score": 24905,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Branzant01"
+        },
+        {
             "accuracy": 99,
             "score": 24816,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Stablerombus"
-        },
-        {
-            "accuracy": 92,
-            "score": 11328,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "froboy99"
-        },
-        {
-            "accuracy": 61,
-            "score": 11142,
-            "difficulty": 1,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Lil Joe Swerves"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 115316,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "EAG-11"
+        },
+        {
+            "accuracy": 99,
+            "score": 115210,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "squiddyte"
+        },
+        {
+            "accuracy": 100,
             "score": 115205,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "dalale123"
-        },
-        {
-            "accuracy": 100,
-            "score": 111788,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BlazingGuitar14"
-        },
-        {
-            "accuracy": 100,
-            "score": 111773,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gerom444"
         }
     ]
 }

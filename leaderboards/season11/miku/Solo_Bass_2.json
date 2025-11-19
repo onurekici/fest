@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 111087,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ItsMadi302"
+        },
+        {
+            "accuracy": 100,
             "score": 111082,
             "difficulty": 3,
             "stars": 6,
@@ -409,6 +417,14 @@
             "userName": "Sir Vicman"
         },
         {
+            "accuracy": 99,
+            "score": 110381,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LovesHugsALot"
+        },
+        {
             "accuracy": 100,
             "score": 110380,
             "difficulty": 3,
@@ -682,6 +698,14 @@
         },
         {
             "accuracy": 100,
+            "score": 110065,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "eronzothegreat"
+        },
+        {
+            "accuracy": 100,
             "score": 110059,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WraithGerScott"
-        },
-        {
-            "accuracy": 99,
-            "score": 109916,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sae-Nyi"
-        },
-        {
-            "accuracy": 100,
-            "score": 109907,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CreatureXXII"
-        },
-        {
-            "accuracy": 100,
-            "score": 109891,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Coldhex5"
         }
     ]
 }

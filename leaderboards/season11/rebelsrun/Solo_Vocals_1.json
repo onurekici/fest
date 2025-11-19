@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 140874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Its Labz"
+        },
+        {
             "accuracy": 99,
             "score": 140804,
             "difficulty": 3,
@@ -162,11 +170,19 @@
         },
         {
             "accuracy": 99,
+            "score": 138359,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FantasyGamer53"
+        },
+        {
+            "accuracy": 99,
             "score": 138029,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Hamster_DumpIing"
+            "userName": "SourKаt1"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "hege600"
-        },
-        {
-            "accuracy": 99,
-            "score": 132659,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "oZoroWun-"
-        },
-        {
-            "accuracy": 99,
-            "score": 132617,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JinxtheShadow"
         }
     ]
 }

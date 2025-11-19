@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 207487,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "laaxl"
+        },
+        {
+            "accuracy": 100,
+            "score": 207486,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ROBOTMADNESS102"
+        },
+        {
             "accuracy": 100,
             "score": 207480,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Marley-Thunders"
-        },
-        {
-            "accuracy": 100,
-            "score": 206307,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GuyCalledVita"
-        },
-        {
-            "accuracy": 100,
-            "score": 206304,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KillerFox_528"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 111788,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BlazingGuitar14"
+        },
+        {
+            "accuracy": 100,
+            "score": 111773,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Gerom444"
+        },
+        {
             "accuracy": 99,
             "score": 111764,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Brann_Greittz"
-        },
-        {
-            "accuracy": 99,
-            "score": 108256,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PelicanKing810"
-        },
-        {
-            "accuracy": 99,
-            "score": 108222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Uncle-Runkle"
         }
     ]
 }

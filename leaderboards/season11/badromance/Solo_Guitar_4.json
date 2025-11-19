@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 128644,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dib_dab2011"
+        },
+        {
+            "accuracy": 100,
+            "score": 128640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JosePlays28"
+        },
+        {
             "accuracy": 100,
             "score": 128613,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "algae son"
-        },
-        {
-            "accuracy": 99,
-            "score": 127743,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Alucard200510"
-        },
-        {
-            "accuracy": 100,
-            "score": 127743,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Pig Eating Slop"
         }
     ]
 }

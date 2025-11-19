@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 161202,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Кися Мешенггисер"
+        },
+        {
+            "accuracy": 100,
             "score": 161184,
             "difficulty": 3,
             "stars": 6,
@@ -626,6 +634,14 @@
         },
         {
             "accuracy": 100,
+            "score": 159702,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DevilsFeed"
+        },
+        {
+            "accuracy": 100,
             "score": 159696,
             "difficulty": 3,
             "stars": 6,
@@ -671,14 +687,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SlipKnot_HJP_89"
-        },
-        {
-            "accuracy": 100,
-            "score": 159498,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DevilsFeed"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NotCraigy4"
-        },
-        {
-            "accuracy": 100,
-            "score": 159186,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KILLeRBEAst70242"
         }
     ]
 }

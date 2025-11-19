@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 117900,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xLEDG3Rx"
+        },
+        {
+            "accuracy": 100,
+            "score": 117756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "6toxic"
+        },
+        {
+            "accuracy": 99,
             "score": 117708,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JFeegs"
-        },
-        {
-            "accuracy": 99,
-            "score": 111750,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lemon.on.Switch"
-        },
-        {
-            "accuracy": 100,
-            "score": 111726,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "its_ajuh"
         }
     ]
 }

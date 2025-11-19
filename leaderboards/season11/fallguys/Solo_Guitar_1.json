@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 150564,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PeenarTech"
+        },
+        {
+            "accuracy": 100,
             "score": 150555,
             "difficulty": 3,
             "stars": 6,
@@ -722,6 +730,14 @@
         },
         {
             "accuracy": 99,
+            "score": 146622,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FGR_94"
+        },
+        {
+            "accuracy": 99,
             "score": 146612,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Reikuro_X"
-        },
-        {
-            "accuracy": 99,
-            "score": 146208,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KingRippley"
-        },
-        {
-            "accuracy": 100,
-            "score": 146183,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "rotten decay"
         }
     ]
 }

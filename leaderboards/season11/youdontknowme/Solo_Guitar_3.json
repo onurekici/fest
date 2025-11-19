@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 129306,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Élister"
+        },
+        {
+            "accuracy": 99,
+            "score": 129282,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fluttﱞershy"
+        },
+        {
             "accuracy": 99,
             "score": 129279,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KesGrim"
-        },
-        {
-            "accuracy": 99,
-            "score": 127788,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SkyGraphics"
-        },
-        {
-            "accuracy": 99,
-            "score": 127782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sicki1310"
         }
     ]
 }

@@ -2,11 +2,35 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 118821,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mr.Breadcrumz"
+        },
+        {
+            "accuracy": 99,
+            "score": 118816,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "2010ToyotaTacoma"
+        },
+        {
+            "accuracy": 100,
             "score": 118813,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Subjekt011"
+        },
+        {
+            "accuracy": 100,
+            "score": 118804,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CaffeineKats"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BTTFGuy"
-        },
-        {
-            "accuracy": 99,
-            "score": 117292,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Skater Muu"
-        },
-        {
-            "accuracy": 99,
-            "score": 117282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ignorance34"
-        },
-        {
-            "accuracy": 99,
-            "score": 117281,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FastRank"
         }
     ]
 }

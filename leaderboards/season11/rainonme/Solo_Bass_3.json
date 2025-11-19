@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 25386,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "offred_june"
+        },
+        {
+            "accuracy": 100,
+            "score": 25308,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PatricksDiaries"
+        },
+        {
+            "accuracy": 95,
+            "score": 24899,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "WillowKills"
+        },
+        {
             "accuracy": 97,
             "score": 24752,
             "difficulty": 1,
@@ -303,6 +327,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "odeio lasanha"
+        },
+        {
+            "accuracy": 97,
+            "score": 19935,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "六幻鏡"
         },
         {
             "accuracy": 89,
@@ -767,38 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "FruityBee445679"
-        },
-        {
-            "accuracy": 90,
-            "score": 5121,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Bex_Koko89"
-        },
-        {
-            "accuracy": 89,
-            "score": 5066,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Leonnart1839"
-        },
-        {
-            "accuracy": 46,
-            "score": 4538,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "ClaudiaO2005"
-        },
-        {
-            "accuracy": 85,
-            "score": 4306,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Lootsmiqs"
         }
     ]
 }

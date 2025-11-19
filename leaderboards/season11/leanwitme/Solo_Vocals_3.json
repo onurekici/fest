@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123434,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Blackhamer321"
+        },
+        {
+            "accuracy": 100,
             "score": 123431,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GreaterDog27"
-        },
-        {
-            "accuracy": 100,
-            "score": 122706,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jadenkorr99"
         }
     ]
 }

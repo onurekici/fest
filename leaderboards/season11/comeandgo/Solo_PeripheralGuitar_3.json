@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 93,
+            "score": 81474,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AveryAR"
+        },
+        {
+            "accuracy": 100,
+            "score": 81473,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "jetsetnickradio"
+        },
+        {
+            "accuracy": 93,
             "score": 81434,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "HolyWaterVirgin"
-        },
-        {
-            "accuracy": 92,
-            "score": 62760,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SubsonicBling"
-        },
-        {
-            "accuracy": 89,
-            "score": 62347,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Rifteres"
         }
     ]
 }

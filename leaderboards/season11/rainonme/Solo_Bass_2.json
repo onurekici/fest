@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 49231,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CherubRoman"
+        },
+        {
+            "accuracy": 100,
+            "score": 48700,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] NeonGhoul13"
+        },
+        {
             "accuracy": 100,
             "score": 47885,
             "difficulty": 1,
@@ -375,6 +391,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "sinistrsalsa"
+        },
+        {
+            "accuracy": 98,
+            "score": 35387,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "TropicalSprite2"
         },
         {
             "accuracy": 96,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Revain"
-        },
-        {
-            "accuracy": 95,
-            "score": 25386,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "offred_june"
-        },
-        {
-            "accuracy": 100,
-            "score": 25308,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PatricksDiaries"
-        },
-        {
-            "accuracy": 95,
-            "score": 24899,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "WillowKills"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 275904,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kimac"
+        },
+        {
+            "accuracy": 100,
+            "score": 275766,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OhManAFatRabbit"
+        },
+        {
             "accuracy": 99,
             "score": 275760,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JoltEelan"
-        },
-        {
-            "accuracy": 100,
-            "score": 271410,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mightyChungus77"
-        },
-        {
-            "accuracy": 100,
-            "score": 271404,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Foxeye112"
         }
     ]
 }

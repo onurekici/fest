@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 151782,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Daisaku-Kuze"
+        },
+        {
+            "accuracy": 100,
+            "score": 151756,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Just Sku"
+        },
+        {
             "accuracy": 99,
             "score": 151723,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dankkilla14"
-        },
-        {
-            "accuracy": 99,
-            "score": 146480,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jalaco Gameplay"
-        },
-        {
-            "accuracy": 99,
-            "score": 146417,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PidgyRIP"
         }
     ]
 }

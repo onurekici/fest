@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 34785,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Play.one"
+        },
+        {
             "accuracy": 99,
             "score": 34452,
             "difficulty": 3,
@@ -657,6 +665,14 @@
             "userName": "OscarRod5362"
         },
         {
+            "accuracy": 98,
+            "score": 21940,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "lordbeerus258"
+        },
+        {
             "accuracy": 97,
             "score": 21820,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "SparkyShrimp"
-        },
-        {
-            "accuracy": 100,
-            "score": 19330,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Wreckitralphwife"
-        },
-        {
-            "accuracy": 100,
-            "score": 19295,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MR_ptit_cremeux"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 133146,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "haddy ʚїɞ"
+        },
+        {
             "accuracy": 100,
             "score": 133146,
             "difficulty": 3,
@@ -23,6 +31,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FrSharpshooter"
+        },
+        {
+            "accuracy": 100,
+            "score": 133038,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NoahtheLawnMowah"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gman42"
-        },
-        {
-            "accuracy": 99,
-            "score": 131046,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JoeGoldberg5"
-        },
-        {
-            "accuracy": 100,
-            "score": 131034,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Gold_ Ship"
         }
     ]
 }

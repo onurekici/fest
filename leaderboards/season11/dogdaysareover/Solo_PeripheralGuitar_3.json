@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 254267,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jawn Pork"
+        },
+        {
+            "accuracy": 99,
+            "score": 254257,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WinSomePizza"
+        },
+        {
             "accuracy": 100,
             "score": 254087,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "D1SCODONKEY"
-        },
-        {
-            "accuracy": 98,
-            "score": 235114,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "alph4_s"
-        },
-        {
-            "accuracy": 99,
-            "score": 234734,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Random Smells"
         }
     ]
 }

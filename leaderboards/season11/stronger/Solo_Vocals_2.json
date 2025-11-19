@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 131632,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ICE GamerToni"
+        },
+        {
+            "accuracy": 99,
+            "score": 131627,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BigMappsy44"
+        },
+        {
+            "accuracy": 100,
             "score": 131613,
             "difficulty": 3,
             "stars": 6,
@@ -430,7 +446,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": "[XBL] im so easy rn"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Azure LB"
-        },
-        {
-            "accuracy": 99,
-            "score": 118925,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DarkKnight90309"
-        },
-        {
-            "accuracy": 99,
-            "score": 118748,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Edid0"
         }
     ]
 }

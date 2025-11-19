@@ -609,6 +609,14 @@
             "userName": "Hiro.poof"
         },
         {
+            "accuracy": 99,
+            "score": 113617,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ghoulimari"
+        },
+        {
             "accuracy": 100,
             "score": 113610,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bazzickles"
-        },
-        {
-            "accuracy": 100,
-            "score": 113392,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nate_Squared"
         }
     ]
 }

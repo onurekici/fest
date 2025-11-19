@@ -330,6 +330,14 @@
         },
         {
             "accuracy": 100,
+            "score": 60250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Baffling Bubble"
+        },
+        {
+            "accuracy": 100,
             "score": 60223,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dampdog21"
-        },
-        {
-            "accuracy": 99,
-            "score": 57094,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "OralJohnson"
         }
     ]
 }

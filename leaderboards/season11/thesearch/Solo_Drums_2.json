@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 67164,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MondoElHermano"
+        },
+        {
+            "accuracy": 100,
+            "score": 67152,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mralxy"
+        },
+        {
             "accuracy": 99,
             "score": 67044,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Andy Ostfront xx"
-        },
-        {
-            "accuracy": 100,
-            "score": 62754,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Support Lemon"
-        },
-        {
-            "accuracy": 99,
-            "score": 62736,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hdsghej"
         }
     ]
 }

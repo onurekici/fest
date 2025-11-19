@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 41943,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Helena_20030"
+        },
+        {
+            "accuracy": 100,
+            "score": 41916,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Podarte_Gacie"
+        },
+        {
             "accuracy": 100,
             "score": 41903,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Restlesspiano92"
-        },
-        {
-            "accuracy": 100,
-            "score": 30594,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "WEB BATTLES"
-        },
-        {
-            "accuracy": 100,
-            "score": 30570,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mr_ramen1"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 254223,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "дядя тинтиь"
+        },
+        {
+            "accuracy": 99,
+            "score": 253983,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Batboy099"
+        },
+        {
             "accuracy": 99,
             "score": 253953,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ms Nezuko7"
-        },
-        {
-            "accuracy": 99,
-            "score": 240669,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "arg_Zwist"
-        },
-        {
-            "accuracy": 99,
-            "score": 240381,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "3_tuki"
         }
     ]
 }

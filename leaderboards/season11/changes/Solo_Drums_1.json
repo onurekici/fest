@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 171282,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cats Fedora"
+        },
+        {
             "accuracy": 100,
             "score": 171015,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Red_Claw002"
-        },
-        {
-            "accuracy": 98,
-            "score": 96215,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "BerkyRandos"
         }
     ]
 }

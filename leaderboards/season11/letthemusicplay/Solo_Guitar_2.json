@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 84415,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "huu_tan"
+        },
+        {
+            "accuracy": 99,
+            "score": 84170,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SpeedyThor"
+        },
+        {
             "accuracy": 99,
             "score": 84148,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": null
-        },
-        {
-            "accuracy": 100,
-            "score": 77378,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Potatoo x3"
-        },
-        {
-            "accuracy": 99,
-            "score": 77335,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CezarisPena"
         }
     ]
 }

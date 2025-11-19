@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 223524,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "YaGirlTato"
+        },
+        {
+            "accuracy": 100,
             "score": 223501,
             "difficulty": 3,
             "stars": 6,
@@ -497,6 +505,14 @@
             "userName": "Corotho"
         },
         {
+            "accuracy": 99,
+            "score": 221672,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LA Sewer Rat"
+        },
+        {
             "accuracy": 100,
             "score": 221668,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TT_FestivalKade"
-        },
-        {
-            "accuracy": 99,
-            "score": 220599,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "sonicau55"
-        },
-        {
-            "accuracy": 100,
-            "score": 220596,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Veltrenx117"
         }
     ]
 }

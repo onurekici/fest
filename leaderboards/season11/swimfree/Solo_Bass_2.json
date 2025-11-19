@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 129132,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Eyes of Ky"
+        },
+        {
             "accuracy": 99,
             "score": 128947,
             "difficulty": 3,
@@ -215,6 +223,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Omanjyu-jr"
+        },
+        {
+            "accuracy": 99,
+            "score": 126727,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "horrie-35"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Skyafire"
-        },
-        {
-            "accuracy": 99,
-            "score": 119355,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "the_real_lebronz"
-        },
-        {
-            "accuracy": 99,
-            "score": 119347,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "fisher340"
         }
     ]
 }
