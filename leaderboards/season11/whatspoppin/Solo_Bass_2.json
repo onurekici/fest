@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 20705,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Tamed viper"
+        },
+        {
+            "accuracy": 100,
             "score": 20595,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
             "userName": "ConfidentArm4910"
+        },
+        {
+            "accuracy": 98,
+            "score": 20592,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "roarxdb78"
         },
         {
             "accuracy": 99,
@@ -441,6 +457,14 @@
             "userName": "RoadWorrior98"
         },
         {
+            "accuracy": 99,
+            "score": 17200,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JFT Mapache"
+        },
+        {
             "accuracy": 100,
             "score": 17190,
             "difficulty": 2,
@@ -689,6 +713,14 @@
             "userName": "00 Wax"
         },
         {
+            "accuracy": 100,
+            "score": 16205,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ollyhomer"
+        },
+        {
             "accuracy": 96,
             "score": 16185,
             "difficulty": 2,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Kno1205"
-        },
-        {
-            "accuracy": 100,
-            "score": 15995,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Jalenwentz1"
-        },
-        {
-            "accuracy": 97,
-            "score": 15995,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MalitiousLady187"
-        },
-        {
-            "accuracy": 100,
-            "score": 15970,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Vxndross"
-        },
-        {
-            "accuracy": 100,
-            "score": 15945,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ELF Exotic"
         }
     ]
 }

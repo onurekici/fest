@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 44771,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Venkullix"
+        },
+        {
             "accuracy": 100,
             "score": 44769,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DC3MU"
-        },
-        {
-            "accuracy": 100,
-            "score": 44507,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Elfenpac"
         }
     ]
 }

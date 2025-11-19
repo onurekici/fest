@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 90167,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dranzer619"
+        },
+        {
             "accuracy": 100,
             "score": 90149,
             "difficulty": 3,
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Fourgoblin"
+        },
+        {
+            "accuracy": 100,
+            "score": 87982,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tibbernackel"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ShiFu Mephisto"
-        },
-        {
-            "accuracy": 98,
-            "score": 85273,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ABYARH"
-        },
-        {
-            "accuracy": 99,
-            "score": 85123,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AllSum_Prime"
         }
     ]
 }

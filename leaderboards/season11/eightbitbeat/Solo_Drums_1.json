@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 95658,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kllpa"
+        },
+        {
             "accuracy": 99,
             "score": 95604,
             "difficulty": 3,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "lightninwxlf"
+        },
+        {
+            "accuracy": 100,
+            "score": 93966,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ulnucky不運"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "バブエたん"
-        },
-        {
-            "accuracy": 100,
-            "score": 91860,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "1k.Kvnn"
-        },
-        {
-            "accuracy": 100,
-            "score": 91818,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "cry2scruffy"
         }
     ]
 }

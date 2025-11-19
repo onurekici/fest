@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 133423,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ScalaAdCaelum"
+        },
+        {
+            "accuracy": 100,
+            "score": 133413,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Yknsierra18"
+        },
+        {
             "accuracy": 100,
             "score": 133382,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KINGLAMAR"
-        },
-        {
-            "accuracy": 99,
-            "score": 125711,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "silverstone7341"
-        },
-        {
-            "accuracy": 99,
-            "score": 125640,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "freeboygtz"
         }
     ]
 }

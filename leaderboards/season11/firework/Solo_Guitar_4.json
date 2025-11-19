@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 242709,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FzNaVy"
+        },
+        {
+            "accuracy": 99,
+            "score": 242690,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BaconBit_"
+        },
+        {
+            "accuracy": 100,
             "score": 242678,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Gianzapp"
-        },
-        {
-            "accuracy": 99,
-            "score": 240648,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CurvedGopher2676"
-        },
-        {
-            "accuracy": 100,
-            "score": 240619,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TL3174"
         }
     ]
 }

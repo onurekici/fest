@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 133710,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Arohix"
+        },
+        {
+            "accuracy": 99,
+            "score": 133596,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BachNewton"
+        },
+        {
             "accuracy": 98,
             "score": 133416,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Clairannia"
-        },
-        {
-            "accuracy": 95,
-            "score": 123000,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "arpfa"
-        },
-        {
-            "accuracy": 100,
-            "score": 122720,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SnipsT_T"
         }
     ]
 }

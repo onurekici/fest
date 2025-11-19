@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 120408,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Im_novas_backoff"
+        },
+        {
+            "accuracy": 99,
+            "score": 120330,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mrs Twiinx"
+        },
+        {
             "accuracy": 99,
             "score": 120294,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "AMG SMOKE"
-        },
-        {
-            "accuracy": 99,
-            "score": 117840,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hyeoniehae"
-        },
-        {
-            "accuracy": 100,
-            "score": 117840,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Snowysnoo"
         }
     ]
 }

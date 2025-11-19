@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 55696,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Eric.Ang"
+        },
+        {
             "accuracy": 99,
             "score": 55690,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Converse_JR"
-        },
-        {
-            "accuracy": 98,
-            "score": 54244,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JetMoon08"
         }
     ]
 }

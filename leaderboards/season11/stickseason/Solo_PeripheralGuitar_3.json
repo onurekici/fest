@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 86646,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Swift x Chucky"
+        },
+        {
+            "accuracy": 100,
+            "score": 86634,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "THE-DH"
+        },
+        {
+            "accuracy": 100,
             "score": 86424,
             "difficulty": 1,
             "stars": 5,
@@ -38,7 +54,7 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "oppbigga967"
+            "userName": "rxuz1"
         },
         {
             "accuracy": 94,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "GrandWarrior905"
-        },
-        {
-            "accuracy": 96,
-            "score": 55371,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "EffectiveHawk327"
-        },
-        {
-            "accuracy": 70,
-            "score": 55320,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "bwheeler123"
         }
     ]
 }

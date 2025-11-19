@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 101964,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "GumbyGav"
+        },
+        {
+            "accuracy": 78,
+            "score": 101939,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "EggplantWizard08"
+        },
+        {
+            "accuracy": 97,
+            "score": 101598,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LukeTheChap"
+        },
+        {
             "accuracy": 88,
             "score": 101456,
             "difficulty": 2,
@@ -135,14 +159,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Girlwondered"
-        },
-        {
-            "accuracy": 81,
-            "score": 97970,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "NinjaHinja619"
         },
         {
             "accuracy": 88,
@@ -689,6 +705,14 @@
             "userName": "i is goofy"
         },
         {
+            "accuracy": 63,
+            "score": 76905,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "DJRaven246"
+        },
+        {
             "accuracy": 81,
             "score": 76898,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Bıg C"
-        },
-        {
-            "accuracy": 72,
-            "score": 74624,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "XxYaBoyEthanxX"
-        },
-        {
-            "accuracy": 82,
-            "score": 74113,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "BCAR22"
-        },
-        {
-            "accuracy": 94,
-            "score": 73955,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pasghettios1"
         }
     ]
 }

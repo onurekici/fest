@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 240710,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tony iced"
+        },
+        {
+            "accuracy": 100,
             "score": 240704,
             "difficulty": 3,
             "stars": 6,
@@ -78,7 +86,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Mighty Esmeralda"
+            "userName": "EllenEsmeralda"
         },
         {
             "accuracy": 100,
@@ -690,6 +698,14 @@
         },
         {
             "accuracy": 100,
+            "score": 235528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FronkenZeepa"
+        },
+        {
+            "accuracy": 100,
             "score": 235445,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "AISIXIS"
-        },
-        {
-            "accuracy": 99,
-            "score": 234834,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AsianGrapeFruit"
-        },
-        {
-            "accuracy": 100,
-            "score": 234814,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cracked-Man"
         }
     ]
 }

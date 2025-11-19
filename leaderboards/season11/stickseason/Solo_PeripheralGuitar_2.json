@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 127559,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "chicken8nugges"
+        },
+        {
+            "accuracy": 99,
+            "score": 127134,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Pappi Cleet"
+        },
+        {
             "accuracy": 100,
             "score": 126561,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "JSF4P"
-        },
-        {
-            "accuracy": 100,
-            "score": 86646,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Swift x Chucky"
-        },
-        {
-            "accuracy": 100,
-            "score": 86634,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "THE-DH"
         }
     ]
 }

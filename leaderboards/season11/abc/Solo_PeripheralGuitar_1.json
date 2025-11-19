@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 76432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GavinBeDancing"
+        },
+        {
+            "accuracy": 99,
+            "score": 76367,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JbirdTheRam0409"
+        },
+        {
+            "accuracy": 100,
             "score": 76315,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SoSoSpice"
-        },
-        {
-            "accuracy": 99,
-            "score": 65034,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sakura.Kitsune"
-        },
-        {
-            "accuracy": 99,
-            "score": 64668,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Modest Empathy"
         }
     ]
 }

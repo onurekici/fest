@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 142602,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AGreatChaos7"
+        },
+        {
+            "accuracy": 100,
             "score": 142584,
             "difficulty": 3,
             "stars": 6,
@@ -570,6 +578,14 @@
         },
         {
             "accuracy": 99,
+            "score": 136896,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kanimouse"
+        },
+        {
+            "accuracy": 99,
             "score": 136872,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "O Alequis"
-        },
-        {
-            "accuracy": 99,
-            "score": 133710,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Arohix"
-        },
-        {
-            "accuracy": 99,
-            "score": 133596,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BachNewton"
         }
     ]
 }

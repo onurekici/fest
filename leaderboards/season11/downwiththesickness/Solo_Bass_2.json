@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 254225,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tatiziki"
+        },
+        {
+            "accuracy": 100,
+            "score": 254217,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "imNebuIa"
+        },
+        {
             "accuracy": 100,
             "score": 254124,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Strike 3 Called"
-        },
-        {
-            "accuracy": 100,
-            "score": 251073,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "UGXwolf"
-        },
-        {
-            "accuracy": 100,
-            "score": 251039,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "User-bf0b1c46ad"
         }
     ]
 }

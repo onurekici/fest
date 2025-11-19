@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 116155,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vainne92"
+        },
+        {
             "accuracy": 99,
             "score": 116133,
             "difficulty": 3,
@@ -753,6 +761,14 @@
             "userName": "Shaughnwithag"
         },
         {
+            "accuracy": 99,
+            "score": 108600,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "xDeadRose420x"
+        },
+        {
             "accuracy": 97,
             "score": 108441,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KENYDEAD"
-        },
-        {
-            "accuracy": 99,
-            "score": 108061,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Arofuzz"
-        },
-        {
-            "accuracy": 99,
-            "score": 108014,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ShakenDragon23"
         }
     ]
 }

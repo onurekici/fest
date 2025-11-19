@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 41346,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Lucool"
+        },
+        {
+            "accuracy": 89,
+            "score": 41176,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Esrev_"
+        },
+        {
             "accuracy": 90,
             "score": 40816,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Mesmerizer39"
-        },
-        {
-            "accuracy": 80,
-            "score": 17494,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "AlphaDaddyBear"
-        },
-        {
-            "accuracy": 88,
-            "score": 17192,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "AcWilliam"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 81300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "J0hnny3rdParty"
+        },
+        {
+            "accuracy": 100,
+            "score": 81293,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "EwanG _"
+        },
+        {
+            "accuracy": 100,
+            "score": 81277,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PDBankrolls"
+        },
+        {
             "accuracy": 100,
             "score": 81269,
             "difficulty": 3,
@@ -311,14 +335,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Edgegourd"
-        },
-        {
-            "accuracy": 100,
-            "score": 80741,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jackelmetz"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sweet Soul Candy"
-        },
-        {
-            "accuracy": 99,
-            "score": 79921,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ludwiglovesbendy"
-        },
-        {
-            "accuracy": 100,
-            "score": 79921,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FrankenSpooky"
         }
     ]
 }

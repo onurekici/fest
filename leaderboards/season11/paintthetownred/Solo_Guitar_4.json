@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 120251,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bammah_"
+        },
+        {
+            "accuracy": 100,
+            "score": 120249,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ramen 麺"
+        },
+        {
             "accuracy": 100,
             "score": 120247,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Jessiluvcups"
-        },
-        {
-            "accuracy": 100,
-            "score": 119750,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "dany_cheerful"
-        },
-        {
-            "accuracy": 100,
-            "score": 119744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zombie Lucifer"
         }
     ]
 }

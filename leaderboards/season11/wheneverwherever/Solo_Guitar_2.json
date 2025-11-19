@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 192273,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ColossalApex"
+        },
+        {
+            "accuracy": 100,
             "score": 192262,
             "difficulty": 3,
             "stars": 6,
@@ -71,6 +79,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "L4D CHARGER 01"
+        },
+        {
+            "accuracy": 99,
+            "score": 192151,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "oCelootX"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BachNewton"
-        },
-        {
-            "accuracy": 100,
-            "score": 190528,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "tenppa."
-        },
-        {
-            "accuracy": 100,
-            "score": 190471,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "noodle dude 07"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 150732,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KrabiKarla"
+        },
+        {
+            "accuracy": 100,
             "score": 150726,
             "difficulty": 3,
             "stars": 6,
@@ -119,6 +127,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Pollo0894"
+        },
+        {
+            "accuracy": 99,
+            "score": 150252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "YSG SLUMP."
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jrodmech23"
-        },
-        {
-            "accuracy": 99,
-            "score": 147420,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AgenteB_25"
-        },
-        {
-            "accuracy": 100,
-            "score": 147396,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Supurlemon"
         }
     ]
 }

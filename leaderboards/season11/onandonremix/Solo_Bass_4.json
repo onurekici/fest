@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 110229,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Denquino"
+        },
+        {
+            "accuracy": 100,
+            "score": 110197,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Yakachanت"
+        },
+        {
             "accuracy": 100,
             "score": 110190,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "EvandroYonamine"
-        },
-        {
-            "accuracy": 100,
-            "score": 107795,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AUTUMN B0MB"
-        },
-        {
-            "accuracy": 100,
-            "score": 107774,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PuRe Pretzel"
         }
     ]
 }

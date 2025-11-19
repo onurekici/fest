@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 163218,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "gyadzilla"
+        },
+        {
             "accuracy": 100,
             "score": 163206,
             "difficulty": 3,
@@ -737,6 +745,14 @@
             "userName": "Tiago ソ"
         },
         {
+            "accuracy": 100,
+            "score": 161718,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ulnucky不運"
+        },
+        {
             "accuracy": 99,
             "score": 161688,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Rich and Lonely"
-        },
-        {
-            "accuracy": 100,
-            "score": 161568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ProbNotBatman"
-        },
-        {
-            "accuracy": 100,
-            "score": 161568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DunderMifffflinn"
         }
     ]
 }

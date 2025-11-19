@@ -1,8 +1,32 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85505,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 85504,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 100,
             "score": 85462,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 85455,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
@@ -316,6 +340,14 @@
             "accuracy": 98,
             "score": 83364,
             "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 83281,
+            "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": null
@@ -763,38 +795,6 @@
         {
             "accuracy": 99,
             "score": 79432,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 98,
-            "score": 79367,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 98,
-            "score": 79360,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 79325,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 79277,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,

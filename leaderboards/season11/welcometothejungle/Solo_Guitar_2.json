@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 228168,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "edgardeauditore"
+        },
+        {
             "accuracy": 99,
             "score": 228162,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Guasimito"
+        },
+        {
+            "accuracy": 100,
+            "score": 228158,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tacos Axerus"
         },
         {
             "accuracy": 100,
@@ -554,14 +570,6 @@
         },
         {
             "accuracy": 100,
-            "score": 226694,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tacos Axerus"
-        },
-        {
-            "accuracy": 100,
             "score": 226691,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SenTaxy"
-        },
-        {
-            "accuracy": 100,
-            "score": 226109,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MORSA-ROBLEDO"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 129367,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "froblizard"
+        },
+        {
+            "accuracy": 99,
+            "score": 129361,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AkenoTheMaid"
+        },
+        {
+            "accuracy": 100,
             "score": 129308,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "yRookie_"
-        },
-        {
-            "accuracy": 99,
-            "score": 128233,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Itookapikachu"
-        },
-        {
-            "accuracy": 100,
-            "score": 128214,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mr. Serejo"
         }
     ]
 }

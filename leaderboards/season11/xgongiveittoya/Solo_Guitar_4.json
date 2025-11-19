@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 79921,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ludwiglovesbendy"
+        },
+        {
+            "accuracy": 100,
+            "score": 79921,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FrankenSpooky"
+        },
+        {
             "accuracy": 100,
             "score": 79902,
             "difficulty": 3,
@@ -594,14 +610,6 @@
         },
         {
             "accuracy": 99,
-            "score": 78997,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Areda5"
-        },
-        {
-            "accuracy": 99,
             "score": 78986,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Hugzarmut"
-        },
-        {
-            "accuracy": 99,
-            "score": 78663,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MadMannie05"
         }
     ]
 }

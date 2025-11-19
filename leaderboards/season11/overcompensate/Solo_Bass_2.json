@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130122,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Paavo_Dizonard"
+        },
+        {
+            "accuracy": 100,
             "score": 129919,
             "difficulty": 3,
             "stars": 6,
@@ -521,6 +529,14 @@
             "userName": "OnlyCykes"
         },
         {
+            "accuracy": 99,
+            "score": 123986,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "QueenDadoo"
+        },
+        {
             "accuracy": 100,
             "score": 123858,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Fanati0o"
-        },
-        {
-            "accuracy": 99,
-            "score": 121975,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jorgeapache"
-        },
-        {
-            "accuracy": 100,
-            "score": 121906,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kittykatkatana3"
         }
     ]
 }

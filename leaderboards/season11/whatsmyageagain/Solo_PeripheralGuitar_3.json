@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 98142,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Disturbed one14"
+        },
+        {
+            "accuracy": 94,
+            "score": 97934,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mosmozart"
+        },
+        {
             "accuracy": 97,
             "score": 97647,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ragingmoomoo"
-        },
-        {
-            "accuracy": 99,
-            "score": 83439,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Simtress89"
-        },
-        {
-            "accuracy": 94,
-            "score": 83436,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "adue42"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 47676,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ascully"
+        },
+        {
+            "accuracy": 95,
+            "score": 47517,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "evan8989"
+        },
+        {
+            "accuracy": 100,
             "score": 47351,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "PIZZA STEVE 44"
-        },
-        {
-            "accuracy": 94,
-            "score": 36150,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "NEHD464"
-        },
-        {
-            "accuracy": 91,
-            "score": 35550,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "CleitonPlayOne"
         }
     ]
 }

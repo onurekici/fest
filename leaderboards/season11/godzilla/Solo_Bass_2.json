@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 111685,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mr.Tommies"
+        },
+        {
             "accuracy": 99,
             "score": 111664,
             "difficulty": 3,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Paniagua 鶏肉"
+        },
+        {
+            "accuracy": 99,
+            "score": 110628,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ktsayshiii"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "charlyb3goode"
-        },
-        {
-            "accuracy": 99,
-            "score": 104750,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Northstar LD8"
-        },
-        {
-            "accuracy": 99,
-            "score": 104648,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "thisDragon"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 223656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "josephindacut"
+        },
+        {
             "accuracy": 99,
             "score": 223566,
             "difficulty": 3,
@@ -47,14 +55,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ScrubbyChou"
-        },
-        {
-            "accuracy": 100,
-            "score": 222580,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Eden Eye Echo"
         },
         {
             "accuracy": 100,
@@ -255,6 +255,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "yuckymortuary"
+        },
+        {
+            "accuracy": 99,
+            "score": 218968,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Geometric_Killer"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kerti_Kertész"
-        },
-        {
-            "accuracy": 99,
-            "score": 211914,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "fluffeii"
         }
     ]
 }

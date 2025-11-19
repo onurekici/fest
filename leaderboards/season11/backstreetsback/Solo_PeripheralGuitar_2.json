@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 74831,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "andyhoover"
+        },
+        {
             "accuracy": 99,
             "score": 74816,
             "difficulty": 3,
@@ -367,6 +375,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Pledje"
+        },
+        {
+            "accuracy": 100,
+            "score": 71923,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Alvert_Kori"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Kuratex"
-        },
-        {
-            "accuracy": 94,
-            "score": 69325,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "bennyhz578"
-        },
-        {
-            "accuracy": 97,
-            "score": 69319,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "c-aungst25"
         }
     ]
 }

@@ -10,6 +10,14 @@
         },
         {
             "accuracy": 100,
+            "score": 323789,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AnyMeansYui"
+        },
+        {
+            "accuracy": 100,
             "score": 323062,
             "difficulty": 3,
             "stars": 6,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "IINKay"
+        },
+        {
+            "accuracy": 99,
+            "score": 311417,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "João_gr"
         },
         {
             "accuracy": 100,
@@ -529,14 +545,6 @@
             "userName": "Shune Yote"
         },
         {
-            "accuracy": 99,
-            "score": 303500,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "João_gr"
-        },
-        {
             "accuracy": 100,
             "score": 303431,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Wrench in water"
-        },
-        {
-            "accuracy": 100,
-            "score": 299343,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Benpoint"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 153792,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "pilotofsomething"
+        },
+        {
             "accuracy": 100,
             "score": 153792,
             "difficulty": 3,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bigode115"
+        },
+        {
+            "accuracy": 99,
+            "score": 153180,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CoinVessel26"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "sza mah moot"
-        },
-        {
-            "accuracy": 99,
-            "score": 150948,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "B_Wasian"
-        },
-        {
-            "accuracy": 100,
-            "score": 150942,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "psychoD_A_D"
         }
     ]
 }

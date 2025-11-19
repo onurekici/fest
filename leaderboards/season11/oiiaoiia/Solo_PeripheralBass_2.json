@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 36348,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "killer6196"
+        },
+        {
             "accuracy": 99,
             "score": 36325,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "sammyscandalous"
-        },
-        {
-            "accuracy": 100,
-            "score": 26524,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Th3KitchenSink"
         }
     ]
 }

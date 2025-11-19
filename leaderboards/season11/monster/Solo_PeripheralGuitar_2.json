@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87010,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] Raymono100"
+        },
+        {
+            "accuracy": 99,
+            "score": 86955,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Chill2Music"
+        },
+        {
             "accuracy": 99,
             "score": 86826,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "tuftypanda"
-        },
-        {
-            "accuracy": 98,
-            "score": 82774,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SoraXVII"
-        },
-        {
-            "accuracy": 99,
-            "score": 82716,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "IM-SO_DERPY"
         }
     ]
 }

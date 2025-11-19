@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 244476,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ShirtTuck"
+        },
+        {
+            "accuracy": 99,
+            "score": 244446,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "See Cubed"
+        },
+        {
+            "accuracy": 100,
             "score": 244416,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DuskyHP"
-        },
-        {
-            "accuracy": 100,
-            "score": 240690,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "F4ll0utB0y"
-        },
-        {
-            "accuracy": 100,
-            "score": 240612,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "tsentfox"
         }
     ]
 }

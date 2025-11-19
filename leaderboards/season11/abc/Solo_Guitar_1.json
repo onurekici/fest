@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 85034,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jendigo"
+        },
+        {
+            "accuracy": 100,
+            "score": 84984,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "iWinterDog4"
+        },
+        {
+            "accuracy": 100,
             "score": 84969,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "fauxdoh"
-        },
-        {
-            "accuracy": 100,
-            "score": 82852,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Agency2904"
-        },
-        {
-            "accuracy": 100,
-            "score": 82844,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "XerekGameplays"
         }
     ]
 }

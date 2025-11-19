@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 105418,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Gabby_The_Legend"
+        },
+        {
+            "accuracy": 91,
+            "score": 105305,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "EasterIsHere"
+        },
+        {
             "accuracy": 89,
             "score": 104792,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Xani_En"
-        },
-        {
-            "accuracy": 99,
-            "score": 81463,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ImPickleRick58"
-        },
-        {
-            "accuracy": 92,
-            "score": 81450,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Olivergg21"
         }
     ]
 }

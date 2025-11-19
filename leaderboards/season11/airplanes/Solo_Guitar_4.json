@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123292,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Your step-bro"
+        },
+        {
+            "accuracy": 100,
+            "score": 123278,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JacrispyDavis"
+        },
+        {
+            "accuracy": 100,
             "score": 123270,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "100110111"
-        },
-        {
-            "accuracy": 100,
-            "score": 122244,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Glasses xd"
-        },
-        {
-            "accuracy": 100,
-            "score": 122243,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "styyrx"
         }
     ]
 }

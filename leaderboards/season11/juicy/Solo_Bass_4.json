@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123245,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheMillo23"
+        },
+        {
             "accuracy": 99,
             "score": 123230,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "milkrott"
-        },
-        {
-            "accuracy": 99,
-            "score": 119081,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ronny61911"
         }
     ]
 }

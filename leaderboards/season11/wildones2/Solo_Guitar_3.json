@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 79620,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] Gerth399"
+        },
+        {
+            "accuracy": 99,
+            "score": 79613,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "war monkey098"
+        },
+        {
             "accuracy": 99,
             "score": 79611,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Assaf Al-shehri"
-        },
-        {
-            "accuracy": 100,
-            "score": 78682,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Climaximus G"
-        },
-        {
-            "accuracy": 100,
-            "score": 78681,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ramecsito00117"
         }
     ]
 }

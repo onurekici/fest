@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 87350,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Agent Norf"
+        },
+        {
+            "accuracy": 99,
             "score": 87313,
             "difficulty": 3,
             "stars": 6,
@@ -593,6 +601,14 @@
             "userName": "TheOtherJalf"
         },
         {
+            "accuracy": 99,
+            "score": 67233,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Papafuica36"
+        },
+        {
             "accuracy": 97,
             "score": 67188,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "90sMK4Life"
-        },
-        {
-            "accuracy": 93,
-            "score": 58209,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SoToaster_2011"
-        },
-        {
-            "accuracy": 95,
-            "score": 58146,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Flood Warning"
         }
     ]
 }

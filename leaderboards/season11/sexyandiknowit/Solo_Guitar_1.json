@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 34452,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Jacklogan90"
+        },
+        {
             "accuracy": 98,
             "score": 34272,
             "difficulty": 3,
@@ -383,6 +391,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MathSabbath725"
+        },
+        {
+            "accuracy": 98,
+            "score": 27290,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "e.g.rose"
         },
         {
             "accuracy": 95,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "MR_ptit_cremeux"
-        },
-        {
-            "accuracy": 100,
-            "score": 19280,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "misim_zil"
-        },
-        {
-            "accuracy": 100,
-            "score": 19260,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Allanw1875"
         }
     ]
 }

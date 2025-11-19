@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jay19946_cena"
+        },
+        {
+            "accuracy": 100,
             "score": 123111,
             "difficulty": 3,
             "stars": 6,
@@ -295,6 +303,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Driini"
+        },
+        {
+            "accuracy": 100,
+            "score": 113831,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VersaceVisions42"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "highlander732"
-        },
-        {
-            "accuracy": 99,
-            "score": 98110,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kwiatuszkowy"
-        },
-        {
-            "accuracy": 99,
-            "score": 98092,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "tonysfreshmarket"
         }
     ]
 }

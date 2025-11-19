@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 155459,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The_Breadman20"
+        },
+        {
+            "accuracy": 100,
+            "score": 155142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ForeignArcadia"
+        },
+        {
             "accuracy": 99,
             "score": 137717,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Nairetic"
+        },
+        {
+            "accuracy": 98,
+            "score": 123755,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "seanythelad11"
         },
         {
             "accuracy": 99,
@@ -25,6 +49,14 @@
             "userName": "G1R1B0SS"
         },
         {
+            "accuracy": 100,
+            "score": 81294,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheeMoistGamer"
+        },
+        {
             "accuracy": 95,
             "score": 72762,
             "difficulty": 2,
@@ -33,12 +65,28 @@
             "userName": "The_Ghost_Parade"
         },
         {
+            "accuracy": 93,
+            "score": 43859,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "M.I.K.E-"
+        },
+        {
             "accuracy": 59,
             "score": 12204,
             "difficulty": 2,
             "stars": 1,
             "fullcombo": false,
             "userName": "Shadow2angel06"
+        },
+        {
+            "accuracy": 82,
+            "score": 11694,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Niko_Suave805"
         }
     ]
 }

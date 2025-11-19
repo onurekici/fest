@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 105619,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Atomic _Atrox"
+        },
+        {
             "accuracy": 99,
             "score": 105597,
             "difficulty": 3,
@@ -119,6 +127,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lichbones"
+        },
+        {
+            "accuracy": 100,
+            "score": 105027,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ALi_AhMeD_IQ1"
         },
         {
             "accuracy": 99,
@@ -473,14 +489,6 @@
             "userName": "Kanebo-Kering"
         },
         {
-            "accuracy": 100,
-            "score": 103636,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ALi_AhMeD_IQ1"
-        },
-        {
             "accuracy": 99,
             "score": 103605,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wisleymozer"
-        },
-        {
-            "accuracy": 99,
-            "score": 102454,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "A BetterKangaroo"
         }
     ]
 }

@@ -505,6 +505,14 @@
             "userName": "SYTA12"
         },
         {
+            "accuracy": 99,
+            "score": 150144,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PeaTarGriffin"
+        },
+        {
             "accuracy": 100,
             "score": 150108,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Winter_Lynx_02"
-        },
-        {
-            "accuracy": 100,
-            "score": 147960,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "A_NameIGuess"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 95279,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kompacc"
+        },
+        {
+            "accuracy": 100,
+            "score": 95219,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GethSmash"
+        },
+        {
+            "accuracy": 99,
             "score": 95197,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RandyFlandy"
-        },
-        {
-            "accuracy": 99,
-            "score": 90711,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Daftiice"
-        },
-        {
-            "accuracy": 99,
-            "score": 90708,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ialo77"
         }
     ]
 }
