@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 108822,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LegendxChief117"
+        },
+        {
+            "accuracy": 99,
+            "score": 108819,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RGMX_SLANG1"
+        },
+        {
             "accuracy": 99,
             "score": 108760,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Lynx_303"
-        },
-        {
-            "accuracy": 100,
-            "score": 103260,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PoppetPops"
-        },
-        {
-            "accuracy": 100,
-            "score": 103190,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "zhemax30"
         }
     ]
 }

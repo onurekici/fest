@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 52404,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "James Boxers"
+        },
+        {
             "accuracy": 99,
             "score": 52340,
             "difficulty": 1,
@@ -47,6 +55,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Arkonomaly"
+        },
+        {
+            "accuracy": 100,
+            "score": 52020,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Popcorn_Neo05"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "r_sillz"
-        },
-        {
-            "accuracy": 99,
-            "score": 47760,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CREED_Mined"
-        },
-        {
-            "accuracy": 100,
-            "score": 47745,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "homedepotshed"
         }
     ]
 }

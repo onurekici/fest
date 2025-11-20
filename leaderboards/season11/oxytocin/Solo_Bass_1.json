@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 111440,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MarkusHSVer"
+        },
+        {
+            "accuracy": 100,
             "score": 111334,
             "difficulty": 3,
             "stars": 6,
@@ -191,6 +199,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "zaku fist"
+        },
+        {
+            "accuracy": 99,
+            "score": 108628,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "E1j1Yamam0t0"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dominikesr"
-        },
-        {
-            "accuracy": 99,
-            "score": 98001,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SoledByMedusa"
-        },
-        {
-            "accuracy": 99,
-            "score": 97985,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Octopuzz-16"
         }
     ]
 }

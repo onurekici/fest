@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 20845,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ItsWoof"
+        },
+        {
+            "accuracy": 97,
+            "score": 20838,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cyberifier"
+        },
+        {
             "accuracy": 100,
             "score": 20770,
             "difficulty": 2,
@@ -167,6 +183,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Ghost1135"
+        },
+        {
+            "accuracy": 98,
+            "score": 19566,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BlaseLobster444"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "A_problem_masz"
-        },
-        {
-            "accuracy": 100,
-            "score": 16080,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "HanniaBvN"
-        },
-        {
-            "accuracy": 100,
-            "score": 16080,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Pettymarie8877"
-        },
-        {
-            "accuracy": 100,
-            "score": 16045,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Fc203"
         }
     ]
 }

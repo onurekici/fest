@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 101170,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lawliet9000"
+        },
+        {
+            "accuracy": 100,
+            "score": 101059,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VelonosZacar"
+        },
+        {
             "accuracy": 100,
             "score": 101046,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Iprozombie81"
-        },
-        {
-            "accuracy": 99,
-            "score": 97992,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PRMastodon"
-        },
-        {
-            "accuracy": 100,
-            "score": 97946,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ErebusTheEntity"
         }
     ]
 }

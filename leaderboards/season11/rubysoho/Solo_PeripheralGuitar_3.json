@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 93475,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "HGWeegee"
+        },
+        {
             "accuracy": 95,
             "score": 93207,
             "difficulty": 2,
@@ -510,7 +518,7 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "DaniGrillo"
+            "userName": "ClockwrkPenguin"
         },
         {
             "accuracy": 87,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Cirrusflame"
-        },
-        {
-            "accuracy": 88,
-            "score": 58189,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Redshark9732"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 123560,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "littledude909"
+        },
+        {
+            "accuracy": 97,
+            "score": 121398,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "nunzia420"
+        },
+        {
             "accuracy": 99,
             "score": 121135,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "iLuv_Sophi"
-        },
-        {
-            "accuracy": 99,
-            "score": 78090,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Rand0mT0aster"
-        },
-        {
-            "accuracy": 99,
-            "score": 78085,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "clooovers"
         }
     ]
 }

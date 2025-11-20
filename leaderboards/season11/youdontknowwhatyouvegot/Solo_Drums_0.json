@@ -337,11 +337,11 @@
             "userName": "GingerNINZIN_JPN"
         },
         {
-            "accuracy": 100,
-            "score": 235524,
+            "accuracy": 99,
+            "score": 235584,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "Ben4cool"
         },
         {
@@ -754,6 +754,14 @@
         },
         {
             "accuracy": 100,
+            "score": 232860,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FaniiTV"
+        },
+        {
+            "accuracy": 100,
             "score": 232842,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "meechǃ"
-        },
-        {
-            "accuracy": 100,
-            "score": 232686,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nightlyƺ"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 117651,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheYambo44"
+        },
+        {
             "accuracy": 99,
             "score": 117648,
             "difficulty": 2,
@@ -390,7 +398,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Lynxhaus"
+            "userName": null
         },
         {
             "accuracy": 96,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Pandaploopums"
-        },
-        {
-            "accuracy": 98,
-            "score": 106203,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KingSack"
         }
     ]
 }

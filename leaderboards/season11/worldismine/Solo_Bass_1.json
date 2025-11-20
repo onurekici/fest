@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 230676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AGreatJorb"
+        },
+        {
+            "accuracy": 100,
+            "score": 230668,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sharger78"
+        },
+        {
             "accuracy": 100,
             "score": 230623,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BlindedByViridi"
-        },
-        {
-            "accuracy": 99,
-            "score": 222621,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TjGrY1"
-        },
-        {
-            "accuracy": 99,
-            "score": 222596,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SkautR3tr0"
         }
     ]
 }

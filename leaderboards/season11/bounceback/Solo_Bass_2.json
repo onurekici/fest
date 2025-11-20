@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 74005,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "pancheemo"
+        },
+        {
+            "accuracy": 99,
+            "score": 73982,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Boeddha131"
+        },
+        {
+            "accuracy": 100,
             "score": 73867,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GuardedKam"
-        },
-        {
-            "accuracy": 99,
-            "score": 68165,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wolfgang_RC"
-        },
-        {
-            "accuracy": 99,
-            "score": 68158,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lil_Biddy_II"
         }
     ]
 }

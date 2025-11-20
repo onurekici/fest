@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ᶻᶜʰᵃⁿᶜˡᵃ"
+        },
+        {
+            "accuracy": 100,
             "score": 98757,
             "difficulty": 3,
             "stars": 6,
@@ -129,12 +137,20 @@
             "userName": "Skyllzzz27"
         },
         {
-            "accuracy": 93,
-            "score": 30567,
+            "accuracy": 89,
+            "score": 33407,
             "difficulty": 2,
-            "stars": 4,
+            "stars": 5,
             "fullcombo": false,
             "userName": "TheGamerSide67"
+        },
+        {
+            "accuracy": 92,
+            "score": 23451,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ninja_Boyland"
         }
     ]
 }

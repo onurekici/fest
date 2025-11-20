@@ -162,6 +162,14 @@
         },
         {
             "accuracy": 100,
+            "score": 159453,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ColeCurcio"
+        },
+        {
+            "accuracy": 100,
             "score": 159105,
             "difficulty": 3,
             "stars": 6,
@@ -439,6 +447,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Taxidermalicious"
+        },
+        {
+            "accuracy": 99,
+            "score": 147374,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Shtr0heim"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mcole04"
-        },
-        {
-            "accuracy": 100,
-            "score": 131740,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Le Rat 1"
-        },
-        {
-            "accuracy": 100,
-            "score": 131176,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Trippy_aardvark"
         }
     ]
 }

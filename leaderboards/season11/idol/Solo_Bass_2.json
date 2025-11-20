@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 163633,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CadesEscapades"
+        },
+        {
+            "accuracy": 100,
             "score": 163621,
             "difficulty": 3,
             "stars": 6,
@@ -745,6 +753,14 @@
             "userName": "Τestarossa"
         },
         {
+            "accuracy": 99,
+            "score": 159715,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ＭａｊｉｍａＧｏｒｏ"
+        },
+        {
             "accuracy": 100,
             "score": 159643,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Caelestias6863"
-        },
-        {
-            "accuracy": 99,
-            "score": 159462,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HonyBea"
-        },
-        {
-            "accuracy": 100,
-            "score": 159456,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BlueOTN"
         }
     ]
 }

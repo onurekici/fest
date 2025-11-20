@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 74931,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ClaireJ4u"
+        },
+        {
             "accuracy": 98,
             "score": 74185,
             "difficulty": 3,
@@ -118,7 +126,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Lynxhaus"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Puhskintiii"
-        },
-        {
-            "accuracy": 97,
-            "score": 45069,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "The_GameFreak899"
         }
     ]
 }

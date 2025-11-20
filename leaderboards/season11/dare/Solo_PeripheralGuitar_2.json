@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 105333,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Chef Adachi"
+        },
+        {
             "accuracy": 100,
             "score": 105297,
             "difficulty": 3,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Hypnx"
+        },
+        {
+            "accuracy": 100,
+            "score": 103287,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jeterjack-"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TatoSalad"
-        },
-        {
-            "accuracy": 99,
-            "score": 101170,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lawliet9000"
-        },
-        {
-            "accuracy": 100,
-            "score": 101059,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "VelonosZacar"
         }
     ]
 }

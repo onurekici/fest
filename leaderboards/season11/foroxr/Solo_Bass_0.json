@@ -410,6 +410,14 @@
         },
         {
             "accuracy": 100,
+            "score": 125329,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ガニヤ"
+        },
+        {
+            "accuracy": 100,
             "score": 125281,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ethereal_muse"
-        },
-        {
-            "accuracy": 99,
-            "score": 118729,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "solosigma"
         }
     ]
 }

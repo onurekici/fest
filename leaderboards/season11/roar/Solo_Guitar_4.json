@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 120574,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ugoo_mnzii"
+        },
+        {
+            "accuracy": 98,
+            "score": 120511,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bemarso"
+        },
+        {
             "accuracy": 99,
             "score": 120496,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "LesbianMedusa"
-        },
-        {
-            "accuracy": 100,
-            "score": 115839,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Retro_BQueen"
-        },
-        {
-            "accuracy": 99,
-            "score": 115839,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Charlie_Cutter"
         }
     ]
 }

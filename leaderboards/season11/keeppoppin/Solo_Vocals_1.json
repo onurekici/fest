@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 88341,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "创世纪之争"
+        },
+        {
             "accuracy": 99,
             "score": 88287,
             "difficulty": 3,
@@ -497,6 +505,14 @@
             "userName": "정우 daddy"
         },
         {
+            "accuracy": 98,
+            "score": 81347,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "StarSafire2"
+        },
+        {
             "accuracy": 99,
             "score": 81268,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Nyantastic_"
-        },
-        {
-            "accuracy": 99,
-            "score": 74224,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dawn_blue547"
-        },
-        {
-            "accuracy": 99,
-            "score": 74144,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BabyTeiger11"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 154870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mi-zuzu"
+        },
+        {
+            "accuracy": 100,
+            "score": 154852,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ph1zzle123"
+        },
+        {
             "accuracy": 99,
             "score": 154850,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IMDEXBERG"
-        },
-        {
-            "accuracy": 99,
-            "score": 152143,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BeastModeJonny01"
-        },
-        {
-            "accuracy": 100,
-            "score": 152091,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SallexLottery"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 160176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "enigmatic_dj"
+        },
+        {
+            "accuracy": 100,
             "score": 160101,
             "difficulty": 3,
             "stars": 6,
@@ -622,7 +630,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Glimmer Wing"
+            "userName": "V.O.X - Trust Us"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Brezel König"
-        },
-        {
-            "accuracy": 99,
-            "score": 152498,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "i8abag"
         }
     ]
 }

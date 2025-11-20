@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42127,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Conor_The_Fish"
+        },
+        {
             "accuracy": 99,
             "score": 42115,
             "difficulty": 3,
@@ -207,6 +215,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "DeathBat9911"
+        },
+        {
+            "accuracy": 94,
+            "score": 40261,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ice Cube Guy"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "XxDeathXBloodxX"
-        },
-        {
-            "accuracy": 96,
-            "score": 36148,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ant King Meruem"
-        },
-        {
-            "accuracy": 99,
-            "score": 36130,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SpiralSpade98"
         }
     ]
 }

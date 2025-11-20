@@ -113,6 +113,14 @@
             "userName": "Light3"
         },
         {
+            "accuracy": 100,
+            "score": 99655,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VyktorX"
+        },
+        {
             "accuracy": 98,
             "score": 99211,
             "difficulty": 3,
@@ -359,6 +367,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ChillXeno"
+        },
+        {
+            "accuracy": 97,
+            "score": 82334,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ice Cube Guy"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "turkeyboiradio"
-        },
-        {
-            "accuracy": 82,
-            "score": 47642,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Crusher389"
-        },
-        {
-            "accuracy": 93,
-            "score": 47489,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "zooshroom"
         }
     ]
 }

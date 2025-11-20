@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 78,
+            "score": 33138,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Riot the Sergal"
+        },
+        {
             "accuracy": 89,
             "score": 32982,
             "difficulty": 3,
@@ -777,28 +785,20 @@
             "userName": "krustywire"
         },
         {
+            "accuracy": 95,
+            "score": 26292,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MorbidMacabre999"
+        },
+        {
             "accuracy": 84,
             "score": 26286,
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
             "userName": "intim305"
-        },
-        {
-            "accuracy": 82,
-            "score": 26208,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Infotzvivo"
-        },
-        {
-            "accuracy": 80,
-            "score": 26154,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Kerti_Kertész"
         }
     ]
 }

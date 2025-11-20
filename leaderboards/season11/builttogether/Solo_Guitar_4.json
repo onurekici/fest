@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130815,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AmsterHaia"
+        },
+        {
             "accuracy": 99,
             "score": 130805,
             "difficulty": 3,
@@ -641,6 +649,14 @@
             "userName": "Klinkos"
         },
         {
+            "accuracy": 99,
+            "score": 128438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GodGiveMeHands"
+        },
+        {
             "accuracy": 100,
             "score": 128370,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NoterstarYT"
-        },
-        {
-            "accuracy": 99,
-            "score": 128003,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zamen_"
-        },
-        {
-            "accuracy": 100,
-            "score": 127971,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Arejayuhh"
         }
     ]
 }

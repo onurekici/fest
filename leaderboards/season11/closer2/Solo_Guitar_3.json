@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 132781,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ink Rezi"
+        },
+        {
+            "accuracy": 100,
             "score": 132777,
             "difficulty": 3,
             "stars": 6,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NiceGuyDizz"
+        },
+        {
+            "accuracy": 99,
+            "score": 132543,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MiseMouse"
         },
         {
             "accuracy": 100,
@@ -697,14 +713,6 @@
             "userName": "PurpleTrigga"
         },
         {
-            "accuracy": 100,
-            "score": 131613,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MiseMouse"
-        },
-        {
             "accuracy": 99,
             "score": 131607,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "skinnykurpal"
-        },
-        {
-            "accuracy": 100,
-            "score": 131481,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "alexotine_TTV"
         }
     ]
 }

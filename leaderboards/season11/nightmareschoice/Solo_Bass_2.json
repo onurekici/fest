@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 62200,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Moceloquichtli"
+        },
+        {
             "accuracy": 99,
             "score": 61962,
             "difficulty": 2,
@@ -442,6 +450,14 @@
         },
         {
             "accuracy": 100,
+            "score": 58017,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Aetheriums fire"
+        },
+        {
+            "accuracy": 100,
             "score": 57997,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Antoniomataabue"
-        },
-        {
-            "accuracy": 100,
-            "score": 56851,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "FleshWound8404"
-        },
-        {
-            "accuracy": 100,
-            "score": 56544,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "DemonStrawHat425"
         }
     ]
 }

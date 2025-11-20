@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 104830,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PuppyScouts"
+        },
+        {
             "accuracy": 100,
             "score": 104762,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LastPlaceIsBest"
-        },
-        {
-            "accuracy": 100,
-            "score": 99193,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "[PSN] SiniesterGates"
         }
     ]
 }

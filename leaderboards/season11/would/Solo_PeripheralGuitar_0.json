@@ -457,6 +457,14 @@
             "userName": "my psn name"
         },
         {
+            "accuracy": 100,
+            "score": 200261,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "North Everglow"
+        },
+        {
             "accuracy": 99,
             "score": 200052,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[XBL] THR33 OF SP4D3Z"
-        },
-        {
-            "accuracy": 99,
-            "score": 192345,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FiredUpInferno"
         }
     ]
 }

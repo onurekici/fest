@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 292398,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Local-Canadian"
+        },
+        {
+            "accuracy": 99,
+            "score": 292343,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SlipKnopp"
+        },
+        {
+            "accuracy": 100,
             "score": 292308,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Swordthekid71"
-        },
-        {
-            "accuracy": 100,
-            "score": 289674,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MhmYaya"
-        },
-        {
-            "accuracy": 99,
-            "score": 289644,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RyJaxx115"
         }
     ]
 }
