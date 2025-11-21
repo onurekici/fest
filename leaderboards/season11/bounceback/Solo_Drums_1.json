@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 177408,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HumanoBill"
+        },
+        {
             "accuracy": 99,
             "score": 177258,
             "difficulty": 3,
@@ -215,6 +223,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "VTXFrantic"
+        },
+        {
+            "accuracy": 99,
+            "score": 174750,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mrCatSoup_"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ace Escriba"
-        },
-        {
-            "accuracy": 99,
-            "score": 168312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Graci_143"
-        },
-        {
-            "accuracy": 99,
-            "score": 168306,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Volt F1R3"
         }
     ]
 }

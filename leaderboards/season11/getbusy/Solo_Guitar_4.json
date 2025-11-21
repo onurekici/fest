@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 136796,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VoidVeBe"
+        },
+        {
+            "accuracy": 99,
+            "score": 136713,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kenaji"
+        },
+        {
+            "accuracy": 100,
             "score": 136703,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ChrisK106"
-        },
-        {
-            "accuracy": 100,
-            "score": 135182,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "JAIS_r"
-        },
-        {
-            "accuracy": 100,
-            "score": 135164,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PudimSR"
         }
     ]
 }

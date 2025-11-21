@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 131301,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hyzn"
+        },
+        {
+            "accuracy": 100,
+            "score": 131291,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kiriitachi"
+        },
+        {
+            "accuracy": 100,
             "score": 131284,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Korangarr_"
-        },
-        {
-            "accuracy": 100,
-            "score": 129844,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "abrivis_"
-        },
-        {
-            "accuracy": 97,
-            "score": 129838,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nabilis"
         }
     ]
 }

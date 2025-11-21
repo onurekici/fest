@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 105750,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "gabatron_11"
+        },
+        {
             "accuracy": 99,
             "score": 105726,
             "difficulty": 3,
@@ -247,6 +255,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lonely Russian"
+        },
+        {
+            "accuracy": 100,
+            "score": 102882,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "strwbrry4evs"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LoisPro88"
-        },
-        {
-            "accuracy": 100,
-            "score": 97308,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cosmic_latte19"
-        },
-        {
-            "accuracy": 99,
-            "score": 97272,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "captinboat"
         }
     ]
 }

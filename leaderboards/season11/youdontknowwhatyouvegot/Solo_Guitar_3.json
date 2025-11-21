@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 156622,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "XiQueenTea"
+        },
+        {
+            "accuracy": 100,
+            "score": 156567,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GridMatt"
+        },
+        {
             "accuracy": 99,
             "score": 156446,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ENZIEL03"
-        },
-        {
-            "accuracy": 100,
-            "score": 153246,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "RatKaptin-"
-        },
-        {
-            "accuracy": 100,
-            "score": 153194,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LuffyS215"
         }
     ]
 }

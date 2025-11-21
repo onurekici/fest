@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 56869,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Yami arc"
+        },
+        {
+            "accuracy": 99,
+            "score": 56802,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DiezNote"
+        },
+        {
             "accuracy": 100,
             "score": 56800,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TylerAbbot"
-        },
-        {
-            "accuracy": 99,
-            "score": 54221,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "blödchkopf"
-        },
-        {
-            "accuracy": 99,
-            "score": 54218,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AdilynCat"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 214142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ValeriusMoo"
+        },
+        {
             "accuracy": 98,
             "score": 213840,
             "difficulty": 3,
@@ -642,6 +650,14 @@
         },
         {
             "accuracy": 98,
+            "score": 176673,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Noise ツ"
+        },
+        {
+            "accuracy": 98,
             "score": 176256,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Gerard._26"
-        },
-        {
-            "accuracy": 95,
-            "score": 167689,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JadeCervidae"
-        },
-        {
-            "accuracy": 98,
-            "score": 167467,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dog_Cheeze"
         }
     ]
 }

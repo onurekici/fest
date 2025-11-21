@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126672,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "vxensist"
+        },
+        {
+            "accuracy": 99,
+            "score": 126666,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "THEBitLime"
+        },
+        {
             "accuracy": 99,
             "score": 126648,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheBeansMan751"
-        },
-        {
-            "accuracy": 100,
-            "score": 122616,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NahhItsGizmo"
-        },
-        {
-            "accuracy": 99,
-            "score": 122586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kyxie_19"
         }
     ]
 }

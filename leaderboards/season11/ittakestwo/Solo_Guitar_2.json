@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 35508,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Araxis2020"
+        },
+        {
+            "accuracy": 99,
+            "score": 35478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "B-RADLY81"
+        },
+        {
+            "accuracy": 100,
             "score": 35472,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KingLuca380"
-        },
-        {
-            "accuracy": 99,
-            "score": 33528,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ZeeBud"
-        },
-        {
-            "accuracy": 99,
-            "score": 33474,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BleepBloop95"
         }
     ]
 }

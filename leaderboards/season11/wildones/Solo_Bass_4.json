@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 88335,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DaddyFleek"
+        },
+        {
+            "accuracy": 97,
+            "score": 88279,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "GGEasyMenGG"
+        },
+        {
             "accuracy": 97,
             "score": 88046,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Dark Chuleta"
-        },
-        {
-            "accuracy": 96,
-            "score": 75884,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "nolimitjesse"
-        },
-        {
-            "accuracy": 100,
-            "score": 75879,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ebic Mango"
         }
     ]
 }

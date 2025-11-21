@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 120715,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "alexparigi"
+        },
+        {
+            "accuracy": 100,
             "score": 120694,
             "difficulty": 3,
             "stars": 6,
@@ -14,7 +22,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "BartmanLazar"
+            "userName": "ZeroHourLazar"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "A_Dragon-"
-        },
-        {
-            "accuracy": 100,
-            "score": 119257,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "desrom1999"
         }
     ]
 }

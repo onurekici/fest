@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 281999,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tlymanthekorean"
+        },
+        {
+            "accuracy": 99,
+            "score": 281972,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "サムライの夢"
+        },
+        {
+            "accuracy": 100,
             "score": 281945,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "instakiiII"
-        },
-        {
-            "accuracy": 99,
-            "score": 278561,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Veylyn9"
-        },
-        {
-            "accuracy": 100,
-            "score": 278519,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KnightStorm1111"
         }
     ]
 }

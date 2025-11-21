@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 168839,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KingBryce98"
+        },
+        {
+            "accuracy": 100,
             "score": 162732,
             "difficulty": 3,
             "stars": 6,
@@ -41,12 +49,28 @@
             "userName": "ScrimZED"
         },
         {
+            "accuracy": 98,
+            "score": 119682,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NationHB-"
+        },
+        {
             "accuracy": 96,
             "score": 80665,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "qCandywing"
+        },
+        {
+            "accuracy": 100,
+            "score": 42628,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Benniebean518"
         }
     ]
 }

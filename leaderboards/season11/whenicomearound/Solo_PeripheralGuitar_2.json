@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 124754,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "McThirsteh"
+        },
+        {
+            "accuracy": 99,
+            "score": 124683,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lHAZARDx10"
+        },
+        {
             "accuracy": 99,
             "score": 124678,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "JocabTheJocab"
-        },
-        {
-            "accuracy": 98,
-            "score": 112386,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kazumin._."
-        },
-        {
-            "accuracy": 98,
-            "score": 112384,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "theN1N"
         }
     ]
 }

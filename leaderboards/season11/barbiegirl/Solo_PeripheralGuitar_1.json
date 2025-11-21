@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123730,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AriesOxide"
+        },
+        {
+            "accuracy": 100,
+            "score": 123679,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DeadMaste3r"
+        },
+        {
+            "accuracy": 100,
+            "score": 123650,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mathew1151"
+        },
+        {
+            "accuracy": 99,
             "score": 123426,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "acflagg"
-        },
-        {
-            "accuracy": 99,
-            "score": 116211,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ErKoAce1"
-        },
-        {
-            "accuracy": 100,
-            "score": 116180,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HOSTi4LiTY"
-        },
-        {
-            "accuracy": 100,
-            "score": 116166,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mixground"
         }
     ]
 }

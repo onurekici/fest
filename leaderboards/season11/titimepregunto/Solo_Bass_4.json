@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 56564,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "coz_mic_"
+        },
+        {
             "accuracy": 100,
             "score": 56556,
             "difficulty": 2,
@@ -71,6 +79,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "CMNati"
+        },
+        {
+            "accuracy": 100,
+            "score": 56302,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AtomicPanda0608"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "perlaVA"
-        },
-        {
-            "accuracy": 99,
-            "score": 54618,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PicapicaAchu"
-        },
-        {
-            "accuracy": 99,
-            "score": 54571,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "King-Drizla"
         }
     ]
 }

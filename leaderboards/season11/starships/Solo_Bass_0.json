@@ -82,6 +82,14 @@
         },
         {
             "accuracy": 100,
+            "score": 112165,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Its_a_vix"
+        },
+        {
+            "accuracy": 100,
             "score": 111988,
             "difficulty": 3,
             "stars": 6,
@@ -577,6 +585,14 @@
             "userName": "heesenug"
         },
         {
+            "accuracy": 99,
+            "score": 96197,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SilverSurferNel"
+        },
+        {
             "accuracy": 100,
             "score": 95362,
             "difficulty": 2,
@@ -697,6 +713,14 @@
             "userName": "DoggosaurusWex"
         },
         {
+            "accuracy": 99,
+            "score": 90439,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BlackWindow59"
+        },
+        {
             "accuracy": 100,
             "score": 89879,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mazyyz1"
-        },
-        {
-            "accuracy": 100,
-            "score": 87195,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Nana9609"
-        },
-        {
-            "accuracy": 99,
-            "score": 87188,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SilverSurferNel"
-        },
-        {
-            "accuracy": 99,
-            "score": 87176,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nowacita"
         }
     ]
 }

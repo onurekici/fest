@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 185976,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Battle - Bacon"
+        },
+        {
+            "accuracy": 99,
+            "score": 185757,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sponge1124"
+        },
+        {
             "accuracy": 99,
             "score": 185675,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FruityJays"
-        },
-        {
-            "accuracy": 98,
-            "score": 161081,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NotAtAllAFurry"
-        },
-        {
-            "accuracy": 97,
-            "score": 161001,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MadScientist593"
         }
     ]
 }

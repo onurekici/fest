@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 77584,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Daniel Chap"
+        },
+        {
+            "accuracy": 100,
+            "score": 76481,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Shaved Penguin"
+        },
+        {
+            "accuracy": 94,
+            "score": 76440,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Jaws007"
+        },
+        {
             "accuracy": 98,
             "score": 75167,
             "difficulty": 2,
@@ -633,6 +657,14 @@
             "userName": "turkeyboiradio"
         },
         {
+            "accuracy": 52,
+            "score": 25937,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Mcfln"
+        },
+        {
             "accuracy": 99,
             "score": 25685,
             "difficulty": 0,
@@ -767,30 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "[XBL] fastfreddy24"
-        },
-        {
-            "accuracy": 4,
-            "score": 1247,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "Helo-flyer"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 0,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "slim3r8628"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 2,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "jordynbrielle"
         }
     ]
 }

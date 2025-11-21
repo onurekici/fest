@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 114122,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ColdAlert"
+        },
+        {
+            "accuracy": 99,
+            "score": 114121,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kaktus026"
+        },
+        {
+            "accuracy": 100,
             "score": 114120,
             "difficulty": 3,
             "stars": 6,
@@ -606,7 +622,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "princesa_nyc"
+            "userName": "sdc.nyc"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WOW GRAAAPE"
-        },
-        {
-            "accuracy": 99,
-            "score": 111816,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "4Verstappen"
-        },
-        {
-            "accuracy": 99,
-            "score": 111813,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GigelPastoru"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 288274,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Doom 05"
+        },
+        {
+            "accuracy": 100,
             "score": 287008,
             "difficulty": 3,
             "stars": 6,
@@ -561,6 +569,14 @@
             "userName": "xoxo.teatime"
         },
         {
+            "accuracy": 95,
+            "score": 239322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "r0cky014"
+        },
+        {
             "accuracy": 96,
             "score": 239132,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KENÐO"
-        },
-        {
-            "accuracy": 97,
-            "score": 231070,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Link45578"
-        },
-        {
-            "accuracy": 97,
-            "score": 229892,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BernerdDog"
         }
     ]
 }

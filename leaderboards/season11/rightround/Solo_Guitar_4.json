@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 110423,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gadinel"
+        },
+        {
+            "accuracy": 99,
+            "score": 110409,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "raebunn"
+        },
+        {
+            "accuracy": 100,
             "score": 110404,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Malachai0805"
-        },
-        {
-            "accuracy": 100,
-            "score": 109595,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "IzsaRey"
-        },
-        {
-            "accuracy": 100,
-            "score": 109589,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Son_Tablet"
         }
     ]
 }

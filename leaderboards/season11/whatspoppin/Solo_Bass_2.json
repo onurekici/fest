@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 20880,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ArabianPrince31"
+        },
+        {
+            "accuracy": 100,
+            "score": 20845,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PabloJM21"
+        },
+        {
             "accuracy": 99,
             "score": 20845,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "863SEM368"
-        },
-        {
-            "accuracy": 98,
-            "score": 16110,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Raffita_05"
-        },
-        {
-            "accuracy": 99,
-            "score": 16085,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "A_problem_masz"
         }
     ]
 }

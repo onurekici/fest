@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 38167,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ketcherinthery"
+        },
+        {
+            "accuracy": 100,
             "score": 36568,
             "difficulty": 3,
             "stars": 6,
@@ -481,6 +489,14 @@
             "userName": "ThatGuyRiP"
         },
         {
+            "accuracy": 100,
+            "score": 17551,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "shantmypats"
+        },
+        {
             "accuracy": 94,
             "score": 17336,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "BasicLone Wolf"
-        },
-        {
-            "accuracy": 91,
-            "score": 12071,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "DJL00KIS"
-        },
-        {
-            "accuracy": 89,
-            "score": 12065,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Robbie Lionheart"
         }
     ]
 }

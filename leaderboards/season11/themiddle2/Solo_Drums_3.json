@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 191010,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AdeptSus"
+        },
+        {
+            "accuracy": 99,
+            "score": 190992,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "the frogpunisher"
+        },
+        {
             "accuracy": 99,
             "score": 190986,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "B10N1CSHARK"
-        },
-        {
-            "accuracy": 100,
-            "score": 189246,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Shadow_Dude1"
-        },
-        {
-            "accuracy": 99,
-            "score": 189216,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SarahtheSeaBear"
         }
     ]
 }

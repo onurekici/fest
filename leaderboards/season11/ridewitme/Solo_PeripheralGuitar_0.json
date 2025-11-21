@@ -9,6 +9,14 @@
             "userName": "094Prototype"
         },
         {
+            "accuracy": 100,
+            "score": 419111,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pidgeyana Grande"
+        },
+        {
             "accuracy": 99,
             "score": 412217,
             "difficulty": 3,
@@ -130,19 +138,19 @@
         },
         {
             "accuracy": 99,
+            "score": 383951,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hurricane_Blast"
+        },
+        {
+            "accuracy": 99,
             "score": 378155,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "p0rksta"
-        },
-        {
-            "accuracy": 98,
-            "score": 371655,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Pidgeyana Grande"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Cpt_Nem07"
-        },
-        {
-            "accuracy": 93,
-            "score": 138926,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ChrisBoo5"
         }
     ]
 }

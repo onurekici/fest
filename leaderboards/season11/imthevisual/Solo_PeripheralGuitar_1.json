@@ -529,12 +529,28 @@
             "userName": "SavageBulma"
         },
         {
+            "accuracy": 100,
+            "score": 30087,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Mox Logan"
+        },
+        {
             "accuracy": 93,
             "score": 29815,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "Mr-_-Dolf"
+        },
+        {
+            "accuracy": 92,
+            "score": 29670,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "MikeyTrubi_07"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "CaLLMeRULY"
-        },
-        {
-            "accuracy": 89,
-            "score": 16345,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "splinterhat01"
-        },
-        {
-            "accuracy": 71,
-            "score": 14928,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Dragonizado"
         }
     ]
 }

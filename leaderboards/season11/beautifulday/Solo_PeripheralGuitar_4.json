@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 83777,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "rosfoxx"
+        },
+        {
+            "accuracy": 95,
+            "score": 83659,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "jelloruiz"
+        },
+        {
             "accuracy": 94,
             "score": 82985,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Razkiinn"
-        },
-        {
-            "accuracy": 86,
-            "score": 49353,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "HollowFox95"
-        },
-        {
-            "accuracy": 94,
-            "score": 48503,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "DGPeirce"
         }
     ]
 }

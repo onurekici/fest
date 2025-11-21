@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 49392,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AJ404NF"
+        },
+        {
             "accuracy": 99,
             "score": 49345,
             "difficulty": 3,
@@ -79,6 +87,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Tidiiz"
+        },
+        {
+            "accuracy": 98,
+            "score": 48559,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TrrbleTerryTate"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TheOtherJalf"
-        },
-        {
-            "accuracy": 97,
-            "score": 42317,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheBigGoldOne"
-        },
-        {
-            "accuracy": 95,
-            "score": 42282,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TwistedBotツ"
         }
     ]
 }

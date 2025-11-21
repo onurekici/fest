@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 197229,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "V.O.X - Trust Us"
+        },
+        {
             "accuracy": 100,
             "score": 197210,
             "difficulty": 3,
@@ -705,6 +713,14 @@
             "userName": "Drifteleven"
         },
         {
+            "accuracy": 100,
+            "score": 194807,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UnkindledHollow"
+        },
+        {
             "accuracy": 99,
             "score": 194758,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Cake0verdose"
-        },
-        {
-            "accuracy": 99,
-            "score": 194491,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Atreyu431"
-        },
-        {
-            "accuracy": 100,
-            "score": 194430,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gui_sf45"
         }
     ]
 }

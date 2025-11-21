@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 63517,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MGaudet24"
+        },
+        {
+            "accuracy": 90,
+            "score": 63283,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "BlackNightFire05"
+        },
+        {
             "accuracy": 92,
             "score": 63241,
             "difficulty": 3,
@@ -86,7 +102,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Lynxhaus"
+            "userName": null
         },
         {
             "accuracy": 65,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Raoul_B"
-        },
-        {
-            "accuracy": 83,
-            "score": 37092,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Farodyn89"
-        },
-        {
-            "accuracy": 92,
-            "score": 36892,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ctotheanna20"
         }
     ]
 }

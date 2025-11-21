@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 150707,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SOMYEDS"
+        },
+        {
+            "accuracy": 99,
+            "score": 150694,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "josh12harding"
+        },
+        {
+            "accuracy": 100,
             "score": 150587,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Profik 10"
-        },
-        {
-            "accuracy": 100,
-            "score": 147276,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WHMD_26"
-        },
-        {
-            "accuracy": 99,
-            "score": 147261,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ms. Cheesus"
         }
     ]
 }

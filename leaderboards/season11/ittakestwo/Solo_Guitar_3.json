@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 33528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZeeBud"
+        },
+        {
+            "accuracy": 99,
+            "score": 33474,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BleepBloop95"
+        },
+        {
             "accuracy": 100,
             "score": 33474,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Boogie0xd"
-        },
-        {
-            "accuracy": 100,
-            "score": 30860,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Go_Hawks_Go_Hawk"
-        },
-        {
-            "accuracy": 98,
-            "score": 30858,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mr CurlyFries"
         }
     ]
 }

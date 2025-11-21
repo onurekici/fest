@@ -114,6 +114,14 @@
         },
         {
             "accuracy": 100,
+            "score": 255568,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pidgeyana Grande"
+        },
+        {
+            "accuracy": 100,
             "score": 255238,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Darrenisawsum"
-        },
-        {
-            "accuracy": 99,
-            "score": 239109,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mattyata_"
         }
     ]
 }
