@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 39354,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dmbdaw"
+        },
+        {
+            "accuracy": 100,
             "score": 39342,
             "difficulty": 3,
             "stars": 6,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "러브타이거"
+        },
+        {
+            "accuracy": 100,
+            "score": 39300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Thomas Delmotte"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RaccoonusDoodus."
-        },
-        {
-            "accuracy": 100,
-            "score": 35616,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Sevon424"
-        },
-        {
-            "accuracy": 100,
-            "score": 35592,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Cr33prr"
         }
     ]
 }

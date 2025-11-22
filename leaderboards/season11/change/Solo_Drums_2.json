@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 128772,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mosschops04"
+        },
+        {
+            "accuracy": 100,
+            "score": 128760,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "L_rdx"
+        },
+        {
             "accuracy": 100,
             "score": 128742,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SAFT_smokezz"
-        },
-        {
-            "accuracy": 99,
-            "score": 121452,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SwaggaPig"
-        },
-        {
-            "accuracy": 99,
-            "score": 121374,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GODxOFxEARTH"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 233088,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Juicey fruit cup"
+        },
+        {
+            "accuracy": 99,
+            "score": 233070,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Im_Natinha"
+        },
+        {
             "accuracy": 99,
             "score": 232926,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NPC Lainey"
-        },
-        {
-            "accuracy": 99,
-            "score": 230052,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Phonk_Master69"
-        },
-        {
-            "accuracy": 99,
-            "score": 229968,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Iven2smooth"
         }
     ]
 }

@@ -321,6 +321,14 @@
             "userName": "greg-whatever"
         },
         {
+            "accuracy": 99,
+            "score": 139722,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fedora Fielder"
+        },
+        {
             "accuracy": 100,
             "score": 139515,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[PSN] zolles"
-        },
-        {
-            "accuracy": 99,
-            "score": 131616,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jett_123808"
         }
     ]
 }

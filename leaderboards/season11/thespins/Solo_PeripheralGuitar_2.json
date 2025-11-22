@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 110329,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "alph4_s"
+        },
+        {
+            "accuracy": 99,
             "score": 110194,
             "difficulty": 3,
             "stars": 6,
@@ -729,6 +737,14 @@
             "userName": "ohcathugger"
         },
         {
+            "accuracy": 86,
+            "score": 79535,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ProdbyShway"
+        },
+        {
             "accuracy": 89,
             "score": 79179,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "VAreeper"
-        },
-        {
-            "accuracy": 100,
-            "score": 77959,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "CBOstreams"
-        },
-        {
-            "accuracy": 100,
-            "score": 77635,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "90sMK4Life"
         }
     ]
 }

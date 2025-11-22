@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 97,
+            "score": 195542,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Captain_Basil"
+        },
+        {
+            "accuracy": 97,
             "score": 195508,
             "difficulty": 3,
             "stars": 6,
@@ -326,7 +334,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "D0D0_kai"
+            "userName": null
         },
         {
             "accuracy": 97,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Adridorps"
-        },
-        {
-            "accuracy": 97,
-            "score": 186235,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GnarlyGnoll"
         }
     ]
 }

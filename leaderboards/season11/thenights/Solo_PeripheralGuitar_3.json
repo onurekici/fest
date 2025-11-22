@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 63949,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] Casull12"
+        },
+        {
+            "accuracy": 98,
+            "score": 63822,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AubrieNomNom"
+        },
+        {
             "accuracy": 96,
             "score": 63681,
             "difficulty": 2,
@@ -577,6 +593,14 @@
             "userName": "Pneumator"
         },
         {
+            "accuracy": 92,
+            "score": 52487,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "eecupe"
+        },
+        {
             "accuracy": 95,
             "score": 52464,
             "difficulty": 1,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "lourdielou"
-        },
-        {
-            "accuracy": 88,
-            "score": 46621,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "rockcity220"
-        },
-        {
-            "accuracy": 87,
-            "score": 46593,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "A Flyin Shark"
-        },
-        {
-            "accuracy": 96,
-            "score": 46523,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NQLCows9515"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 87,
+            "score": 75008,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "BioKickstart"
+        },
+        {
             "accuracy": 96,
             "score": 74578,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Infotzvivo"
-        },
-        {
-            "accuracy": 83,
-            "score": 54439,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "martinn.vazq"
         }
     ]
 }

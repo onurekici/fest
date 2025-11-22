@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 196009,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "hirosinagaoka"
+        },
+        {
+            "accuracy": 100,
+            "score": 195955,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Uttabuttah"
+        },
+        {
             "accuracy": 100,
             "score": 195945,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HatsuneMiku01xx"
-        },
-        {
-            "accuracy": 100,
-            "score": 193153,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "groupleadr"
-        },
-        {
-            "accuracy": 99,
-            "score": 193147,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CyberWolfNaora"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 56532,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Chione04"
+        },
+        {
+            "accuracy": 100,
+            "score": 56532,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "VitoScaletta93"
+        },
+        {
             "accuracy": 100,
             "score": 56502,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Khanom_kon"
-        },
-        {
-            "accuracy": 100,
-            "score": 54144,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Litouille"
-        },
-        {
-            "accuracy": 99,
-            "score": 54126,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WHAG_2"
         }
     ]
 }

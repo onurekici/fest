@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 88399,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Seymouro"
+        },
+        {
             "accuracy": 98,
             "score": 88335,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Zakurohino"
-        },
-        {
-            "accuracy": 96,
-            "score": 75992,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Dark Chuleta"
         }
     ]
 }

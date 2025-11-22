@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 152932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OpenMPT"
+        },
+        {
+            "accuracy": 99,
+            "score": 152812,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tayná a troxa"
+        },
+        {
             "accuracy": 99,
             "score": 152795,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MandaBear9589"
-        },
-        {
-            "accuracy": 99,
-            "score": 149130,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chá_Verde"
-        },
-        {
-            "accuracy": 99,
-            "score": 149080,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItsMolls1601"
         }
     ]
 }

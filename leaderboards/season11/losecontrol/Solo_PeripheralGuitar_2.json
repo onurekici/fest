@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 111194,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CommanderDR"
+        },
+        {
+            "accuracy": 97,
+            "score": 111157,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "toxcwill"
+        },
+        {
             "accuracy": 98,
             "score": 110926,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "syncman842"
-        },
-        {
-            "accuracy": 99,
-            "score": 100807,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BalsamicPen"
-        },
-        {
-            "accuracy": 98,
-            "score": 100725,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GreaterDog27"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 211038,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "angelosamora97"
+        },
+        {
+            "accuracy": 99,
+            "score": 211038,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fairymary_xx"
+        },
+        {
             "accuracy": 99,
             "score": 211008,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Emm4L1n3"
-        },
-        {
-            "accuracy": 99,
-            "score": 206034,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ily.mil0"
-        },
-        {
-            "accuracy": 100,
-            "score": 206010,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Raziel1306"
         }
     ]
 }

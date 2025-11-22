@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 309734,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SaltyLettuce_"
+        },
+        {
             "accuracy": 100,
             "score": 309716,
             "difficulty": 3,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Nettacki"
+        },
+        {
+            "accuracy": 100,
+            "score": 308065,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThousandWinters"
         },
         {
             "accuracy": 100,
@@ -383,14 +399,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "suspendedツ"
-        },
-        {
-            "accuracy": 99,
-            "score": 304086,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThousandWinters"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MagiKubara"
-        },
-        {
-            "accuracy": 99,
-            "score": 297646,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Super_FentMan67"
         }
     ]
 }

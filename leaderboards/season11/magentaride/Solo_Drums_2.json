@@ -393,6 +393,14 @@
             "userName": "nickanakonda"
         },
         {
+            "accuracy": 100,
+            "score": 111150,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "assassixo16"
+        },
+        {
             "accuracy": 99,
             "score": 111120,
             "difficulty": 3,
@@ -722,14 +730,6 @@
         },
         {
             "accuracy": 100,
-            "score": 109944,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "assassixo16"
-        },
-        {
-            "accuracy": 100,
             "score": 109902,
             "difficulty": 3,
             "stars": 6,
@@ -793,12 +793,12 @@
             "userName": "Vulpsfoglia"
         },
         {
-            "accuracy": 99,
+            "accuracy": 100,
             "score": 109800,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "Mrduckjerlsondo"
+            "fullcombo": true,
+            "userName": "JoltEelan"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 153398,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DJO KEEPER"
+        },
+        {
+            "accuracy": 100,
             "score": 153349,
             "difficulty": 3,
             "stars": 6,
@@ -778,27 +786,19 @@
         },
         {
             "accuracy": 100,
+            "score": 147505,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mit Talps"
+        },
+        {
+            "accuracy": 100,
             "score": 147456,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Kuranosuke02"
-        },
-        {
-            "accuracy": 100,
-            "score": 147435,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kwenami"
-        },
-        {
-            "accuracy": 98,
-            "score": 147424,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GauzeRavines"
         }
     ]
 }

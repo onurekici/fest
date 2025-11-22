@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 89628,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "xanikar"
+        },
+        {
+            "accuracy": 94,
+            "score": 89298,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Scousebudz420 ツ"
+        },
+        {
             "accuracy": 91,
             "score": 88537,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "peoples pwincess"
-        },
-        {
-            "accuracy": 97,
-            "score": 22540,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "RedEyedWolf04"
-        },
-        {
-            "accuracy": 74,
-            "score": 22231,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MrBird7"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 121154,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SubtleColor"
+        },
+        {
             "accuracy": 100,
             "score": 120722,
             "difficulty": 1,
@@ -327,6 +335,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "m0nix5"
+        },
+        {
+            "accuracy": 95,
+            "score": 96803,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Nick_TheGreek"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "roomyalaa"
-        },
-        {
-            "accuracy": 79,
-            "score": 41498,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SpiderheadTV"
-        },
-        {
-            "accuracy": 66,
-            "score": 41079,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "gustavo32679"
         }
     ]
 }

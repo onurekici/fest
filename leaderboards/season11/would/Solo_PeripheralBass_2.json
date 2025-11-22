@@ -153,6 +153,14 @@
             "userName": "i am busting"
         },
         {
+            "accuracy": 100,
+            "score": 84828,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TheeMoistGamer"
+        },
+        {
             "accuracy": 95,
             "score": 84560,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CodeDestroyX"
-        },
-        {
-            "accuracy": 97,
-            "score": 49799,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SendMemes2Jesus"
         }
     ]
 }

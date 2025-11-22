@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 143820,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "skeletoniam"
+        },
+        {
+            "accuracy": 100,
             "score": 143801,
             "difficulty": 3,
             "stars": 6,
@@ -215,6 +223,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Brennanstarlord"
+        },
+        {
+            "accuracy": 100,
+            "score": 143418,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Swear-Spark"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "AquaMiniRally"
-        },
-        {
-            "accuracy": 100,
-            "score": 142362,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PlatinumBahamut"
-        },
-        {
-            "accuracy": 99,
-            "score": 142356,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MalcolmXIV"
         }
     ]
 }

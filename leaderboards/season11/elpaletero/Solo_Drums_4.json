@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 174102,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Korre Ek"
+        },
+        {
+            "accuracy": 100,
             "score": 174078,
             "difficulty": 3,
             "stars": 6,
@@ -23,6 +31,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "INGOBINGOLINGO"
+        },
+        {
+            "accuracy": 100,
+            "score": 174000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xLordJokerx"
         },
         {
             "accuracy": 99,
@@ -569,6 +585,14 @@
             "userName": "HG_Rezende"
         },
         {
+            "accuracy": 99,
+            "score": 172470,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CrossSans645"
+        },
+        {
             "accuracy": 100,
             "score": 172464,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Jelloh"
-        },
-        {
-            "accuracy": 100,
-            "score": 172086,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sir Vicman"
-        },
-        {
-            "accuracy": 99,
-            "score": 172086,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dolphin1273"
-        },
-        {
-            "accuracy": 99,
-            "score": 172074,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "VenomPacifier"
         }
     ]
 }

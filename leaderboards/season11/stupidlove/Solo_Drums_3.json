@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 173710,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TheBananaBand1t"
+        },
+        {
+            "accuracy": 99,
+            "score": 173604,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Carscombodensee"
+        },
+        {
             "accuracy": 99,
             "score": 173454,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SnifflyHealer58"
-        },
-        {
-            "accuracy": 99,
-            "score": 151355,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PyaskiiHyena"
-        },
-        {
-            "accuracy": 99,
-            "score": 150900,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lord_blablabla"
         }
     ]
 }

@@ -298,6 +298,14 @@
         },
         {
             "accuracy": 100,
+            "score": 102804,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Castle Doom"
+        },
+        {
+            "accuracy": 100,
             "score": 102743,
             "difficulty": 3,
             "stars": 6,
@@ -737,6 +745,14 @@
             "userName": "Wolf_Blue543"
         },
         {
+            "accuracy": 99,
+            "score": 98388,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dіnоrаwr"
+        },
+        {
             "accuracy": 100,
             "score": 98256,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ヒソカ大好き"
-        },
-        {
-            "accuracy": 99,
-            "score": 97859,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Civicsantana"
-        },
-        {
-            "accuracy": 100,
-            "score": 97775,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "alysigh"
         }
     ]
 }

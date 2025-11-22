@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 103662,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bren-Chan Curzo"
+        },
+        {
+            "accuracy": 100,
+            "score": 103651,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ATLDRAK0"
+        },
+        {
             "accuracy": 99,
             "score": 103623,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "smolgoth1118"
-        },
-        {
-            "accuracy": 100,
-            "score": 101103,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Da_Dewd187"
-        },
-        {
-            "accuracy": 99,
-            "score": 101075,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Legenddwarrior"
         }
     ]
 }

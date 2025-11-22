@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 267084,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Maiki Lopes"
+        },
+        {
+            "accuracy": 100,
+            "score": 267060,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Xyclaim"
+        },
+        {
+            "accuracy": 99,
+            "score": 267042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheFirstFattBoi"
+        },
+        {
+            "accuracy": 100,
             "score": 267030,
             "difficulty": 3,
             "stars": 6,
@@ -122,6 +146,14 @@
         },
         {
             "accuracy": 100,
+            "score": 266790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ShredMasterJMS"
+        },
+        {
+            "accuracy": 100,
             "score": 266784,
             "difficulty": 3,
             "stars": 6,
@@ -207,14 +239,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Josesali08"
-        },
-        {
-            "accuracy": 100,
-            "score": 266562,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "supernovaliv"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "xSVx21x"
-        },
-        {
-            "accuracy": 99,
-            "score": 265110,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AdriotGrave"
-        },
-        {
-            "accuracy": 100,
-            "score": 265098,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jendigo"
-        },
-        {
-            "accuracy": 100,
-            "score": 265080,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GET3NEV"
         }
     ]
 }

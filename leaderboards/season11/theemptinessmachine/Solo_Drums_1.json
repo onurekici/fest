@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123654,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "metal_enjoyer08"
+        },
+        {
+            "accuracy": 100,
             "score": 123618,
             "difficulty": 3,
             "stars": 6,
@@ -119,14 +127,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "R4WEEL"
-        },
-        {
-            "accuracy": 100,
-            "score": 123486,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "dyefreak"
         },
         {
             "accuracy": 100,
@@ -390,7 +390,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "misplaced.scorn"
+            "userName": "mission-decisive"
         },
         {
             "accuracy": 100,

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 104985,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Illirae"
+        },
+        {
+            "accuracy": 99,
+            "score": 104924,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vanewolf05"
+        },
+        {
             "accuracy": 99,
             "score": 104876,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] johnnyclank"
-        },
-        {
-            "accuracy": 99,
-            "score": 100681,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BDT-Elena"
-        },
-        {
-            "accuracy": 99,
-            "score": 100673,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ZBandi"
         }
     ]
 }

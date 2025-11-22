@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 112566,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NymeriasGhost"
+        },
+        {
             "accuracy": 100,
             "score": 112540,
             "difficulty": 2,
@@ -335,6 +343,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "AyrtonBTE"
+        },
+        {
+            "accuracy": 99,
+            "score": 109242,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Batemunch_"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "tora_SA0307"
-        },
-        {
-            "accuracy": 100,
-            "score": 106320,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "HcG Hades"
-        },
-        {
-            "accuracy": 99,
-            "score": 106248,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HumaneSquire458"
         }
     ]
 }

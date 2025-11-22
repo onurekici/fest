@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127650,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Krymchin"
+        },
+        {
             "accuracy": 99,
             "score": 127411,
             "difficulty": 3,
@@ -63,14 +71,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BlueIce_Br"
-        },
-        {
-            "accuracy": 100,
-            "score": 126756,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LaxBOB"
         },
         {
             "accuracy": 99,
@@ -143,6 +143,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "B_Wasian"
+        },
+        {
+            "accuracy": 99,
+            "score": 126371,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jisatsu Sākuru"
         },
         {
             "accuracy": 99,
@@ -714,6 +722,14 @@
         },
         {
             "accuracy": 99,
+            "score": 120733,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jellyfam-_-Steph"
+        },
+        {
+            "accuracy": 99,
             "score": 120638,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PizzaEraser"
-        },
-        {
-            "accuracy": 98,
-            "score": 119454,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AestraNyx"
-        },
-        {
-            "accuracy": 99,
-            "score": 119154,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "samlongbotom_xD"
         }
     ]
 }

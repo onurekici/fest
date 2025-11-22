@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 92292,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "gangunicorn"
+        },
+        {
             "accuracy": 96,
             "score": 91812,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "itz_explosivePug"
-        },
-        {
-            "accuracy": 92,
-            "score": 71406,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Makaveli097"
         }
     ]
 }

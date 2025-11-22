@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 69968,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "throwsomzestonem"
+        },
+        {
+            "accuracy": 100,
+            "score": 69842,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Sir.FreshPiglet"
+        },
+        {
             "accuracy": 96,
             "score": 69248,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "KittyCatNinja726"
-        },
-        {
-            "accuracy": 98,
-            "score": 55658,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HardShiftyShaft"
-        },
-        {
-            "accuracy": 92,
-            "score": 55541,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "aiden moritz"
         }
     ]
 }

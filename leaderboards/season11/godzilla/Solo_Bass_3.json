@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 105131,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KrampusKlown"
+        },
+        {
+            "accuracy": 99,
+            "score": 105097,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-970ab646e2"
+        },
+        {
             "accuracy": 99,
             "score": 104882,
             "difficulty": 3,
@@ -126,7 +142,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Talon Stride"
+            "userName": "TalonStride842"
         },
         {
             "accuracy": 99,
@@ -690,6 +706,14 @@
         },
         {
             "accuracy": 99,
+            "score": 99870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Naaaranja"
+        },
+        {
+            "accuracy": 99,
             "score": 99756,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Laraeddy74"
-        },
-        {
-            "accuracy": 100,
-            "score": 99313,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Wolf-Vichy"
-        },
-        {
-            "accuracy": 100,
-            "score": 99291,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Nataren360"
-        },
-        {
-            "accuracy": 100,
-            "score": 99281,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Joseito27255"
         }
     ]
 }

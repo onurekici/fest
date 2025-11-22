@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 65032,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jetsetnickradio"
+        },
+        {
+            "accuracy": 100,
+            "score": 64048,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ascully"
+        },
+        {
             "accuracy": 99,
             "score": 63935,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "TiTaN 2112"
-        },
-        {
-            "accuracy": 93,
-            "score": 35044,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "agentsam10"
-        },
-        {
-            "accuracy": 67,
-            "score": 34299,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "chiiit0-"
         }
     ]
 }

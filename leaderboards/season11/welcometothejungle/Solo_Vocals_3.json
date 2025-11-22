@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 126257,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SoToaster_2011"
+        },
+        {
+            "accuracy": 100,
+            "score": 126233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RealXMag"
+        },
+        {
             "accuracy": 100,
             "score": 126221,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "OTF Huxtable"
-        },
-        {
-            "accuracy": 100,
-            "score": 125404,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SoyPay663"
-        },
-        {
-            "accuracy": 100,
-            "score": 125398,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PBysh96"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 133186,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 132738,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NinjiDriftz"
+        },
+        {
             "accuracy": 99,
             "score": 132546,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Dog_Cheeze"
-        },
-        {
-            "accuracy": 94,
-            "score": 100823,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FlawlessPops8379"
-        },
-        {
-            "accuracy": 96,
-            "score": 100760,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "D4rkw.heel"
         }
     ]
 }

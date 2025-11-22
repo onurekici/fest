@@ -641,6 +641,14 @@
             "userName": null
         },
         {
+            "accuracy": 99,
+            "score": 36700,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Лютый Сникерс"
+        },
+        {
             "accuracy": 97,
             "score": 36117,
             "difficulty": 2,
@@ -679,6 +687,22 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "lucas de .0"
+        },
+        {
+            "accuracy": 90,
+            "score": 27929,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "LemonEel9883"
+        },
+        {
+            "accuracy": 97,
+            "score": 26522,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Blackfire4442"
         },
         {
             "accuracy": 95,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Stoneysnake61"
-        },
-        {
-            "accuracy": 100,
-            "score": 16760,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "BattleScar113"
-        },
-        {
-            "accuracy": 98,
-            "score": 16565,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "sevnspirit"
-        },
-        {
-            "accuracy": 100,
-            "score": 16440,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "TKU DEMONN"
         }
     ]
 }

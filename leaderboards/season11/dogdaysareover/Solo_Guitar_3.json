@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 301095,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ヒクシー"
+        },
+        {
+            "accuracy": 99,
+            "score": 301093,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CondolentArron"
+        },
+        {
+            "accuracy": 100,
             "score": 301077,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ultimate-Beast64"
-        },
-        {
-            "accuracy": 100,
-            "score": 298249,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jōkaina 常火"
-        },
-        {
-            "accuracy": 100,
-            "score": 298222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "One Hand Max"
         }
     ]
 }
