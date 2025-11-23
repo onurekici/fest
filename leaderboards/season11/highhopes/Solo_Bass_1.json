@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 71542,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Grtjaguar01"
+        },
+        {
             "accuracy": 99,
             "score": 71053,
             "difficulty": 2,
@@ -618,11 +626,27 @@
         },
         {
             "accuracy": 100,
+            "score": 59220,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "RazTheTabby"
+        },
+        {
+            "accuracy": 100,
             "score": 58629,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "ConArtist2000"
+        },
+        {
+            "accuracy": 100,
+            "score": 58413,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Louise15 Gaming"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bullsavage1987"
-        },
-        {
-            "accuracy": 98,
-            "score": 55696,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BeholdenHail112"
-        },
-        {
-            "accuracy": 98,
-            "score": 55295,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "VinyBlink"
-        },
-        {
-            "accuracy": 99,
-            "score": 55275,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Juica11"
         }
     ]
 }

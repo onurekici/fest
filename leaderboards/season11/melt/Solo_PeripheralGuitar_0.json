@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 187260,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ArDissidia"
+        },
+        {
+            "accuracy": 100,
             "score": 185468,
             "difficulty": 3,
             "stars": 6,
@@ -218,6 +226,14 @@
         },
         {
             "accuracy": 99,
+            "score": 169587,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "gmp50"
+        },
+        {
+            "accuracy": 99,
             "score": 169544,
             "difficulty": 3,
             "stars": 6,
@@ -271,6 +287,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MauryWebito"
+        },
+        {
+            "accuracy": 98,
+            "score": 168319,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vibez Tac"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "The Skunkehh"
-        },
-        {
-            "accuracy": 99,
-            "score": 158304,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Koyi Crownguard"
-        },
-        {
-            "accuracy": 98,
-            "score": 158126,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RoySpammer"
-        },
-        {
-            "accuracy": 97,
-            "score": 157952,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GlaciaBun"
         }
     ]
 }

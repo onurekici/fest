@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 204656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DebuggedProgram"
+        },
+        {
             "accuracy": 99,
             "score": 204553,
             "difficulty": 3,
@@ -721,6 +729,22 @@
             "userName": null
         },
         {
+            "accuracy": 99,
+            "score": 197678,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dghost_275"
+        },
+        {
+            "accuracy": 99,
+            "score": 197575,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Piercethehannah8"
+        },
+        {
             "accuracy": 98,
             "score": 197376,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BlakeWasTaken"
-        },
-        {
-            "accuracy": 99,
-            "score": 196738,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Тhe Goose"
-        },
-        {
-            "accuracy": 99,
-            "score": 196728,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheJavaJitters"
-        },
-        {
-            "accuracy": 99,
-            "score": 196578,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jett_123808"
         }
     ]
 }

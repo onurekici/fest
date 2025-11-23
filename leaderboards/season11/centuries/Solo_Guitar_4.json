@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 128328,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bella donut"
+        },
+        {
+            "accuracy": 100,
+            "score": 128324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Duda_lagaggio19"
+        },
+        {
             "accuracy": 100,
             "score": 128262,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "B3Twistd"
-        },
-        {
-            "accuracy": 99,
-            "score": 127282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LazyHimouto"
-        },
-        {
-            "accuracy": 100,
-            "score": 127270,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "rafytraffy"
         }
     ]
 }

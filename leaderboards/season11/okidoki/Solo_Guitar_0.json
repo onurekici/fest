@@ -482,6 +482,14 @@
         },
         {
             "accuracy": 100,
+            "score": 63906,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "guacamoledogs"
+        },
+        {
+            "accuracy": 100,
             "score": 63672,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ONLYInfected"
-        },
-        {
-            "accuracy": 99,
-            "score": 60280,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LurkerSandgeez"
         }
     ]
 }

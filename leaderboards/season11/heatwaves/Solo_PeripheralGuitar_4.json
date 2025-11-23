@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 99345,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SaltyMentos"
+        },
+        {
+            "accuracy": 87,
+            "score": 99051,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "scotiastar_"
+        },
+        {
             "accuracy": 100,
             "score": 98688,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "zootedWan"
-        },
-        {
-            "accuracy": 98,
-            "score": 78073,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "OddFutureWolf32"
-        },
-        {
-            "accuracy": 99,
-            "score": 77832,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "theenicklovin"
         }
     ]
 }

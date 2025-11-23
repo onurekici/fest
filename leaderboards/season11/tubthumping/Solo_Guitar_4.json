@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 127921,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "wiqueduran"
+        },
+        {
+            "accuracy": 100,
+            "score": 127891,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OfTheNocturnal"
+        },
+        {
             "accuracy": 100,
             "score": 127863,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RichieLats"
-        },
-        {
-            "accuracy": 99,
-            "score": 125563,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThatTaco182"
-        },
-        {
-            "accuracy": 100,
-            "score": 125555,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CallGhostBusters"
         }
     ]
 }

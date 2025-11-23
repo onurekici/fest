@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 209694,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "nvoystation"
+        },
+        {
+            "accuracy": 100,
+            "score": 209688,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dattmoose"
+        },
+        {
             "accuracy": 99,
             "score": 209682,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FrSharpshooter"
-        },
-        {
-            "accuracy": 100,
-            "score": 208206,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mrs_DoomCakes"
-        },
-        {
-            "accuracy": 100,
-            "score": 208188,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Pur3_GriMM"
         }
     ]
 }

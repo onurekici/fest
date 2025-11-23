@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 127854,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DragonwarV"
+        },
+        {
+            "accuracy": 100,
+            "score": 127852,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cobra_Commando"
+        },
+        {
             "accuracy": 100,
             "score": 127848,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Twinkiegamer20"
-        },
-        {
-            "accuracy": 100,
-            "score": 127219,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "juliette199912"
-        },
-        {
-            "accuracy": 100,
-            "score": 127218,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hunterblake1"
         }
     ]
 }

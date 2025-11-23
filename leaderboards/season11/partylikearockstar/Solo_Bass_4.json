@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123209,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "anashipj"
+        },
+        {
+            "accuracy": 100,
+            "score": 123186,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nymphaea05211649"
+        },
+        {
+            "accuracy": 100,
             "score": 123143,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Mister_bonde"
-        },
-        {
-            "accuracy": 99,
-            "score": 119248,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ShadowCartoon980"
-        },
-        {
-            "accuracy": 99,
-            "score": 119141,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nono01420"
         }
     ]
 }

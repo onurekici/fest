@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 167640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sneakymuddler"
+        },
+        {
+            "accuracy": 100,
             "score": 167556,
             "difficulty": 3,
             "stars": 6,
@@ -625,6 +633,14 @@
             "userName": "Robb_Squid"
         },
         {
+            "accuracy": 99,
+            "score": 164244,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RROY_4"
+        },
+        {
             "accuracy": 100,
             "score": 164232,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DraculReborn"
-        },
-        {
-            "accuracy": 100,
-            "score": 163512,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Meanwhile_JGRRZ"
-        },
-        {
-            "accuracy": 100,
-            "score": 163488,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NikitaS1404"
         }
     ]
 }

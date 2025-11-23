@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 129800,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DaddyP90"
+        },
+        {
+            "accuracy": 99,
+            "score": 129789,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PunnaWunna"
+        },
+        {
+            "accuracy": 100,
             "score": 129591,
             "difficulty": 3,
             "stars": 6,
@@ -375,14 +391,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MaisterGnW"
-        },
-        {
-            "accuracy": 99,
-            "score": 128129,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "sinister-hawser"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "2025 hayden"
-        },
-        {
-            "accuracy": 99,
-            "score": 126442,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "guymanhi"
         }
     ]
 }

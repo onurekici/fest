@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 238045,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Broke_audi"
+        },
+        {
+            "accuracy": 100,
+            "score": 237930,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Leo_AVS"
+        },
+        {
+            "accuracy": 99,
             "score": 237766,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wellp0sh"
-        },
-        {
-            "accuracy": 99,
-            "score": 226656,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Krazedanimanimal"
-        },
-        {
-            "accuracy": 99,
-            "score": 226247,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Juckstin"
         }
     ]
 }

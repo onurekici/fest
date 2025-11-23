@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123860,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Red_Death009"
+        },
+        {
+            "accuracy": 99,
+            "score": 123843,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ElFaglo"
+        },
+        {
+            "accuracy": 100,
             "score": 123823,
             "difficulty": 3,
             "stars": 6,
@@ -618,6 +634,14 @@
         },
         {
             "accuracy": 100,
+            "score": 121091,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "rylειgh"
+        },
+        {
+            "accuracy": 100,
             "score": 121044,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Knightly Kestrel"
-        },
-        {
-            "accuracy": 100,
-            "score": 120586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MrPoplez"
-        },
-        {
-            "accuracy": 100,
-            "score": 120564,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yoshshshh"
-        },
-        {
-            "accuracy": 100,
-            "score": 120547,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TyThaGuy227"
         }
     ]
 }

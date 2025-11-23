@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 123590,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "grillerbigmonky"
+        },
+        {
+            "accuracy": 97,
+            "score": 123495,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OlGranz"
+        },
+        {
+            "accuracy": 95,
+            "score": 123337,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "xNadia"
+        },
+        {
             "accuracy": 94,
             "score": 123215,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "brazzinijr"
-        },
-        {
-            "accuracy": 92,
-            "score": 101502,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PoorPhoenix"
-        },
-        {
-            "accuracy": 89,
-            "score": 101415,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Austinheimer"
-        },
-        {
-            "accuracy": 95,
-            "score": 101401,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Alex2003191"
         }
     ]
 }

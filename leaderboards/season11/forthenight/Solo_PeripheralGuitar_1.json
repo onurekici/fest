@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 64113,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Peepooohh"
+        },
+        {
+            "accuracy": 99,
+            "score": 63862,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "app411"
+        },
+        {
             "accuracy": 99,
             "score": 63133,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "NQLCows9515"
-        },
-        {
-            "accuracy": 83,
-            "score": 16096,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Hide yah fish"
-        },
-        {
-            "accuracy": 75,
-            "score": 15484,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "deadend2019"
         }
     ]
 }

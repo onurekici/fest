@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 52490,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Evolify"
+        },
+        {
             "accuracy": 100,
             "score": 52478,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "lampclock"
-        },
-        {
-            "accuracy": 100,
-            "score": 50367,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Peeps Da Fox"
         }
     ]
 }

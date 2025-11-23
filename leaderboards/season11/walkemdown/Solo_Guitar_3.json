@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 107956,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JiIlBot"
+        },
+        {
             "accuracy": 99,
             "score": 107939,
             "difficulty": 3,
@@ -518,7 +526,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Boccadeat044"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MxsterofPuppets"
-        },
-        {
-            "accuracy": 99,
-            "score": 105373,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "katkatrevenge"
         }
     ]
 }

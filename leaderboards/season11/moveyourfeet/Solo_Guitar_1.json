@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 139689,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "XOXO Mythical"
+        },
+        {
             "accuracy": 100,
             "score": 139623,
             "difficulty": 3,
@@ -234,6 +242,14 @@
         },
         {
             "accuracy": 100,
+            "score": 139252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "smerbos"
+        },
+        {
+            "accuracy": 100,
             "score": 139249,
             "difficulty": 3,
             "stars": 6,
@@ -318,7 +334,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "will never scorе"
+            "userName": "Got the paws out"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Waddles fr"
-        },
-        {
-            "accuracy": 100,
-            "score": 138266,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hiphop415"
-        },
-        {
-            "accuracy": 100,
-            "score": 138257,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TheFireDragoon"
         }
     ]
 }

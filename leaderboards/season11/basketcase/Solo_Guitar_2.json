@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 225646,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "0_0かーぶsan"
+        },
+        {
+            "accuracy": 100,
+            "score": 225609,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Alex Ezma Rey"
+        },
+        {
             "accuracy": 100,
             "score": 225510,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "dazzlette"
-        },
-        {
-            "accuracy": 99,
-            "score": 223167,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sandites_14"
-        },
-        {
-            "accuracy": 100,
-            "score": 223110,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Maiki Lopes"
         }
     ]
 }

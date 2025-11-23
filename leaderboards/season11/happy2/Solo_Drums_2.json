@@ -2,19 +2,19 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 151302,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "シゲル1989"
+        },
+        {
+            "accuracy": 100,
             "score": 151212,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "DistrictofChamps"
-        },
-        {
-            "accuracy": 100,
-            "score": 151200,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Niiixy_"
         },
         {
             "accuracy": 100,
@@ -793,12 +793,12 @@
             "userName": "Bui-Bwee"
         },
         {
-            "accuracy": 100,
-            "score": 149208,
+            "accuracy": 99,
+            "score": 149226,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
-            "userName": "Maxi.i"
+            "fullcombo": false,
+            "userName": "NeedleLord"
         }
     ]
 }

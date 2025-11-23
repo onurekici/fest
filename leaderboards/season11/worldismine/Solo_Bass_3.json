@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 217567,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "oyster42069nice"
+        },
+        {
+            "accuracy": 99,
+            "score": 217301,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Twitch yamipgs"
+        },
+        {
             "accuracy": 99,
             "score": 217212,
             "difficulty": 3,
@@ -95,14 +111,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CobraStriker368"
-        },
-        {
-            "accuracy": 99,
-            "score": 216119,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "please_icecream"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NDKwizard"
-        },
-        {
-            "accuracy": 99,
-            "score": 210419,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SviBea"
         }
     ]
 }

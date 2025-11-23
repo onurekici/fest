@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 84842,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Moonlight Crime"
+        },
+        {
+            "accuracy": 100,
             "score": 84696,
             "difficulty": 3,
             "stars": 6,
@@ -473,6 +481,14 @@
             "userName": "00hand00"
         },
         {
+            "accuracy": 99,
+            "score": 81290,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "gibboneze"
+        },
+        {
             "accuracy": 100,
             "score": 81248,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Sepala"
-        },
-        {
-            "accuracy": 100,
-            "score": 78481,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PBXNDZ"
-        },
-        {
-            "accuracy": 100,
-            "score": 78364,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Jedip4nda19"
         }
     ]
 }

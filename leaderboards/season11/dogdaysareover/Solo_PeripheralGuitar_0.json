@@ -625,6 +625,14 @@
             "userName": "Eater Of Pi"
         },
         {
+            "accuracy": 100,
+            "score": 296901,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KurosakiJai"
+        },
+        {
             "accuracy": 99,
             "score": 296866,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AxelLinan"
-        },
-        {
-            "accuracy": 99,
-            "score": 292224,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Adridorps"
         }
     ]
 }

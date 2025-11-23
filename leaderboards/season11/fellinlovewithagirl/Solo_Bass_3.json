@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 81102,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Strolch76"
+        },
+        {
+            "accuracy": 100,
+            "score": 81072,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "purpledlol"
+        },
+        {
+            "accuracy": 99,
             "score": 81066,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ChrisGalaska29"
-        },
-        {
-            "accuracy": 100,
-            "score": 79080,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Try_Quiche"
-        },
-        {
-            "accuracy": 99,
-            "score": 79074,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RosiestSloth273"
         }
     ]
 }

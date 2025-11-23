@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 156139,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dengburger"
+        },
+        {
             "accuracy": 99,
             "score": 156135,
             "difficulty": 3,
@@ -201,11 +209,11 @@
             "userName": "Gromblebix"
         },
         {
-            "accuracy": 99,
-            "score": 155365,
+            "accuracy": 100,
+            "score": 155400,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
+            "fullcombo": true,
             "userName": "Mr.Bee71"
         },
         {
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[PSN] corset_okudar"
-        },
-        {
-            "accuracy": 100,
-            "score": 152635,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Megolidon666"
         }
     ]
 }

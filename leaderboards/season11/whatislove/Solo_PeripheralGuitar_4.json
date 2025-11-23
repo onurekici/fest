@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 97544,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Mangy_Moose"
+        },
+        {
             "accuracy": 91,
             "score": 97403,
             "difficulty": 3,
@@ -23,6 +31,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Random Smells"
+        },
+        {
+            "accuracy": 92,
+            "score": 97086,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "YiggleSpritz"
         },
         {
             "accuracy": 88,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Robokoop"
-        },
-        {
-            "accuracy": 86,
-            "score": 84138,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "hthrpttr"
-        },
-        {
-            "accuracy": 95,
-            "score": 84080,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JoseAnguizola"
         }
     ]
 }

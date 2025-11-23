@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 123941,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Fr00t_J00ce"
+        },
+        {
             "accuracy": 95,
             "score": 123399,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "VVanarchy"
-        },
-        {
-            "accuracy": 89,
-            "score": 56479,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "deathofanoliver"
         }
     ]
 }

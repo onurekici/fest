@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 189324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FlashTheDash"
+        },
+        {
+            "accuracy": 99,
+            "score": 189318,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MrSaiYuki"
+        },
+        {
             "accuracy": 99,
             "score": 189312,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JapaneseBentoBox"
-        },
-        {
-            "accuracy": 99,
-            "score": 187656,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ebic Destroyer"
-        },
-        {
-            "accuracy": 99,
-            "score": 187638,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cachî"
         }
     ]
 }

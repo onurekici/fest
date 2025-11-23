@@ -242,6 +242,14 @@
         },
         {
             "accuracy": 100,
+            "score": 127874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rescue_Kitty"
+        },
+        {
+            "accuracy": 100,
             "score": 127813,
             "difficulty": 3,
             "stars": 6,
@@ -625,6 +633,14 @@
             "userName": "alley.444"
         },
         {
+            "accuracy": 99,
+            "score": 107040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PlatinumYang"
+        },
+        {
             "accuracy": 100,
             "score": 106833,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "GibsonFaze"
-        },
-        {
-            "accuracy": 99,
-            "score": 100541,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yng Punisher"
-        },
-        {
-            "accuracy": 100,
-            "score": 99915,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Charlieee55"
         }
     ]
 }

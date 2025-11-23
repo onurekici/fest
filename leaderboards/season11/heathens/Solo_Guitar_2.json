@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 96824,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Molliversa"
+        },
+        {
             "accuracy": 100,
             "score": 96819,
             "difficulty": 3,
@@ -23,6 +31,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "XxHelenaFlores16"
+        },
+        {
+            "accuracy": 100,
+            "score": 96656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PingMeAHavoc"
         },
         {
             "accuracy": 100,
@@ -359,6 +375,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "barmycarmy"
+        },
+        {
+            "accuracy": 100,
+            "score": 95281,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OfficerPorkmeat"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Cap10Cletus"
-        },
-        {
-            "accuracy": 99,
-            "score": 93701,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AleXx_Radahn"
-        },
-        {
-            "accuracy": 99,
-            "score": 93642,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GingerAls"
-        },
-        {
-            "accuracy": 100,
-            "score": 93603,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gorilah31"
         }
     ]
 }

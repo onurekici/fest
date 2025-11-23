@@ -66,6 +66,14 @@
         },
         {
             "accuracy": 100,
+            "score": 58476,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PunnaWunna"
+        },
+        {
+            "accuracy": 100,
             "score": 57389,
             "difficulty": 3,
             "stars": 6,
@@ -209,20 +217,20 @@
             "userName": "andrewAKG"
         },
         {
+            "accuracy": 95,
+            "score": 14670,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Neclep"
+        },
+        {
             "accuracy": 70,
             "score": 13903,
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
             "userName": "PapitoPoon"
-        },
-        {
-            "accuracy": 83,
-            "score": 9643,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Neclep"
         }
     ]
 }

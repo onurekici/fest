@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 205353,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BrokenSilent"
+        },
+        {
+            "accuracy": 100,
+            "score": 205132,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jakennedy"
+        },
+        {
+            "accuracy": 99,
             "score": 205120,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "fayegc002"
-        },
-        {
-            "accuracy": 99,
-            "score": 195761,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Antryom"
-        },
-        {
-            "accuracy": 100,
-            "score": 195721,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Jax_420"
         }
     ]
 }

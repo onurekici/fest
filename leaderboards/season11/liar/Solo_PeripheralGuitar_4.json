@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 85,
+            "score": 51754,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "CommanderGreyFox"
+        },
+        {
+            "accuracy": 89,
+            "score": 51174,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Funky Bird69"
+        },
+        {
             "accuracy": 97,
             "score": 50926,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Team_gauthier"
-        },
-        {
-            "accuracy": 89,
-            "score": 34551,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "HsBuckeyeQs"
-        },
-        {
-            "accuracy": 86,
-            "score": 33893,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Rockband 4"
         }
     ]
 }

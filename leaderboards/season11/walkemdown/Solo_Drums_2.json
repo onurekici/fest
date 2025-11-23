@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 109095,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "bardicfm"
+        },
+        {
+            "accuracy": 100,
+            "score": 108981,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kittykatkatana3"
+        },
+        {
             "accuracy": 100,
             "score": 108915,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mIku.miku.BE4M"
-        },
-        {
-            "accuracy": 99,
-            "score": 103233,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "thymmm"
-        },
-        {
-            "accuracy": 99,
-            "score": 103233,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JOS3RED"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 217848,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Yukii Suou"
+        },
+        {
+            "accuracy": 99,
+            "score": 217692,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DoodlesClowning"
+        },
+        {
             "accuracy": 100,
             "score": 217692,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GuyCalledVita"
-        },
-        {
-            "accuracy": 100,
-            "score": 212274,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "feelinglikea4"
-        },
-        {
-            "accuracy": 99,
-            "score": 212274,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CaliKidMyke"
         }
     ]
 }

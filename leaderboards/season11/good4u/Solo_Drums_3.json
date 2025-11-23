@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 167472,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "StrawNeckDude"
+        },
+        {
+            "accuracy": 100,
             "score": 167466,
             "difficulty": 3,
             "stars": 6,
@@ -705,6 +713,14 @@
             "userName": "OhManAFatRabbit"
         },
         {
+            "accuracy": 99,
+            "score": 166458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SighTaitor"
+        },
+        {
             "accuracy": 100,
             "score": 166452,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "YeahhJohnny"
-        },
-        {
-            "accuracy": 100,
-            "score": 166338,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Poneho"
-        },
-        {
-            "accuracy": 100,
-            "score": 166332,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Namzoda"
         }
     ]
 }

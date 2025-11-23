@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130752,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "trinketts"
+        },
+        {
+            "accuracy": 100,
             "score": 130746,
             "difficulty": 3,
             "stars": 6,
@@ -710,6 +718,14 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
+            "userName": "Pandarce"
+        },
+        {
+            "accuracy": 99,
+            "score": 129888,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
             "userName": "[PSN] tomiokareca"
         },
         {
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KitsuneHashiriya"
-        },
-        {
-            "accuracy": 99,
-            "score": 129780,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GrünWieBananen"
-        },
-        {
-            "accuracy": 99,
-            "score": 129780,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CẏberShadow"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125202,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "UnleashCarnage42"
+        },
+        {
+            "accuracy": 99,
+            "score": 125178,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FloppySquared"
+        },
+        {
+            "accuracy": 100,
             "score": 125178,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FishProdigy"
-        },
-        {
-            "accuracy": 100,
-            "score": 124392,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Penguinweeny"
-        },
-        {
-            "accuracy": 100,
-            "score": 124392,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Edog6304"
         }
     ]
 }
