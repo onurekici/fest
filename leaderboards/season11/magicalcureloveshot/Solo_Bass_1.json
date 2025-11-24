@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 233706,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "달 스크립트"
+        },
+        {
             "accuracy": 100,
             "score": 233699,
             "difficulty": 3,
@@ -586,6 +594,14 @@
         },
         {
             "accuracy": 100,
+            "score": 231005,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Xerodin"
+        },
+        {
+            "accuracy": 100,
             "score": 231004,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "CamdinoBino"
-        },
-        {
-            "accuracy": 100,
-            "score": 230279,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Minan.e404"
-        },
-        {
-            "accuracy": 100,
-            "score": 230274,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kiimchen"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 191127,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RaggedBridge5510"
+        },
+        {
+            "accuracy": 99,
+            "score": 191126,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Weird_Midnight"
+        },
+        {
             "accuracy": 99,
             "score": 191094,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Anakln_Uchiha"
-        },
-        {
-            "accuracy": 100,
-            "score": 188262,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Doc_Snipe"
-        },
-        {
-            "accuracy": 100,
-            "score": 188192,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ghgbn"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123504,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Go Tek"
+        },
+        {
+            "accuracy": 99,
+            "score": 123450,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "insomnze"
+        },
+        {
+            "accuracy": 100,
             "score": 123108,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Wolxaris"
-        },
-        {
-            "accuracy": 99,
-            "score": 112344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "1GN1S"
-        },
-        {
-            "accuracy": 99,
-            "score": 112344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kwubbaa"
         }
     ]
 }

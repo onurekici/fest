@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 100808,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JacetheGreat0313"
+        },
+        {
+            "accuracy": 100,
+            "score": 100653,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "GibsonFaze"
+        },
+        {
+            "accuracy": 99,
             "score": 100541,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Sevespas"
-        },
-        {
-            "accuracy": 98,
-            "score": 63682,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MightyFr"
-        },
-        {
-            "accuracy": 99,
-            "score": 63327,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Kept Fadez"
         }
     ]
 }

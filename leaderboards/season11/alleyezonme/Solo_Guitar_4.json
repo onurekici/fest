@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 148847,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SmokeSlayer"
+        },
+        {
             "accuracy": 99,
             "score": 148819,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Marshyfloof"
-        },
-        {
-            "accuracy": 99,
-            "score": 147033,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "marcooso1"
         }
     ]
 }

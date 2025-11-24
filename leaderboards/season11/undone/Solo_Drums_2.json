@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 207282,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Really_Acoustic"
+        },
+        {
+            "accuracy": 98,
+            "score": 207282,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Otto.pilar"
+        },
+        {
+            "accuracy": 100,
             "score": 207216,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sutkasushi"
-        },
-        {
-            "accuracy": 100,
-            "score": 204066,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mit Talps"
-        },
-        {
-            "accuracy": 100,
-            "score": 204042,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Cbuzard465"
         }
     ]
 }

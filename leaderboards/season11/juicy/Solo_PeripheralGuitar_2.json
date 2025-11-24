@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 89676,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "90sMK4Life"
+        },
+        {
+            "accuracy": 85,
+            "score": 89635,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "likeafawkes"
+        },
+        {
             "accuracy": 80,
             "score": 89622,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "vowel_movements"
-        },
-        {
-            "accuracy": 77,
-            "score": 78756,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "breezyybb816"
-        },
-        {
-            "accuracy": 81,
-            "score": 78616,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Phantomfadez"
         }
     ]
 }

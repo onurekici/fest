@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 148248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Uneducated Rat"
+        },
+        {
+            "accuracy": 100,
             "score": 148086,
             "difficulty": 3,
             "stars": 6,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Drackard"
+        },
+        {
+            "accuracy": 100,
+            "score": 147888,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ExtriKATE"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Landed-league"
-        },
-        {
-            "accuracy": 99,
-            "score": 143826,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ulnucky不運"
-        },
-        {
-            "accuracy": 99,
-            "score": 143808,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CedeHD"
         }
     ]
 }

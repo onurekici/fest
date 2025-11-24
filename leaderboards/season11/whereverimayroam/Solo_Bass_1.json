@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 300468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "G_lakill"
+        },
+        {
+            "accuracy": 99,
+            "score": 300430,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SenseiJFC"
+        },
+        {
+            "accuracy": 100,
             "score": 300344,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MistyWizard4555"
-        },
-        {
-            "accuracy": 99,
-            "score": 291686,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MarcuSilva123"
-        },
-        {
-            "accuracy": 100,
-            "score": 291599,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BonFire135"
         }
     ]
 }

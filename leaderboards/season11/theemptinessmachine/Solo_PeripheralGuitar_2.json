@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 153190,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "boykisser6000"
+        },
+        {
+            "accuracy": 100,
+            "score": 153160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Thefiddleman"
+        },
+        {
             "accuracy": 100,
             "score": 153098,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Inbossible"
-        },
-        {
-            "accuracy": 99,
-            "score": 149159,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ChillXeno"
-        },
-        {
-            "accuracy": 99,
-            "score": 149121,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Junjiitofan09"
         }
     ]
 }

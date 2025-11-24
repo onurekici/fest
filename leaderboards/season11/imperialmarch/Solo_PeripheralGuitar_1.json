@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 26304,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "MrMeesinx"
+        },
+        {
             "accuracy": 79,
             "score": 25926,
             "difficulty": 3,
@@ -39,14 +47,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "wzrd.ui"
-        },
-        {
-            "accuracy": 93,
-            "score": 21390,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "CrazfulPsycho"
         },
         {
             "accuracy": 100,
@@ -119,6 +119,14 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "RATARIAR"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "[XBL] Ww2 nerd6248"
         }
     ]
 }

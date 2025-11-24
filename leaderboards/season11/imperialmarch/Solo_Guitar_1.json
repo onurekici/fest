@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 167172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The Dahakka"
+        },
+        {
             "accuracy": 99,
             "score": 167076,
             "difficulty": 3,
@@ -279,6 +287,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "lishy_phishy"
+        },
+        {
+            "accuracy": 99,
+            "score": 164820,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bacon_047"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WhoriestTart"
-        },
-        {
-            "accuracy": 99,
-            "score": 159576,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "YOKI_CATEU"
-        },
-        {
-            "accuracy": 99,
-            "score": 159576,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "INEEDTHATSLUGMAN"
         }
     ]
 }

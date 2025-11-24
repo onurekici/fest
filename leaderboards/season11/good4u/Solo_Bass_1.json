@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123958,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RaisinCologne"
+        },
+        {
+            "accuracy": 99,
+            "score": 123865,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jendigo"
+        },
+        {
+            "accuracy": 100,
             "score": 123823,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "sonicphoto"
-        },
-        {
-            "accuracy": 100,
-            "score": 119106,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[PSN] MrSunnySixkiller"
-        },
-        {
-            "accuracy": 100,
-            "score": 119105,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "iAm_Elías"
         }
     ]
 }

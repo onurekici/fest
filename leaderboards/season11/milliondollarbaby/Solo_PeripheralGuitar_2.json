@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 43404,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Marshmallow92606"
+        },
+        {
             "accuracy": 99,
             "score": 43114,
             "difficulty": 2,
@@ -255,6 +263,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[XBL] DuckOfTerror"
+        },
+        {
+            "accuracy": 96,
+            "score": 40091,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GimmickyBreak412"
         },
         {
             "accuracy": 93,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SimpleGSK"
-        },
-        {
-            "accuracy": 86,
-            "score": 30297,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "am.cob"
-        },
-        {
-            "accuracy": 79,
-            "score": 30122,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "[XBL] GiggsInDa303"
         }
     ]
 }

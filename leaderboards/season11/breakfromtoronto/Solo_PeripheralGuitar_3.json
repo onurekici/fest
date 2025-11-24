@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 37713,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TwoSmooth"
+        },
+        {
+            "accuracy": 97,
+            "score": 37651,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CRAY0NEAT3R"
+        },
+        {
             "accuracy": 95,
             "score": 37596,
             "difficulty": 2,
@@ -111,6 +127,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Sifiro"
+        },
+        {
+            "accuracy": 96,
+            "score": 36540,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ashmysta"
         },
         {
             "accuracy": 97,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "cyberslayer111"
-        },
-        {
-            "accuracy": 95,
-            "score": 30001,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nate_B3"
-        },
-        {
-            "accuracy": 95,
-            "score": 29801,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HeezyFlow18"
-        },
-        {
-            "accuracy": 89,
-            "score": 29764,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jettanos"
         }
     ]
 }

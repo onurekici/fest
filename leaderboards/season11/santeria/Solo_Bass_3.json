@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 165632,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "smerbos"
+        },
+        {
+            "accuracy": 100,
+            "score": 165614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Leoparsis"
+        },
+        {
             "accuracy": 100,
             "score": 165530,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ennmriaaa"
-        },
-        {
-            "accuracy": 99,
-            "score": 164008,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "USERNAMES_SUCK_2"
-        },
-        {
-            "accuracy": 99,
-            "score": 164007,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sweat2Hard420"
         }
     ]
 }

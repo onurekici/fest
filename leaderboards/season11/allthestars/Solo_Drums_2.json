@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 173688,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Saul_Greatman"
+        },
+        {
+            "accuracy": 100,
+            "score": 173628,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ltsdream"
+        },
+        {
             "accuracy": 100,
             "score": 173586,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Mel_Lancoli"
-        },
-        {
-            "accuracy": 94,
-            "score": 169194,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Twizzy .Rich"
-        },
-        {
-            "accuracy": 99,
-            "score": 169134,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Axl_keyjr"
         }
     ]
 }

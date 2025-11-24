@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 35037,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "S o r t e"
+        },
+        {
+            "accuracy": 99,
+            "score": 35035,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "The-Shadeslayer"
+        },
+        {
+            "accuracy": 100,
             "score": 35032,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Fusion263"
-        },
-        {
-            "accuracy": 100,
-            "score": 32812,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PureBl00d24"
-        },
-        {
-            "accuracy": 100,
-            "score": 32796,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Naters69"
         }
     ]
 }

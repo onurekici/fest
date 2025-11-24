@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 94402,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Thor_Hammeren"
+        },
+        {
+            "accuracy": 100,
+            "score": 94401,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Akashicforce"
+        },
+        {
+            "accuracy": 100,
+            "score": 94397,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Taiga_Tag"
+        },
+        {
             "accuracy": 100,
             "score": 94391,
             "difficulty": 3,
@@ -414,7 +438,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Insane Tomas"
+            "userName": "CheezeTris"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Leviathan_0104"
-        },
-        {
-            "accuracy": 100,
-            "score": 93583,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BKHawks2.0"
-        },
-        {
-            "accuracy": 100,
-            "score": 93582,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FedeHammet"
-        },
-        {
-            "accuracy": 100,
-            "score": 93550,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "willywamwozzle"
         }
     ]
 }

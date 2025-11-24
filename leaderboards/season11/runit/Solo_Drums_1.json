@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 103345,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Tamamittsune"
+        },
+        {
+            "accuracy": 100,
             "score": 102995,
             "difficulty": 2,
             "stars": 5,
@@ -169,6 +177,14 @@
             "userName": "[XBL] Hercules3594"
         },
         {
+            "accuracy": 98,
+            "score": 92064,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Its Dr. Yeet"
+        },
+        {
             "accuracy": 99,
             "score": 91810,
             "difficulty": 2,
@@ -223,6 +239,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[PSN] LegendLloydGames"
+        },
+        {
+            "accuracy": 99,
+            "score": 87565,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "carbonjw"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Écureuil Masquer"
-        },
-        {
-            "accuracy": 98,
-            "score": 60440,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] riomaru1010"
-        },
-        {
-            "accuracy": 94,
-            "score": 60000,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PizzaRehkitz152"
-        },
-        {
-            "accuracy": 99,
-            "score": 59875,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "J3St3rSjok3"
         }
     ]
 }

@@ -602,6 +602,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123231,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hunterblake1"
+        },
+        {
+            "accuracy": 100,
             "score": 123133,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SukuX"
-        },
-        {
-            "accuracy": 99,
-            "score": 119961,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "XXxkiritoxzae"
         }
     ]
 }

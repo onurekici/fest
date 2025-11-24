@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 64755,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Marak012"
+        },
+        {
+            "accuracy": 99,
             "score": 64747,
             "difficulty": 3,
             "stars": 6,
@@ -778,27 +786,19 @@
         },
         {
             "accuracy": 100,
+            "score": 61948,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ElChinoooh"
+        },
+        {
+            "accuracy": 100,
             "score": 61887,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
             "userName": "Melgreen15"
-        },
-        {
-            "accuracy": 100,
-            "score": 61882,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LordDarkPrince"
-        },
-        {
-            "accuracy": 99,
-            "score": 61851,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rick_Sanchez-GGB"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 146314,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Throkgaar"
+        },
+        {
+            "accuracy": 100,
+            "score": 146240,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dropsicle"
+        },
+        {
             "accuracy": 98,
             "score": 146155,
             "difficulty": 3,
@@ -87,14 +103,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Pandaploopums"
-        },
-        {
-            "accuracy": 99,
-            "score": 145028,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BlindxSniper"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "HUERGH"
-        },
-        {
-            "accuracy": 97,
-            "score": 132815,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ProTea70"
         }
     ]
 }

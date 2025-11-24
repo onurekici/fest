@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 109101,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TTV-MrTooSerious"
+        },
+        {
+            "accuracy": 99,
             "score": 109095,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "bardicfm"
+        },
+        {
+            "accuracy": 100,
+            "score": 109022,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jupitersjazz"
         },
         {
             "accuracy": 100,
@@ -47,6 +63,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[XBL] Ace Mozz"
+        },
+        {
+            "accuracy": 100,
+            "score": 108819,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ALi_AhMeD_IQ1"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CritikalBlack14"
-        },
-        {
-            "accuracy": 100,
-            "score": 103341,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "VektorGrim"
-        },
-        {
-            "accuracy": 99,
-            "score": 103305,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NinjaPower_502"
-        },
-        {
-            "accuracy": 99,
-            "score": 103248,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mIku.miku.BE4M"
         }
     ]
 }

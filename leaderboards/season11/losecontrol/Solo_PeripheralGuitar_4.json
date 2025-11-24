@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 89741,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ジSkyジ"
+        },
+        {
+            "accuracy": 97,
+            "score": 89702,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Frechette94"
+        },
+        {
             "accuracy": 98,
             "score": 89482,
             "difficulty": 2,
@@ -449,6 +465,14 @@
             "userName": "AnotherVeenie"
         },
         {
+            "accuracy": 99,
+            "score": 83618,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "WiffEm"
+        },
+        {
             "accuracy": 95,
             "score": 83454,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Scope_Shot_"
-        },
-        {
-            "accuracy": 96,
-            "score": 78226,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "brad_rackerss"
-        },
-        {
-            "accuracy": 97,
-            "score": 78190,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BCAR22"
-        },
-        {
-            "accuracy": 97,
-            "score": 78172,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ItsCiyei"
         }
     ]
 }

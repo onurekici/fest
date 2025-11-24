@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 43811,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TimberBimber"
+        },
+        {
             "accuracy": 100,
             "score": 43786,
             "difficulty": 2,
@@ -271,6 +279,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "シMister Kronic"
+        },
+        {
+            "accuracy": 99,
+            "score": 42935,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Retharic"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ScreamingMoose"
-        },
-        {
-            "accuracy": 98,
-            "score": 40952,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "redinSTR"
-        },
-        {
-            "accuracy": 99,
-            "score": 40866,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ottiur"
         }
     ]
 }

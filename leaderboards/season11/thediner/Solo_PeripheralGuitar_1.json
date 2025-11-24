@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 75762,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DoctorrOctopus"
+        },
+        {
             "accuracy": 99,
             "score": 75648,
             "difficulty": 3,
@@ -95,6 +103,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "bfitz32"
+        },
+        {
+            "accuracy": 98,
+            "score": 72615,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Its_Kaeru"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TigerBait1400"
-        },
-        {
-            "accuracy": 98,
-            "score": 55324,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jus_a_dude"
-        },
-        {
-            "accuracy": 98,
-            "score": 54816,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "friedgyozon"
         }
     ]
 }

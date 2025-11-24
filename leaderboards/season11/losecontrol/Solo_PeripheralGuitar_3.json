@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 100885,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "therealprorobcuk"
+        },
+        {
+            "accuracy": 99,
+            "score": 100843,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "syncman842"
+        },
+        {
             "accuracy": 99,
             "score": 100807,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ClownishLeopard"
-        },
-        {
-            "accuracy": 100,
-            "score": 89741,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ジSkyジ"
-        },
-        {
-            "accuracy": 97,
-            "score": 89702,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Frechette94"
         }
     ]
 }

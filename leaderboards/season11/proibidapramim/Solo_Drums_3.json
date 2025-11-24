@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 165324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fod.a"
+        },
+        {
             "accuracy": 100,
             "score": 165312,
             "difficulty": 3,
@@ -697,6 +705,14 @@
             "userName": "MONSTEROFSALEM"
         },
         {
+            "accuracy": 100,
+            "score": 163458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Razkiinn"
+        },
+        {
             "accuracy": 99,
             "score": 163452,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Poneho"
-        },
-        {
-            "accuracy": 100,
-            "score": 163266,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "raaeedropp"
-        },
-        {
-            "accuracy": 99,
-            "score": 163266,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Decentmass"
         }
     ]
 }

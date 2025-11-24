@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 284526,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-1eebe8a3ea"
+        },
+        {
             "accuracy": 100,
             "score": 284502,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RuinedDiamond"
-        },
-        {
-            "accuracy": 100,
-            "score": 275562,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NoSc0peNoHope"
         }
     ]
 }

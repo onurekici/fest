@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 126423,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "StellularHalo"
+        },
+        {
+            "accuracy": 99,
+            "score": 126343,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RevoluteBeer"
+        },
+        {
             "accuracy": 100,
             "score": 126320,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Camthema0112"
-        },
-        {
-            "accuracy": 100,
-            "score": 120903,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "halminens"
-        },
-        {
-            "accuracy": 98,
-            "score": 120897,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "daniel_astu35"
         }
     ]
 }

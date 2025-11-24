@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 85886,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mphstz"
+        },
+        {
+            "accuracy": 99,
+            "score": 85886,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "eduarmdu"
+        },
+        {
+            "accuracy": 100,
             "score": 85863,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "memo_271114"
-        },
-        {
-            "accuracy": 99,
-            "score": 85115,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AltF4UrTears"
-        },
-        {
-            "accuracy": 100,
-            "score": 85114,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Freddymoney69"
         }
     ]
 }

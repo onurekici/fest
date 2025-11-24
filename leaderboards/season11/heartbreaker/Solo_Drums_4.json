@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 195300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Scoree"
+        },
+        {
+            "accuracy": 99,
+            "score": 195297,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kobalos"
+        },
+        {
+            "accuracy": 100,
             "score": 195264,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MrCarDart23"
-        },
-        {
-            "accuracy": 99,
-            "score": 193772,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "inkxig"
-        },
-        {
-            "accuracy": 99,
-            "score": 193722,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Watanagash1"
         }
     ]
 }

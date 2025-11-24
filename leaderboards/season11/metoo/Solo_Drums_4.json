@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 147216,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JackAdventures_"
+        },
+        {
+            "accuracy": 100,
+            "score": 147192,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MurderFaceMFMF"
+        },
+        {
             "accuracy": 100,
             "score": 147180,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Pinklightning35"
-        },
-        {
-            "accuracy": 100,
-            "score": 145650,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jjjr"
-        },
-        {
-            "accuracy": 99,
-            "score": 145644,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "vinnyy."
         }
     ]
 }

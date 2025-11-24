@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 209382,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SandanSaiyan"
+        },
+        {
+            "accuracy": 100,
             "score": 209202,
             "difficulty": 3,
             "stars": 6,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TadoTosh"
+        },
+        {
+            "accuracy": 100,
+            "score": 206154,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Fudmire"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Landfeldt29"
-        },
-        {
-            "accuracy": 99,
-            "score": 202602,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JorgitoEnVivo"
-        },
-        {
-            "accuracy": 99,
-            "score": 202584,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Fukashima"
         }
     ]
 }

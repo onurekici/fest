@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 82650,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NYDJOSE"
+        },
+        {
+            "accuracy": 94,
+            "score": 82428,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sm-180"
+        },
+        {
             "accuracy": 98,
             "score": 82368,
             "difficulty": 2,
@@ -673,6 +689,14 @@
             "userName": "Kool Kid Karl"
         },
         {
+            "accuracy": 90,
+            "score": 68538,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Blame_Latency"
+        },
+        {
             "accuracy": 94,
             "score": 68526,
             "difficulty": 2,
@@ -729,14 +753,6 @@
             "userName": "Monkey2238"
         },
         {
-            "accuracy": 89,
-            "score": 67920,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Blame_Latency"
-        },
-        {
             "accuracy": 93,
             "score": 67902,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "S4w44-chan"
-        },
-        {
-            "accuracy": 99,
-            "score": 66420,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Trazgazm"
-        },
-        {
-            "accuracy": 94,
-            "score": 66390,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Cykold-1"
         }
     ]
 }
