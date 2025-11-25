@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 54637,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "GusMax77"
+        },
+        {
+            "accuracy": 100,
+            "score": 54511,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Conor_The_Fish"
+        },
+        {
+            "accuracy": 92,
+            "score": 54467,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "HelpMePlz45"
+        },
+        {
             "accuracy": 98,
             "score": 54445,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "OliverPMc"
-        },
-        {
-            "accuracy": 82,
-            "score": 40337,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "zbsy"
-        },
-        {
-            "accuracy": 80,
-            "score": 40137,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "TechieJordan"
-        },
-        {
-            "accuracy": 81,
-            "score": 39739,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "SirSniffaa"
         }
     ]
 }

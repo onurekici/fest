@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123390,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "phoenixpyre666"
+        },
+        {
+            "accuracy": 100,
+            "score": 123225,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Basic Cheese"
+        },
+        {
+            "accuracy": 99,
             "score": 122658,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "aligaeveenutr"
-        },
-        {
-            "accuracy": 97,
-            "score": 100530,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JHONNY_456_"
-        },
-        {
-            "accuracy": 99,
-            "score": 99875,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "bigredqueen"
         }
     ]
 }

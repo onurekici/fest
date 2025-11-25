@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 160797,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Boof_Bruh"
+        },
+        {
+            "accuracy": 99,
+            "score": 160639,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "appelsiet"
+        },
+        {
             "accuracy": 99,
             "score": 160469,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FireStar127"
-        },
-        {
-            "accuracy": 99,
-            "score": 155027,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "inobin0"
-        },
-        {
-            "accuracy": 100,
-            "score": 154901,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cars R Us34"
         }
     ]
 }

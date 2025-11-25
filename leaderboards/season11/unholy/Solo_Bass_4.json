@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65284,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "alicebona"
+        },
+        {
+            "accuracy": 100,
             "score": 65239,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ClayCube"
-        },
-        {
-            "accuracy": 100,
-            "score": 61212,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "frotnit3"
         }
     ]
 }

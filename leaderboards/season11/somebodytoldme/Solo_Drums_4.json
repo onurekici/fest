@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 218160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sir.Dadu"
+        },
+        {
+            "accuracy": 100,
+            "score": 218124,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MrYungLEE"
+        },
+        {
+            "accuracy": 100,
             "score": 218118,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "8th idiot"
-        },
-        {
-            "accuracy": 100,
-            "score": 216744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Drowsy.exe"
-        },
-        {
-            "accuracy": 100,
-            "score": 216744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "damienshii"
         }
     ]
 }

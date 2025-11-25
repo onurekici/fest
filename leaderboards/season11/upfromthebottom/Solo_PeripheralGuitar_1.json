@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 131892,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sneasler"
+        },
+        {
+            "accuracy": 100,
             "score": 131886,
             "difficulty": 3,
             "stars": 6,
@@ -103,14 +111,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BPURDZ"
-        },
-        {
-            "accuracy": 98,
-            "score": 130216,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "サンダーボウズ_twitch"
         },
         {
             "accuracy": 99,
@@ -545,6 +545,14 @@
             "userName": "illusionOS"
         },
         {
+            "accuracy": 99,
+            "score": 124183,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CampingForCats"
+        },
+        {
             "accuracy": 98,
             "score": 124007,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Frizz 戦え"
-        },
-        {
-            "accuracy": 99,
-            "score": 120431,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xMrRockinOutCHx"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 202058,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tuffyturtle810"
+        },
+        {
+            "accuracy": 99,
+            "score": 202035,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LokiRedgrave"
+        },
+        {
             "accuracy": 99,
             "score": 202005,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Deathwish334"
-        },
-        {
-            "accuracy": 100,
-            "score": 200674,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "JasPy57"
-        },
-        {
-            "accuracy": 99,
-            "score": 200674,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ScringusBingus"
         }
     ]
 }

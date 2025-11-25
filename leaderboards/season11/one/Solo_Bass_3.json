@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 456618,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JohnWock99"
+        },
+        {
+            "accuracy": 100,
+            "score": 456602,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tiermonster23"
+        },
+        {
+            "accuracy": 100,
+            "score": 456589,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DankStank666"
+        },
+        {
+            "accuracy": 99,
             "score": 456570,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Devi_wayne"
-        },
-        {
-            "accuracy": 99,
-            "score": 452934,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jendigo"
-        },
-        {
-            "accuracy": 100,
-            "score": 452923,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BigJelly66"
-        },
-        {
-            "accuracy": 99,
-            "score": 452841,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Diddle.Weick"
         }
     ]
 }

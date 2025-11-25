@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 131942,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jhayden Ramirez"
+        },
+        {
+            "accuracy": 100,
+            "score": 131905,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ZmrtjhinZ"
+        },
+        {
             "accuracy": 100,
             "score": 131770,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "OngakuVA"
-        },
-        {
-            "accuracy": 100,
-            "score": 128502,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Alcroteau"
-        },
-        {
-            "accuracy": 100,
-            "score": 128484,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LenoBrega1"
         }
     ]
 }

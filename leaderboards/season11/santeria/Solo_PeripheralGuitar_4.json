@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 79030,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Bjac523"
+        },
+        {
             "accuracy": 97,
             "score": 79006,
             "difficulty": 3,
@@ -231,6 +239,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "CFTW Chopper"
+        },
+        {
+            "accuracy": 93,
+            "score": 76963,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Splashtasty"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "SuperLuffy644"
-        },
-        {
-            "accuracy": 99,
-            "score": 73348,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Xani_En"
-        },
-        {
-            "accuracy": 97,
-            "score": 73229,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DialFforFun"
         }
     ]
 }

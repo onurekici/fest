@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 147222,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sylent Kuki 暗狼"
+        },
+        {
             "accuracy": 99,
             "score": 147216,
             "difficulty": 3,
@@ -402,6 +410,14 @@
         },
         {
             "accuracy": 99,
+            "score": 146370,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Galaxystreaks"
+        },
+        {
+            "accuracy": 99,
             "score": 146352,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "usual-nick"
-        },
-        {
-            "accuracy": 99,
-            "score": 145674,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nasuh uwu"
-        },
-        {
-            "accuracy": 100,
-            "score": 145650,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Pinklightning35"
         }
     ]
 }

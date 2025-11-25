@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 118475,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ibizamegan"
+        },
+        {
             "accuracy": 100,
             "score": 118448,
             "difficulty": 3,
@@ -738,6 +746,14 @@
         },
         {
             "accuracy": 100,
+            "score": 117311,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Infinite.XIV"
+        },
+        {
+            "accuracy": 100,
             "score": 117304,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "RonnieTorres"
-        },
-        {
-            "accuracy": 99,
-            "score": 117216,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Raze_Amira_"
-        },
-        {
-            "accuracy": 100,
-            "score": 117211,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DustianAk"
         }
     ]
 }

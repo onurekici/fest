@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 122526,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Authenkrony"
+        },
+        {
+            "accuracy": 100,
+            "score": 122520,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "usual-nick"
+        },
+        {
             "accuracy": 100,
             "score": 122484,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dweltburrito927"
-        },
-        {
-            "accuracy": 100,
-            "score": 120816,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ExiledErmine225"
-        },
-        {
-            "accuracy": 100,
-            "score": 120780,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Linkol-д-"
         }
     ]
 }

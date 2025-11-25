@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 133120,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Skoresh"
+        },
+        {
             "accuracy": 100,
             "score": 133016,
             "difficulty": 3,
@@ -55,14 +63,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Nurse HimikoToga"
-        },
-        {
-            "accuracy": 100,
-            "score": 132036,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MariusM772"
         },
         {
             "accuracy": 99,
@@ -770,6 +770,14 @@
         },
         {
             "accuracy": 99,
+            "score": 123111,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dinklebergers"
+        },
+        {
+            "accuracy": 99,
             "score": 123061,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mister Morale"
-        },
-        {
-            "accuracy": 100,
-            "score": 122744,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SirDiddlydoo"
         }
     ]
 }

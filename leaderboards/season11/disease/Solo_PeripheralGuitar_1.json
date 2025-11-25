@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 162843,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DrGlitch"
+        },
+        {
+            "accuracy": 99,
+            "score": 160218,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DarkRenzoGhost"
+        },
+        {
             "accuracy": 98,
             "score": 159726,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "septickellie"
-        },
-        {
-            "accuracy": 96,
-            "score": 38694,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kolvaryel"
-        },
-        {
-            "accuracy": 91,
-            "score": 37641,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "MorbiddGlitterr"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 75488,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Northalic"
+        },
+        {
             "accuracy": 100,
             "score": 75484,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Warturtel"
-        },
-        {
-            "accuracy": 100,
-            "score": 74976,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "halo5501"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 168384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lubricated Love"
+        },
+        {
             "accuracy": 99,
             "score": 168335,
             "difficulty": 3,
@@ -505,6 +513,14 @@
             "userName": "CarloZ238"
         },
         {
+            "accuracy": 99,
+            "score": 161959,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Duggerino"
+        },
+        {
             "accuracy": 100,
             "score": 161904,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DuffmanBFG"
-        },
-        {
-            "accuracy": 99,
-            "score": 158777,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Unoxx."
-        },
-        {
-            "accuracy": 99,
-            "score": 158226,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ah-Kira"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 114356,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Moonsheeep_"
+        },
+        {
+            "accuracy": 100,
+            "score": 114355,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "biglie22"
+        },
+        {
             "accuracy": 100,
             "score": 114347,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SteveSkylander"
-        },
-        {
-            "accuracy": 100,
-            "score": 113424,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "shotoismybaby"
-        },
-        {
-            "accuracy": 100,
-            "score": 113416,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nonstop_Despair"
         }
     ]
 }

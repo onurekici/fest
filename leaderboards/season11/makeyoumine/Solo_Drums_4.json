@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 105708,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Audioslave298"
+        },
+        {
+            "accuracy": 99,
+            "score": 105708,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "brendongoboom"
+        },
+        {
+            "accuracy": 100,
             "score": 105696,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Karel_69"
-        },
-        {
-            "accuracy": 99,
-            "score": 104352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mip6"
-        },
-        {
-            "accuracy": 100,
-            "score": 104334,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "maya._.482"
         }
     ]
 }

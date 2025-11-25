@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 78292,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "palha1992"
+        },
+        {
+            "accuracy": 100,
+            "score": 78285,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Naya_mn"
+        },
+        {
             "accuracy": 100,
             "score": 78270,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Salty_Alpaca"
-        },
-        {
-            "accuracy": 99,
-            "score": 74803,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TakeshiFez"
-        },
-        {
-            "accuracy": 99,
-            "score": 74700,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AzzyAzu"
         }
     ]
 }

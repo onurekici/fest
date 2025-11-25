@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 75865,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Jedi Sleia"
+        },
+        {
+            "accuracy": 96,
+            "score": 75790,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SammyShmamy"
+        },
+        {
             "accuracy": 93,
             "score": 75600,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Snydercutwasgood"
-        },
-        {
-            "accuracy": 98,
-            "score": 55998,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Brand_New_Eyes95"
-        },
-        {
-            "accuracy": 98,
-            "score": 55876,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "loganbannister"
         }
     ]
 }

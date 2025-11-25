@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 130629,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bob4305"
+        },
+        {
             "accuracy": 100,
             "score": 130557,
             "difficulty": 3,
@@ -127,6 +135,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SyungFrost"
+        },
+        {
+            "accuracy": 100,
+            "score": 130180,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SPYDERA33"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "One Fragile Fur"
-        },
-        {
-            "accuracy": 100,
-            "score": 127905,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "naughtyynadii"
-        },
-        {
-            "accuracy": 100,
-            "score": 127883,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PapaSalik"
         }
     ]
 }

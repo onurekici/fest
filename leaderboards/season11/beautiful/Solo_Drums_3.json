@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 245166,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ラストヤニカスサムライ"
+        },
+        {
+            "accuracy": 100,
             "score": 245100,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mick Breezie"
-        },
-        {
-            "accuracy": 99,
-            "score": 241560,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TokenBonez"
         }
     ]
 }

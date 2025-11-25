@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 107732,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pipskii"
+        },
+        {
+            "accuracy": 99,
+            "score": 107730,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Repo-360"
+        },
+        {
+            "accuracy": 100,
             "score": 107700,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NotMurdock01"
-        },
-        {
-            "accuracy": 99,
-            "score": 103332,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jojo-the-mojo96"
-        },
-        {
-            "accuracy": 99,
-            "score": 103257,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "dewve_"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 71932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 71923,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "6Fold"
+        },
+        {
+            "accuracy": 98,
             "score": 71899,
             "difficulty": 3,
             "stars": 6,
@@ -673,6 +689,14 @@
             "userName": "Shomorgan"
         },
         {
+            "accuracy": 99,
+            "score": 65471,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Helicopterpoe"
+        },
+        {
             "accuracy": 98,
             "score": 65390,
             "difficulty": 3,
@@ -703,6 +727,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DailyDesert8018"
+        },
+        {
+            "accuracy": 99,
+            "score": 65107,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dawn_3505"
         },
         {
             "accuracy": 99,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "bby hyphy"
-        },
-        {
-            "accuracy": 99,
-            "score": 64449,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ttok implayboiat"
-        },
-        {
-            "accuracy": 98,
-            "score": 64413,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Helicopterpoe"
-        },
-        {
-            "accuracy": 97,
-            "score": 64377,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "WeddiJester96"
-        },
-        {
-            "accuracy": 99,
-            "score": 64370,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NikkoH.H.M"
         }
     ]
 }

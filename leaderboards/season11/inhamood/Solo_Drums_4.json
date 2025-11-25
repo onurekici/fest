@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 79938,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Emonogue"
+        },
+        {
+            "accuracy": 100,
+            "score": 79908,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MonarchOfficial"
+        },
+        {
             "accuracy": 99,
             "score": 79890,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "AceWype13"
-        },
-        {
-            "accuracy": 99,
-            "score": 77946,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SuburbianReneg8d"
-        },
-        {
-            "accuracy": 99,
-            "score": 77940,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zhyk_Zhyzhit"
         }
     ]
 }

@@ -170,6 +170,14 @@
         },
         {
             "accuracy": 100,
+            "score": 180015,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "matz_g"
+        },
+        {
+            "accuracy": 100,
             "score": 179994,
             "difficulty": 3,
             "stars": 6,
@@ -375,6 +383,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Ainhize_A"
+        },
+        {
+            "accuracy": 100,
+            "score": 171144,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FreakMutant"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Taibhse IX"
-        },
-        {
-            "accuracy": 99,
-            "score": 156564,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RÍddle"
-        },
-        {
-            "accuracy": 99,
-            "score": 155190,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Karinski_96"
         }
     ]
 }

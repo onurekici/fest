@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 58681,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SeanMouse26"
+        },
+        {
+            "accuracy": 100,
+            "score": 58322,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Naddi67"
+        },
+        {
             "accuracy": 100,
             "score": 57619,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "BulletPunk"
-        },
-        {
-            "accuracy": 94,
-            "score": 22661,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Yukari_Sen"
-        },
-        {
-            "accuracy": 96,
-            "score": 22282,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SiccWrittItt"
         }
     ]
 }

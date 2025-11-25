@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 221299,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CarrotsJam"
+        },
+        {
             "accuracy": 99,
             "score": 221298,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Zettuu"
-        },
-        {
-            "accuracy": 100,
-            "score": 219307,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bolalo20"
         }
     ]
 }

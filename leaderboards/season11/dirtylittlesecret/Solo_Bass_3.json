@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 159865,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Starrynight916"
+        },
+        {
+            "accuracy": 100,
+            "score": 159845,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GrayHox"
+        },
+        {
             "accuracy": 99,
             "score": 159845,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "dovein_the.water"
-        },
-        {
-            "accuracy": 100,
-            "score": 157734,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ktmc99"
-        },
-        {
-            "accuracy": 100,
-            "score": 157698,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ṃegatron"
         }
     ]
 }

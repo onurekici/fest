@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 174780,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Thiago-r007"
+        },
+        {
+            "accuracy": 99,
+            "score": 174636,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "boytoy troy"
+        },
+        {
             "accuracy": 99,
             "score": 174606,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "VyktorX"
-        },
-        {
-            "accuracy": 99,
-            "score": 152465,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MateusBIGMaster"
-        },
-        {
-            "accuracy": 99,
-            "score": 152314,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sad_Sandshrew"
         }
     ]
 }

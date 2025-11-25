@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 139398,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VinylScratch440"
+        },
+        {
+            "accuracy": 100,
+            "score": 139362,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "saddblobb"
+        },
+        {
             "accuracy": 100,
             "score": 139326,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bugman Blur"
-        },
-        {
-            "accuracy": 100,
-            "score": 137604,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "7TheKidd惡"
-        },
-        {
-            "accuracy": 100,
-            "score": 137598,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "frostdoggo"
         }
     ]
 }

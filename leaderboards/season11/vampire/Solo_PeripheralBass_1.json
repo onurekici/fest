@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 67401,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Dj Playman"
+        },
+        {
+            "accuracy": 97,
+            "score": 67125,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PandemicPanda"
+        },
+        {
             "accuracy": 98,
             "score": 66414,
             "difficulty": 3,
@@ -449,14 +465,6 @@
             "userName": "SubtleColor"
         },
         {
-            "accuracy": 97,
-            "score": 40221,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PandemicPanda"
-        },
-        {
             "accuracy": 96,
             "score": 39994,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Unforgetabl"
-        },
-        {
-            "accuracy": 90,
-            "score": 11647,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Vinzhakov"
         }
     ]
 }

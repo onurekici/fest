@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 105429,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "vncnvmp"
+        },
+        {
+            "accuracy": 100,
+            "score": 105428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DUALSHOCK4Ps"
+        },
+        {
             "accuracy": 100,
             "score": 105398,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "AmityParks"
-        },
-        {
-            "accuracy": 100,
-            "score": 104346,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Katybobatey"
-        },
-        {
-            "accuracy": 100,
-            "score": 104341,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "serge01919"
         }
     ]
 }

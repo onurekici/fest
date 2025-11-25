@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 153144,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Captynnn"
+        },
+        {
+            "accuracy": 99,
+            "score": 152844,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dragno145"
+        },
+        {
             "accuracy": 99,
             "score": 152695,
             "difficulty": 3,
@@ -159,6 +175,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "The D3vil"
+        },
+        {
+            "accuracy": 99,
+            "score": 147912,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sadnessvendor"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ConMan6232"
-        },
-        {
-            "accuracy": 98,
-            "score": 124682,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Moeru Shinigami"
-        },
-        {
-            "accuracy": 98,
-            "score": 124316,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MegaCoolDudeUlta"
-        },
-        {
-            "accuracy": 98,
-            "score": 123156,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bunker J0nesy"
         }
     ]
 }

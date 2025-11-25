@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 70139,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "archi0211"
+        },
+        {
+            "accuracy": 100,
+            "score": 70122,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MRJmie2007"
+        },
+        {
             "accuracy": 99,
             "score": 70090,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ZetroLobos"
-        },
-        {
-            "accuracy": 99,
-            "score": 67748,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DiDumDiDa"
-        },
-        {
-            "accuracy": 100,
-            "score": 67734,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StoneCrow"
         }
     ]
 }
