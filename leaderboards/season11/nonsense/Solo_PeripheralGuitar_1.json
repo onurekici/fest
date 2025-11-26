@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 105143,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Poomsday"
+        },
+        {
             "accuracy": 98,
             "score": 104643,
             "difficulty": 3,
@@ -761,6 +769,14 @@
             "userName": "H4lien32"
         },
         {
+            "accuracy": 98,
+            "score": 80248,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Viel0404"
+        },
+        {
             "accuracy": 100,
             "score": 79849,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "VeeAlora"
-        },
-        {
-            "accuracy": 100,
-            "score": 79340,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "90sMK4Life"
-        },
-        {
-            "accuracy": 96,
-            "score": 79123,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "M4quiavelo"
         }
     ]
 }

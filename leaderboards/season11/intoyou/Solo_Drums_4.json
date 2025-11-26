@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 129456,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "C-TRAIN_"
+        },
+        {
+            "accuracy": 100,
+            "score": 129384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lunixfy"
+        },
+        {
             "accuracy": 100,
             "score": 129366,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TH33twinkyTAZ"
-        },
-        {
-            "accuracy": 99,
-            "score": 127542,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DESTROYER2006235"
-        },
-        {
-            "accuracy": 100,
-            "score": 127542,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "bumpot"
         }
     ]
 }

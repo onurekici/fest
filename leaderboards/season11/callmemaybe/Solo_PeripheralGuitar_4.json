@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 75127,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "R0B0Tv4"
+        },
+        {
             "accuracy": 100,
             "score": 75048,
             "difficulty": 2,
@@ -231,6 +239,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Goryyn"
+        },
+        {
+            "accuracy": 90,
+            "score": 71105,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Jus_a_dude"
         },
         {
             "accuracy": 90,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "RickyPez"
-        },
-        {
-            "accuracy": 100,
-            "score": 62544,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "IKILLUA_S"
-        },
-        {
-            "accuracy": 89,
-            "score": 62401,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SwagAndWatch"
         }
     ]
 }

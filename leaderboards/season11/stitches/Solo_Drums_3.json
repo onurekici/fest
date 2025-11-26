@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87270,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DylanMartin"
+        },
+        {
+            "accuracy": 100,
+            "score": 87234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Liam_0412"
+        },
+        {
             "accuracy": 99,
             "score": 87186,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Crafty2001"
-        },
-        {
-            "accuracy": 99,
-            "score": 85284,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cappellanotempla"
-        },
-        {
-            "accuracy": 100,
-            "score": 85254,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "lucienslover"
         }
     ]
 }

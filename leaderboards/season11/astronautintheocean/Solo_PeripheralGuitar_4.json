@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 21374,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "YamasakiPapi"
+        },
+        {
+            "accuracy": 100,
             "score": 21341,
             "difficulty": 1,
             "stars": 5,
@@ -537,6 +545,14 @@
             "userName": "Snorlax4567"
         },
         {
+            "accuracy": 97,
+            "score": 19912,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ward33009"
+        },
+        {
             "accuracy": 99,
             "score": 19911,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MastonJ13"
-        },
-        {
-            "accuracy": 99,
-            "score": 19494,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MadyEve23"
-        },
-        {
-            "accuracy": 99,
-            "score": 19488,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Shawnferg05"
         }
     ]
 }

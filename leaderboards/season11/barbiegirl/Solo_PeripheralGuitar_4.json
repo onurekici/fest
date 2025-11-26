@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 99097,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Tha Lag Is Real"
+        },
+        {
+            "accuracy": 100,
+            "score": 99013,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Gilred89"
+        },
+        {
             "accuracy": 99,
             "score": 98988,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Rei_ayanami_69_"
-        },
-        {
-            "accuracy": 98,
-            "score": 82532,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Batlox gaming"
-        },
-        {
-            "accuracy": 96,
-            "score": 82396,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Atrilia"
         }
     ]
 }

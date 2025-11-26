@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 77848,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "frisotti_v_38"
+        },
+        {
+            "accuracy": 98,
+            "score": 77816,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cloud830speedy"
+        },
+        {
+            "accuracy": 99,
+            "score": 77703,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ratman2017"
+        },
+        {
             "accuracy": 97,
             "score": 77659,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Dreno_liminar8"
-        },
-        {
-            "accuracy": 99,
-            "score": 70753,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MAGILLA954"
-        },
-        {
-            "accuracy": 99,
-            "score": 70735,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Stinkeecheeseman"
-        },
-        {
-            "accuracy": 97,
-            "score": 70493,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CosmicSpaceZombi"
         }
     ]
 }

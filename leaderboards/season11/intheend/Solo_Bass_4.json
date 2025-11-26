@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 157759,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Peonza94"
+        },
+        {
+            "accuracy": 99,
+            "score": 157692,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vampledorf"
+        },
+        {
             "accuracy": 99,
             "score": 157582,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DannyDevito6527"
-        },
-        {
-            "accuracy": 99,
-            "score": 153901,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "madiomfg"
-        },
-        {
-            "accuracy": 99,
-            "score": 153860,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zomnoah"
         }
     ]
 }

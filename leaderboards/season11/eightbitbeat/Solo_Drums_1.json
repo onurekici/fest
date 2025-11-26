@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 96240,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ぞうじるしまほうびん"
+        },
+        {
             "accuracy": 100,
             "score": 96162,
             "difficulty": 3,
@@ -562,6 +570,14 @@
         },
         {
             "accuracy": 100,
+            "score": 93684,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sean Frach"
+        },
+        {
+            "accuracy": 100,
             "score": 93672,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FlameSnower15"
-        },
-        {
-            "accuracy": 99,
-            "score": 92838,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HotObeseDog69"
-        },
-        {
-            "accuracy": 100,
-            "score": 92820,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PrincesspettyIG"
         }
     ]
 }

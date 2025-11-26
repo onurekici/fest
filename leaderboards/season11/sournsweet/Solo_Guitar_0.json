@@ -466,6 +466,14 @@
         },
         {
             "accuracy": 100,
+            "score": 95852,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TaePereiDevil"
+        },
+        {
+            "accuracy": 100,
             "score": 95692,
             "difficulty": 3,
             "stars": 6,
@@ -778,27 +786,19 @@
         },
         {
             "accuracy": 99,
+            "score": 92265,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AstralCapri"
+        },
+        {
+            "accuracy": 99,
             "score": 92126,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "MtsCross"
-        },
-        {
-            "accuracy": 99,
-            "score": 92088,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LtRodrigues0"
-        },
-        {
-            "accuracy": 99,
-            "score": 92050,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TSMiller97"
         }
     ]
 }

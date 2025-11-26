@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 61860,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dark_Saruin"
+        },
+        {
+            "accuracy": 99,
+            "score": 61765,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FilthyJrambo"
+        },
+        {
             "accuracy": 99,
             "score": 61535,
             "difficulty": 1,
@@ -191,6 +207,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "nayara.s1"
+        },
+        {
+            "accuracy": 100,
+            "score": 54445,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Tyr33446"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "powerlad"
-        },
-        {
-            "accuracy": 94,
-            "score": 36190,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Cataclysmal_1"
-        },
-        {
-            "accuracy": 90,
-            "score": 35970,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "AJDaniels0"
-        },
-        {
-            "accuracy": 93,
-            "score": 35895,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "tdw_thijs"
         }
     ]
 }

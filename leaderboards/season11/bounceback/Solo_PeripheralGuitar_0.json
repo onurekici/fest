@@ -185,6 +185,14 @@
             "userName": "otherbaaric"
         },
         {
+            "accuracy": 100,
+            "score": 95636,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FlutterThrash"
+        },
+        {
             "accuracy": 98,
             "score": 95302,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "guerrilla_rev"
-        },
-        {
-            "accuracy": 87,
-            "score": 59948,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "WhatisMars"
         }
     ]
 }

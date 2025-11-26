@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 106114,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "skyforsuga"
+        },
+        {
+            "accuracy": 100,
+            "score": 105961,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "danwizard2022"
+        },
+        {
+            "accuracy": 99,
+            "score": 105869,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SonicMelody"
+        },
+        {
             "accuracy": 99,
             "score": 105092,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SPT_カティ.サーク"
-        },
-        {
-            "accuracy": 98,
-            "score": 89103,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hansi117208"
-        },
-        {
-            "accuracy": 100,
-            "score": 89019,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "WaffleJEFF0850"
-        },
-        {
-            "accuracy": 99,
-            "score": 89009,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KesGrim"
         }
     ]
 }

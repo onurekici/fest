@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 120528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "UltimateDropBear"
+        },
+        {
+            "accuracy": 100,
+            "score": 120522,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RazeRyze"
+        },
+        {
             "accuracy": 99,
             "score": 120438,
             "difficulty": 3,
@@ -31,6 +47,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "D3_H3avy"
+        },
+        {
+            "accuracy": 100,
+            "score": 120132,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "2003Sonic"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Sseurd"
-        },
-        {
-            "accuracy": 100,
-            "score": 116538,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "N.1 PARTOUT"
-        },
-        {
-            "accuracy": 99,
-            "score": 116520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheeTomato"
-        },
-        {
-            "accuracy": 100,
-            "score": 116514,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Retzat12"
         }
     ]
 }

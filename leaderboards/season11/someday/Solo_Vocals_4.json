@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 77644,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sandwich_051"
+        },
+        {
+            "accuracy": 99,
+            "score": 77641,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "elliottkoby"
+        },
+        {
+            "accuracy": 100,
             "score": 77636,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LeKirky"
-        },
-        {
-            "accuracy": 100,
-            "score": 77160,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dogecoin2k7"
-        },
-        {
-            "accuracy": 100,
-            "score": 77154,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "akaFrack"
         }
     ]
 }

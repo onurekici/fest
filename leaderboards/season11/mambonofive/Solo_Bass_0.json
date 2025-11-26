@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 122498,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Fakedutchess"
+        },
+        {
+            "accuracy": 100,
             "score": 122260,
             "difficulty": 3,
             "stars": 6,
@@ -303,6 +311,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Donna210624"
+        },
+        {
+            "accuracy": 99,
+            "score": 114229,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AverageDuck15"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Åurä"
-        },
-        {
-            "accuracy": 100,
-            "score": 100240,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "E7_500"
-        },
-        {
-            "accuracy": 99,
-            "score": 100229,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RPR_ShadowTS"
         }
     ]
 }

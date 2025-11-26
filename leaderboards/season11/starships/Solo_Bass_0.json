@@ -162,6 +162,14 @@
         },
         {
             "accuracy": 100,
+            "score": 110016,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FreakMutant"
+        },
+        {
+            "accuracy": 100,
             "score": 109984,
             "difficulty": 3,
             "stars": 6,
@@ -399,6 +407,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BigTonyTee1995"
+        },
+        {
+            "accuracy": 99,
+            "score": 103293,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "terrellonomicon"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "GothicMooon"
-        },
-        {
-            "accuracy": 99,
-            "score": 88406,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "alabasterGhost"
-        },
-        {
-            "accuracy": 99,
-            "score": 88327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Platonicmoss"
         }
     ]
 }

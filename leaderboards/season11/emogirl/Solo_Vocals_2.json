@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 119872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Gfx_C0zmatic"
+        },
+        {
             "accuracy": 100,
             "score": 119870,
             "difficulty": 3,
@@ -454,7 +462,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "jhendy10"
+            "userName": "Coach Hendy"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SiniDomino6"
-        },
-        {
-            "accuracy": 100,
-            "score": 119110,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Gnome358"
         }
     ]
 }

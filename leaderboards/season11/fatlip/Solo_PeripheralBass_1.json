@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 61330,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Iprozombie81"
+        },
+        {
             "accuracy": 99,
             "score": 61310,
             "difficulty": 2,
@@ -55,6 +63,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BowieStrong"
+        },
+        {
+            "accuracy": 98,
+            "score": 58171,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MDComix"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Blame_Latency"
-        },
-        {
-            "accuracy": 85,
-            "score": 23914,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "bruhh_stanced"
-        },
-        {
-            "accuracy": 93,
-            "score": 23550,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ACSalamander"
         }
     ]
 }

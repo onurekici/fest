@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 109998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Buckoben"
+        },
+        {
+            "accuracy": 100,
             "score": 101538,
             "difficulty": 3,
             "stars": 6,
@@ -49,12 +57,44 @@
             "userName": "GoldenGr4sp"
         },
         {
+            "accuracy": 98,
+            "score": 72438,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Venutton"
+        },
+        {
+            "accuracy": 98,
+            "score": 71280,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Atvlord"
+        },
+        {
+            "accuracy": 99,
+            "score": 50904,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JVD55x"
+        },
+        {
             "accuracy": 96,
             "score": 50346,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "metalplexXx"
+        },
+        {
+            "accuracy": 97,
+            "score": 47862,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "NancyTheFish"
         },
         {
             "accuracy": 97,
@@ -71,6 +111,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "BenikoVT"
+        },
+        {
+            "accuracy": 64,
+            "score": 3306,
+            "difficulty": 0,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "skhodog"
         }
     ]
 }

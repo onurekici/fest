@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 166296,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Auldarius"
+        },
+        {
+            "accuracy": 100,
             "score": 166248,
             "difficulty": 3,
             "stars": 6,
@@ -422,7 +430,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Tempi_Lina"
+            "userName": "Die Singularität"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "H20_rough"
-        },
-        {
-            "accuracy": 99,
-            "score": 164346,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wicked_glimmer"
         }
     ]
 }

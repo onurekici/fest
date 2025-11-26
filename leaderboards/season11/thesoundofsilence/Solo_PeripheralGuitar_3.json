@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 85512,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Nintent"
+        },
+        {
+            "accuracy": 91,
+            "score": 85348,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Leafyposeidon"
+        },
+        {
             "accuracy": 96,
             "score": 84754,
             "difficulty": 3,
@@ -23,6 +39,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Rexwinkle23"
+        },
+        {
+            "accuracy": 91,
+            "score": 84171,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SpectreAurae"
         },
         {
             "accuracy": 95,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DonChno"
-        },
-        {
-            "accuracy": 92,
-            "score": 63856,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "holyoutlaw78"
-        },
-        {
-            "accuracy": 97,
-            "score": 63587,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] XurTheGoat1"
-        },
-        {
-            "accuracy": 96,
-            "score": 63225,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "tw_hollow"
         }
     ]
 }

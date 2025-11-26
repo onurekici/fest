@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 78285,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "driftkxssr"
+        },
+        {
+            "accuracy": 100,
+            "score": 78237,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TerminalTrauma"
+        },
+        {
             "accuracy": 98,
             "score": 78211,
             "difficulty": 3,
@@ -295,6 +311,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Lost_Ruizz"
+        },
+        {
+            "accuracy": 96,
+            "score": 75079,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dawn_Horiz0n"
         },
         {
             "accuracy": 97,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "90sMK4Life"
-        },
-        {
-            "accuracy": 100,
-            "score": 69918,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Leowyld"
-        },
-        {
-            "accuracy": 94,
-            "score": 69841,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Rod7313"
-        },
-        {
-            "accuracy": 97,
-            "score": 69713,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SaltieDaltie"
         }
     ]
 }

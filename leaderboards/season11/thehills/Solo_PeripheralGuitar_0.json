@@ -129,12 +129,28 @@
             "userName": "Clever Dude"
         },
         {
+            "accuracy": 99,
+            "score": 88031,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ValkosipulPatong"
+        },
+        {
             "accuracy": 100,
             "score": 87401,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "BPURDZ"
+        },
+        {
+            "accuracy": 100,
+            "score": 87150,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mudkippp2"
         },
         {
             "accuracy": 99,
@@ -489,6 +505,14 @@
             "userName": "BrawlBomber13"
         },
         {
+            "accuracy": 98,
+            "score": 57291,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dani2680123"
+        },
+        {
             "accuracy": 89,
             "score": 55865,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Grey_Wolf548"
-        },
-        {
-            "accuracy": 96,
-            "score": 11913,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "LMG Atlas"
-        },
-        {
-            "accuracy": 95,
-            "score": 11525,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "PhenomenalPapas"
-        },
-        {
-            "accuracy": 92,
-            "score": 11084,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "King_Hbot_20"
         }
     ]
 }

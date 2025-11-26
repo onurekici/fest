@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 74873,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "silviumane"
+        },
+        {
+            "accuracy": 100,
+            "score": 74868,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Yomi_Sama"
+        },
+        {
+            "accuracy": 99,
+            "score": 74852,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xfn tash"
+        },
+        {
             "accuracy": 99,
             "score": 74849,
             "difficulty": 3,
@@ -71,6 +95,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "xb0xz0mbie2018"
+        },
+        {
+            "accuracy": 98,
+            "score": 74297,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "nOdle_Board"
         },
         {
             "accuracy": 99,
@@ -366,7 +398,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "xSy13"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ultra_s1mp"
-        },
-        {
-            "accuracy": 100,
-            "score": 70714,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MIRUCAST"
-        },
-        {
-            "accuracy": 99,
-            "score": 70713,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MaskCandy249"
-        },
-        {
-            "accuracy": 99,
-            "score": 70680,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PresentIcon8722"
-        },
-        {
-            "accuracy": 99,
-            "score": 70614,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kestrel10"
         }
     ]
 }

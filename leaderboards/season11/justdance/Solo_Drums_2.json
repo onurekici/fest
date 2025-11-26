@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 140226,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "alixGiGi"
+        },
+        {
             "accuracy": 100,
             "score": 140220,
             "difficulty": 3,
@@ -111,6 +119,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "carolzzitta"
+        },
+        {
+            "accuracy": 100,
+            "score": 139734,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GoalieHayden"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Marqlar"
-        },
-        {
-            "accuracy": 100,
-            "score": 136446,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "E8KZLF"
-        },
-        {
-            "accuracy": 100,
-            "score": 136338,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Eytonpa"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 97347,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Siderwolf"
+        },
+        {
+            "accuracy": 99,
+            "score": 97322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheHolSlayer"
+        },
+        {
+            "accuracy": 100,
             "score": 97313,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Rapidshade541"
-        },
-        {
-            "accuracy": 99,
-            "score": 95591,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "birkiram10"
-        },
-        {
-            "accuracy": 100,
-            "score": 95579,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "protectionあずきワン"
         }
     ]
 }

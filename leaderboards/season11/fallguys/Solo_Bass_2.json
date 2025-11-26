@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 76329,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "조슈아_17"
+        },
+        {
             "accuracy": 99,
             "score": 76257,
             "difficulty": 3,
@@ -745,6 +753,14 @@
             "userName": "EmmaLoL974lol"
         },
         {
+            "accuracy": 99,
+            "score": 69858,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LittleFrawg8459"
+        },
+        {
             "accuracy": 100,
             "score": 69793,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Power Chef FDM"
-        },
-        {
-            "accuracy": 99,
-            "score": 69644,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Venkullix"
-        },
-        {
-            "accuracy": 100,
-            "score": 69574,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DeltaGenus"
         }
     ]
 }

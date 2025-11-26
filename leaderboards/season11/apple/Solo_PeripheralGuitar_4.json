@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 41177,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "eboy jaiden"
+        },
+        {
+            "accuracy": 89,
+            "score": 41081,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheDeceptiveOne"
+        },
+        {
+            "accuracy": 100,
+            "score": 41016,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "aequitas700"
+        },
+        {
+            "accuracy": 87,
+            "score": 41007,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "donichu_"
+        },
+        {
             "accuracy": 95,
             "score": 40946,
             "difficulty": 2,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "WiiU_Gamepad"
-        },
-        {
-            "accuracy": 100,
-            "score": 37561,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "noice455"
-        },
-        {
-            "accuracy": 97,
-            "score": 37559,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DoomiestDoom"
-        },
-        {
-            "accuracy": 86,
-            "score": 37480,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "winmu"
-        },
-        {
-            "accuracy": 79,
-            "score": 37460,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "SuchKite"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 258461,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "northstar."
+        },
+        {
+            "accuracy": 100,
+            "score": 258449,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SugarRayRoxy"
+        },
+        {
             "accuracy": 100,
             "score": 258423,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SuperNovaKhaos"
-        },
-        {
-            "accuracy": 100,
-            "score": 257127,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[PSN] GIOKIRITA"
-        },
-        {
-            "accuracy": 100,
-            "score": 257124,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Psychoispsycho22"
         }
     ]
 }

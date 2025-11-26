@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ei.j"
+        },
+        {
+            "accuracy": 100,
             "score": 112986,
             "difficulty": 3,
             "stars": 6,
@@ -177,12 +185,28 @@
             "userName": "Nerea_mc08"
         },
         {
+            "accuracy": 99,
+            "score": 112776,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ash-A-Lash"
+        },
+        {
             "accuracy": 100,
             "score": 112776,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 112770,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FloppyBobcat3"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "petrikovsPANTS"
-        },
-        {
-            "accuracy": 100,
-            "score": 112176,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Fearlessgirl128"
-        },
-        {
-            "accuracy": 100,
-            "score": 112164,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GhostBoy332"
-        },
-        {
-            "accuracy": 99,
-            "score": 112146,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NinjaSlasher45"
         }
     ]
 }

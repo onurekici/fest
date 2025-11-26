@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 52358,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PharoahBC"
+        },
+        {
             "accuracy": 99,
             "score": 52302,
             "difficulty": 3,
@@ -31,6 +39,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "P4R0N1"
+        },
+        {
+            "accuracy": 99,
+            "score": 52071,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "YYZ_81"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "xanikar"
-        },
-        {
-            "accuracy": 98,
-            "score": 43201,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TinDhalos"
-        },
-        {
-            "accuracy": 98,
-            "score": 43019,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BasicLone Wolf"
         }
     ]
 }

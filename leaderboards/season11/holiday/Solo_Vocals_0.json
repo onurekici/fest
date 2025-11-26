@@ -50,6 +50,14 @@
         },
         {
             "accuracy": 100,
+            "score": 125430,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Aapelikaapeli."
+        },
+        {
+            "accuracy": 100,
             "score": 124507,
             "difficulty": 3,
             "stars": 6,
@@ -657,6 +665,14 @@
             "userName": "Rat-Organs"
         },
         {
+            "accuracy": 99,
+            "score": 119377,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dēskaka"
+        },
+        {
             "accuracy": 100,
             "score": 119369,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Upland-mushroom"
-        },
-        {
-            "accuracy": 100,
-            "score": 119234,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ImUzaKat"
-        },
-        {
-            "accuracy": 100,
-            "score": 119219,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hoobens"
         }
     ]
 }

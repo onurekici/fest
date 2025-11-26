@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 220825,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JoshTheHound202"
+        },
+        {
             "accuracy": 99,
             "score": 220742,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "carrete_esa1"
-        },
-        {
-            "accuracy": 99,
-            "score": 216965,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Agaseng"
         }
     ]
 }

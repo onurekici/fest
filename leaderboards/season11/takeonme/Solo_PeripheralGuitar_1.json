@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 116873,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "βrexe"
+        },
+        {
             "accuracy": 95,
             "score": 116553,
             "difficulty": 3,
@@ -689,6 +697,14 @@
             "userName": "Neon Synthwave"
         },
         {
+            "accuracy": 80,
+            "score": 35870,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "AnathemaSoul"
+        },
+        {
             "accuracy": 98,
             "score": 35620,
             "difficulty": 0,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Swissori"
-        },
-        {
-            "accuracy": 80,
-            "score": 24128,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "kacho_90"
-        },
-        {
-            "accuracy": 73,
-            "score": 23055,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Mkrayann"
         }
     ]
 }

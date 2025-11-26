@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130434,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MADMAX9818"
+        },
+        {
+            "accuracy": 100,
+            "score": 130428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kronoson"
+        },
+        {
             "accuracy": 99,
             "score": 130380,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sofiams123"
-        },
-        {
-            "accuracy": 99,
-            "score": 120336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ally Hindmarsh"
-        },
-        {
-            "accuracy": 89,
-            "score": 120330,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "blazindrea"
         }
     ]
 }

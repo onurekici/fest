@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 56486,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "A Gassy Giraffe"
+        },
+        {
+            "accuracy": 94,
+            "score": 56149,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Sockla73"
+        },
+        {
             "accuracy": 99,
             "score": 56135,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Keggrasso"
-        },
-        {
-            "accuracy": 92,
-            "score": 32289,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "PMAYS-_-"
-        },
-        {
-            "accuracy": 93,
-            "score": 32009,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "krustywire"
         }
     ]
 }

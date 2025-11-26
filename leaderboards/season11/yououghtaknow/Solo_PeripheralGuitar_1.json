@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 137379,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Łockon"
+        },
+        {
+            "accuracy": 100,
+            "score": 137324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ImReallyADog77"
+        },
+        {
+            "accuracy": 99,
+            "score": 136132,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Taric128"
+        },
+        {
             "accuracy": 99,
             "score": 136066,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "VibesRaccoon"
-        },
-        {
-            "accuracy": 98,
-            "score": 110256,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ronin_Spectre"
-        },
-        {
-            "accuracy": 98,
-            "score": 110071,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AndyEcco"
-        },
-        {
-            "accuracy": 100,
-            "score": 109939,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Parkdizzle12"
         }
     ]
 }

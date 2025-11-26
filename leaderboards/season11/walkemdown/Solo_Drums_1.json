@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 113751,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kllpa"
+        },
+        {
+            "accuracy": 99,
+            "score": 113721,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NV OuranoX"
+        },
+        {
+            "accuracy": 100,
             "score": 113697,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Micevapox"
-        },
-        {
-            "accuracy": 99,
-            "score": 109167,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "tr4mpo"
-        },
-        {
-            "accuracy": 99,
-            "score": 109143,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Elbullfrog_"
         }
     ]
 }

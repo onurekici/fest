@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 90216,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Former.Gamer."
+        },
+        {
+            "accuracy": 100,
+            "score": 90210,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cobra_Commando"
+        },
+        {
             "accuracy": 99,
             "score": 90150,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheStarWolf7"
-        },
-        {
-            "accuracy": 100,
-            "score": 88788,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hayabusa 117"
-        },
-        {
-            "accuracy": 100,
-            "score": 88764,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Libby_1606"
         }
     ]
 }

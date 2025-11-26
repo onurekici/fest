@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 50216,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RickyTheNrd"
+        },
+        {
+            "accuracy": 100,
             "score": 50194,
             "difficulty": 3,
             "stars": 6,
@@ -274,6 +282,14 @@
         },
         {
             "accuracy": 98,
+            "score": 47869,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Thoreaufare"
+        },
+        {
+            "accuracy": 98,
             "score": 47866,
             "difficulty": 3,
             "stars": 6,
@@ -439,6 +455,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "pearcider19"
+        },
+        {
+            "accuracy": 97,
+            "score": 46839,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "canyoushootmern"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Headhunter26767"
-        },
-        {
-            "accuracy": 100,
-            "score": 44464,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Peyton1620"
-        },
-        {
-            "accuracy": 98,
-            "score": 44237,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AoK Toothpick"
-        },
-        {
-            "accuracy": 98,
-            "score": 44112,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "wantsumfuh"
         }
     ]
 }

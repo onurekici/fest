@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 281092,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LaDiamanda"
+        },
+        {
+            "accuracy": 99,
+            "score": 281036,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "meechǃ"
+        },
+        {
+            "accuracy": 100,
             "score": 280826,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Just Juany"
-        },
-        {
-            "accuracy": 100,
-            "score": 271584,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PostMan Glen"
-        },
-        {
-            "accuracy": 100,
-            "score": 271554,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Cold Ice Age"
         }
     ]
 }

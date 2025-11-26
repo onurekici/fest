@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 160194,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Razkiinn"
+        },
+        {
+            "accuracy": 97,
+            "score": 160056,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "El Jordan_"
+        },
+        {
             "accuracy": 97,
             "score": 157763,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bob_Evan"
-        },
-        {
-            "accuracy": 96,
-            "score": 92676,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MrStealYoBooty1"
-        },
-        {
-            "accuracy": 100,
-            "score": 92622,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Matixtheawesome"
         }
     ]
 }

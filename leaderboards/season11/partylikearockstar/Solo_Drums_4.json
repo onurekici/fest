@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 276252,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cybearnetic"
+        },
+        {
+            "accuracy": 99,
             "score": 276210,
             "difficulty": 3,
             "stars": 6,
@@ -311,6 +319,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "IA AKSNES01"
+        },
+        {
+            "accuracy": 100,
+            "score": 274488,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SofiaPerkele"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "oboogieman_"
-        },
-        {
-            "accuracy": 99,
-            "score": 272106,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ImprezaRLN"
-        },
-        {
-            "accuracy": 100,
-            "score": 272004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mission-decisive"
         }
     ]
 }

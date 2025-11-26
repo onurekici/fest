@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 86436,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheWholeCircus"
+        },
+        {
             "accuracy": 99,
             "score": 86436,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ふぉーるくん"
-        },
-        {
-            "accuracy": 99,
-            "score": 83262,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Blinked_Echo"
         }
     ]
 }

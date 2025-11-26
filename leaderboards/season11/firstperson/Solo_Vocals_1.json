@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 95775,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Megumis13reasons"
+        },
+        {
+            "accuracy": 100,
             "score": 95767,
             "difficulty": 3,
             "stars": 6,
@@ -351,6 +359,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "UnhingedChaos92"
+        },
+        {
+            "accuracy": 99,
+            "score": 92844,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Emilinator21"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Druseli"
-        },
-        {
-            "accuracy": 99,
-            "score": 87791,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Layton20"
-        },
-        {
-            "accuracy": 99,
-            "score": 87758,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Individual_grape"
         }
     ]
 }

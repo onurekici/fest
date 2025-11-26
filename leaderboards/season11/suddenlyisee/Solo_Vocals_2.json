@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 102627,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KingLucasDerErst"
+        },
+        {
+            "accuracy": 99,
+            "score": 102597,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DrewFromCLT"
+        },
+        {
+            "accuracy": 100,
+            "score": 102577,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Lady_Villain_"
+        },
+        {
+            "accuracy": 99,
+            "score": 102424,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VesBB2"
+        },
+        {
             "accuracy": 99,
             "score": 102422,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "χemik"
-        },
-        {
-            "accuracy": 98,
-            "score": 90941,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KendraTheHylian"
-        },
-        {
-            "accuracy": 98,
-            "score": 90675,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Arwin Hochauser"
-        },
-        {
-            "accuracy": 99,
-            "score": 90604,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LinkFuzz"
-        },
-        {
-            "accuracy": 99,
-            "score": 90391,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Homaf"
         }
     ]
 }

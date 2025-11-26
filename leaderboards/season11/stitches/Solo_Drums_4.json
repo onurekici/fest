@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85284,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cappellanotempla"
+        },
+        {
+            "accuracy": 100,
+            "score": 85254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lucienslover"
+        },
+        {
             "accuracy": 100,
             "score": 85224,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Myyttinen_näätä"
-        },
-        {
-            "accuracy": 99,
-            "score": 83022,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SanRobtoez"
-        },
-        {
-            "accuracy": 100,
-            "score": 82998,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BigDollarKing"
         }
     ]
 }

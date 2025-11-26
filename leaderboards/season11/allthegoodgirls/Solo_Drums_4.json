@@ -89,6 +89,14 @@
             "userName": "gu_stunner"
         },
         {
+            "accuracy": 100,
+            "score": 99450,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "brews_your_daddy"
+        },
+        {
             "accuracy": 99,
             "score": 99432,
             "difficulty": 3,
@@ -613,6 +621,14 @@
             "score": 98790,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "Im_not_real51"
+        },
+        {
+            "accuracy": 100,
+            "score": 98790,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "Metallica1337"
         },
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "IX37x"
-        },
-        {
-            "accuracy": 100,
-            "score": 98592,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zedan69420"
-        },
-        {
-            "accuracy": 99,
-            "score": 98586,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CheekiiBoom"
         }
     ]
 }

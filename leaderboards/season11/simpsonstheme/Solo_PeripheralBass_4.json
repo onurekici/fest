@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 31194,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "thathappyjoker"
+        },
+        {
+            "accuracy": 99,
+            "score": 31164,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AlamDeschain"
+        },
+        {
+            "accuracy": 100,
+            "score": 31140,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "calverte81"
+        },
+        {
             "accuracy": 100,
             "score": 31134,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "T-brraxx"
-        },
-        {
-            "accuracy": 99,
-            "score": 27498,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MortalGoth"
-        },
-        {
-            "accuracy": 98,
-            "score": 27498,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BlakeKB17"
-        },
-        {
-            "accuracy": 98,
-            "score": 27474,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Aadam5517"
         }
     ]
 }
