@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 154026,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "stupidsnakes"
+        },
+        {
             "accuracy": 99,
             "score": 153972,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Yakoozer"
-        },
-        {
-            "accuracy": 99,
-            "score": 151194,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kinda_Bad_AtThis"
         }
     ]
 }

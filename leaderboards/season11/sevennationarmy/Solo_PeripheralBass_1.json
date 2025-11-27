@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 66300,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "CarloSpicyW31ner"
+        },
+        {
             "accuracy": 95,
             "score": 63907,
             "difficulty": 2,
@@ -577,6 +585,14 @@
             "userName": "[PSN] katwrangler"
         },
         {
+            "accuracy": 96,
+            "score": 25614,
+            "difficulty": 0,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Tistic_Toucher"
+        },
+        {
             "accuracy": 84,
             "score": 25527,
             "difficulty": 2,
@@ -721,6 +737,14 @@
             "userName": "Exia Yukiko"
         },
         {
+            "accuracy": 96,
+            "score": 16128,
+            "difficulty": 0,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Killerbunny_27"
+        },
+        {
             "accuracy": 76,
             "score": 15988,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "zero-arc1304"
-        },
-        {
-            "accuracy": 88,
-            "score": 14430,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Partyboys491"
-        },
-        {
-            "accuracy": 71,
-            "score": 14158,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "gandalhvi"
-        },
-        {
-            "accuracy": 69,
-            "score": 14101,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "ToxicitySnorelax"
         }
     ]
 }

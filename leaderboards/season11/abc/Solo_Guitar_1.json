@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 85737,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ktsayshiii"
+        },
+        {
+            "accuracy": 99,
+            "score": 85632,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Night167"
+        },
+        {
             "accuracy": 99,
             "score": 85617,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Leodan_CC"
-        },
-        {
-            "accuracy": 100,
-            "score": 83348,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "dirsch43"
-        },
-        {
-            "accuracy": 99,
-            "score": 83346,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Legend Megax"
         }
     ]
 }

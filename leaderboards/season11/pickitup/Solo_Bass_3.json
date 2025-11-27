@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 40413,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "shley_101"
+        },
+        {
+            "accuracy": 96,
+            "score": 40387,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ciaranMcGuigan"
+        },
+        {
+            "accuracy": 99,
+            "score": 40275,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HeSoKai"
+        },
+        {
             "accuracy": 99,
             "score": 40177,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Pad1ngton"
-        },
-        {
-            "accuracy": 99,
-            "score": 32586,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Graffiti Diamond"
-        },
-        {
-            "accuracy": 98,
-            "score": 32449,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ItzzFireside"
-        },
-        {
-            "accuracy": 100,
-            "score": 32444,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Maryan_86"
         }
     ]
 }

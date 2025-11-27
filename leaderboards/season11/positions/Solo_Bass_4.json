@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 54323,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Karlyta1208"
+        },
+        {
+            "accuracy": 99,
+            "score": 54321,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Corpsewitch13x"
+        },
+        {
+            "accuracy": 100,
             "score": 54312,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "FEVER1SHLY"
-        },
-        {
-            "accuracy": 100,
-            "score": 51178,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "findingmaro"
-        },
-        {
-            "accuracy": 100,
-            "score": 51174,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "SammyChase"
         }
     ]
 }

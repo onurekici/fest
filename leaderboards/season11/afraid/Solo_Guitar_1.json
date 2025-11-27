@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130572,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jinsrnd"
+        },
+        {
+            "accuracy": 100,
+            "score": 130542,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BackOutToAlan"
+        },
+        {
+            "accuracy": 100,
             "score": 130518,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GargaBlarga"
-        },
-        {
-            "accuracy": 100,
-            "score": 129132,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "L2Belinski"
-        },
-        {
-            "accuracy": 100,
-            "score": 129120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Westside Funn"
         }
     ]
 }

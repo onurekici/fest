@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 256890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SuperJersh"
+        },
+        {
+            "accuracy": 100,
+            "score": 256860,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Freak On-a Leash"
+        },
+        {
+            "accuracy": 100,
             "score": 256848,
             "difficulty": 3,
             "stars": 6,
@@ -270,7 +286,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "driftqueen94"
+            "userName": "dying_euphoria"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "JoelxBR"
-        },
-        {
-            "accuracy": 100,
-            "score": 253344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sackbox"
-        },
-        {
-            "accuracy": 100,
-            "score": 253344,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "JBird_77th"
         }
     ]
 }

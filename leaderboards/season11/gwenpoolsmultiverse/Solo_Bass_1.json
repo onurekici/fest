@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 101113,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "the_susser"
+        },
+        {
+            "accuracy": 100,
             "score": 101058,
             "difficulty": 3,
             "stars": 6,
@@ -263,6 +271,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Spooky Ewok"
+        },
+        {
+            "accuracy": 99,
+            "score": 96571,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Luminous_girl"
         },
         {
             "accuracy": 100,
@@ -698,6 +714,14 @@
         },
         {
             "accuracy": 99,
+            "score": 89263,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheBreloomLegend"
+        },
+        {
+            "accuracy": 99,
             "score": 89186,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ShrimpleShrimply"
-        },
-        {
-            "accuracy": 100,
-            "score": 88594,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ashypants72"
-        },
-        {
-            "accuracy": 100,
-            "score": 88275,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "thefamous0104"
-        },
-        {
-            "accuracy": 100,
-            "score": 88058,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "B_I_O_M_E_D"
         }
     ]
 }

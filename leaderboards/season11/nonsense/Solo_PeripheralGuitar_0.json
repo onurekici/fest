@@ -281,6 +281,14 @@
             "userName": "Vyrandr"
         },
         {
+            "accuracy": 100,
+            "score": 117980,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Throckleylad"
+        },
+        {
             "accuracy": 99,
             "score": 117784,
             "difficulty": 3,
@@ -586,6 +594,14 @@
         },
         {
             "accuracy": 99,
+            "score": 110223,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pie Oh Lit"
+        },
+        {
+            "accuracy": 99,
             "score": 109678,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dj Playman"
-        },
-        {
-            "accuracy": 98,
-            "score": 105435,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Pie Oh Lit"
-        },
-        {
-            "accuracy": 98,
-            "score": 105352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lunar Cow"
         }
     ]
 }

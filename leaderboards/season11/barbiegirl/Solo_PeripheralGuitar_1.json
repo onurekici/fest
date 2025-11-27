@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 124311,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hautakivi3"
+        },
+        {
+            "accuracy": 100,
+            "score": 124277,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jasonr19"
+        },
+        {
             "accuracy": 100,
             "score": 124105,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ttvzacch"
-        },
-        {
-            "accuracy": 100,
-            "score": 116486,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Pokemon42YT"
-        },
-        {
-            "accuracy": 100,
-            "score": 116366,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "I DontFeelSoGood"
         }
     ]
 }

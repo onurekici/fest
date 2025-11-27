@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127889,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "saltedy0lk"
+        },
+        {
+            "accuracy": 95,
+            "score": 127796,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Travis_Escortt"
+        },
+        {
             "accuracy": 78,
             "score": 126426,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "HelpMePlz45"
-        },
-        {
-            "accuracy": 98,
-            "score": 87239,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lord_Neep"
-        },
-        {
-            "accuracy": 98,
-            "score": 86735,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bates-"
         }
     ]
 }

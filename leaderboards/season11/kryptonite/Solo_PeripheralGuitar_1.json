@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 177746,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lethal_Sushi"
+        },
+        {
+            "accuracy": 100,
+            "score": 177575,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gefilte_Fish"
+        },
+        {
             "accuracy": 99,
             "score": 177560,
             "difficulty": 3,
@@ -303,6 +319,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Pr0BeaR"
+        },
+        {
+            "accuracy": 100,
+            "score": 175604,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mgs3Gamer"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "廴〆ム"
-        },
-        {
-            "accuracy": 99,
-            "score": 172753,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bobberaldo"
-        },
-        {
-            "accuracy": 99,
-            "score": 172538,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "wp_lol"
-        },
-        {
-            "accuracy": 99,
-            "score": 172535,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sean_T_Ellis"
         }
     ]
 }

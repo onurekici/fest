@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 96529,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Edible_Bean"
+        },
+        {
+            "accuracy": 99,
+            "score": 96496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "vxbaez"
+        },
+        {
+            "accuracy": 100,
             "score": 96496,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Aross_"
-        },
-        {
-            "accuracy": 100,
-            "score": 95502,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Prodine_"
-        },
-        {
-            "accuracy": 100,
-            "score": 95496,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gthseok_"
         }
     ]
 }

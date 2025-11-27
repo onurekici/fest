@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 124908,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KitCs13"
+        },
+        {
+            "accuracy": 99,
+            "score": 124890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FatalSmell"
+        },
+        {
             "accuracy": 99,
             "score": 124884,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[XBL] Xxrae2000xX"
-        },
-        {
-            "accuracy": 99,
-            "score": 123660,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ggyella"
-        },
-        {
-            "accuracy": 100,
-            "score": 123642,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mago_Pirula"
         }
     ]
 }

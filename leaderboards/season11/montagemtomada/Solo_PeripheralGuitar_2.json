@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 30846,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheAmazingTobi"
+        },
+        {
+            "accuracy": 100,
+            "score": 30834,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Blunderstab"
+        },
+        {
             "accuracy": 99,
             "score": 30816,
             "difficulty": 3,
@@ -601,14 +617,6 @@
             "userName": "NoahJayVEVO"
         },
         {
-            "accuracy": 100,
-            "score": 19854,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Seb_tha_goat"
-        },
-        {
             "accuracy": 96,
             "score": 19632,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "twitch Xilzy"
-        },
-        {
-            "accuracy": 93,
-            "score": 16332,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Paquixt_YT"
         }
     ]
 }

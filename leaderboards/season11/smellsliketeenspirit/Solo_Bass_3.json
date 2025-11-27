@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 239337,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MireMarauder"
+        },
+        {
+            "accuracy": 100,
+            "score": 239316,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kerplunk191"
+        },
+        {
             "accuracy": 100,
             "score": 239297,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MrFistr"
-        },
-        {
-            "accuracy": 100,
-            "score": 236672,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "APG_ALPHA21"
-        },
-        {
-            "accuracy": 100,
-            "score": 236663,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AckGabe"
         }
     ]
 }

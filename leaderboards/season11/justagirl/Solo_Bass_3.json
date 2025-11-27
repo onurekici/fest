@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 165754,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hobo Taco"
+        },
+        {
+            "accuracy": 100,
+            "score": 165718,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Felikswoofwoof"
+        },
+        {
             "accuracy": 99,
             "score": 165646,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "unitNitro"
-        },
-        {
-            "accuracy": 99,
-            "score": 161967,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItzMePako"
-        },
-        {
-            "accuracy": 99,
-            "score": 161964,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Munchkindoughnut"
         }
     ]
 }

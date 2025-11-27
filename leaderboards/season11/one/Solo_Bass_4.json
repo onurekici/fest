@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 453074,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CrackersJaguar9"
+        },
+        {
+            "accuracy": 100,
+            "score": 453065,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Flowescent_"
+        },
+        {
             "accuracy": 100,
             "score": 453062,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VicariousMud"
-        },
-        {
-            "accuracy": 100,
-            "score": 450054,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jaxyminita"
-        },
-        {
-            "accuracy": 99,
-            "score": 450049,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FadedGengar_"
         }
     ]
 }

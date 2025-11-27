@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 148509,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "natnek02"
+        },
+        {
+            "accuracy": 100,
+            "score": 148507,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tnbulldawg"
+        },
+        {
             "accuracy": 99,
             "score": 148488,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bettir call NAIF"
-        },
-        {
-            "accuracy": 100,
-            "score": 147108,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MeltedMantee86"
-        },
-        {
-            "accuracy": 100,
-            "score": 147081,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "frosty5701"
         }
     ]
 }

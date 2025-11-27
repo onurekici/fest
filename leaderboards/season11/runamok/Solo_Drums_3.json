@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 81999,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BunkeredSpark69"
+        },
+        {
+            "accuracy": 100,
+            "score": 81963,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "L.B11"
+        },
+        {
             "accuracy": 99,
             "score": 81809,
             "difficulty": 3,
@@ -686,7 +702,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "sukunasho"
+            "userName": "JabbersNineInch"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GuyCalledVita"
-        },
-        {
-            "accuracy": 99,
-            "score": 79790,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "esparrafado"
-        },
-        {
-            "accuracy": 99,
-            "score": 79779,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DisLeoed"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 55506,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "nivily"
+        },
+        {
+            "accuracy": 99,
             "score": 55450,
             "difficulty": 3,
             "stars": 6,
@@ -47,6 +55,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FantasyFill-CZ"
+        },
+        {
+            "accuracy": 100,
+            "score": 55342,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ChuyGH"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "bAkUn2n"
-        },
-        {
-            "accuracy": 99,
-            "score": 50290,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "deathRicodemon"
-        },
-        {
-            "accuracy": 98,
-            "score": 50279,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GT-FEROZ"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65535,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mirmiranda."
+        },
+        {
+            "accuracy": 100,
             "score": 65532,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DiamanteGamer13"
-        },
-        {
-            "accuracy": 100,
-            "score": 65091,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Leeyumono"
         }
     ]
 }

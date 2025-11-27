@@ -202,6 +202,14 @@
         },
         {
             "accuracy": 100,
+            "score": 99449,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "André Trigo"
+        },
+        {
+            "accuracy": 100,
             "score": 99433,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Captain_Wombatt"
-        },
-        {
-            "accuracy": 100,
-            "score": 98985,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SirHuncky5"
         }
     ]
 }

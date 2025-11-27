@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 555851,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "APtony_"
+        },
+        {
+            "accuracy": 100,
             "score": 555841,
             "difficulty": 3,
             "stars": 6,
@@ -23,14 +31,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MyChemicalDso"
-        },
-        {
-            "accuracy": 100,
-            "score": 555625,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Konori_Mii"
         },
         {
             "accuracy": 100,
@@ -71,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Noizeblast"
+        },
+        {
+            "accuracy": 100,
+            "score": 555458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "WanderlustXO28"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "JuniorzGTXX"
-        },
-        {
-            "accuracy": 99,
-            "score": 551189,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zmutf"
         }
     ]
 }

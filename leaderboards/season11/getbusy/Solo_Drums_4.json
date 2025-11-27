@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 165300,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ipsum_00"
+        },
+        {
+            "accuracy": 97,
+            "score": 165276,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sylvie Horse"
+        },
+        {
             "accuracy": 74,
             "score": 165120,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Urmah 4750"
-        },
-        {
-            "accuracy": 95,
-            "score": 132770,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PoozPatrol"
-        },
-        {
-            "accuracy": 94,
-            "score": 132600,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "CryFieri"
         }
     ]
 }

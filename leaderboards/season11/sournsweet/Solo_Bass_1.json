@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 61708,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 61658,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LannTheFirst"
+        },
+        {
             "accuracy": 99,
             "score": 61573,
             "difficulty": 3,
@@ -618,6 +634,14 @@
         },
         {
             "accuracy": 99,
+            "score": 54356,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Havoc_Shadow."
+        },
+        {
+            "accuracy": 99,
             "score": 54311,
             "difficulty": 3,
             "stars": 6,
@@ -738,11 +762,27 @@
         },
         {
             "accuracy": 99,
+            "score": 52662,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AzureTheHero"
+        },
+        {
+            "accuracy": 99,
             "score": 52603,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "[PSN] noah_pessoa"
+        },
+        {
+            "accuracy": 98,
+            "score": 52510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mclive_"
         },
         {
             "accuracy": 100,
@@ -759,46 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "VG Emerald_TTV"
-        },
-        {
-            "accuracy": 99,
-            "score": 51534,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gammatron84"
-        },
-        {
-            "accuracy": 98,
-            "score": 51298,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "doomgiy 64"
-        },
-        {
-            "accuracy": 99,
-            "score": 51290,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 51259,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] AmexDiviZion"
-        },
-        {
-            "accuracy": 99,
-            "score": 51066,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MikoNikoo"
         }
     ]
 }

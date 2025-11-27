@@ -618,6 +618,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123982,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Babonov"
+        },
+        {
+            "accuracy": 100,
             "score": 123858,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "noshulik"
-        },
-        {
-            "accuracy": 99,
-            "score": 122750,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Angixdツ"
         }
     ]
 }

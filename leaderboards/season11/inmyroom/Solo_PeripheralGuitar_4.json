@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 191737,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dark knight 173"
+        },
+        {
             "accuracy": 99,
             "score": 191730,
             "difficulty": 3,
@@ -641,6 +649,14 @@
             "userName": "CHIMERA_RW"
         },
         {
+            "accuracy": 99,
+            "score": 188571,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Duggerino"
+        },
+        {
             "accuracy": 100,
             "score": 188566,
             "difficulty": 3,
@@ -663,6 +679,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Moе Szyslak"
+        },
+        {
+            "accuracy": 99,
+            "score": 188315,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SageOfThe420Path"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Saltysharky"
-        },
-        {
-            "accuracy": 99,
-            "score": 187627,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BrokenThoughts1"
-        },
-        {
-            "accuracy": 99,
-            "score": 187616,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DaRriN-DeeZ"
-        },
-        {
-            "accuracy": 99,
-            "score": 187559,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Disradomperson"
         }
     ]
 }

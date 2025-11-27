@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 118344,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Azurite_D"
+        },
+        {
+            "accuracy": 99,
+            "score": 118343,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ironfozzy"
+        },
+        {
+            "accuracy": 100,
             "score": 118328,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LXplosiveX"
-        },
-        {
-            "accuracy": 100,
-            "score": 117282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DonnaMlx"
-        },
-        {
-            "accuracy": 100,
-            "score": 117276,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "68theo"
         }
     ]
 }

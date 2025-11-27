@@ -314,6 +314,14 @@
         },
         {
             "accuracy": 100,
+            "score": 46652,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CraftyTattedMom"
+        },
+        {
+            "accuracy": 100,
             "score": 46644,
             "difficulty": 3,
             "stars": 6,
@@ -351,6 +359,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "JP_Kano"
+        },
+        {
+            "accuracy": 98,
+            "score": 46578,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dono do Midas"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MatrixVoid_152"
-        },
-        {
-            "accuracy": 99,
-            "score": 43303,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheNemesis85"
-        },
-        {
-            "accuracy": 100,
-            "score": 43178,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PiniMut"
         }
     ]
 }

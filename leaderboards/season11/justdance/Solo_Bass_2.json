@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 104596,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jocekook"
+        },
+        {
+            "accuracy": 100,
+            "score": 104546,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "alexrojano"
+        },
+        {
+            "accuracy": 100,
             "score": 104521,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Threelc"
-        },
-        {
-            "accuracy": 99,
-            "score": 100704,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "APG_ALPHA21"
-        },
-        {
-            "accuracy": 99,
-            "score": 100694,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheToxicJay"
         }
     ]
 }

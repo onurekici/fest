@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 195568,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ILampy"
+        },
+        {
+            "accuracy": 100,
+            "score": 195535,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "saramalacaragoth"
+        },
+        {
             "accuracy": 99,
             "score": 195519,
             "difficulty": 3,
@@ -239,14 +255,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dazzonez"
-        },
-        {
-            "accuracy": 99,
-            "score": 195024,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Clalopez"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "xmynameisbrendax"
-        },
-        {
-            "accuracy": 100,
-            "score": 193832,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "i glory i"
         }
     ]
 }

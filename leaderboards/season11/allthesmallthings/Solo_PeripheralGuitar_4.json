@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 181932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Uzuchiyaツ"
+        },
+        {
+            "accuracy": 99,
+            "score": 181868,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "starfox_6456303"
+        },
+        {
             "accuracy": 98,
             "score": 181845,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DaUsername"
-        },
-        {
-            "accuracy": 98,
-            "score": 174982,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iTenshiSenpai"
-        },
-        {
-            "accuracy": 98,
-            "score": 174781,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "cowtank1"
         }
     ]
 }

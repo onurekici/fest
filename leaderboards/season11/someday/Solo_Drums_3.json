@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130596,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Proteinbeans"
+        },
+        {
             "accuracy": 99,
             "score": 130548,
             "difficulty": 3,
@@ -713,6 +721,14 @@
             "userName": "[XBL] El Mishilote"
         },
         {
+            "accuracy": 99,
+            "score": 127272,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DLCpes"
+        },
+        {
             "accuracy": 100,
             "score": 127254,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CryFieri"
-        },
-        {
-            "accuracy": 99,
-            "score": 126828,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Moneyjayjay23"
-        },
-        {
-            "accuracy": 99,
-            "score": 126792,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bugman Blur"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 36369,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "TNeva"
+        },
+        {
             "accuracy": 99,
             "score": 36294,
             "difficulty": 1,
@@ -414,7 +422,7 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "West End QT."
+            "userName": "West End Qween"
         },
         {
             "accuracy": 86,
@@ -535,6 +543,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SonO魔"
+        },
+        {
+            "accuracy": 95,
+            "score": 28345,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "StinkyBite"
         },
         {
             "accuracy": 95,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "RejectedNPC"
-        },
-        {
-            "accuracy": 85,
-            "score": 25245,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "LittleRedZombi"
-        },
-        {
-            "accuracy": 95,
-            "score": 24808,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "KillerKittyMrow"
         }
     ]
 }

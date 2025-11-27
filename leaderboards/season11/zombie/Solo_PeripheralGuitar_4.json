@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 189256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bio551"
+        },
+        {
+            "accuracy": 99,
+            "score": 189234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SeanMouse26"
+        },
+        {
             "accuracy": 99,
             "score": 189219,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "nocturnalriots"
-        },
-        {
-            "accuracy": 96,
-            "score": 184407,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItzDandroid"
-        },
-        {
-            "accuracy": 99,
-            "score": 184405,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kayakmusical01"
         }
     ]
 }

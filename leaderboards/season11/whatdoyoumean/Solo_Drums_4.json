@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 108588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nugget200"
+        },
+        {
+            "accuracy": 99,
+            "score": 108576,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jayber Crow"
+        },
+        {
             "accuracy": 99,
             "score": 108576,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Yael Ferloz"
-        },
-        {
-            "accuracy": 100,
-            "score": 106746,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LiquidSurge"
-        },
-        {
-            "accuracy": 98,
-            "score": 106710,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "yungturkey69"
         }
     ]
 }

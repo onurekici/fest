@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 74727,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lulu botadinha"
+        },
+        {
+            "accuracy": 99,
+            "score": 74699,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SoloPokemon"
+        },
+        {
+            "accuracy": 100,
             "score": 74672,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Xandie64"
-        },
-        {
-            "accuracy": 100,
-            "score": 73089,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "popular_loner02"
-        },
-        {
-            "accuracy": 100,
-            "score": 73065,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AlanP117"
         }
     ]
 }

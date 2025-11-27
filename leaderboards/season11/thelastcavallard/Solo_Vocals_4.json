@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 98740,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "prettylougie"
+        },
+        {
+            "accuracy": 100,
+            "score": 98720,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PowCHING"
+        },
+        {
+            "accuracy": 100,
             "score": 98654,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "pen the bird"
-        },
-        {
-            "accuracy": 100,
-            "score": 95867,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "No Souls"
-        },
-        {
-            "accuracy": 99,
-            "score": 95860,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BPsycho_"
         }
     ]
 }

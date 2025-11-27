@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 105352,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lunar Cow"
+        },
+        {
             "accuracy": 97,
             "score": 105143,
             "difficulty": 3,
@@ -593,6 +601,14 @@
             "userName": "Exteriordeer"
         },
         {
+            "accuracy": 95,
+            "score": 86953,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Lil Nuggs X"
+        },
+        {
             "accuracy": 98,
             "score": 86723,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Th3 Wask"
-        },
-        {
-            "accuracy": 100,
-            "score": 79730,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Leowyld"
-        },
-        {
-            "accuracy": 97,
-            "score": 79348,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "VeeAlora"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 41840,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Defguy1984"
+        },
+        {
+            "accuracy": 100,
             "score": 41828,
             "difficulty": 3,
             "stars": 6,
@@ -351,6 +359,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Leadpool"
+        },
+        {
+            "accuracy": 99,
+            "score": 38392,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ELESCAUT_75"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ItzmeDARIO"
-        },
-        {
-            "accuracy": 99,
-            "score": 34704,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kikiblood15"
-        },
-        {
-            "accuracy": 99,
-            "score": 34602,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LackingSubstance"
         }
     ]
 }

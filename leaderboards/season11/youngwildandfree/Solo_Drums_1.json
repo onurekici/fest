@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 177294,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BowelBlasters"
+        },
+        {
+            "accuracy": 100,
+            "score": 177060,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IA AKSNES01"
+        },
+        {
+            "accuracy": 100,
             "score": 177024,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "curasio"
-        },
-        {
-            "accuracy": 99,
-            "score": 170148,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "bxemm_"
-        },
-        {
-            "accuracy": 99,
-            "score": 170070,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gusha_"
         }
     ]
 }

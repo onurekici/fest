@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 46705,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ESE WEY 007"
+        },
+        {
+            "accuracy": 100,
+            "score": 46702,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PepticStudent"
+        },
+        {
             "accuracy": 100,
             "score": 46698,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "docj44"
-        },
-        {
-            "accuracy": 100,
-            "score": 46045,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ijskoffie22"
-        },
-        {
-            "accuracy": 100,
-            "score": 46042,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AghastKitty11"
         }
     ]
 }

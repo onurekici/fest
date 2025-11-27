@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 240320,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dolphin1273"
+        },
+        {
+            "accuracy": 100,
             "score": 240315,
             "difficulty": 3,
             "stars": 6,
@@ -247,6 +255,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Utsunamiya"
+        },
+        {
+            "accuracy": 100,
+            "score": 239446,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SamSausages"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "UsbStickInSpace"
-        },
-        {
-            "accuracy": 99,
-            "score": 237252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Astral_Suture"
-        },
-        {
-            "accuracy": 99,
-            "score": 237249,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "inHaste"
         }
     ]
 }

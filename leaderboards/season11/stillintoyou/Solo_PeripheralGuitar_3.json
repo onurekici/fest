@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 193765,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FlibFlarb"
+        },
+        {
             "accuracy": 99,
             "score": 193656,
             "difficulty": 3,
@@ -71,6 +79,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "A_ShyGuy"
+        },
+        {
+            "accuracy": 99,
+            "score": 193115,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ForeignArcadia"
         },
         {
             "accuracy": 95,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GirlyBooXoxo"
-        },
-        {
-            "accuracy": 97,
-            "score": 180475,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iTenshiSenpai"
-        },
-        {
-            "accuracy": 97,
-            "score": 180358,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "R0b0Rat"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 269040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "YesImAwoke"
+        },
+        {
+            "accuracy": 100,
+            "score": 268992,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "XUnorthodoxX"
+        },
+        {
+            "accuracy": 99,
             "score": 268968,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "yan_https"
-        },
-        {
-            "accuracy": 100,
-            "score": 266094,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Doja_Neko"
-        },
-        {
-            "accuracy": 99,
-            "score": 266094,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Léinku"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 146268,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OuterOreosYT"
+        },
+        {
+            "accuracy": 100,
+            "score": 146256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Styrofoam4"
+        },
+        {
             "accuracy": 100,
             "score": 146244,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ghostpkin"
-        },
-        {
-            "accuracy": 100,
-            "score": 144240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nova Equinox"
-        },
-        {
-            "accuracy": 100,
-            "score": 144174,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Twitch Larambae"
         }
     ]
 }
