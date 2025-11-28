@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 95,
+            "score": 40469,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sgt Taylor Swift"
+        },
+        {
+            "accuracy": 95,
             "score": 40134,
             "difficulty": 2,
             "stars": 5,
@@ -654,7 +662,7 @@
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
-            "userName": "ChuckDaGoonr25"
+            "userName": "ChuckDaGrinch25"
         },
         {
             "accuracy": 95,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Tinytaurus40"
-        },
-        {
-            "accuracy": 77,
-            "score": 22741,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "BlochWalker"
         }
     ]
 }

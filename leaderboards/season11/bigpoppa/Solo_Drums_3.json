@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 152442,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Buggy wugg"
+        },
+        {
             "accuracy": 99,
             "score": 152442,
             "difficulty": 3,
@@ -769,6 +777,14 @@
             "userName": "BlaqueFaux"
         },
         {
+            "accuracy": 99,
+            "score": 151158,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LobitoDoo19"
+        },
+        {
             "accuracy": 100,
             "score": 151152,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Thedüde34"
-        },
-        {
-            "accuracy": 99,
-            "score": 151140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KittyKero"
-        },
-        {
-            "accuracy": 100,
-            "score": 151134,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LukeSoko"
         }
     ]
 }

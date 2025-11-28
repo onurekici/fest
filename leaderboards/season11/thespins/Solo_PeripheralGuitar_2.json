@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126359,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cloudsify"
+        },
+        {
             "accuracy": 99,
             "score": 126265,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kaz_XP"
-        },
-        {
-            "accuracy": 99,
-            "score": 116873,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Festival Man"
         }
     ]
 }

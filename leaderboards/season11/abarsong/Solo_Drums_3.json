@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123990,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lll Space 1"
+        },
+        {
+            "accuracy": 100,
             "score": 123966,
             "difficulty": 3,
             "stars": 6,
@@ -367,6 +375,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MadDogOfShiman03"
+        },
+        {
+            "accuracy": 99,
+            "score": 123330,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kyubi 1999"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "undercover_kisse"
-        },
-        {
-            "accuracy": 100,
-            "score": 122754,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Verkaas"
-        },
-        {
-            "accuracy": 100,
-            "score": 122742,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Asuna ㅤ"
         }
     ]
 }

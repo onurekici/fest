@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 123708,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Imsoawesomeface"
+        },
+        {
+            "accuracy": 95,
+            "score": 123576,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Marce_TmC"
+        },
+        {
             "accuracy": 97,
             "score": 123507,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Grizzly Borealis"
-        },
-        {
-            "accuracy": 94,
-            "score": 112743,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "dismalDarko"
-        },
-        {
-            "accuracy": 93,
-            "score": 112710,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "xNadia"
         }
     ]
 }

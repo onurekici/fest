@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 179113,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SIDEWAY-35"
+        },
+        {
+            "accuracy": 100,
+            "score": 179112,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KENÐO"
+        },
+        {
             "accuracy": 100,
             "score": 179072,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HatsuneMiku01xx"
-        },
-        {
-            "accuracy": 99,
-            "score": 176472,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Emotionlesszzz"
-        },
-        {
-            "accuracy": 100,
-            "score": 176460,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BLS_NOCOLF"
         }
     ]
 }

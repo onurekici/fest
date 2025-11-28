@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 61296,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Dark_Xerbrus"
+        },
+        {
+            "accuracy": 99,
+            "score": 61296,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fIaccidfrog"
+        },
+        {
             "accuracy": 99,
             "score": 61236,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Firestreak15"
-        },
-        {
-            "accuracy": 100,
-            "score": 57942,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MoodieMascarpwnd"
-        },
-        {
-            "accuracy": 97,
-            "score": 57918,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JavierL742"
         }
     ]
 }

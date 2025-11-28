@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 95560,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fumitaki"
+        },
+        {
             "accuracy": 99,
             "score": 95492,
             "difficulty": 3,
@@ -359,6 +367,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BBT0N"
+        },
+        {
+            "accuracy": 98,
+            "score": 85913,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Aquatotron"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DANNIDARK0"
-        },
-        {
-            "accuracy": 97,
-            "score": 74949,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "nocturnalriots"
-        },
-        {
-            "accuracy": 97,
-            "score": 74873,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DerDreckigeDaaan"
         }
     ]
 }

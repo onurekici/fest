@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126515,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "stupidsnakes"
+        },
+        {
             "accuracy": 99,
             "score": 126510,
             "difficulty": 3,
@@ -375,6 +383,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Costco Mop"
+        },
+        {
+            "accuracy": 99,
+            "score": 124256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HS.世界のおむちぇるーーーこ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mark Locust"
-        },
-        {
-            "accuracy": 99,
-            "score": 121893,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItzJustLaurenn"
-        },
-        {
-            "accuracy": 100,
-            "score": 121868,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BlessedYM"
         }
     ]
 }

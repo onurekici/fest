@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 174612,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "joelthedole"
+        },
+        {
+            "accuracy": 100,
+            "score": 174612,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Voidwalker84"
+        },
+        {
             "accuracy": 100,
             "score": 174606,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Anticiede"
-        },
-        {
-            "accuracy": 99,
-            "score": 173328,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "litlolǃ"
-        },
-        {
-            "accuracy": 100,
-            "score": 173322,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TunnelSucc"
         }
     ]
 }

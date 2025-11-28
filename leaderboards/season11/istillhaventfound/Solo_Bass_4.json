@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 132690,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "charlyb3goode"
+        },
+        {
+            "accuracy": 100,
+            "score": 132627,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PhantomSkill87"
+        },
+        {
             "accuracy": 99,
             "score": 132527,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Ke-il"
-        },
-        {
-            "accuracy": 99,
-            "score": 126319,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "KnightWings1213"
-        },
-        {
-            "accuracy": 99,
-            "score": 126172,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HiMyNameIsGabo"
         }
     ]
 }

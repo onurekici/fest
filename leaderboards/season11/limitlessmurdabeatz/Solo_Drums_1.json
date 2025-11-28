@@ -66,6 +66,22 @@
         },
         {
             "accuracy": 100,
+            "score": 199254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "L3MONADE."
+        },
+        {
+            "accuracy": 99,
+            "score": 199218,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "XenFearless"
+        },
+        {
+            "accuracy": 100,
             "score": 199212,
             "difficulty": 3,
             "stars": 6,
@@ -73,11 +89,11 @@
             "userName": "NEO.027"
         },
         {
-            "accuracy": 99,
-            "score": 198972,
+            "accuracy": 100,
+            "score": 199140,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
+            "fullcombo": true,
             "userName": "owosarah"
         },
         {
@@ -215,6 +231,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Rockmonster432"
+        },
+        {
+            "accuracy": 99,
+            "score": 197322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Devstructer"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ms_fluffnstuff"
-        },
-        {
-            "accuracy": 99,
-            "score": 191034,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "1ChickenStripper"
-        },
-        {
-            "accuracy": 99,
-            "score": 190932,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Weeqz-"
-        },
-        {
-            "accuracy": 99,
-            "score": 190878,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "UWUnioNyahderas"
         }
     ]
 }

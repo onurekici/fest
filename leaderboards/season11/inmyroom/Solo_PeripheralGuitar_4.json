@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 191762,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "warumonoLS"
+        },
+        {
+            "accuracy": 100,
+            "score": 191761,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HawkOnDeez"
+        },
+        {
             "accuracy": 100,
             "score": 191737,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Salty Milkshake"
-        },
-        {
-            "accuracy": 100,
-            "score": 187670,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "bocajia98"
-        },
-        {
-            "accuracy": 99,
-            "score": 187628,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Saltysharky"
         }
     ]
 }

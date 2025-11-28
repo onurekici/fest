@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 242322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "わたなへ"
+        },
+        {
+            "accuracy": 100,
+            "score": 242322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kiflon."
+        },
+        {
+            "accuracy": 100,
             "score": 242310,
             "difficulty": 3,
             "stars": 6,
@@ -489,11 +505,11 @@
             "userName": "malachi44"
         },
         {
-            "accuracy": 100,
-            "score": 241332,
+            "accuracy": 99,
+            "score": 241338,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
+            "fullcombo": false,
             "userName": "Wh1teGuyFromD12"
         },
         {
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Angelicfemme"
-        },
-        {
-            "accuracy": 100,
-            "score": 240852,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AntiGrassToucher"
-        },
-        {
-            "accuracy": 99,
-            "score": 240852,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "THE_UFM"
         }
     ]
 }

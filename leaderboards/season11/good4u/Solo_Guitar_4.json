@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 145875,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "metal.gear.solid"
+        },
+        {
+            "accuracy": 100,
+            "score": 145853,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Niichels"
+        },
+        {
             "accuracy": 100,
             "score": 145811,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Born_muser"
-        },
-        {
-            "accuracy": 100,
-            "score": 144113,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "raylovesmetal"
-        },
-        {
-            "accuracy": 99,
-            "score": 144113,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "R3FL3X_BardByrd"
         }
     ]
 }

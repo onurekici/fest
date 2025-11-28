@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 74,
+            "score": 58781,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "JudasTheKid"
+        },
+        {
+            "accuracy": 97,
+            "score": 58579,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Lobsterofwar"
+        },
+        {
             "accuracy": 100,
             "score": 58471,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DownNut_"
-        },
-        {
-            "accuracy": 90,
-            "score": 41839,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ObamasLilNiq"
-        },
-        {
-            "accuracy": 76,
-            "score": 41838,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "eversincexo"
         }
     ]
 }

@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 131177,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ぴんくのくまたん"
+        },
+        {
+            "accuracy": 100,
+            "score": 131166,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zombiakus220"
+        },
+        {
+            "accuracy": 100,
             "score": 131152,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "21 kamøs"
+            "userName": "oh my gahh kamo"
         },
         {
             "accuracy": 100,
@@ -143,6 +159,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "kRaZi_kai"
+        },
+        {
+            "accuracy": 99,
+            "score": 130997,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tecknowledjee"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GonzaP_99"
-        },
-        {
-            "accuracy": 100,
-            "score": 129952,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Lewyn Firion"
-        },
-        {
-            "accuracy": 100,
-            "score": 129948,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Anggeelina"
-        },
-        {
-            "accuracy": 99,
-            "score": 129872,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Idle_Afk"
         }
     ]
 }

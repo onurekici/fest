@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 61,
+            "score": 11039,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 95,
+            "score": 9657,
+            "difficulty": 0,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 12,
             "score": 846,
             "difficulty": 1,
             "stars": 0,
             "fullcombo": false,
-            "userName": "jberchon"
+            "userName": null
         },
         {
             "accuracy": 0,
@@ -22,7 +38,7 @@
             "difficulty": 3,
             "stars": 0,
             "fullcombo": false,
-            "userName": "Lamagiqwer"
+            "userName": null
         }
     ]
 }

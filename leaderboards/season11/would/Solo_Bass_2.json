@@ -489,6 +489,14 @@
             "userName": "Rocky Road 12345"
         },
         {
+            "accuracy": 100,
+            "score": 283498,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Logan Travers"
+        },
+        {
             "accuracy": 99,
             "score": 283482,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Visored6"
-        },
-        {
-            "accuracy": 100,
-            "score": 281107,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "444ysia"
         }
     ]
 }

@@ -65,6 +65,14 @@
             "userName": "HC Bodom"
         },
         {
+            "accuracy": 100,
+            "score": 121655,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Warmind225"
+        },
+        {
             "accuracy": 99,
             "score": 121137,
             "difficulty": 3,
@@ -217,14 +225,6 @@
             "userName": "Dormidoshka"
         },
         {
-            "accuracy": 99,
-            "score": 104057,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Warmind225"
-        },
-        {
             "accuracy": 97,
             "score": 103896,
             "difficulty": 3,
@@ -295,6 +295,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KylJak"
+        },
+        {
+            "accuracy": 97,
+            "score": 95183,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SonOfHit"
         },
         {
             "accuracy": 97,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "pitsismullu"
-        },
-        {
-            "accuracy": 93,
-            "score": 42035,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Yourbuns123"
         }
     ]
 }

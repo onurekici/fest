@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 229662,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JoltEelan"
+        },
+        {
+            "accuracy": 99,
+            "score": 229644,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Andrewakira"
+        },
+        {
             "accuracy": 99,
             "score": 229638,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Evaarygaaar"
-        },
-        {
-            "accuracy": 99,
-            "score": 215220,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JJ1247892"
-        },
-        {
-            "accuracy": 98,
-            "score": 215136,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "01100128"
         }
     ]
 }

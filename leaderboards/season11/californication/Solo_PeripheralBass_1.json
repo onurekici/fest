@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 160501,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Deathbycrossbow3"
+        },
+        {
+            "accuracy": 100,
             "score": 160184,
             "difficulty": 2,
             "stars": 5,
@@ -441,6 +449,14 @@
             "userName": "vespaeris"
         },
         {
+            "accuracy": 95,
+            "score": 129636,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "IJustDiedAlready"
+        },
+        {
             "accuracy": 99,
             "score": 128056,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "daedricdaze"
-        },
-        {
-            "accuracy": 97,
-            "score": 99020,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ムースオンキノコ"
-        },
-        {
-            "accuracy": 92,
-            "score": 98256,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ThisIsYourFauIt"
         }
     ]
 }

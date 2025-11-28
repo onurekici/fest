@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 56400,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Bluebuscus"
+        },
+        {
+            "accuracy": 99,
+            "score": 56195,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheCopperWarden"
+        },
+        {
             "accuracy": 97,
             "score": 56069,
             "difficulty": 2,
@@ -63,6 +79,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "vFase"
+        },
+        {
+            "accuracy": 90,
+            "score": 54399,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "PrinceKujo"
         },
         {
             "accuracy": 88,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Future_waffle69"
-        },
-        {
-            "accuracy": 98,
-            "score": 18650,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ChrisRooney1996"
-        },
-        {
-            "accuracy": 98,
-            "score": 18536,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "thedakferrri"
-        },
-        {
-            "accuracy": 99,
-            "score": 16576,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TGB6733"
         }
     ]
 }

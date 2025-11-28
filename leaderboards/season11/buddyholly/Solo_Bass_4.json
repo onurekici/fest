@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 142656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Воі"
+        },
+        {
+            "accuracy": 99,
+            "score": 142644,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tsty525"
+        },
+        {
             "accuracy": 99,
             "score": 142608,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "UglyxChris"
-        },
-        {
-            "accuracy": 99,
-            "score": 139668,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chri251stian"
-        },
-        {
-            "accuracy": 99,
-            "score": 139638,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LimelightEmoRat"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 210873,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MinatosChewToy"
+        },
+        {
             "accuracy": 99,
             "score": 210871,
             "difficulty": 3,
@@ -111,6 +119,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GoingForARipBud"
+        },
+        {
+            "accuracy": 99,
+            "score": 210192,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "hereforthesalts"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "deliriouskids"
-        },
-        {
-            "accuracy": 100,
-            "score": 205770,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "User-e107b63ffc"
-        },
-        {
-            "accuracy": 100,
-            "score": 205677,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Makoto_uwu_"
         }
     ]
 }

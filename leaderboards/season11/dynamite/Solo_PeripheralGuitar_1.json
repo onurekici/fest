@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 85346,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Schustr001"
+        },
+        {
+            "accuracy": 94,
+            "score": 84968,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Remggie"
+        },
+        {
             "accuracy": 95,
             "score": 84657,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "knight hwk"
-        },
-        {
-            "accuracy": 100,
-            "score": 56400,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Bluebuscus"
-        },
-        {
-            "accuracy": 99,
-            "score": 56195,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheCopperWarden"
         }
     ]
 }

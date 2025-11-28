@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 160128,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ダークヴェンデッタ"
+        },
+        {
+            "accuracy": 100,
             "score": 160086,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "dom8239"
+        },
+        {
+            "accuracy": 100,
+            "score": 160086,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The Madcap Tax"
         },
         {
             "accuracy": 100,
@@ -255,6 +271,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Brightman309101"
+        },
+        {
+            "accuracy": 100,
+            "score": 158610,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ISuckAtProFest"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Somoop"
-        },
-        {
-            "accuracy": 100,
-            "score": 156156,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "cweemy boy"
-        },
-        {
-            "accuracy": 99,
-            "score": 156120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "grizzogor"
-        },
-        {
-            "accuracy": 99,
-            "score": 156108,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DoodlesClowning"
         }
     ]
 }

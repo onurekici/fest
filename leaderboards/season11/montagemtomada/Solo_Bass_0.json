@@ -258,6 +258,14 @@
         },
         {
             "accuracy": 100,
+            "score": 30294,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AKA The-Creator"
+        },
+        {
+            "accuracy": 100,
             "score": 30249,
             "difficulty": 3,
             "stars": 6,
@@ -391,6 +399,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GarbageEgirl"
+        },
+        {
+            "accuracy": 99,
+            "score": 30086,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "S0meRand0mPers0n"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Dragonlnd竜"
-        },
-        {
-            "accuracy": 100,
-            "score": 29731,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TCG_Princess"
-        },
-        {
-            "accuracy": 100,
-            "score": 29721,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kukkakaali20"
         }
     ]
 }

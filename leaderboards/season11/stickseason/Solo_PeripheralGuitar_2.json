@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 133359,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "NotEnoughSharks"
+        },
+        {
             "accuracy": 93,
             "score": 132208,
             "difficulty": 3,
@@ -119,6 +127,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "あなばしー1215"
+        },
+        {
+            "accuracy": 89,
+            "score": 121157,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "boomSharpie"
         },
         {
             "accuracy": 86,
@@ -561,14 +577,6 @@
             "userName": "IchigoTomago"
         },
         {
-            "accuracy": 86,
-            "score": 96041,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "boomSharpie"
-        },
-        {
             "accuracy": 96,
             "score": 95800,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "HerrHenrimann"
-        },
-        {
-            "accuracy": 100,
-            "score": 87892,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "braydenpatrk"
         }
     ]
 }

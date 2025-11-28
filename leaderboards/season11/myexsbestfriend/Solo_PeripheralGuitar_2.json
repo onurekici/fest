@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 86199,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Klinecars"
+        },
+        {
             "accuracy": 99,
             "score": 86199,
             "difficulty": 3,
@@ -383,6 +391,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ToraToraTora"
+        },
+        {
+            "accuracy": 100,
+            "score": 83114,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "boomSharpie"
         },
         {
             "accuracy": 94,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SirGabe123"
-        },
-        {
-            "accuracy": 99,
-            "score": 79956,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BradHook"
-        },
-        {
-            "accuracy": 99,
-            "score": 79953,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SkullySG"
         }
     ]
 }

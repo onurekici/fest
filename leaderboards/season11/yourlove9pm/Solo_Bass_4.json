@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 46400,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ironbat300"
+        },
+        {
+            "accuracy": 100,
+            "score": 46399,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "OwlscoutPlayz"
+        },
+        {
             "accuracy": 100,
             "score": 46275,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "[XBL] theranor"
-        },
-        {
-            "accuracy": 99,
-            "score": 43780,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Carlettos."
-        },
-        {
-            "accuracy": 99,
-            "score": 43776,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Atherillos"
         }
     ]
 }

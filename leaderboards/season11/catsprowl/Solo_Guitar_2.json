@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 74116,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ducc Zucc"
+        },
+        {
+            "accuracy": 100,
+            "score": 74100,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Grimm Rau"
+        },
+        {
+            "accuracy": 100,
             "score": 74082,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mosschops04"
-        },
-        {
-            "accuracy": 100,
-            "score": 71910,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "herobleyz"
-        },
-        {
-            "accuracy": 99,
-            "score": 71910,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "worstcrowd"
         }
     ]
 }

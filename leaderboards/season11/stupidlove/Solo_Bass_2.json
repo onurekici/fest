@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 247243,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PAREPORI"
+        },
+        {
+            "accuracy": 100,
+            "score": 247020,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "im.valkyrie"
+        },
+        {
             "accuracy": 99,
             "score": 246961,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "JSG_2"
-        },
-        {
-            "accuracy": 99,
-            "score": 238200,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LivingInkArtist"
-        },
-        {
-            "accuracy": 99,
-            "score": 238195,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RuloThePanda"
         }
     ]
 }

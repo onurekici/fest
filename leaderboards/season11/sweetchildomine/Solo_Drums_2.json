@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 352200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Rogue_Warrior91"
+        },
+        {
             "accuracy": 99,
             "score": 352158,
             "difficulty": 3,
@@ -103,14 +111,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kjuuツ"
-        },
-        {
-            "accuracy": 99,
-            "score": 351396,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "METALICKNIGHTS"
         },
         {
             "accuracy": 100,
@@ -794,11 +794,11 @@
         },
         {
             "accuracy": 100,
-            "score": 347472,
+            "score": 347502,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "Pionier_380"
+            "fullcombo": true,
+            "userName": "i8emminems"
         }
     ]
 }

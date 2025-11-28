@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 255893,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Carol Cattan"
+        },
+        {
+            "accuracy": 100,
+            "score": 255772,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MsVyxen_"
+        },
+        {
             "accuracy": 100,
             "score": 255696,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "PhaedraTheVixen"
-        },
-        {
-            "accuracy": 100,
-            "score": 247243,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PAREPORI"
-        },
-        {
-            "accuracy": 100,
-            "score": 247020,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "im.valkyrie"
         }
     ]
 }

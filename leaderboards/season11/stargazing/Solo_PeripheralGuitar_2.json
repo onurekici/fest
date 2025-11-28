@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 84397,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OneWayFight"
+        },
+        {
             "accuracy": 91,
             "score": 84068,
             "difficulty": 3,
@@ -569,6 +577,14 @@
             "userName": "TheDislexicPoet"
         },
         {
+            "accuracy": 93,
+            "score": 51041,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "sᴏʟᴀ"
+        },
+        {
             "accuracy": 71,
             "score": 50573,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "garywatson8"
-        },
-        {
-            "accuracy": 68,
-            "score": 34142,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "SchwickTheRoach"
-        },
-        {
-            "accuracy": 61,
-            "score": 32672,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Garnty"
         }
     ]
 }

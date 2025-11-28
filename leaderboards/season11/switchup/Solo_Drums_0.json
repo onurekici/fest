@@ -58,6 +58,14 @@
         },
         {
             "accuracy": 100,
+            "score": 102853,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Neonhunter CM"
+        },
+        {
+            "accuracy": 100,
             "score": 101829,
             "difficulty": 3,
             "stars": 6,
@@ -207,6 +215,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KODA_DK"
+        },
+        {
+            "accuracy": 98,
+            "score": 98875,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ELP1K4"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TDR Nick_KateTTV"
-        },
-        {
-            "accuracy": 96,
-            "score": 81949,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Noxie Noir"
-        },
-        {
-            "accuracy": 99,
-            "score": 81887,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shanpatd"
         }
     ]
 }

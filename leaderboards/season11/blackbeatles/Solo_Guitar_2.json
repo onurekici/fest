@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 118779,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GullibleElephant"
+        },
+        {
+            "accuracy": 100,
+            "score": 118777,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DrNitrate"
+        },
+        {
+            "accuracy": 99,
             "score": 118737,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "louis131000"
-        },
-        {
-            "accuracy": 99,
-            "score": 116113,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LaraBam77"
-        },
-        {
-            "accuracy": 100,
-            "score": 116067,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Snackattack1999"
         }
     ]
 }

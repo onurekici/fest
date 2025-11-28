@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 143502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Prodap"
+        },
+        {
+            "accuracy": 100,
             "score": 143472,
             "difficulty": 3,
             "stars": 6,
@@ -785,20 +793,12 @@
             "userName": "ilovecatsblah"
         },
         {
-            "accuracy": 100,
-            "score": 142362,
+            "accuracy": 99,
+            "score": 142368,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
-            "userName": "ghostlysamich"
-        },
-        {
-            "accuracy": 100,
-            "score": 142338,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Brandopowell"
+            "fullcombo": false,
+            "userName": "Katarings"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 132647,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Barmitzva546"
+        },
+        {
+            "accuracy": 100,
+            "score": 132645,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "gouldii"
+        },
+        {
             "accuracy": 100,
             "score": 132592,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lady_Cronos48"
-        },
-        {
-            "accuracy": 99,
-            "score": 129381,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-a28e0321dc"
-        },
-        {
-            "accuracy": 99,
-            "score": 129366,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tirak Kiyori"
         }
     ]
 }

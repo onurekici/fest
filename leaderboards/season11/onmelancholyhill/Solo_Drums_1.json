@@ -418,6 +418,14 @@
         },
         {
             "accuracy": 100,
+            "score": 203040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FoxSeraphine"
+        },
+        {
+            "accuracy": 100,
             "score": 203034,
             "difficulty": 3,
             "stars": 6,
@@ -455,6 +463,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Die Singularität"
+        },
+        {
+            "accuracy": 100,
+            "score": 202854,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jolly rMad"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Rodolfo DS"
-        },
-        {
-            "accuracy": 100,
-            "score": 201606,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "11037s"
-        },
-        {
-            "accuracy": 100,
-            "score": 201540,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GrouchyTester58"
         }
     ]
 }

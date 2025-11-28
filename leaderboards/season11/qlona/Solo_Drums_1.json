@@ -122,6 +122,14 @@
         },
         {
             "accuracy": 100,
+            "score": 42402,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ninja_Matt_"
+        },
+        {
+            "accuracy": 100,
             "score": 42240,
             "difficulty": 3,
             "stars": 6,
@@ -697,6 +705,14 @@
             "userName": "Vala Wala"
         },
         {
+            "accuracy": 100,
+            "score": 36235,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JamyShamy"
+        },
+        {
             "accuracy": 98,
             "score": 36216,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "GreyIcon3803"
-        },
-        {
-            "accuracy": 99,
-            "score": 35855,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "momonga171"
-        },
-        {
-            "accuracy": 99,
-            "score": 35766,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Elite_Sakura"
         }
     ]
 }

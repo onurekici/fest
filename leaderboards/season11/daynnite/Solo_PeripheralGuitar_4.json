@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 92904,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Meatwad2001"
+        },
+        {
+            "accuracy": 94,
+            "score": 92892,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DampeTG"
+        },
+        {
             "accuracy": 96,
             "score": 92778,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "GHOSTRECON1993"
-        },
-        {
-            "accuracy": 97,
-            "score": 72798,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Skylanderz"
-        },
-        {
-            "accuracy": 99,
-            "score": 72600,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "xRaulMenezes"
         }
     ]
 }

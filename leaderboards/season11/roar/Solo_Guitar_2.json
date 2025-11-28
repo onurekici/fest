@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 133789,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "THEBigApe24"
+        },
+        {
+            "accuracy": 100,
+            "score": 133750,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jo_1417"
+        },
+        {
+            "accuracy": 99,
             "score": 133728,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GOODING RICHI"
-        },
-        {
-            "accuracy": 100,
-            "score": 126573,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "JLKiller316"
-        },
-        {
-            "accuracy": 100,
-            "score": 126497,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Grandcloud"
         }
     ]
 }

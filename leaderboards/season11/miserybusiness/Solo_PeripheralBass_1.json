@@ -233,12 +233,28 @@
             "userName": "BasicLone Wolf"
         },
         {
+            "accuracy": 95,
+            "score": 91430,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Subc3ro"
+        },
+        {
             "accuracy": 99,
             "score": 89814,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "lenusel"
+        },
+        {
+            "accuracy": 97,
+            "score": 88585,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "A Flyin Shark"
         },
         {
             "accuracy": 97,
@@ -562,14 +578,6 @@
         },
         {
             "accuracy": 96,
-            "score": 68797,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "A Flyin Shark"
-        },
-        {
-            "accuracy": 96,
             "score": 68368,
             "difficulty": 2,
             "stars": 4,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "FourtySixN2"
-        },
-        {
-            "accuracy": 95,
-            "score": 59886,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Pugfromdahood"
         }
     ]
 }

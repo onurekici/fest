@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 231822,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OlympiaDarkstar"
+        },
+        {
             "accuracy": 99,
             "score": 231816,
             "difficulty": 3,
@@ -383,6 +391,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "GamerRDeriva"
+        },
+        {
+            "accuracy": 99,
+            "score": 231066,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Briexoxox"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "vinecraft"
-        },
-        {
-            "accuracy": 100,
-            "score": 230286,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-1b62268941"
-        },
-        {
-            "accuracy": 100,
-            "score": 230280,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Raywayy_"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 151140,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KittyKero"
+        },
+        {
+            "accuracy": 100,
+            "score": 151134,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LukeSoko"
+        },
+        {
             "accuracy": 100,
             "score": 151110,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "xBrZy_L3GMA"
-        },
-        {
-            "accuracy": 100,
-            "score": 150060,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Twerkrn"
-        },
-        {
-            "accuracy": 98,
-            "score": 150042,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SeekerOfDeath"
         }
     ]
 }

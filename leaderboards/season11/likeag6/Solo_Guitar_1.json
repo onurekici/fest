@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 75210,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lvl 1 Bell"
+        },
+        {
+            "accuracy": 100,
             "score": 75186,
             "difficulty": 3,
             "stars": 6,
@@ -157,6 +165,14 @@
             "score": 74892,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "Benpoint"
+        },
+        {
+            "accuracy": 100,
+            "score": 74892,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "ivvque"
         },
@@ -279,14 +295,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "228maksunbro"
-        },
-        {
-            "accuracy": 100,
-            "score": 74556,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SightedEgg45808"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "maananoonsXO"
-        },
-        {
-            "accuracy": 100,
-            "score": 73914,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "cryptidqueer"
         }
     ]
 }

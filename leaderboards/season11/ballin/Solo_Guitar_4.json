@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 80150,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "M4idyroth"
+        },
+        {
+            "accuracy": 99,
+            "score": 80150,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Calebwells"
+        },
+        {
+            "accuracy": 100,
             "score": 80146,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Fear x Wolf3200"
-        },
-        {
-            "accuracy": 100,
-            "score": 79719,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BiSeaBunni"
-        },
-        {
-            "accuracy": 100,
-            "score": 79711,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "zz8ale"
         }
     ]
 }

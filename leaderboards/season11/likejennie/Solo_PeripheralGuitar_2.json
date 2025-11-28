@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 67710,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SouthSideSosa21"
+        },
+        {
+            "accuracy": 99,
+            "score": 67686,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ausausin"
+        },
+        {
             "accuracy": 98,
             "score": 67644,
             "difficulty": 3,
@@ -426,14 +442,6 @@
         },
         {
             "accuracy": 100,
-            "score": 66522,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "XplodingTACO"
-        },
-        {
-            "accuracy": 100,
             "score": 66420,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EthanTheDrake"
-        },
-        {
-            "accuracy": 99,
-            "score": 65010,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "yamacchi."
         }
     ]
 }

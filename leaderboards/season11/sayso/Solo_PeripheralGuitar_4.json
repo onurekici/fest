@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 92364,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Rozzlin"
+        },
+        {
             "accuracy": 100,
             "score": 92292,
             "difficulty": 1,
@@ -143,6 +151,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Twich2"
+        },
+        {
+            "accuracy": 96,
+            "score": 88016,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AzureBlur"
         },
         {
             "accuracy": 93,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "beir30"
-        },
-        {
-            "accuracy": 97,
-            "score": 71520,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Moreno6597"
-        },
-        {
-            "accuracy": 99,
-            "score": 71466,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "itz_explosivePug"
         }
     ]
 }

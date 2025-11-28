@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 130665,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xWellowx"
+        },
+        {
+            "accuracy": 100,
+            "score": 130634,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lucario VA"
+        },
+        {
             "accuracy": 100,
             "score": 130624,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Crazed Hermit"
-        },
-        {
-            "accuracy": 100,
-            "score": 129508,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Murasakino_Kushu"
-        },
-        {
-            "accuracy": 100,
-            "score": 129502,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BEAMBubbles"
         }
     ]
 }

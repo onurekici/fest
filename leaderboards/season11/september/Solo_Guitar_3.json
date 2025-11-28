@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 207763,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zahides Ayri"
+        },
+        {
+            "accuracy": 100,
             "score": 207705,
             "difficulty": 3,
             "stars": 6,
@@ -127,6 +135,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "crazy_mitarashy"
+        },
+        {
+            "accuracy": 99,
+            "score": 207528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AnyMeansYui"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LuncTM"
-        },
-        {
-            "accuracy": 100,
-            "score": 206514,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "direIover"
-        },
-        {
-            "accuracy": 100,
-            "score": 206500,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Rasp_Berri"
         }
     ]
 }

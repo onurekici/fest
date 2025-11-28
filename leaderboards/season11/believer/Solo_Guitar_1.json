@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123338,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pstron_589"
+        },
+        {
+            "accuracy": 99,
+            "score": 123336,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MrCakenom"
+        },
+        {
+            "accuracy": 100,
             "score": 123330,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "User-288d7ba194"
-        },
-        {
-            "accuracy": 100,
-            "score": 119809,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LeeWonian"
-        },
-        {
-            "accuracy": 100,
-            "score": 119785,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Alexcpraddo"
         }
     ]
 }

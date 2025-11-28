@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 172864,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "thousandth"
+        },
+        {
+            "accuracy": 100,
+            "score": 172850,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bałzer"
+        },
+        {
+            "accuracy": 99,
             "score": 172835,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "darkitos_R7"
-        },
-        {
-            "accuracy": 99,
-            "score": 169715,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Caveman_Cesar"
-        },
-        {
-            "accuracy": 99,
-            "score": 169700,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Abigail_22x"
         }
     ]
 }
