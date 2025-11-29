@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 119929,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Its_Chonchis"
+        },
+        {
+            "accuracy": 99,
+            "score": 119904,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheThirdMeatball"
+        },
+        {
             "accuracy": 99,
             "score": 119877,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SvenCrafter"
-        },
-        {
-            "accuracy": 100,
-            "score": 114375,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Stang_047048"
-        },
-        {
-            "accuracy": 99,
-            "score": 114363,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Metallicasimp"
         }
     ]
 }

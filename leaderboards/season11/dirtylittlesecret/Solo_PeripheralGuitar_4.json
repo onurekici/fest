@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 216260,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dragonkilla5773"
+        },
+        {
+            "accuracy": 100,
+            "score": 216242,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Eden Eye Echo"
+        },
+        {
             "accuracy": 99,
             "score": 216218,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "pkachu456"
-        },
-        {
-            "accuracy": 99,
-            "score": 211314,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "hollownaut"
-        },
-        {
-            "accuracy": 99,
-            "score": 211285,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TTV Chainsaurman"
         }
     ]
 }

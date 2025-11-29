@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 92675,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Mr. Derpp"
+        },
+        {
+            "accuracy": 99,
+            "score": 92586,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "togemo"
+        },
+        {
             "accuracy": 99,
             "score": 92562,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "M.Goodsense"
-        },
-        {
-            "accuracy": 99,
-            "score": 83220,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] Joel247OG"
-        },
-        {
-            "accuracy": 98,
-            "score": 83016,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Doctor Kohn"
         }
     ]
 }

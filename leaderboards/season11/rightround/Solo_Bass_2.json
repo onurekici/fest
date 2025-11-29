@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 45678,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "yobfish"
+        },
+        {
+            "accuracy": 100,
             "score": 45672,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "cOsmicgirll88"
-        },
-        {
-            "accuracy": 100,
-            "score": 44507,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DewDewDrops44"
         }
     ]
 }

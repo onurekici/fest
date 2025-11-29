@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 157934,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Aether_green"
+        },
+        {
+            "accuracy": 99,
+            "score": 157930,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "StryderHiryu19"
+        },
+        {
             "accuracy": 99,
             "score": 157927,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Swaggy Realness"
-        },
-        {
-            "accuracy": 99,
-            "score": 154076,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ExtereX"
-        },
-        {
-            "accuracy": 100,
-            "score": 154073,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Gust4vo360"
         }
     ]
 }

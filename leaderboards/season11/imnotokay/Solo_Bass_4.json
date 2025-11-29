@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 202734,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Resetly-PR"
+        },
+        {
+            "accuracy": 99,
+            "score": 202620,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "onetiredviking"
+        },
+        {
             "accuracy": 99,
             "score": 202614,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JCMetRuiz"
-        },
-        {
-            "accuracy": 99,
-            "score": 199002,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NorthernPink"
-        },
-        {
-            "accuracy": 99,
-            "score": 198989,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Geoto-Of-Mistral"
         }
     ]
 }

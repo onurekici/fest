@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 164784,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "maybeonyx_"
+        },
+        {
             "accuracy": 100,
             "score": 164784,
             "difficulty": 3,
@@ -263,6 +271,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SeaMonstor"
+        },
+        {
+            "accuracy": 100,
+            "score": 164040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Wc_きよこ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HeavenlyBre"
-        },
-        {
-            "accuracy": 100,
-            "score": 162444,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zalastor"
-        },
-        {
-            "accuracy": 98,
-            "score": 162390,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Exoboy1780"
         }
     ]
 }

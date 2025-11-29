@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 166218,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "squaroregano167"
+        },
+        {
+            "accuracy": 100,
+            "score": 166198,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DeathBySprinkles"
+        },
+        {
             "accuracy": 100,
             "score": 166187,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "whatsgood_steve"
-        },
-        {
-            "accuracy": 100,
-            "score": 164169,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Im Shweep"
-        },
-        {
-            "accuracy": 100,
-            "score": 164164,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RuceDuvall"
         }
     ]
 }

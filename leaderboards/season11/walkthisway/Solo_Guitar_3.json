@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 256958,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DragonFist140"
+        },
+        {
             "accuracy": 100,
             "score": 256944,
             "difficulty": 3,
@@ -689,11 +697,11 @@
             "userName": "Mikes WrId"
         },
         {
-            "accuracy": 99,
-            "score": 254697,
+            "accuracy": 100,
+            "score": 254722,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
+            "fullcombo": true,
             "userName": "SK1TTL3mcDR1ZZL3"
         },
         {
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SecureLegend1876"
-        },
-        {
-            "accuracy": 99,
-            "score": 254350,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "vinnyy."
         }
     ]
 }

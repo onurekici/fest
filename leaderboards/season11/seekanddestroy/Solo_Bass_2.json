@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 430195,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "crosbyscrown"
+        },
+        {
+            "accuracy": 100,
+            "score": 430016,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Robo Cod"
+        },
+        {
             "accuracy": 100,
             "score": 429948,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DUDAMENCHY"
-        },
-        {
-            "accuracy": 99,
-            "score": 422326,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kresnik_777"
-        },
-        {
-            "accuracy": 99,
-            "score": 422296,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DuderZee"
         }
     ]
 }

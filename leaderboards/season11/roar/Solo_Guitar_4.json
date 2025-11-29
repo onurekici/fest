@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 121200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ImTheMatti"
+        },
+        {
+            "accuracy": 100,
             "score": 121155,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "arklol1976"
-        },
-        {
-            "accuracy": 99,
-            "score": 116471,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DrVerrill"
         }
     ]
 }

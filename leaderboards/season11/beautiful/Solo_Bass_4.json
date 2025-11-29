@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 140188,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Luis_Corel"
+        },
+        {
+            "accuracy": 100,
+            "score": 140168,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cyber2556"
+        },
+        {
+            "accuracy": 99,
             "score": 140134,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LadyxxBuzz"
-        },
-        {
-            "accuracy": 99,
-            "score": 138097,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "millenniumpuma"
-        },
-        {
-            "accuracy": 99,
-            "score": 138082,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TTVMiniLemon"
         }
     ]
 }

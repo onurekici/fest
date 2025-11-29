@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130508,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "naru_km"
+        },
+        {
+            "accuracy": 100,
+            "score": 130498,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CaliRoses2.0"
+        },
+        {
             "accuracy": 99,
             "score": 130462,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Myrrmyrr"
-        },
-        {
-            "accuracy": 99,
-            "score": 127183,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EventideVoid"
-        },
-        {
-            "accuracy": 99,
-            "score": 127169,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Dark_Luster"
         }
     ]
 }

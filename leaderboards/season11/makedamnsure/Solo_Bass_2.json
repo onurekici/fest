@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 187800,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lnfendus"
+        },
+        {
             "accuracy": 100,
             "score": 187782,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Andrantula"
-        },
-        {
-            "accuracy": 100,
-            "score": 181212,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HunterNoe"
         }
     ]
 }

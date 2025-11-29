@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 60922,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Tha Lag Is Real"
+        },
+        {
             "accuracy": 96,
             "score": 60891,
             "difficulty": 3,
@@ -625,6 +633,14 @@
             "userName": "PelKal-"
         },
         {
+            "accuracy": 98,
+            "score": 54422,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sockla73"
+        },
+        {
             "accuracy": 99,
             "score": 54408,
             "difficulty": 2,
@@ -663,6 +679,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Vala Wala"
+        },
+        {
+            "accuracy": 93,
+            "score": 53956,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BatNya"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Batty McCrease"
-        },
-        {
-            "accuracy": 96,
-            "score": 52880,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "aaronnelson_"
-        },
-        {
-            "accuracy": 93,
-            "score": 52878,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RamboDesPlainesΨ"
-        },
-        {
-            "accuracy": 99,
-            "score": 52860,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GodEmperorJack"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 160536,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Helmut Herbert"
+        },
+        {
+            "accuracy": 100,
+            "score": 160512,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] storm75000"
+        },
+        {
+            "accuracy": 99,
+            "score": 160506,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ªClover"
+        },
+        {
             "accuracy": 100,
             "score": 160482,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "PixeIGhost"
-        },
-        {
-            "accuracy": 100,
-            "score": 159240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jazztheerat"
-        },
-        {
-            "accuracy": 99,
-            "score": 159240,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Darkunov"
-        },
-        {
-            "accuracy": 100,
-            "score": 159222,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "thickenzie."
         }
     ]
 }

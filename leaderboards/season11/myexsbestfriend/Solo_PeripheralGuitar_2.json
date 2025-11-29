@@ -137,6 +137,14 @@
             "userName": "Batty McCrease"
         },
         {
+            "accuracy": 100,
+            "score": 84987,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "D00MxBUBBLE"
+        },
+        {
             "accuracy": 99,
             "score": 84726,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "HunterMagnet"
-        },
-        {
-            "accuracy": 99,
-            "score": 80035,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SirGabe123"
         }
     ]
 }

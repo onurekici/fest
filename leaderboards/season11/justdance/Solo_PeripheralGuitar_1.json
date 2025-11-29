@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 79399,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "andysac05awa"
+        },
+        {
+            "accuracy": 100,
+            "score": 79333,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FadedLegend_"
+        },
+        {
+            "accuracy": 99,
             "score": 79190,
             "difficulty": 3,
             "stars": 6,
@@ -303,6 +319,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "dirtylopez_06"
+        },
+        {
+            "accuracy": 100,
+            "score": 73619,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PurpleZaze"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RiffedStorm"
-        },
-        {
-            "accuracy": 99,
-            "score": 63022,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mello_Jello"
-        },
-        {
-            "accuracy": 96,
-            "score": 62637,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Houston0321"
-        },
-        {
-            "accuracy": 98,
-            "score": 62574,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ZashGrizzBeoWolf"
         }
     ]
 }

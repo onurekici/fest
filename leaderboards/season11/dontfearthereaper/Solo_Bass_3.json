@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 255081,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "skatecola"
+        },
+        {
             "accuracy": 99,
             "score": 255080,
             "difficulty": 3,
@@ -135,6 +143,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "PurpleTrigga"
+        },
+        {
+            "accuracy": 100,
+            "score": 254573,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JoellJoelly"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "skovat"
-        },
-        {
-            "accuracy": 100,
-            "score": 252585,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Energonpizza"
-        },
-        {
-            "accuracy": 100,
-            "score": 252557,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gomenAmanai_"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 208461,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PapaSalik"
+        },
+        {
+            "accuracy": 99,
+            "score": 208411,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DumbPupQuinn"
+        },
+        {
+            "accuracy": 100,
             "score": 208343,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "rezy 〆"
-        },
-        {
-            "accuracy": 100,
-            "score": 205529,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sans-Griffin"
-        },
-        {
-            "accuracy": 99,
-            "score": 205512,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "jkenner1996"
         }
     ]
 }

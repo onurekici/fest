@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 35633,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AfterPeach8"
+        },
+        {
+            "accuracy": 100,
+            "score": 35630,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cayzi"
+        },
+        {
             "accuracy": 100,
             "score": 35627,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "worms halloween"
-        },
-        {
-            "accuracy": 100,
-            "score": 34807,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "eMSoTA"
-        },
-        {
-            "accuracy": 100,
-            "score": 34801,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "eeeetati"
         }
     ]
 }

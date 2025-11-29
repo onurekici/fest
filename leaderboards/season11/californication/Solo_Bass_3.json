@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 230831,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Unkn0wnKay"
+        },
+        {
             "accuracy": 99,
             "score": 230828,
             "difficulty": 3,
@@ -95,6 +103,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Toribio_04"
+        },
+        {
+            "accuracy": 99,
+            "score": 230013,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Atom200017"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Snipe423"
-        },
-        {
-            "accuracy": 99,
-            "score": 226891,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WhimTheRaven"
-        },
-        {
-            "accuracy": 100,
-            "score": 226816,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tinta-unica2"
         }
     ]
 }

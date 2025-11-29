@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 263382,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tracxx234"
+        },
+        {
             "accuracy": 100,
             "score": 263382,
             "difficulty": 3,
@@ -525,6 +533,14 @@
             "score": 258462,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "feelinglikea4"
+        },
+        {
+            "accuracy": 100,
+            "score": 258462,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "Dansir101"
         },
@@ -535,14 +551,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "benjaminuska2000"
-        },
-        {
-            "accuracy": 100,
-            "score": 258318,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "feelinglikea4"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LiamDeKoekwaus"
-        },
-        {
-            "accuracy": 100,
-            "score": 255996,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FOMOSux4Festival"
         }
     ]
 }

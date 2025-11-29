@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 123803,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MymelodyRat"
+        },
+        {
             "accuracy": 96,
             "score": 123708,
             "difficulty": 3,
@@ -649,6 +657,14 @@
             "userName": "blpritzel20"
         },
         {
+            "accuracy": 89,
+            "score": 114376,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "doomslayer338"
+        },
+        {
             "accuracy": 96,
             "score": 114268,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "The PvZ WARLORD"
-        },
-        {
-            "accuracy": 93,
-            "score": 112899,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Vinitx4 Festival"
-        },
-        {
-            "accuracy": 94,
-            "score": 112782,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Grizzly Borealis"
         }
     ]
 }

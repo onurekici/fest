@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 51938,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "PixelJiao"
+        },
+        {
             "accuracy": 100,
             "score": 51920,
             "difficulty": 1,
@@ -287,6 +295,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DWEISHAUPL"
+        },
+        {
+            "accuracy": 100,
+            "score": 49294,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "达里尔先生T_T"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "pawpaw_duh"
-        },
-        {
-            "accuracy": 99,
-            "score": 43068,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "OldDirtyBuba"
-        },
-        {
-            "accuracy": 97,
-            "score": 42832,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "olamas3"
         }
     ]
 }

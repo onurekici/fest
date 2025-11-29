@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 174240,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "cyio21"
+        },
+        {
+            "accuracy": 99,
+            "score": 174228,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Rickdotwav"
+        },
+        {
             "accuracy": 99,
             "score": 174222,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Commander_Neru"
-        },
-        {
-            "accuracy": 100,
-            "score": 172248,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PER_Noctum"
-        },
-        {
-            "accuracy": 100,
-            "score": 172242,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ansk_m"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 205529,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sans-Griffin"
+        },
+        {
+            "accuracy": 99,
+            "score": 205512,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "jkenner1996"
+        },
+        {
             "accuracy": 99,
             "score": 205406,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "私は寺本なぎでした"
-        },
-        {
-            "accuracy": 99,
-            "score": 202207,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rolme22"
-        },
-        {
-            "accuracy": 99,
-            "score": 202180,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xGojoFinancially"
         }
     ]
 }

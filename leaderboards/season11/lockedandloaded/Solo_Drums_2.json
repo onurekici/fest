@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 99432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "bnwkr"
+        },
+        {
+            "accuracy": 100,
             "score": 99342,
             "difficulty": 3,
             "stars": 6,
@@ -562,6 +570,14 @@
         },
         {
             "accuracy": 99,
+            "score": 95916,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "csGreenz"
+        },
+        {
+            "accuracy": 99,
             "score": 95862,
             "difficulty": 3,
             "stars": 6,
@@ -705,14 +721,6 @@
             "userName": "séblion ʕʘᴥʘʔ"
         },
         {
-            "accuracy": 99,
-            "score": 94896,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "malachi44"
-        },
-        {
             "accuracy": 100,
             "score": 94884,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ace of Astora"
-        },
-        {
-            "accuracy": 99,
-            "score": 94206,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RealAmericanJeff"
         }
     ]
 }

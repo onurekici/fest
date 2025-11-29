@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 96468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "i get 99 percent"
+        },
+        {
+            "accuracy": 100,
             "score": 96343,
             "difficulty": 3,
             "stars": 6,
@@ -537,6 +545,14 @@
             "userName": "FROYOGaMER"
         },
         {
+            "accuracy": 99,
+            "score": 92477,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Windzard79"
+        },
+        {
             "accuracy": 100,
             "score": 92464,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jinsrnd"
-        },
-        {
-            "accuracy": 100,
-            "score": 91315,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "full_dart"
-        },
-        {
-            "accuracy": 100,
-            "score": 91314,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Konori_Mii"
         }
     ]
 }

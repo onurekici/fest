@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 191124,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SenseiJFC"
+        },
+        {
             "accuracy": 99,
             "score": 191112,
             "difficulty": 3,
@@ -689,6 +697,14 @@
             "userName": "OT2020-T"
         },
         {
+            "accuracy": 100,
+            "score": 185850,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NoahtheLawnMowah"
+        },
+        {
             "accuracy": 99,
             "score": 185742,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GGrimsly"
-        },
-        {
-            "accuracy": 99,
-            "score": 185136,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mesteph"
-        },
-        {
-            "accuracy": 99,
-            "score": 185088,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Theduck_quackity"
         }
     ]
 }

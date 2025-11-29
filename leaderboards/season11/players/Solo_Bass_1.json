@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 212667,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Saintﹲ"
+        },
+        {
+            "accuracy": 100,
             "score": 212646,
             "difficulty": 3,
             "stars": 6,
@@ -207,6 +215,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Die Singularität"
+        },
+        {
+            "accuracy": 99,
+            "score": 211580,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GingerNINZIN_JPN"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SCHIZOID CAT"
-        },
-        {
-            "accuracy": 100,
-            "score": 208461,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PapaSalik"
-        },
-        {
-            "accuracy": 99,
-            "score": 208411,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DumbPupQuinn"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 98050,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BeertruckBebba"
+        },
+        {
+            "accuracy": 100,
+            "score": 98044,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Buffalo KB"
+        },
+        {
             "accuracy": 100,
             "score": 98041,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] Grassrope9665"
-        },
-        {
-            "accuracy": 100,
-            "score": 96789,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "quiorr4"
-        },
-        {
-            "accuracy": 100,
-            "score": 96789,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LighteningTerror"
         }
     ]
 }

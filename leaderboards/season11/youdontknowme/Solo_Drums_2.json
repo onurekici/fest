@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 158904,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FullmoonSadness"
+        },
+        {
+            "accuracy": 100,
+            "score": 158850,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ａｔｏｍｉｃ"
+        },
+        {
+            "accuracy": 100,
+            "score": 158850,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "King_Cactus2"
+        },
+        {
             "accuracy": 99,
             "score": 158844,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Тополев_Сл"
-        },
-        {
-            "accuracy": 99,
-            "score": 157398,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TwixNOut_"
-        },
-        {
-            "accuracy": 100,
-            "score": 157386,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Beep Beep"
-        },
-        {
-            "accuracy": 100,
-            "score": 157386,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ManicGamerGirl_"
         }
     ]
 }

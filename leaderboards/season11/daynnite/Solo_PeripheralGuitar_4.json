@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 95,
+            "score": 93858,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Fast Fred Teeps"
+        },
+        {
+            "accuracy": 93,
+            "score": 93348,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "gizmo83101"
+        },
+        {
+            "accuracy": 95,
             "score": 92904,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Packbay"
-        },
-        {
-            "accuracy": 99,
-            "score": 72984,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lord Wah"
-        },
-        {
-            "accuracy": 100,
-            "score": 72978,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "GHOSTRECON1993"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 75717,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "thehandsomelad"
+        },
+        {
             "accuracy": 100,
             "score": 75694,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LuigiStooge"
-        },
-        {
-            "accuracy": 100,
-            "score": 73659,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "WaxedBaldie"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 244768,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xNadia"
+        },
+        {
+            "accuracy": 99,
+            "score": 244717,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PostMan Glen"
+        },
+        {
             "accuracy": 99,
             "score": 244694,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "bschlitty"
-        },
-        {
-            "accuracy": 100,
-            "score": 236442,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[XBL] SpiredCrescent7"
-        },
-        {
-            "accuracy": 99,
-            "score": 236327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ArcticZeddy"
         }
     ]
 }

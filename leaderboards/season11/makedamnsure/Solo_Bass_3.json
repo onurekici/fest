@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 181212,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HunterNoe"
+        },
+        {
             "accuracy": 99,
             "score": 181044,
             "difficulty": 3,
@@ -134,7 +142,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "cerulean_cyanide"
+            "userName": "Pudge0801"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GurblePearl"
-        },
-        {
-            "accuracy": 99,
-            "score": 172884,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SR Romain"
         }
     ]
 }

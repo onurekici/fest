@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 189432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "bob the faroest"
+        },
+        {
+            "accuracy": 99,
+            "score": 189414,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jarentz3"
+        },
+        {
             "accuracy": 99,
             "score": 189396,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "tyler0246"
-        },
-        {
-            "accuracy": 100,
-            "score": 187836,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zaltiz"
-        },
-        {
-            "accuracy": 99,
-            "score": 187830,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zia_0"
         }
     ]
 }

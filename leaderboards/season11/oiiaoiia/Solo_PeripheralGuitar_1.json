@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 50734,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tommyjones330"
+        },
+        {
+            "accuracy": 100,
             "score": 50691,
             "difficulty": 3,
             "stars": 6,
@@ -458,6 +466,14 @@
         },
         {
             "accuracy": 98,
+            "score": 45900,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "XyruztheWolf"
+        },
+        {
+            "accuracy": 98,
             "score": 45825,
             "difficulty": 3,
             "stars": 6,
@@ -559,6 +575,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TFL Jay"
+        },
+        {
+            "accuracy": 99,
+            "score": 45125,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheMegaMastodon"
         },
         {
             "accuracy": 97,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Anty2889"
-        },
-        {
-            "accuracy": 99,
-            "score": 44244,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GaboHR1"
-        },
-        {
-            "accuracy": 98,
-            "score": 44207,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "little_firewood1"
-        },
-        {
-            "accuracy": 98,
-            "score": 44164,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TTVTheShineC"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 121161,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Chapper391"
+        },
+        {
+            "accuracy": 100,
             "score": 121156,
             "difficulty": 3,
             "stars": 6,
@@ -617,6 +625,14 @@
             "userName": "MAMB718"
         },
         {
+            "accuracy": 98,
+            "score": 120493,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Canned-Heat"
+        },
+        {
             "accuracy": 100,
             "score": 120476,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Smash2Bash"
-        },
-        {
-            "accuracy": 100,
-            "score": 120205,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tsutsun12"
-        },
-        {
-            "accuracy": 100,
-            "score": 120203,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FallnMonkey"
         }
     ]
 }

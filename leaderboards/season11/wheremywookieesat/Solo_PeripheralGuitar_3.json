@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 90234,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Leiva_ATX"
+        },
+        {
+            "accuracy": 100,
+            "score": 88944,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Vidruelz"
+        },
+        {
             "accuracy": 85,
             "score": 88689,
             "difficulty": 3,
@@ -57,6 +73,14 @@
             "userName": "ＷＬＶＲ Nova"
         },
         {
+            "accuracy": 83,
+            "score": 87418,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "BigM1330"
+        },
+        {
             "accuracy": 99,
             "score": 86496,
             "difficulty": 1,
@@ -95,14 +119,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "beefObrady7"
-        },
-        {
-            "accuracy": 93,
-            "score": 82992,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "BigM1330"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Heart Of Ink"
-        },
-        {
-            "accuracy": 96,
-            "score": 15311,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Waltemmett"
-        },
-        {
-            "accuracy": 37,
-            "score": 14738,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "SparkleChewy"
         }
     ]
 }

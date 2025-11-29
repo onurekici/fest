@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 63428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TristanWhite73"
+        },
+        {
+            "accuracy": 100,
             "score": 63406,
             "difficulty": 3,
             "stars": 6,
@@ -753,6 +761,14 @@
             "userName": "Pinkboy_81"
         },
         {
+            "accuracy": 99,
+            "score": 59645,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Luimansion"
+        },
+        {
             "accuracy": 100,
             "score": 59619,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "c0nny_27"
-        },
-        {
-            "accuracy": 99,
-            "score": 59380,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KYANFlavory"
-        },
-        {
-            "accuracy": 99,
-            "score": 59366,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "eMeRy3k"
         }
     ]
 }

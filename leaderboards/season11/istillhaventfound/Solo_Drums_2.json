@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 285714,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bruno_36000"
+        },
+        {
+            "accuracy": 99,
+            "score": 285702,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ares Loves Hades"
+        },
+        {
+            "accuracy": 100,
             "score": 285630,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "CurseEeter"
-        },
-        {
-            "accuracy": 99,
-            "score": 282588,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Binnie2020"
-        },
-        {
-            "accuracy": 100,
-            "score": 282540,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AthenaWolf21"
         }
     ]
 }

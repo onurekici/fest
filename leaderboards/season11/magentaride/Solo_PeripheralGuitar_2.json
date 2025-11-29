@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 58039,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "MustStacheCrazy"
+        },
+        {
+            "accuracy": 99,
+            "score": 58014,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "sgt Dark Helmet"
+        },
+        {
             "accuracy": 96,
             "score": 58007,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Banana_Taffi"
-        },
-        {
-            "accuracy": 96,
-            "score": 40089,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LyzardKing27"
-        },
-        {
-            "accuracy": 99,
-            "score": 39897,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MayDay-982"
         }
     ]
 }

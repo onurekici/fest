@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 100113,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jarey_"
+        },
+        {
+            "accuracy": 98,
+            "score": 100052,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cookiehunter79"
+        },
+        {
+            "accuracy": 99,
+            "score": 99870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Naaaranja"
+        },
+        {
             "accuracy": 99,
             "score": 99756,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "phoenix-eye07"
-        },
-        {
-            "accuracy": 100,
-            "score": 95643,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "LianaFullmoon"
-        },
-        {
-            "accuracy": 99,
-            "score": 95547,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LionSenpai"
-        },
-        {
-            "accuracy": 100,
-            "score": 95542,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Gnarkilled"
         }
     ]
 }

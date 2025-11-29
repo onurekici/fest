@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 105599,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vjschmitty"
+        },
+        {
+            "accuracy": 100,
+            "score": 105581,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Imor77"
+        },
+        {
             "accuracy": 98,
             "score": 105498,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Gabedom09"
-        },
-        {
-            "accuracy": 95,
-            "score": 87366,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Gowo Akechi"
-        },
-        {
-            "accuracy": 94,
-            "score": 87316,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Colorsxxx"
         }
     ]
 }

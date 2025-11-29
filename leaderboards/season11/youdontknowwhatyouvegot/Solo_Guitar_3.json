@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 157160,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DarkDevil256"
+        },
+        {
+            "accuracy": 100,
+            "score": 157133,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "slam_333"
+        },
+        {
             "accuracy": 100,
             "score": 156996,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Eispinollis"
-        },
-        {
-            "accuracy": 100,
-            "score": 153888,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Woofrain"
-        },
-        {
-            "accuracy": 100,
-            "score": 153881,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tchernob0g"
         }
     ]
 }

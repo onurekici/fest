@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 300726,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mobtrix6"
+        },
+        {
+            "accuracy": 99,
+            "score": 300642,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Buggy wugg"
+        },
+        {
+            "accuracy": 100,
+            "score": 300588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mystic_shadow20"
+        },
+        {
             "accuracy": 99,
             "score": 300282,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Daddy Mlkman"
-        },
-        {
-            "accuracy": 99,
-            "score": 290160,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LuxImmortal"
-        },
-        {
-            "accuracy": 99,
-            "score": 290124,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tird Ferguson"
-        },
-        {
-            "accuracy": 99,
-            "score": 290064,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RuinedDiamond"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 83,
+            "score": 41306,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NoSTBrooklyn"
+        },
+        {
+            "accuracy": 94,
+            "score": 41233,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SiinPi"
+        },
+        {
             "accuracy": 90,
             "score": 41206,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "A Trickshot"
-        },
-        {
-            "accuracy": 100,
-            "score": 37679,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Shaved Penguin"
-        },
-        {
-            "accuracy": 88,
-            "score": 37616,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "awesomeant456"
         }
     ]
 }

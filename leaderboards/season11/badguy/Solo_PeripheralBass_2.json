@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 97,
+            "score": 47248,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "zulgeorge"
+        },
+        {
+            "accuracy": 97,
             "score": 46996,
             "difficulty": 3,
             "stars": 4,
@@ -15,6 +23,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "uncristobalito"
+        },
+        {
+            "accuracy": 98,
+            "score": 46547,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Blardnoc"
         },
         {
             "accuracy": 95,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "SymbolicDisk1478"
-        },
-        {
-            "accuracy": 94,
-            "score": 8045,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "ShadowStrike252"
-        },
-        {
-            "accuracy": 86,
-            "score": 7642,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "BigOleGoof"
         }
     ]
 }

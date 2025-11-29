@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85317,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cereal friend"
+        },
+        {
             "accuracy": 100,
             "score": 85305,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Royal-Tea"
-        },
-        {
-            "accuracy": 99,
-            "score": 84324,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheProNoobCN"
         }
     ]
 }

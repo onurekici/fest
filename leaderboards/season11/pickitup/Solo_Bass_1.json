@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 63221,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ALSOKパンツ"
+        },
+        {
+            "accuracy": 99,
+            "score": 63200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "gabofaster"
+        },
+        {
+            "accuracy": 100,
             "score": 63108,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ShayLove0884"
-        },
-        {
-            "accuracy": 100,
-            "score": 46950,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "OrganizedEmu409"
-        },
-        {
-            "accuracy": 99,
-            "score": 46933,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "The_3Black_Cats"
         }
     ]
 }
