@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 108617,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zxUNDEFINED"
+        },
+        {
             "accuracy": 98,
             "score": 86556,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "greg-whatever"
+        },
+        {
+            "accuracy": 100,
+            "score": 49595,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "CLONE0AZUL9"
         },
         {
             "accuracy": 91,
@@ -23,6 +39,22 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "x.Aerith.x"
+        },
+        {
+            "accuracy": 93,
+            "score": 36732,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Mj678"
+        },
+        {
+            "accuracy": 88,
+            "score": 26518,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "DevDeschain"
         }
     ]
 }

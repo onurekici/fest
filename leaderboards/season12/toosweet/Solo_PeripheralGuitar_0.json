@@ -1,12 +1,44 @@
 {
     "entries": [
         {
-            "accuracy": 94,
-            "score": 58312,
+            "accuracy": 100,
+            "score": 91416,
             "difficulty": 3,
-            "stars": 5,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hansson78"
+        },
+        {
+            "accuracy": 100,
+            "score": 89388,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jungle Bucket"
+        },
+        {
+            "accuracy": 99,
+            "score": 78082,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fortcat13"
+        },
+        {
+            "accuracy": 99,
+            "score": 75659,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": false,
             "userName": "DaveHGC"
+        },
+        {
+            "accuracy": 98,
+            "score": 63952,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KristyHartsock"
         }
     ]
 }
