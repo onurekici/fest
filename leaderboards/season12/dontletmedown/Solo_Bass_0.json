@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 47213,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "steveizdaman"
+        },
+        {
             "accuracy": 99,
             "score": 42039,
             "difficulty": 2,
@@ -34,6 +42,14 @@
         },
         {
             "accuracy": 98,
+            "score": 26711,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Eviefrye600"
+        },
+        {
+            "accuracy": 98,
             "score": 26637,
             "difficulty": 2,
             "stars": 5,
@@ -49,12 +65,36 @@
             "userName": "Master-_-Nedoh"
         },
         {
+            "accuracy": 83,
+            "score": 20473,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Claire ʚїɞ"
+        },
+        {
+            "accuracy": 95,
+            "score": 16993,
+            "difficulty": 0,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Xxbilxsxx"
+        },
+        {
             "accuracy": 94,
             "score": 13922,
             "difficulty": 0,
             "stars": 4,
             "fullcombo": false,
             "userName": "loustique26"
+        },
+        {
+            "accuracy": 91,
+            "score": 6620,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "SadCormorant4734"
         }
     ]
 }

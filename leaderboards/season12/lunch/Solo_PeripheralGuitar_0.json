@@ -2,11 +2,19 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 46679,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DeviousAxis18"
+        },
+        {
+            "accuracy": 100,
             "score": 34584,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "T4taka3"
         },
         {
             "accuracy": 97,
@@ -14,7 +22,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "TheMicahSmith"
         },
         {
             "accuracy": 95,
@@ -22,7 +30,15 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "KristyHartsock"
+        },
+        {
+            "accuracy": 95,
+            "score": 5644,
+            "difficulty": 0,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Crazyfinger458"
         },
         {
             "accuracy": 58,
@@ -30,7 +46,7 @@
             "difficulty": 2,
             "stars": 1,
             "fullcombo": false,
-            "userName": null
+            "userName": "iluvfitch"
         }
     ]
 }

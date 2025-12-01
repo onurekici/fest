@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 88560,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Swear-Spark"
+        },
+        {
+            "accuracy": 100,
             "score": 85350,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Fake_like."
+        },
+        {
+            "accuracy": 99,
+            "score": 39005,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DominantTile276"
         },
         {
             "accuracy": 99,
@@ -39,6 +55,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "FreezeQueen102"
+        },
+        {
+            "accuracy": 99,
+            "score": 12720,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "greys."
         }
     ]
 }

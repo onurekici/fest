@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 137236,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ArDissidia"
+        },
+        {
             "accuracy": 93,
             "score": 55307,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": null
+            "userName": "Nightscape_00"
         },
         {
             "accuracy": 78,
@@ -14,7 +22,7 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": null
+            "userName": "fuddrankus"
         }
     ]
 }
