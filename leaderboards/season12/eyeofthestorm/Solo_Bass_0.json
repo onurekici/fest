@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 56644,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Duramax52394"
+        },
+        {
+            "accuracy": 100,
             "score": 56481,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Ian Peters"
+        },
+        {
+            "accuracy": 99,
+            "score": 50928,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Yoshinoo_"
         },
         {
             "accuracy": 97,
@@ -31,6 +47,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Amiraclippedu"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "LatestManatee59"
         }
     ]
 }

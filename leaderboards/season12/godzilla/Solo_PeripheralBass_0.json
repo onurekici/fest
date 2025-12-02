@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 120091,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CrescentCat73"
+        },
+        {
             "accuracy": 99,
             "score": 107649,
             "difficulty": 3,
@@ -9,12 +17,28 @@
             "userName": "GameWinter123"
         },
         {
+            "accuracy": 95,
+            "score": 96637,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dannyholland2"
+        },
+        {
             "accuracy": 98,
             "score": 74900,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "Puhskintiii"
+        },
+        {
+            "accuracy": 99,
+            "score": 74368,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] brettzy9182"
         }
     ]
 }

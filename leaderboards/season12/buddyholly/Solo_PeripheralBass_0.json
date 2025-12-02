@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 150294,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hashbrowns073"
+        },
+        {
+            "accuracy": 100,
             "score": 139332,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "DarkKnightNNY"
+        },
+        {
+            "accuracy": 98,
+            "score": 108816,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vanilla I.C.E"
         },
         {
             "accuracy": 98,
@@ -25,12 +41,44 @@
             "userName": "jandy304"
         },
         {
+            "accuracy": 100,
+            "score": 66894,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Terrific0703"
+        },
+        {
+            "accuracy": 91,
+            "score": 63348,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Totallbot"
+        },
+        {
             "accuracy": 97,
             "score": 50202,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "trina2021"
+        },
+        {
+            "accuracy": 87,
+            "score": 39744,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "milkiwayys"
+        },
+        {
+            "accuracy": 95,
+            "score": 27396,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "malionisk"
         }
     ]
 }

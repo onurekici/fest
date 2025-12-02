@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 236411,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 94,
             "score": 222666,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Littlebeavcoon"
+            "userName": null
         },
         {
             "accuracy": 94,
@@ -14,7 +22,31 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Katy Pear"
+            "userName": null
+        },
+        {
+            "accuracy": 91,
+            "score": 119747,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 95,
+            "score": 118200,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 107229,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

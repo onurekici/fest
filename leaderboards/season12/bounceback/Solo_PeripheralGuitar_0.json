@@ -9,6 +9,14 @@
             "userName": "Mr.Kuabster"
         },
         {
+            "accuracy": 100,
+            "score": 98783,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Armin Leopold"
+        },
+        {
             "accuracy": 98,
             "score": 96330,
             "difficulty": 3,
@@ -41,12 +49,36 @@
             "userName": "Roodee"
         },
         {
+            "accuracy": 97,
+            "score": 66045,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mt.Chungus"
+        },
+        {
+            "accuracy": 89,
+            "score": 62416,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "IsaiahMcsaiah"
+        },
+        {
             "accuracy": 92,
             "score": 45229,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "Ιmagе"
+        },
+        {
+            "accuracy": 91,
+            "score": 34713,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "waifus"
         },
         {
             "accuracy": 75,
@@ -71,6 +103,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Katy_12201"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 0,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "MothGodSupreme"
         }
     ]
 }

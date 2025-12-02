@@ -1,12 +1,44 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 24318,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 24045,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "EvilWrongName"
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 23987,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 22489,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 17244,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         }
     ]
 }

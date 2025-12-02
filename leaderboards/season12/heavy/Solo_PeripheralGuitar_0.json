@@ -1,12 +1,20 @@
 {
     "entries": [
         {
-            "accuracy": 99,
-            "score": 85885,
+            "accuracy": 100,
+            "score": 87984,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 82848,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "ThatOneKoala2"
+            "userName": null
         },
         {
             "accuracy": 97,
@@ -14,7 +22,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Flashtm66"
+            "userName": null
         },
         {
             "accuracy": 98,
@@ -22,7 +30,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "hяby"
+            "userName": null
         }
     ]
 }

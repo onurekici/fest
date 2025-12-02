@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 167256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "natev35"
+        },
+        {
+            "accuracy": 100,
             "score": 164442,
             "difficulty": 3,
             "stars": 6,
@@ -98,11 +106,27 @@
         },
         {
             "accuracy": 99,
+            "score": 156251,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DCA_EE"
+        },
+        {
+            "accuracy": 99,
             "score": 155513,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "EuphoricNachos"
+        },
+        {
+            "accuracy": 99,
+            "score": 153942,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Evil Baby Killer"
         },
         {
             "accuracy": 99,
@@ -207,6 +231,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MrStrangeGamer"
+        },
+        {
+            "accuracy": 98,
+            "score": 144115,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nouser765"
         },
         {
             "accuracy": 99,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Taric128"
-        },
-        {
-            "accuracy": 94,
-            "score": 97169,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Adridorps"
-        },
-        {
-            "accuracy": 95,
-            "score": 96940,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BeanFlickerInc"
-        },
-        {
-            "accuracy": 94,
-            "score": 96820,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ShaTzNoGiggLeS"
-        },
-        {
-            "accuracy": 94,
-            "score": 94351,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "necoarcade"
         }
     ]
 }

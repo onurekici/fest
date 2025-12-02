@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 71598,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Carl El Dios"
+        },
+        {
             "accuracy": 95,
             "score": 59502,
             "difficulty": 3,
@@ -31,6 +39,22 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KernelSandersMLG"
+        },
+        {
+            "accuracy": 78,
+            "score": 24864,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "JotaPeGame"
+        },
+        {
+            "accuracy": 51,
+            "score": 9558,
+            "difficulty": 2,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "pumaboy19707"
         }
     ]
 }

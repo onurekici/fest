@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 141603,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "evilBBQman"
+        },
+        {
             "accuracy": 99,
             "score": 141221,
             "difficulty": 3,
@@ -9,12 +17,28 @@
             "userName": "Katy Pear"
         },
         {
+            "accuracy": 99,
+            "score": 98657,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vanilla I.C.E"
+        },
+        {
             "accuracy": 95,
             "score": 86710,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "Firestormworld"
+        },
+        {
+            "accuracy": 74,
+            "score": 31657,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "machinegael"
         }
     ]
 }

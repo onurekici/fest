@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 86700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BlueTanooki"
+        },
+        {
+            "accuracy": 100,
+            "score": 85080,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "s550princess"
+        },
+        {
             "accuracy": 99,
             "score": 82464,
             "difficulty": 3,
@@ -17,12 +33,28 @@
             "userName": "Kattanaita"
         },
         {
+            "accuracy": 100,
+            "score": 75882,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cr33prr"
+        },
+        {
             "accuracy": 99,
             "score": 74538,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "parasiteevefan"
+        },
+        {
+            "accuracy": 99,
+            "score": 71696,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Armin Leopold"
         },
         {
             "accuracy": 91,
@@ -39,6 +71,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "DingoBerri"
+        },
+        {
+            "accuracy": 61,
+            "score": 17484,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Deadly Emotixnz"
         }
     ]
 }

@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 307156,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BlueTanooki"
+        },
+        {
             "accuracy": 95,
             "score": 204424,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "Dawn_Horiz0n"
         },
         {
             "accuracy": 74,
@@ -14,7 +22,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "vibingbella"
         },
         {
             "accuracy": 95,
@@ -22,7 +30,7 @@
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": null
+            "userName": "TazedSalad"
         }
     ]
 }

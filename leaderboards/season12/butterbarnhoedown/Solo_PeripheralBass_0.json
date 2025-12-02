@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 91250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Portable_Head"
+        },
+        {
             "accuracy": 99,
             "score": 84878,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "EvilWrongName"
+        },
+        {
+            "accuracy": 100,
+            "score": 83592,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "goopgoots"
         },
         {
             "accuracy": 99,
@@ -25,12 +41,28 @@
             "userName": "TheMicahSmith"
         },
         {
+            "accuracy": 94,
+            "score": 40163,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "beckini"
+        },
+        {
             "accuracy": 99,
             "score": 31264,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "GarrixShadow"
+        },
+        {
+            "accuracy": 96,
+            "score": 30502,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "malionisk"
         }
     ]
 }

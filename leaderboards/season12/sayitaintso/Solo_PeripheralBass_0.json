@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 115011,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "evilBBQman"
+        },
+        {
+            "accuracy": 100,
+            "score": 114165,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kouki808."
+        },
+        {
             "accuracy": 99,
             "score": 99304,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": null
+            "userName": "DarkKnightNNY"
+        },
+        {
+            "accuracy": 99,
+            "score": 90133,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vanilla I.C.E"
         },
         {
             "accuracy": 98,
@@ -14,7 +38,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "Strongholdwolf1"
         },
         {
             "accuracy": 96,
@@ -22,7 +46,7 @@
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
-            "userName": null
+            "userName": "Mr.Memes"
         }
     ]
 }

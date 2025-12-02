@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 258487,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JBaby30"
+        },
+        {
+            "accuracy": 99,
+            "score": 258403,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ChipiChyuu"
+        },
+        {
+            "accuracy": 100,
             "score": 258377,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Darryto"
-        },
-        {
-            "accuracy": 99,
-            "score": 252838,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SorrizoRonaldo77"
-        },
-        {
-            "accuracy": 99,
-            "score": 252787,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Pipne"
         }
     ]
 }
