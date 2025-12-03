@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 74136,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xShadow XII"
+        },
+        {
             "accuracy": 98,
             "score": 70302,
             "difficulty": 3,
@@ -25,6 +33,46 @@
             "userName": "Hmmm404"
         },
         {
+            "accuracy": 98,
+            "score": 64890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BulkDarthDan"
+        },
+        {
+            "accuracy": 97,
+            "score": 64632,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PerpetualSnow53"
+        },
+        {
+            "accuracy": 97,
+            "score": 62019,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Monchko"
+        },
+        {
+            "accuracy": 97,
+            "score": 61395,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VampiricCurve29"
+        },
+        {
+            "accuracy": 98,
+            "score": 59748,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "itsJOKERhahaha"
+        },
+        {
             "accuracy": 95,
             "score": 59628,
             "difficulty": 3,
@@ -41,12 +89,28 @@
             "userName": "hawke_lurien"
         },
         {
+            "accuracy": 94,
+            "score": 30788,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Icybullets"
+        },
+        {
             "accuracy": 85,
             "score": 22950,
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
             "userName": "AubrieNomNom"
+        },
+        {
+            "accuracy": 47,
+            "score": 6292,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Crusher389"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 229692,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BulkDarthDan"
+        },
+        {
             "accuracy": 99,
             "score": 212334,
             "difficulty": 3,
@@ -41,6 +49,14 @@
             "userName": "Shift3r_xsi"
         },
         {
+            "accuracy": 99,
+            "score": 137300,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CactusSquack"
+        },
+        {
             "accuracy": 98,
             "score": 134905,
             "difficulty": 2,
@@ -55,6 +71,22 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "KRS-L"
+        },
+        {
+            "accuracy": 92,
+            "score": 55022,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "darkranger404-wh"
+        },
+        {
+            "accuracy": 72,
+            "score": 26186,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "NOISE_TITAN"
         }
     ]
 }

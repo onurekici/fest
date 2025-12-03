@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 110094,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 98,
             "score": 88086,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
-            "userName": "xanikar"
+            "userName": null
         },
         {
             "accuracy": 98,
@@ -14,7 +22,7 @@
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
-            "userName": "NowItsWar"
+            "userName": null
         },
         {
             "accuracy": 42,
@@ -22,7 +30,7 @@
             "difficulty": 2,
             "stars": 1,
             "fullcombo": false,
-            "userName": "trina2021"
+            "userName": null
         }
     ]
 }

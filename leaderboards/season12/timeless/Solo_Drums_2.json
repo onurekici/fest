@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 64295,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RENEGATE_Ali"
+        },
+        {
+            "accuracy": 97,
+            "score": 64280,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Gabe-72"
+        },
+        {
+            "accuracy": 99,
             "score": 63906,
             "difficulty": 3,
             "stars": 5,
@@ -335,6 +351,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "FL0GG1NEAGLE"
+        },
+        {
+            "accuracy": 99,
+            "score": 50665,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Zombikira"
         },
         {
             "accuracy": 95,
@@ -713,14 +737,6 @@
             "userName": "Birdman_92"
         },
         {
-            "accuracy": 100,
-            "score": 43860,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Zombikira"
-        },
-        {
             "accuracy": 99,
             "score": 43765,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Fewail"
-        },
-        {
-            "accuracy": 99,
-            "score": 43190,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jhacksaw24"
-        },
-        {
-            "accuracy": 96,
-            "score": 43038,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "しってるピーチ"
         }
     ]
 }

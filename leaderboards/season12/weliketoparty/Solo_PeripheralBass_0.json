@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 57584,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 94,
             "score": 29576,
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
-            "userName": "Vibez03"
+            "userName": null
+        },
+        {
+            "accuracy": 29,
+            "score": 16372,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 89,
@@ -14,7 +30,7 @@
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
-            "userName": "Bolen Cush"
+            "userName": null
         }
     ]
 }
