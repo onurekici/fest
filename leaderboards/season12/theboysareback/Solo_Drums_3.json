@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 114765,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "CoachsFCFriend"
+        },
+        {
+            "accuracy": 99,
+            "score": 114655,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Alitakombat"
+        },
+        {
+            "accuracy": 98,
+            "score": 114235,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BigBiscuitBalls1"
+        },
+        {
             "accuracy": 97,
             "score": 114054,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Leyawiin."
-        },
-        {
-            "accuracy": 99,
-            "score": 100565,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Harry Belefonte"
-        },
-        {
-            "accuracy": 99,
-            "score": 100225,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "G.shark13"
-        },
-        {
-            "accuracy": 99,
-            "score": 100210,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "N30nHy"
         }
     ]
 }

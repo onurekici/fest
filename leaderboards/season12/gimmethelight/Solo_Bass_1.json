@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 66288,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zänmato"
+        },
+        {
+            "accuracy": 99,
+            "score": 66174,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sman_5763"
+        },
+        {
+            "accuracy": 100,
             "score": 66162,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Hof_ying"
-        },
-        {
-            "accuracy": 99,
-            "score": 57200,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Bulldoz69"
-        },
-        {
-            "accuracy": 98,
-            "score": 57060,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "wojtazoowski"
         }
     ]
 }

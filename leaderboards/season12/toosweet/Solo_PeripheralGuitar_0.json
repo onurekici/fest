@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 94386,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KristianFiction"
+        },
+        {
+            "accuracy": 100,
             "score": 92486,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "xNadia"
+        },
+        {
+            "accuracy": 99,
+            "score": 92468,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Poomsday"
         },
         {
             "accuracy": 100,
@@ -71,6 +87,22 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "あなばしー1215"
+        },
+        {
+            "accuracy": 99,
+            "score": 42276,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KingTruLove"
+        },
+        {
+            "accuracy": 52,
+            "score": 9200,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "PinkisBroken"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 186192,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mayviiinnnn"
+        },
+        {
+            "accuracy": 100,
+            "score": 186156,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SirKodeh"
+        },
+        {
             "accuracy": 100,
             "score": 186120,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "UnvoicedHarp945"
-        },
-        {
-            "accuracy": 98,
-            "score": 175773,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "elmumble"
-        },
-        {
-            "accuracy": 99,
-            "score": 175468,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheReal_Onee"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 177012,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sauron020"
+        },
+        {
+            "accuracy": 100,
+            "score": 176580,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "juningod05"
+        },
+        {
+            "accuracy": 99,
             "score": 176508,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SpielkisteGaming"
-        },
-        {
-            "accuracy": 98,
-            "score": 114915,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Marcelofire13"
-        },
-        {
-            "accuracy": 98,
-            "score": 114830,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "corbitoo"
         }
     ]
 }

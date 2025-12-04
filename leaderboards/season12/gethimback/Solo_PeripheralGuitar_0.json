@@ -2,11 +2,35 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 144701,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ᶻᶜʰᵃⁿᶜˡᵃ"
+        },
+        {
+            "accuracy": 100,
             "score": 140485,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "solace_succ973"
+        },
+        {
+            "accuracy": 99,
+            "score": 125049,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "guitardude12"
+        },
+        {
+            "accuracy": 96,
+            "score": 112991,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Its Live."
         },
         {
             "accuracy": 94,
@@ -15,6 +39,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "STOPinSPANISH"
+        },
+        {
+            "accuracy": 92,
+            "score": 93687,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "poor.FEINIX"
         },
         {
             "accuracy": 89,
@@ -49,12 +81,28 @@
             "userName": "spookybatbaby14"
         },
         {
+            "accuracy": 88,
+            "score": 57541,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "ΤomBrady"
+        },
+        {
             "accuracy": 94,
             "score": 52854,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "Grimtarg"
+        },
+        {
+            "accuracy": 69,
+            "score": 45030,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "LunarPascal"
         }
     ]
 }

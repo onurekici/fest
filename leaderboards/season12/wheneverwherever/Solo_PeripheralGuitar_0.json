@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 208807,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Doom 05"
+        },
+        {
+            "accuracy": 100,
+            "score": 205349,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MxrcusM04"
+        },
+        {
             "accuracy": 99,
             "score": 191645,
             "difficulty": 3,
@@ -26,11 +42,35 @@
         },
         {
             "accuracy": 98,
+            "score": 180421,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Loxу"
+        },
+        {
+            "accuracy": 98,
             "score": 167413,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "xNadia"
+        },
+        {
+            "accuracy": 97,
+            "score": 143318,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kattanaita"
+        },
+        {
+            "accuracy": 97,
+            "score": 115391,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "An Armless Boy"
         },
         {
             "accuracy": 96,
@@ -73,12 +113,28 @@
             "userName": "FiRePhoenix166"
         },
         {
+            "accuracy": 91,
+            "score": 64322,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "DEW GONE"
+        },
+        {
             "accuracy": 90,
             "score": 46746,
             "difficulty": 2,
             "stars": 3,
             "fullcombo": false,
             "userName": "Goesasu"
+        },
+        {
+            "accuracy": 83,
+            "score": 46738,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "SuperWeegee309"
         }
     ]
 }

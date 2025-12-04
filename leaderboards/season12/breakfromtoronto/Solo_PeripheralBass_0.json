@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 21543,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] Xlunarmage"
+        },
+        {
             "accuracy": 98,
             "score": 20639,
             "difficulty": 3,
@@ -10,11 +18,27 @@
         },
         {
             "accuracy": 98,
+            "score": 12719,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Rafa_BabyDucks"
+        },
+        {
+            "accuracy": 98,
             "score": 11357,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "URLORD Andy"
+        },
+        {
+            "accuracy": 88,
+            "score": 5104,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "pgLane"
         }
     ]
 }

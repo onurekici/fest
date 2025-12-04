@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 179520,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cosmicpowerpuppy"
+        },
+        {
+            "accuracy": 100,
+            "score": 179508,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dradsose"
+        },
+        {
             "accuracy": 100,
             "score": 179496,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "speedy_truck432"
-        },
-        {
-            "accuracy": 100,
-            "score": 177468,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BernGuatemalteco"
-        },
-        {
-            "accuracy": 100,
-            "score": 177432,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HugHieHxD"
         }
     ]
 }

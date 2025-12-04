@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 129237,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FlashFilm"
+        },
+        {
             "accuracy": 97,
             "score": 129234,
             "difficulty": 3,
@@ -713,6 +721,14 @@
             "userName": "GeneralGrissom"
         },
         {
+            "accuracy": 99,
+            "score": 122242,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MacDopia"
+        },
+        {
             "accuracy": 100,
             "score": 122219,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "WoodrowReviews07"
-        },
-        {
-            "accuracy": 99,
-            "score": 121389,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Draclam"
-        },
-        {
-            "accuracy": 100,
-            "score": 121258,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MadGamer64 2"
         }
     ]
 }

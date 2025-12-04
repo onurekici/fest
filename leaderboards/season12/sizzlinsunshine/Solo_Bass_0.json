@@ -2,11 +2,35 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 192709,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "슈퍼파워풀미쿠짱"
+        },
+        {
+            "accuracy": 99,
+            "score": 171606,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JazzySmoke"
+        },
+        {
+            "accuracy": 100,
             "score": 92941,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "Ness290"
+        },
+        {
+            "accuracy": 96,
+            "score": 32479,
+            "difficulty": 1,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "SassyGamerMom1"
         }
     ]
 }

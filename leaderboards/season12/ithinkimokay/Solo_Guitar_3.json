@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 116042,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TuxedoMikeTTV"
+        },
+        {
+            "accuracy": 100,
+            "score": 116022,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MayabiVT"
+        },
+        {
+            "accuracy": 99,
             "score": 115944,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "IskiloPlayer"
-        },
-        {
-            "accuracy": 99,
-            "score": 112102,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "edinhoscs"
-        },
-        {
-            "accuracy": 100,
-            "score": 112091,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Purgeur-tanget"
         }
     ]
 }
