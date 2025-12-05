@@ -2,11 +2,19 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 109772,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 100896,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Kouki808."
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -14,7 +22,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "T1000gandalf"
+            "userName": null
         },
         {
             "accuracy": 94,
@@ -22,7 +30,7 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "MunchingMonkeys"
+            "userName": null
         },
         {
             "accuracy": 87,
@@ -30,7 +38,7 @@
             "difficulty": 1,
             "stars": 2,
             "fullcombo": false,
-            "userName": "LegendaryLink1"
+            "userName": null
         }
     ]
 }

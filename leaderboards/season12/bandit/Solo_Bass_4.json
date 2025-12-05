@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 40828,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "shennell"
+        },
+        {
             "accuracy": 100,
             "score": 40773,
             "difficulty": 3,
@@ -303,6 +311,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "tiagocdamm"
+        },
+        {
+            "accuracy": 100,
+            "score": 39811,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "emmafrxncesca"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Lalovarca"
-        },
-        {
-            "accuracy": 100,
-            "score": 39175,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "IcyAngelfish7521"
-        },
-        {
-            "accuracy": 100,
-            "score": 39167,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mrs_Munkz"
         }
     ]
 }

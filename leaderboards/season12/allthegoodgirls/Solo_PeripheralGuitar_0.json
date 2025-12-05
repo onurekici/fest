@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 92758,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Doom 05"
+        },
+        {
+            "accuracy": 99,
+            "score": 90121,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheKirbo"
+        },
+        {
             "accuracy": 98,
             "score": 69439,
             "difficulty": 3,
@@ -31,6 +47,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Justinkawesome"
+        },
+        {
+            "accuracy": 68,
+            "score": 6482,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "ˢᶜⁿᵈMrsLökar"
         }
     ]
 }

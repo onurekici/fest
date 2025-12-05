@@ -250,6 +250,14 @@
         },
         {
             "accuracy": 100,
+            "score": 109876,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "triggyrd"
+        },
+        {
+            "accuracy": 100,
             "score": 109848,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "EarlofHorton"
-        },
-        {
-            "accuracy": 100,
-            "score": 108120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "eh154"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 44525,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MCPataaron"
+        },
+        {
+            "accuracy": 100,
             "score": 43304,
             "difficulty": 3,
             "stars": 6,
@@ -49,6 +57,14 @@
             "userName": "Mr.Memes"
         },
         {
+            "accuracy": 88,
+            "score": 11436,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Zia_The_Warlord"
+        },
+        {
             "accuracy": 89,
             "score": 11292,
             "difficulty": 3,
@@ -65,12 +81,28 @@
             "userName": "HideousGravy."
         },
         {
+            "accuracy": 62,
+            "score": 2567,
+            "difficulty": 0,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "[PSN] Yorks353"
+        },
+        {
             "accuracy": 0,
             "score": 0,
             "difficulty": 1,
             "stars": 0,
             "fullcombo": false,
             "userName": "6JohnnyxPhantom9"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 0,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "[PSN] Batty_Voth"
         }
     ]
 }

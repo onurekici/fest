@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 59175,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 55781,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 54561,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "[PSN] Xlunarmage"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -14,7 +30,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "KansadaVlBR"
+            "userName": null
         }
     ]
 }

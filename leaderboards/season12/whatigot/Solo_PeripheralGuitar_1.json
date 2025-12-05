@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 96,
+            "score": 73687,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Higetokaiga"
+        },
+        {
+            "accuracy": 96,
             "score": 72332,
             "difficulty": 3,
             "stars": 4,
@@ -297,6 +305,14 @@
             "userName": "TRP_kraken"
         },
         {
+            "accuracy": 94,
+            "score": 58511,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Solid 8 damage"
+        },
+        {
             "accuracy": 98,
             "score": 58187,
             "difficulty": 2,
@@ -327,6 +343,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "thekoz_effect"
+        },
+        {
+            "accuracy": 92,
+            "score": 57314,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SinnerRick"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "thegman1183"
-        },
-        {
-            "accuracy": 91,
-            "score": 45126,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "thegnja"
-        },
-        {
-            "accuracy": 99,
-            "score": 45052,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "mpoffo"
-        },
-        {
-            "accuracy": 99,
-            "score": 44931,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "bmrguitar"
         }
     ]
 }

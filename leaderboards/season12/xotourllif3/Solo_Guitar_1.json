@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 99375,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BouncingBolt"
+        },
+        {
+            "accuracy": 99,
             "score": 99305,
             "difficulty": 3,
             "stars": 6,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DankedPvP_"
+        },
+        {
+            "accuracy": 100,
+            "score": 98384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kenpachi PR"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "lil_cashjew"
-        },
-        {
-            "accuracy": 100,
-            "score": 96613,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Henryboii3456"
-        },
-        {
-            "accuracy": 100,
-            "score": 96553,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "s0phii33"
         }
     ]
 }
