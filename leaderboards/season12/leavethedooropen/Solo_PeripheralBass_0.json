@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 138143,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NHBageL"
+        },
+        {
             "accuracy": 99,
             "score": 124065,
             "difficulty": 3,
@@ -31,6 +39,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "F7 Neb"
+        },
+        {
+            "accuracy": 97,
+            "score": 84276,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Gonzazul"
         },
         {
             "accuracy": 98,
@@ -81,12 +97,28 @@
             "userName": "Skerard"
         },
         {
+            "accuracy": 74,
+            "score": 23159,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "bulldogqt"
+        },
+        {
             "accuracy": 81,
             "score": 21820,
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
             "userName": "Give me chun lil"
+        },
+        {
+            "accuracy": 73,
+            "score": 16876,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "headfirstformcr"
         }
     ]
 }

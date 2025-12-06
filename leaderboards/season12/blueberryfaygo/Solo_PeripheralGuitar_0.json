@@ -25,6 +25,14 @@
             "userName": "Ancrath Justice"
         },
         {
+            "accuracy": 100,
+            "score": 78890,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ZombieRage43"
+        },
+        {
             "accuracy": 99,
             "score": 73742,
             "difficulty": 3,
@@ -41,6 +49,14 @@
             "userName": "HitmanGarland"
         },
         {
+            "accuracy": 97,
+            "score": 27492,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AnAngryLasagna"
+        },
+        {
             "accuracy": 91,
             "score": 23351,
             "difficulty": 2,
@@ -55,6 +71,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Lexegon"
+        },
+        {
+            "accuracy": 43,
+            "score": 3815,
+            "difficulty": 1,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Bat_Ron_Pool"
         }
     ]
 }

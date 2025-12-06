@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 279540,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mystery_fella"
+        },
+        {
+            "accuracy": 100,
+            "score": 279417,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Knecinedit"
+        },
+        {
             "accuracy": 100,
             "score": 279035,
             "difficulty": 2,
@@ -119,14 +135,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Daftiice"
-        },
-        {
-            "accuracy": 97,
-            "score": 265885,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "TheBigMamaPurp"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "EVENMEDIAN94"
-        },
-        {
-            "accuracy": 98,
-            "score": 229354,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DeAd_PwNaGe"
         }
     ]
 }

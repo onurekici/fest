@@ -177,6 +177,14 @@
             "userName": "Askizz"
         },
         {
+            "accuracy": 100,
+            "score": 123294,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "YaGirlTato"
+        },
+        {
             "accuracy": 99,
             "score": 123270,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Winking_skeever"
-        },
-        {
-            "accuracy": 99,
-            "score": 121878,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shiny Enyo"
         }
     ]
 }

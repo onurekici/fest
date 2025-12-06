@@ -58,11 +58,19 @@
         },
         {
             "accuracy": 100,
-            "score": 94459,
+            "score": 95165,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KSDinova"
+        },
+        {
+            "accuracy": 94,
+            "score": 64901,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "KSDinova"
+            "userName": "Aapelikaapeli."
         },
         {
             "accuracy": 100,
@@ -87,6 +95,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Phantazma1988"
+        },
+        {
+            "accuracy": 87,
+            "score": 33395,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Lehrzeichen85"
         }
     ]
 }

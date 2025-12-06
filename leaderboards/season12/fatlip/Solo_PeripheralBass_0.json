@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 140270,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 132159,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Buckoben"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -14,15 +22,15 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "DesuRaboot"
+            "userName": null
         },
         {
             "accuracy": 99,
-            "score": 103694,
+            "score": 113417,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "[XBL] MarK E MarK 101"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -30,7 +38,23 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "T1000gandalf"
+            "userName": null
+        },
+        {
+            "accuracy": 95,
+            "score": 77125,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 49044,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 95,
@@ -38,7 +62,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "SilentBilly01"
+            "userName": null
         },
         {
             "accuracy": 97,
@@ -46,7 +70,23 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "trina2021"
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 44243,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 38011,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 87,
@@ -54,7 +94,7 @@
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
-            "userName": "LuckyLuchiano"
+            "userName": null
         }
     ]
 }

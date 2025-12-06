@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 131748,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lvッ"
+        },
+        {
+            "accuracy": 99,
+            "score": 131740,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZZZストロベリーパイ"
+        },
+        {
             "accuracy": 99,
             "score": 131736,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SaltySid_007"
-        },
-        {
-            "accuracy": 100,
-            "score": 130695,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tcherent"
-        },
-        {
-            "accuracy": 99,
-            "score": 130686,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "liampetrini"
         }
     ]
 }

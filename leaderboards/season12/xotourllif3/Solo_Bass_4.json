@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 67693,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "idôle"
+        },
+        {
             "accuracy": 99,
             "score": 67666,
             "difficulty": 3,
@@ -247,6 +255,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Erbonazzxxpro08"
+        },
+        {
+            "accuracy": 99,
+            "score": 66918,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Reelyn_"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "lauchaons33"
-        },
-        {
-            "accuracy": 98,
-            "score": 64280,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BeyHiveG"
-        },
-        {
-            "accuracy": 99,
-            "score": 64260,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FewestOregano89"
         }
     ]
 }

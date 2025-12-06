@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 84606,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 66980,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "groney62"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -14,7 +22,15 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "HekateHeathen"
+            "userName": null
+        },
+        {
+            "accuracy": 94,
+            "score": 26408,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 91,
@@ -22,7 +38,15 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": "SilentBilly01"
+            "userName": null
+        },
+        {
+            "accuracy": 83,
+            "score": 14271,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 78,
@@ -30,7 +54,7 @@
             "difficulty": 3,
             "stars": 2,
             "fullcombo": false,
-            "userName": "DiamondRobot2005"
+            "userName": null
         }
     ]
 }

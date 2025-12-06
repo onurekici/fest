@@ -17,6 +17,14 @@
             "userName": "Taco Plz"
         },
         {
+            "accuracy": 100,
+            "score": 161568,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheRealJawad99"
+        },
+        {
             "accuracy": 99,
             "score": 148504,
             "difficulty": 3,
@@ -33,12 +41,28 @@
             "userName": "JoBroniBologna"
         },
         {
-            "accuracy": 94,
-            "score": 72065,
+            "accuracy": 99,
+            "score": 125224,
             "difficulty": 3,
-            "stars": 4,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "semi space"
+        },
+        {
+            "accuracy": 98,
+            "score": 112528,
+            "difficulty": 3,
+            "stars": 5,
             "fullcombo": false,
             "userName": "Сhaparrita"
+        },
+        {
+            "accuracy": 98,
+            "score": 104291,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jlazz83"
         },
         {
             "accuracy": 98,
@@ -49,12 +73,28 @@
             "userName": "[XBL] VERN1199"
         },
         {
+            "accuracy": 94,
+            "score": 53719,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Koogimus_Prime"
+        },
+        {
             "accuracy": 92,
             "score": 51675,
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
             "userName": "OYBAxORBITAL"
+        },
+        {
+            "accuracy": 95,
+            "score": 35473,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "astrozastrow"
         }
     ]
 }
