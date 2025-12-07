@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 129248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "WendigoDood"
+        },
+        {
+            "accuracy": 100,
             "score": 129247,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Major Yahtzee"
-        },
-        {
-            "accuracy": 99,
-            "score": 127418,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BaconBit_"
         }
     ]
 }

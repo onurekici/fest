@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 253331,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ズズマ"
+        },
+        {
+            "accuracy": 100,
             "score": 253296,
             "difficulty": 3,
             "stars": 6,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Jojo_Wiitch"
+        },
+        {
+            "accuracy": 99,
+            "score": 251129,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kori-ko"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MisakiMitsuru"
-        },
-        {
-            "accuracy": 99,
-            "score": 245282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BraveHope21"
-        },
-        {
-            "accuracy": 99,
-            "score": 245221,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yekhschnubz"
         }
     ]
 }

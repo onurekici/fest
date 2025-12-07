@@ -274,6 +274,14 @@
         },
         {
             "accuracy": 100,
+            "score": 122101,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "queenofbergen"
+        },
+        {
+            "accuracy": 100,
             "score": 122094,
             "difficulty": 3,
             "stars": 6,
@@ -295,6 +303,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Draco4ine"
+        },
+        {
+            "accuracy": 99,
+            "score": 122010,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NPC_JOJ0"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "smnthngcomfrtng"
-        },
-        {
-            "accuracy": 100,
-            "score": 119435,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Det.McGarnagle"
-        },
-        {
-            "accuracy": 100,
-            "score": 119388,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "THS Greymaan"
         }
     ]
 }

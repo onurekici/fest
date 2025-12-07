@@ -90,7 +90,15 @@
         },
         {
             "accuracy": 100,
-            "score": 208686,
+            "score": 209466,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KingBryce98"
+        },
+        {
+            "accuracy": 100,
+            "score": 209094,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -690,6 +698,14 @@
         },
         {
             "accuracy": 99,
+            "score": 187056,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Scoobysnax_01"
+        },
+        {
+            "accuracy": 99,
             "score": 186684,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "wpauloǃ"
-        },
-        {
-            "accuracy": 100,
-            "score": 183882,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jesuschvz17"
-        },
-        {
-            "accuracy": 99,
-            "score": 183576,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RuV3-"
         }
     ]
 }

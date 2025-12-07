@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 386784,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Solo_Yuuuu"
+        },
+        {
+            "accuracy": 99,
             "score": 386563,
             "difficulty": 3,
             "stars": 6,
@@ -697,6 +705,14 @@
             "userName": "FLECSO_79"
         },
         {
+            "accuracy": 100,
+            "score": 374000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ShadowDevGames"
+        },
+        {
             "accuracy": 99,
             "score": 373956,
             "difficulty": 3,
@@ -735,14 +751,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BluejayH13"
-        },
-        {
-            "accuracy": 100,
-            "score": 373294,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ShadowDevGames"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "cownHead"
-        },
-        {
-            "accuracy": 99,
-            "score": 372125,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MJVP101"
         }
     ]
 }

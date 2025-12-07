@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 117381,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IFkx"
+        },
+        {
+            "accuracy": 100,
             "score": 117338,
             "difficulty": 3,
             "stars": 6,
@@ -633,6 +641,14 @@
             "userName": "DallasCSD"
         },
         {
+            "accuracy": 99,
+            "score": 115141,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Standby Ether"
+        },
+        {
             "accuracy": 100,
             "score": 115132,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dairybrush"
-        },
-        {
-            "accuracy": 99,
-            "score": 114559,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ventus_-211"
-        },
-        {
-            "accuracy": 100,
-            "score": 114542,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "samwolf_280"
         }
     ]
 }

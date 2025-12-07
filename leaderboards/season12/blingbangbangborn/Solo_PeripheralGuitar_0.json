@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 160500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DCA_EE"
+        },
+        {
             "accuracy": 99,
             "score": 156726,
             "difficulty": 3,
@@ -271,6 +279,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ZewaVal"
+        },
+        {
+            "accuracy": 99,
+            "score": 129324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FlutterThrash"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "MrKulinka"
-        },
-        {
-            "accuracy": 94,
-            "score": 82530,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Sudd3nSh0tѕ"
-        },
-        {
-            "accuracy": 93,
-            "score": 82458,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Loxу"
         }
     ]
 }

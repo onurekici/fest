@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 99820,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MrZed08"
+        },
+        {
             "accuracy": 99,
             "score": 99695,
             "difficulty": 1,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "GlurpBath"
-        },
-        {
-            "accuracy": 99,
-            "score": 85340,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dingledolf"
         }
     ]
 }

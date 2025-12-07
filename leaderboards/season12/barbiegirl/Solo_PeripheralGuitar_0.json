@@ -705,6 +705,14 @@
             "userName": "heartagramguy"
         },
         {
+            "accuracy": 100,
+            "score": 123136,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Black Zadock"
+        },
+        {
             "accuracy": 99,
             "score": 123134,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BestTrap_"
-        },
-        {
-            "accuracy": 100,
-            "score": 122391,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kocliko"
         }
     ]
 }

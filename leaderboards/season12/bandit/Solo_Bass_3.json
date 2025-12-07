@@ -274,6 +274,14 @@
         },
         {
             "accuracy": 100,
+            "score": 42625,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Diosmirage"
+        },
+        {
+            "accuracy": 100,
             "score": 42623,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Paniagua 鶏肉"
-        },
-        {
-            "accuracy": 95,
-            "score": 41264,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CheerfulYak4403"
         }
     ]
 }
