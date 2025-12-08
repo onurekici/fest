@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 13658,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Click_Movie_2006"
+        },
+        {
+            "accuracy": 84,
+            "score": 13622,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Golden Clap"
+        },
+        {
             "accuracy": 89,
             "score": 13615,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Dragon_Of_Sharto"
-        },
-        {
-            "accuracy": 81,
-            "score": 5175,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Just1morecar"
-        },
-        {
-            "accuracy": 89,
-            "score": 5018,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "YoungSlaemuir"
         }
     ]
 }

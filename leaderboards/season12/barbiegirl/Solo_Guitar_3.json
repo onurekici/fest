@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127455,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Natsu Drago2"
+        },
+        {
+            "accuracy": 100,
+            "score": 127441,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Major Yahtzee"
+        },
+        {
             "accuracy": 99,
             "score": 127418,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "bratago"
-        },
-        {
-            "accuracy": 100,
-            "score": 125890,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AceThrower62831"
-        },
-        {
-            "accuracy": 100,
-            "score": 125875,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "[PSN] Skull--Curtain"
         }
     ]
 }

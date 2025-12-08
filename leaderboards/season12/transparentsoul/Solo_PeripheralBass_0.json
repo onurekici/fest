@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 151482,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CrescentCat73"
+        },
+        {
+            "accuracy": 100,
+            "score": 131982,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "rxuz1"
+        },
+        {
             "accuracy": 99,
             "score": 131220,
             "difficulty": 3,
@@ -39,6 +55,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "sdurkin"
+        },
+        {
+            "accuracy": 62,
+            "score": 11862,
+            "difficulty": 3,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Tiggatex"
         }
     ]
 }

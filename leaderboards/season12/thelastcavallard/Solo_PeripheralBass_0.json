@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 104002,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lumpyheadman"
+        },
+        {
             "accuracy": 99,
             "score": 97979,
             "difficulty": 3,
@@ -25,12 +33,28 @@
             "userName": "[XBL] HERRMITT"
         },
         {
+            "accuracy": 99,
+            "score": 57658,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Okamy Snow"
+        },
+        {
             "accuracy": 93,
             "score": 30133,
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
             "userName": "Mr.Anderson_1822"
+        },
+        {
+            "accuracy": 87,
+            "score": 23424,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Panda Pancakes9"
         }
     ]
 }

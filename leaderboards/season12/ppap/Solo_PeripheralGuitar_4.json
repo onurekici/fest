@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 86,
+            "score": 7805,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "BBB Pineapple"
+        },
+        {
+            "accuracy": 100,
+            "score": 7805,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mox Logan"
+        },
+        {
             "accuracy": 96,
             "score": 7733,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Healjin2"
-        },
-        {
-            "accuracy": 27,
-            "score": 1248,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Dandys_WorldFan"
-        },
-        {
-            "accuracy": 16,
-            "score": 1120,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "snooziesusie80"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123278,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "flux rono"
+        },
+        {
+            "accuracy": 100,
             "score": 123269,
             "difficulty": 3,
             "stars": 6,
@@ -119,6 +127,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "abreadham"
+        },
+        {
+            "accuracy": 99,
+            "score": 123018,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dreyson_prince"
         },
         {
             "accuracy": 100,
@@ -745,6 +761,14 @@
             "userName": "Buho_ciro14"
         },
         {
+            "accuracy": 99,
+            "score": 121817,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ippycakey"
+        },
+        {
             "accuracy": 100,
             "score": 121794,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Light_Julioflow"
-        },
-        {
-            "accuracy": 100,
-            "score": 121753,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Lua ッ"
-        },
-        {
-            "accuracy": 100,
-            "score": 121737,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SpotNotSpot"
-        },
-        {
-            "accuracy": 100,
-            "score": 121735,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "User-0385efea5f"
         }
     ]
 }

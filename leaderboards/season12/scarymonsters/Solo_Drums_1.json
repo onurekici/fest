@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 200538,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Edugta"
+        },
+        {
+            "accuracy": 99,
+            "score": 200478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MrLOPGOP"
+        },
+        {
             "accuracy": 99,
             "score": 200334,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "skelopug336"
-        },
-        {
-            "accuracy": 100,
-            "score": 194922,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NoopiX2.0"
-        },
-        {
-            "accuracy": 99,
-            "score": 194886,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Levelzues"
         }
     ]
 }

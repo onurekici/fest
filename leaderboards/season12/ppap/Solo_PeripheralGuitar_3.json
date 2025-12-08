@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 11951,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "DerekInRealLife"
+        },
+        {
+            "accuracy": 100,
+            "score": 11927,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "User-7e1ae425f3"
+        },
+        {
             "accuracy": 100,
             "score": 11903,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Chairic"
-        },
-        {
-            "accuracy": 86,
-            "score": 7805,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "BBB Pineapple"
-        },
-        {
-            "accuracy": 100,
-            "score": 7805,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mox Logan"
         }
     ]
 }

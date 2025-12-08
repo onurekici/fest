@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 117549,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "pudykat18"
+        },
+        {
+            "accuracy": 99,
+            "score": 117542,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "vdoughh"
+        },
+        {
             "accuracy": 99,
             "score": 117512,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Naaanose"
-        },
-        {
-            "accuracy": 99,
-            "score": 115968,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "YannSKennedy"
-        },
-        {
-            "accuracy": 100,
-            "score": 115962,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dr. Match"
         }
     ]
 }

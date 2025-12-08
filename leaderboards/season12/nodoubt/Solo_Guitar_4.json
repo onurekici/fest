@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 67254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cpt Sweatpants"
+        },
+        {
             "accuracy": 100,
             "score": 67231,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TitaniUM Dragun"
-        },
-        {
-            "accuracy": 99,
-            "score": 64512,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NominisUmbra"
         }
     ]
 }
