@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 55249,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mcmyrtle"
+        },
+        {
+            "accuracy": 97,
+            "score": 55142,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TrainCharly"
+        },
+        {
             "accuracy": 95,
             "score": 55066,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Elchupa-Nebrea"
-        },
-        {
-            "accuracy": 97,
-            "score": 47461,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Koogimus_Prime"
-        },
-        {
-            "accuracy": 100,
-            "score": 47436,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "shaneisclassy"
         }
     ]
 }

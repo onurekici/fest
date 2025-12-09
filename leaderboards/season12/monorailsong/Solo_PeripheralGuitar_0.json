@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 40932,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Storm360"
+        },
+        {
+            "accuracy": 100,
             "score": 40923,
             "difficulty": 3,
             "stars": 6,
@@ -223,6 +231,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "GangsterTurkey"
+        },
+        {
+            "accuracy": 0,
+            "score": 0,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "IMCGuest1"
         }
     ]
 }

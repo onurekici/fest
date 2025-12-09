@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 94237,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Leafzun"
+        },
+        {
+            "accuracy": 100,
             "score": 94040,
             "difficulty": 3,
             "stars": 6,
@@ -65,12 +73,28 @@
             "userName": "TCW KimDogツ"
         },
         {
+            "accuracy": 89,
+            "score": 55934,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "larrysoatmeal"
+        },
+        {
             "accuracy": 93,
             "score": 44797,
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
             "userName": "UNKNOWAHH"
+        },
+        {
+            "accuracy": 98,
+            "score": 35189,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "stackofpancakes9"
         }
     ]
 }

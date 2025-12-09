@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 47461,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Koogimus_Prime"
+        },
+        {
+            "accuracy": 100,
+            "score": 47436,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "shaneisclassy"
+        },
+        {
             "accuracy": 95,
             "score": 47363,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "That2Dollar"
-        },
-        {
-            "accuracy": 98,
-            "score": 39702,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SamEyeAm911"
-        },
-        {
-            "accuracy": 91,
-            "score": 39662,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "t_gonzalez9"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 53004,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "XenoVGC"
+        },
+        {
+            "accuracy": 100,
             "score": 52584,
             "difficulty": 3,
             "stars": 6,
@@ -327,6 +335,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Neyphisto"
+        },
+        {
+            "accuracy": 99,
+            "score": 18654,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BIG_BURCH_72"
         },
         {
             "accuracy": 97,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "BBB Pineapple"
-        },
-        {
-            "accuracy": 80,
-            "score": 7914,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "HazeMan25"
-        },
-        {
-            "accuracy": 59,
-            "score": 7464,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SSG_Tokoo"
         }
     ]
 }

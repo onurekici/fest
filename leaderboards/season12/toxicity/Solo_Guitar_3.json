@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 220365,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IlyCritical"
+        },
+        {
             "accuracy": 100,
             "score": 220340,
             "difficulty": 3,
@@ -79,6 +87,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "CHICO 93"
+        },
+        {
+            "accuracy": 100,
+            "score": 220122,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "i luv papercuts"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Henkisesti"
-        },
-        {
-            "accuracy": 100,
-            "score": 218756,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MrBiggiezTTV"
-        },
-        {
-            "accuracy": 100,
-            "score": 218755,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "1Dracko"
         }
     ]
 }

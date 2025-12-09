@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 57527,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lilmonkey418"
+        },
+        {
+            "accuracy": 100,
             "score": 57520,
             "difficulty": 2,
             "stars": 5,
@@ -327,6 +335,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Aweekley214"
+        },
+        {
+            "accuracy": 99,
+            "score": 56577,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nozz80"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "AshedBrown"
-        },
-        {
-            "accuracy": 98,
-            "score": 55118,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jester08"
-        },
-        {
-            "accuracy": 98,
-            "score": 55103,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Xaander"
         }
     ]
 }

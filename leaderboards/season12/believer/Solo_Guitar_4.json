@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125889,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "rachellaringo"
+        },
+        {
+            "accuracy": 100,
             "score": 125878,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "killercrying"
-        },
-        {
-            "accuracy": 99,
-            "score": 124987,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TriedAndDied"
         }
     ]
 }

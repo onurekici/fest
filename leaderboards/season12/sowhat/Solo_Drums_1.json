@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 147894,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RichyWorks"
+        },
+        {
+            "accuracy": 99,
+            "score": 147804,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Aldasur"
+        },
+        {
             "accuracy": 99,
             "score": 147702,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dominik_Malek"
-        },
-        {
-            "accuracy": 99,
-            "score": 137628,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JZzzz_."
-        },
-        {
-            "accuracy": 99,
-            "score": 137604,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "AIM_GixerMax"
         }
     ]
 }

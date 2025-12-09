@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 66905,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Light3"
+        },
+        {
             "accuracy": 99,
             "score": 66773,
             "difficulty": 3,
@@ -279,6 +287,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "R0B0Tv4"
+        },
+        {
+            "accuracy": 99,
+            "score": 63466,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "x_bandit_x"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Da_BokChoy"
-        },
-        {
-            "accuracy": 97,
-            "score": 55249,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "mcmyrtle"
-        },
-        {
-            "accuracy": 97,
-            "score": 55142,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TrainCharly"
         }
     ]
 }

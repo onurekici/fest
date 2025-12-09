@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 48751,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ma.jaxa"
+        },
+        {
             "accuracy": 99,
             "score": 48728,
             "difficulty": 3,
@@ -482,6 +490,22 @@
         },
         {
             "accuracy": 100,
+            "score": 46069,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Skippert86"
+        },
+        {
+            "accuracy": 100,
+            "score": 46035,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SithLordLuxray"
+        },
+        {
+            "accuracy": 100,
             "score": 46023,
             "difficulty": 2,
             "stars": 5,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Shrek_6000"
-        },
-        {
-            "accuracy": 99,
-            "score": 44909,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RealSaltyToes1"
-        },
-        {
-            "accuracy": 100,
-            "score": 44856,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Blastedeadshot"
-        },
-        {
-            "accuracy": 100,
-            "score": 44852,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "H1PPERmqe"
         }
     ]
 }

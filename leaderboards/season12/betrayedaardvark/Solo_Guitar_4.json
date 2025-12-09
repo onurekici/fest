@@ -609,6 +609,14 @@
             "userName": "Phoenix Quill"
         },
         {
+            "accuracy": 100,
+            "score": 69097,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Spooky-oracle"
+        },
+        {
             "accuracy": 99,
             "score": 69097,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lasagna Kat"
-        },
-        {
-            "accuracy": 100,
-            "score": 68985,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KyleGMan86"
         }
     ]
 }
