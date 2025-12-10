@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 44485,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "reidecoopas"
+        },
+        {
+            "accuracy": 100,
+            "score": 44355,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Olaf Prins"
+        },
+        {
+            "accuracy": 99,
             "score": 44280,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BigHarr"
-        },
-        {
-            "accuracy": 98,
-            "score": 33440,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheBengarian"
-        },
-        {
-            "accuracy": 98,
-            "score": 33250,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "trunks2013"
         }
     ]
 }

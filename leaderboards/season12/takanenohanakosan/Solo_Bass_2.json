@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 245513,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hank43064"
+        },
+        {
             "accuracy": 99,
             "score": 245480,
             "difficulty": 3,
@@ -167,6 +175,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Xaraiii"
+        },
+        {
+            "accuracy": 99,
+            "score": 244384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IBark4Shiggy"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Venom.Cant.Aim"
-        },
-        {
-            "accuracy": 99,
-            "score": 239352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cosmic_Catalyst"
-        },
-        {
-            "accuracy": 99,
-            "score": 239233,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Derpy-Pickle"
         }
     ]
 }

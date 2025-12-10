@@ -2,11 +2,19 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "aDrunken Noodle"
+        },
+        {
+            "accuracy": 100,
             "score": 109884,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": null
+            "userName": "festival ultra"
         },
         {
             "accuracy": 100,
@@ -14,7 +22,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": null
+            "userName": "ℬℰatniksℰs"
         },
         {
             "accuracy": 97,
@@ -22,7 +30,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "Lycanthi"
         },
         {
             "accuracy": 97,
@@ -30,7 +38,15 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "ZiRRuSH"
+        },
+        {
+            "accuracy": 93,
+            "score": 80374,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "dasherdoesathing"
         },
         {
             "accuracy": 96,
@@ -38,7 +54,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": null
+            "userName": "mydogbad"
         },
         {
             "accuracy": 87,
@@ -46,7 +62,15 @@
             "difficulty": 3,
             "stars": 3,
             "fullcombo": false,
-            "userName": null
+            "userName": "nickganga"
+        },
+        {
+            "accuracy": 80,
+            "score": 23175,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Corrupted_colors"
         },
         {
             "accuracy": 62,
@@ -54,7 +78,7 @@
             "difficulty": 3,
             "stars": 1,
             "fullcombo": false,
-            "userName": null
+            "userName": "misfit.s"
         }
     ]
 }

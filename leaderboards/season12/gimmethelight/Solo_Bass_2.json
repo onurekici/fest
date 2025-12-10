@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 57492,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "EuDobre"
+        },
+        {
+            "accuracy": 100,
+            "score": 57435,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "doctordz"
+        },
+        {
             "accuracy": 100,
             "score": 57400,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Anth25S"
-        },
-        {
-            "accuracy": 99,
-            "score": 49855,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nickgotthegrits"
-        },
-        {
-            "accuracy": 98,
-            "score": 49764,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Turtlemayhem16"
         }
     ]
 }

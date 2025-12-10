@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 101859,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nyra Lawliet"
+        },
+        {
+            "accuracy": 100,
             "score": 99735,
             "difficulty": 3,
             "stars": 6,
@@ -79,6 +87,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LongRonDong"
+        },
+        {
+            "accuracy": 99,
+            "score": 95669,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ˢᶜⁿᵈMrsLökar"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "papa nep"
-        },
-        {
-            "accuracy": 99,
-            "score": 87664,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ryker ㅤ"
-        },
-        {
-            "accuracy": 99,
-            "score": 87557,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Spectator POV"
         }
     ]
 }

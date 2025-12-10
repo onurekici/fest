@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 103548,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "C137 RickSanchez"
+        },
+        {
+            "accuracy": 100,
+            "score": 103472,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ahexgao"
+        },
+        {
+            "accuracy": 99,
             "score": 103444,
             "difficulty": 3,
             "stars": 6,
@@ -474,14 +490,6 @@
         },
         {
             "accuracy": 99,
-            "score": 99816,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Zolvious"
-        },
-        {
-            "accuracy": 99,
             "score": 99806,
             "difficulty": 3,
             "stars": 5,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Kevlar112358"
-        },
-        {
-            "accuracy": 99,
-            "score": 97704,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CalverineBub"
         }
     ]
 }

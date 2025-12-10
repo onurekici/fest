@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 85930,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Matteo_RdP"
+        },
+        {
+            "accuracy": 100,
+            "score": 85916,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Multi-shooter"
+        },
+        {
+            "accuracy": 100,
             "score": 85899,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SIR_BUSY"
-        },
-        {
-            "accuracy": 100,
-            "score": 85004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rike201"
-        },
-        {
-            "accuracy": 99,
-            "score": 84987,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MinatoNamikaze1O"
         }
     ]
 }

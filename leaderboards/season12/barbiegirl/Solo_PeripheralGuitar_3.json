@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 100631,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mello_Jello"
+        },
+        {
             "accuracy": 97,
             "score": 100303,
             "difficulty": 3,
@@ -774,7 +782,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Pogg Howard"
+            "userName": "ずる賢い小男"
         },
         {
             "accuracy": 97,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Jacehal"
-        },
-        {
-            "accuracy": 100,
-            "score": 79392,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "aesterisk_"
         }
     ]
 }

@@ -162,6 +162,14 @@
         },
         {
             "accuracy": 100,
+            "score": 43233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BuzzerTayne"
+        },
+        {
+            "accuracy": 100,
             "score": 43210,
             "difficulty": 3,
             "stars": 6,
@@ -681,12 +689,28 @@
             "userName": "Wingedcow"
         },
         {
+            "accuracy": 98,
+            "score": 36465,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[PSN] LegendLloydGames"
+        },
+        {
             "accuracy": 100,
             "score": 36447,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
             "userName": "YueYaegashi"
+        },
+        {
+            "accuracy": 100,
+            "score": 36447,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "One.thechosen1"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "clarissacreates"
-        },
-        {
-            "accuracy": 100,
-            "score": 36046,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "NemuMMD"
-        },
-        {
-            "accuracy": 97,
-            "score": 35884,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "dmodavid"
-        },
-        {
-            "accuracy": 98,
-            "score": 35674,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheRealJWH"
         }
     ]
 }

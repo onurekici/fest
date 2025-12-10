@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 109495,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "HelloBHelloThere"
+        },
+        {
             "accuracy": 98,
             "score": 109388,
             "difficulty": 3,
@@ -183,6 +191,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "eueadar"
+        },
+        {
+            "accuracy": 99,
+            "score": 108046,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[PSN] PhillyConSteak42"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Pricelessperson"
-        },
-        {
-            "accuracy": 99,
-            "score": 103548,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "C137 RickSanchez"
-        },
-        {
-            "accuracy": 100,
-            "score": 103472,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ahexgao"
         }
     ]
 }

@@ -82,6 +82,14 @@
         },
         {
             "accuracy": 100,
+            "score": 367425,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GuilhermeKleeman"
+        },
+        {
+            "accuracy": 100,
             "score": 367056,
             "difficulty": 3,
             "stars": 6,
@@ -106,19 +114,27 @@
         },
         {
             "accuracy": 100,
-            "score": 366615,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GuilhermeKleeman"
-        },
-        {
-            "accuracy": 100,
             "score": 366545,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "MattKill 殺"
+        },
+        {
+            "accuracy": 100,
+            "score": 365987,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "teistorres"
+        },
+        {
+            "accuracy": 100,
+            "score": 365930,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TT DarkFlier911"
         },
         {
             "accuracy": 100,
@@ -143,6 +159,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "XItzExoticx"
+        },
+        {
+            "accuracy": 99,
+            "score": 364615,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Zombieslayerz07-"
         },
         {
             "accuracy": 100,
@@ -382,7 +406,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "Die Singularität"
+            "userName": "Evil Tempi"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Frothiny"
-        },
-        {
-            "accuracy": 100,
-            "score": 343546,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Jokeripokeri845"
-        },
-        {
-            "accuracy": 99,
-            "score": 343527,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SephirothElGiga"
-        },
-        {
-            "accuracy": 100,
-            "score": 342893,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "uNeedBootcamp"
         }
     ]
 }

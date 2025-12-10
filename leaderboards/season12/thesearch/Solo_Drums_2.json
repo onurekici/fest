@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 65088,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pachuco McPower"
+        },
+        {
+            "accuracy": 99,
+            "score": 65022,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TvcoTuesdays"
+        },
+        {
             "accuracy": 99,
             "score": 64968,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "gaz04"
-        },
-        {
-            "accuracy": 100,
-            "score": 60858,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MaracuGino"
-        },
-        {
-            "accuracy": 99,
-            "score": 60834,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CESARITOPRO1"
         }
     ]
 }
