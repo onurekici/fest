@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 295003,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Shelty ones"
+        },
+        {
             "accuracy": 100,
             "score": 294991,
             "difficulty": 3,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SzymonW_"
+        },
+        {
+            "accuracy": 100,
+            "score": 294433,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Localsekeer"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mr_Rhoads"
-        },
-        {
-            "accuracy": 99,
-            "score": 283476,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheRosieKitty"
-        },
-        {
-            "accuracy": 100,
-            "score": 283444,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "brn-dn"
         }
     ]
 }

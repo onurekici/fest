@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 102720,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Rick_Astley_420"
+        },
+        {
             "accuracy": 97,
             "score": 100152,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "SR. Mustache"
-        },
-        {
-            "accuracy": 57,
-            "score": 13656,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "NotRubensRod"
         }
     ]
 }

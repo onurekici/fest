@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 142135,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MajoraBR"
+        },
+        {
+            "accuracy": 99,
+            "score": 142031,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PassionsPlanet"
+        },
+        {
+            "accuracy": 100,
             "score": 141780,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Beanmachine900"
-        },
-        {
-            "accuracy": 99,
-            "score": 125999,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "spiderpunke"
-        },
-        {
-            "accuracy": 99,
-            "score": 125956,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "majestic 1gnite"
         }
     ]
 }

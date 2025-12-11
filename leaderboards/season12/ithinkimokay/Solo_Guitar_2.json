@@ -2,10 +2,42 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 122142,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 121973,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 121889,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 121868,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 99,
+            "score": 121778,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
             "userName": null
         },
         {
@@ -657,6 +689,14 @@
             "userName": null
         },
         {
+            "accuracy": 99,
+            "score": 117881,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 98,
             "score": 117820,
             "difficulty": 3,
@@ -746,7 +786,7 @@
         },
         {
             "accuracy": 100,
-            "score": 117439,
+            "score": 117475,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -754,50 +794,10 @@
         },
         {
             "accuracy": 100,
-            "score": 117402,
+            "score": 117439,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 117338,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 117332,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 117322,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 117318,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 117276,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
+            "fullcombo": true,
             "userName": null
         }
     ]

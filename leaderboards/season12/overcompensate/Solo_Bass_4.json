@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123447,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VoidOmens"
+        },
+        {
             "accuracy": 99,
             "score": 123440,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Red_Hood99"
-        },
-        {
-            "accuracy": 100,
-            "score": 118702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Hvzy.Spirit"
         }
     ]
 }

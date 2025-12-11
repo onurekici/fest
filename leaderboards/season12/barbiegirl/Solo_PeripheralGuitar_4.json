@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 79608,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jacehal"
+        },
+        {
+            "accuracy": 100,
             "score": 79392,
             "difficulty": 1,
             "stars": 5,
@@ -673,6 +681,14 @@
             "userName": "Mr_Pavel"
         },
         {
+            "accuracy": 90,
+            "score": 62016,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "stackofpancakes9"
+        },
+        {
             "accuracy": 96,
             "score": 61728,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "JakLeecher"
-        },
-        {
-            "accuracy": 96,
-            "score": 58303,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "stackofpancakes9"
-        },
-        {
-            "accuracy": 82,
-            "score": 58213,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "d-money354_"
         }
     ]
 }

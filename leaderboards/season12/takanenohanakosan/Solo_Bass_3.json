@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 239521,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ghozt_20"
+        },
+        {
+            "accuracy": 99,
+            "score": 239421,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Venom.Cant.Aim"
+        },
+        {
             "accuracy": 99,
             "score": 239377,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HunterNoe"
-        },
-        {
-            "accuracy": 99,
-            "score": 233120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "agent d0gg0"
-        },
-        {
-            "accuracy": 99,
-            "score": 233116,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "bunnybus1000"
         }
     ]
 }

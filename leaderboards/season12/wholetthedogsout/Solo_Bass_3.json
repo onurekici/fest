@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 81325,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "GillyEwan98"
+        },
+        {
             "accuracy": 99,
             "score": 81319,
             "difficulty": 3,
@@ -665,6 +673,14 @@
             "userName": "ThickHanz"
         },
         {
+            "accuracy": 99,
+            "score": 78195,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jotandes"
+        },
+        {
             "accuracy": 98,
             "score": 78116,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "flow33333"
-        },
-        {
-            "accuracy": 99,
-            "score": 77571,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rio_hehe"
-        },
-        {
-            "accuracy": 99,
-            "score": 77420,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GreenGuy177"
         }
     ]
 }

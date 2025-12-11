@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 100915,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lago_Arctic_Fox"
+        },
+        {
+            "accuracy": 100,
+            "score": 100909,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Swidis"
+        },
+        {
             "accuracy": 100,
             "score": 100805,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GhostGF_"
-        },
-        {
-            "accuracy": 99,
-            "score": 96132,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Maizie_Leigh"
-        },
-        {
-            "accuracy": 99,
-            "score": 96130,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jahy_Sama-_"
         }
     ]
 }
