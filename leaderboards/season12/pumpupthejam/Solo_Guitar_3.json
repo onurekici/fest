@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 59609,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Xatsiu"
+        },
+        {
+            "accuracy": 100,
+            "score": 59568,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "hvnsfallingdown"
+        },
+        {
             "accuracy": 100,
             "score": 59566,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "yannicin"
-        },
-        {
-            "accuracy": 100,
-            "score": 58701,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jay_breezy241"
-        },
-        {
-            "accuracy": 99,
-            "score": 58698,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yami Aoki"
         }
     ]
 }

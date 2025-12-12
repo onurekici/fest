@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 85233,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PlayedWithFire"
+        },
+        {
+            "accuracy": 100,
             "score": 84579,
             "difficulty": 3,
             "stars": 6,
@@ -247,6 +255,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Peter111699"
+        },
+        {
+            "accuracy": 99,
+            "score": 72039,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jello on Potato"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "HoneyBearSquish"
-        },
-        {
-            "accuracy": 100,
-            "score": 47993,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PlayboíCarti"
-        },
-        {
-            "accuracy": 100,
-            "score": 47893,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "diegopro0803"
         }
     ]
 }

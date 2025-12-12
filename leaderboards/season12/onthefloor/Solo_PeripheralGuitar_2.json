@@ -465,12 +465,28 @@
             "userName": "Mateusz spluwa"
         },
         {
+            "accuracy": 100,
+            "score": 80442,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Skonka10"
+        },
+        {
             "accuracy": 99,
             "score": 80316,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "[XBL] BlackHelmetMan"
+        },
+        {
+            "accuracy": 97,
+            "score": 80304,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "aneuman1"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Spooky_TheScary"
-        },
-        {
-            "accuracy": 94,
-            "score": 67908,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Spyloren"
-        },
-        {
-            "accuracy": 95,
-            "score": 67902,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "haykos_"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 93680,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Th3 Wask"
+        },
+        {
+            "accuracy": 97,
+            "score": 93644,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TF Aust1n"
+        },
+        {
             "accuracy": 98,
             "score": 92710,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "lamilkprince"
-        },
-        {
-            "accuracy": 91,
-            "score": 33480,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mbenfer26"
-        },
-        {
-            "accuracy": 96,
-            "score": 32900,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] Fred_the_dog_"
         }
     ]
 }

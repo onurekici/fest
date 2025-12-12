@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 124638,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Achesta"
+        },
+        {
+            "accuracy": 100,
             "score": 124632,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "DELL.GAMES"
+        },
+        {
+            "accuracy": 100,
+            "score": 124578,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Floriy The Human"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Zacyeo04"
-        },
-        {
-            "accuracy": 99,
-            "score": 122172,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "asondag01"
-        },
-        {
-            "accuracy": 99,
-            "score": 122172,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "vykews"
         }
     ]
 }

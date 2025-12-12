@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 285324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-240c390d28"
+        },
+        {
+            "accuracy": 100,
+            "score": 285264,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ymotoo"
+        },
+        {
             "accuracy": 99,
             "score": 285240,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tuber4202"
-        },
-        {
-            "accuracy": 100,
-            "score": 281310,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KageFuriKuri"
-        },
-        {
-            "accuracy": 99,
-            "score": 281184,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ibenjarojas"
         }
     ]
 }

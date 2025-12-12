@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 67908,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Spyloren"
+        },
+        {
+            "accuracy": 95,
+            "score": 67902,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "haykos_"
+        },
+        {
             "accuracy": 97,
             "score": 67578,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "pgLane"
-        },
-        {
-            "accuracy": 86,
-            "score": 24954,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "User-7e1ae425f3"
-        },
-        {
-            "accuracy": 95,
-            "score": 20544,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Baritone1Rob"
         }
     ]
 }

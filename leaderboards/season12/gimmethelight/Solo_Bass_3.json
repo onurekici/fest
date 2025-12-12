@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 49866,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Anth25S"
+        },
+        {
             "accuracy": 99,
             "score": 49855,
             "difficulty": 2,
@@ -586,6 +594,14 @@
         },
         {
             "accuracy": 100,
+            "score": 45175,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DonkeyLolo"
+        },
+        {
+            "accuracy": 100,
             "score": 45140,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "LFMulder29"
-        },
-        {
-            "accuracy": 98,
-            "score": 44595,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CODE THENEWTORO"
-        },
-        {
-            "accuracy": 100,
-            "score": 44500,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Zephiriell"
         }
     ]
 }

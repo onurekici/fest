@@ -2,11 +2,19 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 200057,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThatWasKid"
+        },
+        {
+            "accuracy": 100,
             "score": 200043,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "xNevermøre"
+            "userName": "Nevermøre."
         },
         {
             "accuracy": 100,
@@ -722,6 +730,14 @@
         },
         {
             "accuracy": 100,
+            "score": 198053,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "oTWC_KoolBummTV"
+        },
+        {
+            "accuracy": 100,
             "score": 198007,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "XNovaDeathStarX_"
-        },
-        {
-            "accuracy": 100,
-            "score": 197831,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Drackard"
-        },
-        {
-            "accuracy": 100,
-            "score": 197831,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LexiQuarry"
         }
     ]
 }

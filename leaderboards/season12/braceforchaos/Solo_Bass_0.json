@@ -130,6 +130,14 @@
         },
         {
             "accuracy": 100,
+            "score": 95431,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Smöz"
+        },
+        {
+            "accuracy": 100,
             "score": 94986,
             "difficulty": 3,
             "stars": 6,
@@ -383,6 +391,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "はちみつクマ"
+        },
+        {
+            "accuracy": 99,
+            "score": 79480,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RØNIN_x"
         },
         {
             "accuracy": 100,
@@ -721,12 +737,28 @@
             "userName": "x-SteevWoka-x"
         },
         {
+            "accuracy": 100,
+            "score": 61168,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "blops_sensei"
+        },
+        {
             "accuracy": 98,
             "score": 61157,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "[PSN] shin_zeus"
+        },
+        {
+            "accuracy": 99,
+            "score": 61106,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TwitchGGShadow"
         },
         {
             "accuracy": 98,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "OxyBlancos"
-        },
-        {
-            "accuracy": 100,
-            "score": 57844,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Spagarada"
-        },
-        {
-            "accuracy": 97,
-            "score": 57401,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ghosted Rider"
-        },
-        {
-            "accuracy": 100,
-            "score": 57075,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BEBRYCH228"
-        },
-        {
-            "accuracy": 98,
-            "score": 57055,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Stumbleduck06"
         }
     ]
 }

@@ -57,12 +57,28 @@
             "userName": "Johnpeep"
         },
         {
+            "accuracy": 100,
+            "score": 137250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kn1ghtYT"
+        },
+        {
             "accuracy": 99,
             "score": 132552,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Zalabar"
+        },
+        {
+            "accuracy": 99,
+            "score": 127428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TikTok JunoHardt"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "[PSN] Autoruss"
-        },
-        {
-            "accuracy": 53,
-            "score": 10560,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "spyfishstick2"
-        },
-        {
-            "accuracy": 49,
-            "score": 9720,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "sebas_kuster"
         }
     ]
 }

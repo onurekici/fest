@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 67438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "danieljosefi"
+        },
+        {
+            "accuracy": 100,
+            "score": 67437,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Overlord_4358"
+        },
+        {
             "accuracy": 98,
             "score": 67407,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Shine_On_CD"
-        },
-        {
-            "accuracy": 98,
-            "score": 64821,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Miss-Laughet"
-        },
-        {
-            "accuracy": 99,
-            "score": 64806,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "QuesoRayadito"
         }
     ]
 }

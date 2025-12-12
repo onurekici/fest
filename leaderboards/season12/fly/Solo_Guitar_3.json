@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 207543,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FROYOGaMER"
+        },
+        {
             "accuracy": 100,
             "score": 207513,
             "difficulty": 3,
@@ -662,7 +670,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "arachnovibe"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Sir.Dadu"
-        },
-        {
-            "accuracy": 100,
-            "score": 205399,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ql.laqra"
         }
     ]
 }

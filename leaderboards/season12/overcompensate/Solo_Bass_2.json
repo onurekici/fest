@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 133823,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mr_Ventral"
+        },
+        {
+            "accuracy": 99,
+            "score": 133786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CrossSans645"
+        },
+        {
+            "accuracy": 100,
             "score": 133776,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "philko3"
-        },
-        {
-            "accuracy": 99,
-            "score": 129568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Leviforsakenhate"
-        },
-        {
-            "accuracy": 100,
-            "score": 129494,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Añoña56"
         }
     ]
 }

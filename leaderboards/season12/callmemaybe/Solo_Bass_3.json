@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 48834,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RustyGroceryCart"
+        },
+        {
+            "accuracy": 100,
+            "score": 48833,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sc4rletstorm"
+        },
+        {
             "accuracy": 100,
             "score": 48829,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Pelican222"
-        },
-        {
-            "accuracy": 100,
-            "score": 48487,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Yushikt"
-        },
-        {
-            "accuracy": 100,
-            "score": 48487,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Chachi_Castle"
         }
     ]
 }

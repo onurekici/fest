@@ -658,11 +658,27 @@
         },
         {
             "accuracy": 100,
+            "score": 70032,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TiMM the TurTle"
+        },
+        {
+            "accuracy": 100,
             "score": 70030,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "Herbie17135"
+        },
+        {
+            "accuracy": 99,
+            "score": 70022,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "getosuguruluvr"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VictorOlmos"
-        },
-        {
-            "accuracy": 99,
-            "score": 69702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CRIMZON_TWENTY"
-        },
-        {
-            "accuracy": 100,
-            "score": 69660,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Triik22"
         }
     ]
 }

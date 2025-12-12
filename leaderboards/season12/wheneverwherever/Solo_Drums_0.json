@@ -178,6 +178,14 @@
         },
         {
             "accuracy": 100,
+            "score": 196335,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bung Lee"
+        },
+        {
+            "accuracy": 100,
             "score": 196017,
             "difficulty": 3,
             "stars": 6,
@@ -417,6 +425,14 @@
             "userName": "Bullseye822"
         },
         {
+            "accuracy": 99,
+            "score": 181968,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AppleBruh9"
+        },
+        {
             "accuracy": 100,
             "score": 180207,
             "difficulty": 3,
@@ -439,6 +455,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Peanut779"
+        },
+        {
+            "accuracy": 99,
+            "score": 178316,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MsCrash1237"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "teknik-dev"
-        },
-        {
-            "accuracy": 98,
-            "score": 129394,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "frogxxo"
-        },
-        {
-            "accuracy": 98,
-            "score": 127833,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cold assassin"
-        },
-        {
-            "accuracy": 98,
-            "score": 127336,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nightmarexbang"
         }
     ]
 }

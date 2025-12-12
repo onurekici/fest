@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 149718,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "YouKnow1243"
+        },
+        {
+            "accuracy": 100,
+            "score": 149712,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SnxperAlly"
+        },
+        {
             "accuracy": 100,
             "score": 149700,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VenomPacifier"
-        },
-        {
-            "accuracy": 100,
-            "score": 148224,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AntoniOtis_"
-        },
-        {
-            "accuracy": 100,
-            "score": 148206,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "eversincexo"
         }
     ]
 }

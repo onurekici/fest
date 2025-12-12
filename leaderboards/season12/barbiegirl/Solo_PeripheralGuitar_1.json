@@ -1,20 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 122533,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xXBroysterXx"
+        },
+        {
+            "accuracy": 99,
+            "score": 122502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dormidoshka"
+        },
+        {
             "accuracy": 99,
             "score": 122474,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "BestTrap_"
-        },
-        {
-            "accuracy": 100,
-            "score": 122391,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kocliko"
         },
         {
             "accuracy": 100,
@@ -350,7 +358,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "M4ke 4 W1sh K1D"
+            "userName": "Your Daily Phill"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "lxN0VA"
-        },
-        {
-            "accuracy": 99,
-            "score": 112363,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "flexxxebbu"
         }
     ]
 }

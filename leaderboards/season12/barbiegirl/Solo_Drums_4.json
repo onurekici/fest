@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 130320,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZekuDoge"
+        },
+        {
+            "accuracy": 100,
+            "score": 130308,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "m1ng4u_d0c3"
+        },
+        {
             "accuracy": 100,
             "score": 130302,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Michaelarkle321"
-        },
-        {
-            "accuracy": 99,
-            "score": 129378,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BUMP_A_DUMP"
-        },
-        {
-            "accuracy": 99,
-            "score": 129378,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Vuhzi"
         }
     ]
 }

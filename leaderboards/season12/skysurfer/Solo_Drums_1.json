@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 294432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ShadowDevGames"
+        },
+        {
+            "accuracy": 99,
+            "score": 293592,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mionaro"
+        },
+        {
+            "accuracy": 99,
+            "score": 289494,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "あらやさまらあらなはまや"
+        },
+        {
+            "accuracy": 99,
+            "score": 286032,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NAUIDWIN"
+        },
+        {
             "accuracy": 99,
             "score": 285432,
             "difficulty": 3,
@@ -223,6 +255,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "MrCesar1580"
+        },
+        {
+            "accuracy": 97,
+            "score": 152694,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "野良々木ノラ_Twitch"
         },
         {
             "accuracy": 96,
@@ -697,12 +737,28 @@
             "userName": "Lezly84"
         },
         {
+            "accuracy": 80,
+            "score": 10130,
+            "difficulty": 0,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "W.o.l.f2008"
+        },
+        {
             "accuracy": 6,
             "score": 2290,
             "difficulty": 1,
             "stars": 0,
             "fullcombo": false,
             "userName": "InfamousBug7941"
+        },
+        {
+            "accuracy": 2,
+            "score": 1746,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": "traxalmamashu"
         }
     ]
 }

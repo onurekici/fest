@@ -298,6 +298,14 @@
         },
         {
             "accuracy": 100,
+            "score": 174125,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JRJORA"
+        },
+        {
+            "accuracy": 100,
             "score": 174099,
             "difficulty": 3,
             "stars": 6,
@@ -730,11 +738,11 @@
         },
         {
             "accuracy": 100,
-            "score": 172206,
+            "score": 172134,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "JRJORA"
+            "fullcombo": true,
+            "userName": "Ichibad Kasuga"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Aruccino"
-        },
-        {
-            "accuracy": 100,
-            "score": 172038,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "OMG_its_ginaaaaa"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 65910,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FuzzyDunlop0430"
+        },
+        {
+            "accuracy": 100,
+            "score": 65860,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MarratoKensuto"
+        },
+        {
             "accuracy": 100,
             "score": 65850,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Bigbrain2001"
-        },
-        {
-            "accuracy": 99,
-            "score": 60650,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "B.P.Smith2"
-        },
-        {
-            "accuracy": 99,
-            "score": 60610,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Alexyndria"
         }
     ]
 }

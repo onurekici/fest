@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 47993,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PlayboíCarti"
+        },
+        {
+            "accuracy": 100,
+            "score": 47893,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "diegopro0803"
+        },
+        {
             "accuracy": 97,
             "score": 47685,
             "difficulty": 3,
@@ -15,6 +31,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Alland2083"
+        },
+        {
+            "accuracy": 98,
+            "score": 47289,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "sadsentinel"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Emmaa11_1"
-        },
-        {
-            "accuracy": 95,
-            "score": 26883,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Funyanim"
-        },
-        {
-            "accuracy": 96,
-            "score": 26783,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "hiyocrew"
-        },
-        {
-            "accuracy": 89,
-            "score": 26457,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "helo is it me"
         }
     ]
 }
