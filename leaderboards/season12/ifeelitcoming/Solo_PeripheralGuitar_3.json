@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 115460,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Robson Bogard"
+        },
+        {
+            "accuracy": 99,
+            "score": 115460,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Muenz"
+        },
+        {
+            "accuracy": 99,
+            "score": 115295,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Vilekestrel121"
+        },
+        {
             "accuracy": 98,
             "score": 115044,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Kori Jenkins"
-        },
-        {
-            "accuracy": 92,
-            "score": 94217,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Clash_Kicker"
-        },
-        {
-            "accuracy": 94,
-            "score": 93978,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Macavechi"
-        },
-        {
-            "accuracy": 96,
-            "score": 93385,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LLytch"
         }
     ]
 }

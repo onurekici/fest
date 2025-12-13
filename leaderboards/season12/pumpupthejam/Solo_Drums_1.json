@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 296076,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Coelhão Do Pix"
+        },
+        {
+            "accuracy": 100,
+            "score": 296058,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dom EoN"
+        },
+        {
             "accuracy": 100,
             "score": 296052,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "crazy_mitarashy"
-        },
-        {
-            "accuracy": 99,
-            "score": 290208,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "maryy_athx"
-        },
-        {
-            "accuracy": 100,
-            "score": 290118,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AbuLightSkin"
         }
     ]
 }

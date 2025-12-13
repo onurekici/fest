@@ -234,6 +234,14 @@
         },
         {
             "accuracy": 99,
+            "score": 123665,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Inkling Freddy"
+        },
+        {
+            "accuracy": 99,
             "score": 123561,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Thistlestar22"
-        },
-        {
-            "accuracy": 98,
-            "score": 109809,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JbirdTheRam0409"
         }
     ]
 }

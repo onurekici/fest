@@ -361,6 +361,14 @@
             "userName": "Mr BobandWeave"
         },
         {
+            "accuracy": 100,
+            "score": 121545,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lebox420"
+        },
+        {
             "accuracy": 99,
             "score": 121389,
             "difficulty": 3,
@@ -383,6 +391,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "crossland007"
+        },
+        {
+            "accuracy": 100,
+            "score": 120980,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vanquish.Evil"
         },
         {
             "accuracy": 100,
@@ -423,6 +439,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "lowhess"
+        },
+        {
+            "accuracy": 100,
+            "score": 120149,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "HaaandyMandy"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "killerman34-098"
-        },
-        {
-            "accuracy": 99,
-            "score": 113040,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WolcCooper8700"
-        },
-        {
-            "accuracy": 100,
-            "score": 112958,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FadedDissent"
-        },
-        {
-            "accuracy": 100,
-            "score": 112957,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "K4zuma_Kiryu"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 265068,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "The blood skull2"
+        },
+        {
+            "accuracy": 99,
             "score": 264786,
             "difficulty": 3,
             "stars": 6,
@@ -367,6 +375,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Xenomorph_Licker"
+        },
+        {
+            "accuracy": 100,
+            "score": 262176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "EdenAbsentia"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "X99 ECHO 9-1"
-        },
-        {
-            "accuracy": 100,
-            "score": 259554,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "werewolf_k9"
-        },
-        {
-            "accuracy": 100,
-            "score": 259554,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NotJœ"
         }
     ]
 }

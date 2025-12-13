@@ -306,6 +306,14 @@
         },
         {
             "accuracy": 100,
+            "score": 37029,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NFFVIP"
+        },
+        {
+            "accuracy": 100,
             "score": 36837,
             "difficulty": 2,
             "stars": 5,
@@ -505,14 +513,6 @@
             "userName": "[PSN] Sledkid01"
         },
         {
-            "accuracy": 99,
-            "score": 32196,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NFFVIP"
-        },
-        {
             "accuracy": 100,
             "score": 32104,
             "difficulty": 1,
@@ -647,6 +647,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Broken559car"
+        },
+        {
+            "accuracy": 99,
+            "score": 28881,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Cavindra"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Verge_zoom"
-        },
-        {
-            "accuracy": 99,
-            "score": 25224,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "lochnesssa"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 191506,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kaiser Ruinstone"
+        },
+        {
             "accuracy": 99,
             "score": 191482,
             "difficulty": 3,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MeerBar"
+        },
+        {
+            "accuracy": 99,
+            "score": 190640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "klmcacho2019"
         },
         {
             "accuracy": 99,
@@ -311,14 +327,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Son1cSt0rm"
-        },
-        {
-            "accuracy": 99,
-            "score": 188034,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "klmcacho2019"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GargoyleGut"
-        },
-        {
-            "accuracy": 100,
-            "score": 183875,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tillthefemboyfox"
         }
     ]
 }

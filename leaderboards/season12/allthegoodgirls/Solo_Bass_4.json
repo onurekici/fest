@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 58840,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PMAC42"
+        },
+        {
+            "accuracy": 100,
+            "score": 58803,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "gabiii.r3"
+        },
+        {
             "accuracy": 99,
             "score": 58768,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "sundry-pace0"
-        },
-        {
-            "accuracy": 99,
-            "score": 56568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Matmat0421"
-        },
-        {
-            "accuracy": 99,
-            "score": 56534,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DanielPinguinn"
         }
     ]
 }

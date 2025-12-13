@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 228485,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Fedora Fielder"
+        },
+        {
+            "accuracy": 100,
             "score": 228349,
             "difficulty": 3,
             "stars": 6,
@@ -578,6 +586,14 @@
         },
         {
             "accuracy": 98,
+            "score": 187393,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SMattLopez"
+        },
+        {
+            "accuracy": 98,
             "score": 186619,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "StepSisLeee"
-        },
-        {
-            "accuracy": 97,
-            "score": 169745,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "IM-SO_DERPY"
-        },
-        {
-            "accuracy": 96,
-            "score": 168078,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FilipSly"
         }
     ]
 }

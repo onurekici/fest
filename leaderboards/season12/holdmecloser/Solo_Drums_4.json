@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 58455,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Chris Guara"
+        },
+        {
+            "accuracy": 100,
+            "score": 58435,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LumityFan66"
+        },
+        {
             "accuracy": 100,
             "score": 58375,
             "difficulty": 1,
@@ -183,6 +199,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "YrdDwg"
+        },
+        {
+            "accuracy": 98,
+            "score": 56885,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OoDakeno0"
         },
         {
             "accuracy": 94,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "dnd-_-cam"
-        },
-        {
-            "accuracy": 99,
-            "score": 53045,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hotdog_Palek"
-        },
-        {
-            "accuracy": 99,
-            "score": 52980,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mini_Monst"
-        },
-        {
-            "accuracy": 99,
-            "score": 52955,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "F0X1E2767"
         }
     ]
 }

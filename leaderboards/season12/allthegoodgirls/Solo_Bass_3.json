@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 63665,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Saltybaby_21"
+        },
+        {
             "accuracy": 99,
             "score": 63599,
             "difficulty": 3,
@@ -562,6 +570,14 @@
         },
         {
             "accuracy": 100,
+            "score": 59624,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LordBlahaj"
+        },
+        {
+            "accuracy": 100,
             "score": 59568,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Agent.Honk"
-        },
-        {
-            "accuracy": 100,
-            "score": 58840,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PMAC42"
-        },
-        {
-            "accuracy": 100,
-            "score": 58803,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "gabiii.r3"
         }
     ]
 }

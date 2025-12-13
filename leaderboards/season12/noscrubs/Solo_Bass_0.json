@@ -129,12 +129,28 @@
             "userName": "Sir Lonesome"
         },
         {
+            "accuracy": 99,
+            "score": 67226,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-3ae6042cc0"
+        },
+        {
             "accuracy": 100,
             "score": 66942,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
             "userName": "PreHealed"
+        },
+        {
+            "accuracy": 99,
+            "score": 66186,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Faeturmorthur"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "LilBaddie2019"
-        },
-        {
-            "accuracy": 97,
-            "score": 27662,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "skillfulwave"
-        },
-        {
-            "accuracy": 95,
-            "score": 27656,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "MikasasDeadBf"
         }
     ]
 }

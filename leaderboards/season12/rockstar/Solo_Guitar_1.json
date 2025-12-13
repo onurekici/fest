@@ -74,6 +74,14 @@
         },
         {
             "accuracy": 100,
+            "score": 75000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Faitcev"
+        },
+        {
+            "accuracy": 100,
             "score": 74993,
             "difficulty": 3,
             "stars": 6,
@@ -167,6 +175,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "CheekyCharmer シ"
+        },
+        {
+            "accuracy": 100,
+            "score": 74825,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "わたなへ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SirCheeseburgur"
-        },
-        {
-            "accuracy": 100,
-            "score": 74364,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ethanblondboy"
-        },
-        {
-            "accuracy": 100,
-            "score": 74362,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DUB_B"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 257250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pikmin-Inc"
+        },
+        {
             "accuracy": 100,
             "score": 256882,
             "difficulty": 3,
@@ -730,6 +738,14 @@
         },
         {
             "accuracy": 100,
+            "score": 251590,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GambitKirby"
+        },
+        {
+            "accuracy": 100,
             "score": 251580,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Yeetmini"
-        },
-        {
-            "accuracy": 100,
-            "score": 251199,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TS_ChrisM"
-        },
-        {
-            "accuracy": 100,
-            "score": 251107,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nyanja Is Cute"
         }
     ]
 }

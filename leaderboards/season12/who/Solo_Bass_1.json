@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 31177,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "WhereMyHugggAt"
+        },
+        {
+            "accuracy": 100,
             "score": 30808,
             "difficulty": 2,
             "stars": 5,
@@ -241,6 +249,14 @@
             "userName": "frosty1733"
         },
         {
+            "accuracy": 98,
+            "score": 24940,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "heartthrobgojo"
+        },
+        {
             "accuracy": 99,
             "score": 24420,
             "difficulty": 1,
@@ -391,6 +407,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Sylvekka"
+        },
+        {
+            "accuracy": 100,
+            "score": 20096,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TheGuamCatz"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Tysson3"
-        },
-        {
-            "accuracy": 96,
-            "score": 11036,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "angelxl72"
-        },
-        {
-            "accuracy": 96,
-            "score": 10887,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "mivc3xi"
-        },
-        {
-            "accuracy": 97,
-            "score": 10749,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Kieren.95"
         }
     ]
 }

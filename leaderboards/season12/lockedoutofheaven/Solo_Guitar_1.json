@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 197485,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rocky Road 12345"
+        },
+        {
+            "accuracy": 100,
+            "score": 197398,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tuviejanator"
+        },
+        {
+            "accuracy": 100,
             "score": 197327,
             "difficulty": 3,
             "stars": 6,
@@ -199,6 +215,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Demon_HydraVenom"
+        },
+        {
+            "accuracy": 99,
+            "score": 195812,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CheesyEden"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KaoticBeat"
-        },
-        {
-            "accuracy": 100,
-            "score": 192056,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "soldierboypants"
-        },
-        {
-            "accuracy": 99,
-            "score": 192010,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zasanc19"
-        },
-        {
-            "accuracy": 100,
-            "score": 191650,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SourPatahto"
         }
     ]
 }

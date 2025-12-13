@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112677,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ribbotned"
+        },
+        {
+            "accuracy": 99,
+            "score": 112673,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pidgey04"
+        },
+        {
+            "accuracy": 100,
             "score": 112668,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Santas Best Elf"
-        },
-        {
-            "accuracy": 99,
-            "score": 110423,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LaloSlaughter"
-        },
-        {
-            "accuracy": 99,
-            "score": 110417,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Maoki_"
         }
     ]
 }
