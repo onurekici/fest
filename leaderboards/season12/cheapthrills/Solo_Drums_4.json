@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 116742,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheFineWaffle"
+        },
+        {
+            "accuracy": 100,
+            "score": 116742,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BowelBlasters"
+        },
+        {
+            "accuracy": 99,
             "score": 116676,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Moupr0"
-        },
-        {
-            "accuracy": 99,
-            "score": 112320,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Choombecoon"
-        },
-        {
-            "accuracy": 99,
-            "score": 112314,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CurvedGopher2676"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 102690,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Big_Red_02_"
+        },
+        {
+            "accuracy": 98,
+            "score": 102577,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SithLordBeard"
+        },
+        {
             "accuracy": 97,
             "score": 102035,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "headfirstformcr"
-        },
-        {
-            "accuracy": 96,
-            "score": 61367,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Koogimus_Prime"
-        },
-        {
-            "accuracy": 97,
-            "score": 60758,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "harissonfordfan"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 272095,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "imDiegoGuimaraes"
+        },
+        {
+            "accuracy": 100,
             "score": 271607,
             "difficulty": 3,
             "stars": 6,
@@ -314,6 +322,14 @@
         },
         {
             "accuracy": 99,
+            "score": 233574,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "えつり"
+        },
+        {
+            "accuracy": 99,
             "score": 232523,
             "difficulty": 3,
             "stars": 6,
@@ -335,14 +351,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "use code bbc123"
-        },
-        {
-            "accuracy": 99,
-            "score": 231013,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "えつり"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "pearcider19"
-        },
-        {
-            "accuracy": 99,
-            "score": 206487,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "brain creation"
         }
     ]
 }

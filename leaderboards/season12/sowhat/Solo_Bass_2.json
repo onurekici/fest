@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126194,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "gargon_oficial"
+        },
+        {
+            "accuracy": 99,
+            "score": 126182,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mrkroyer"
+        },
+        {
             "accuracy": 99,
             "score": 126160,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ChelsEddy"
-        },
-        {
-            "accuracy": 99,
-            "score": 117684,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Valkkyrjaa"
-        },
-        {
-            "accuracy": 99,
-            "score": 117595,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DangerousElk3727"
         }
     ]
 }

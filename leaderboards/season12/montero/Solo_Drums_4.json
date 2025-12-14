@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Clauede"
+        },
+        {
+            "accuracy": 100,
+            "score": 65676,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Cosmicform"
+        },
+        {
+            "accuracy": 100,
             "score": 65658,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Linkfan071"
-        },
-        {
-            "accuracy": 99,
-            "score": 64254,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GGrimsly"
-        },
-        {
-            "accuracy": 99,
-            "score": 64248,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Woetertie"
         }
     ]
 }

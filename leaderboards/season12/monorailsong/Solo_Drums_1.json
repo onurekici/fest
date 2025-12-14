@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 28128,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Grok Ai"
+        },
+        {
+            "accuracy": 100,
             "score": 28020,
             "difficulty": 2,
             "stars": 5,
@@ -489,6 +497,14 @@
             "userName": "t_sticks"
         },
         {
+            "accuracy": 91,
+            "score": 13065,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "GloryBust"
+        },
+        {
             "accuracy": 94,
             "score": 12618,
             "difficulty": 3,
@@ -551,6 +567,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "DeadInside737"
+        },
+        {
+            "accuracy": 92,
+            "score": 11215,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "theOGjmi"
         },
         {
             "accuracy": 91,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Zamirjuq鶏肉"
-        },
-        {
-            "accuracy": 100,
-            "score": 8775,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Psychonautic_OM"
-        },
-        {
-            "accuracy": 100,
-            "score": 8770,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Jake Bottomley"
-        },
-        {
-            "accuracy": 100,
-            "score": 8730,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Blaine Edwards"
         }
     ]
 }

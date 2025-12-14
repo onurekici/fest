@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 32546,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "sortbyfirstname"
+        },
+        {
             "accuracy": 100,
             "score": 32483,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "catechesist"
-        },
-        {
-            "accuracy": 98,
-            "score": 29659,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheaMAN_IN_BLU"
         }
     ]
 }

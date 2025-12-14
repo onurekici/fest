@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 270402,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TwitchyUser"
+        },
+        {
             "accuracy": 100,
             "score": 270360,
             "difficulty": 3,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FaniiTV"
+        },
+        {
+            "accuracy": 100,
+            "score": 270324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DestinyWasTaken."
         },
         {
             "accuracy": 99,
@@ -183,6 +199,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kyza Ripper"
+        },
+        {
+            "accuracy": 100,
+            "score": 269706,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PIPEXp_"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "eskenerd"
-        },
-        {
-            "accuracy": 99,
-            "score": 267498,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "bbglulu"
-        },
-        {
-            "accuracy": 99,
-            "score": 267336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cawole"
-        },
-        {
-            "accuracy": 100,
-            "score": 267336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NanoNimb"
         }
     ]
 }

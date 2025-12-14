@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 65111,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "THE YELLOW SLIME"
+        },
+        {
+            "accuracy": 100,
             "score": 65071,
             "difficulty": 3,
             "stars": 6,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "meleechampion"
+        },
+        {
+            "accuracy": 100,
+            "score": 64887,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GoJoe24"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Aroogi"
-        },
-        {
-            "accuracy": 100,
-            "score": 63312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThurDoDinok"
-        },
-        {
-            "accuracy": 100,
-            "score": 63306,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DannyMcFluffy"
         }
     ]
 }

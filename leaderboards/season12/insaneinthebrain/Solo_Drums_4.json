@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 163026,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cuebacca"
+        },
+        {
+            "accuracy": 99,
+            "score": 162882,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Spumchug"
+        },
+        {
             "accuracy": 98,
             "score": 162834,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Tritius_VT"
-        },
-        {
-            "accuracy": 99,
-            "score": 152058,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Belagven"
-        },
-        {
-            "accuracy": 96,
-            "score": 151956,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Vesta_Turan"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 27762,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "alexjpgr"
+        },
+        {
+            "accuracy": 100,
+            "score": 27718,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ben Millett"
+        },
+        {
+            "accuracy": 100,
             "score": 27713,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Abysmal Gospel"
-        },
-        {
-            "accuracy": 99,
-            "score": 22200,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PixelatedPixelia"
-        },
-        {
-            "accuracy": 98,
-            "score": 22120,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Skulllzzcode"
         }
     ]
 }

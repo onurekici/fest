@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 94906,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Blizzysip"
+        },
+        {
+            "accuracy": 98,
+            "score": 94607,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "norris118"
+        },
+        {
+            "accuracy": 97,
+            "score": 94583,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kori Jenkins"
+        },
+        {
             "accuracy": 92,
             "score": 94217,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "donichu_"
-        },
-        {
-            "accuracy": 93,
-            "score": 81281,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Chaosezy"
-        },
-        {
-            "accuracy": 96,
-            "score": 81138,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "kartick"
-        },
-        {
-            "accuracy": 95,
-            "score": 80917,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "n_rodriguez1"
         }
     ]
 }

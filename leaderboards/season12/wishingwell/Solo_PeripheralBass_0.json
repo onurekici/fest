@@ -1,20 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 78051,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 97,
             "score": 47433,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Daking_Jaylen"
+            "userName": null
         },
         {
-            "accuracy": 36,
-            "score": 19032,
+            "accuracy": 90,
+            "score": 30851,
             "difficulty": 3,
-            "stars": 2,
+            "stars": 4,
             "fullcombo": false,
-            "userName": "Soldiermang"
+            "userName": null
         },
         {
             "accuracy": 85,
@@ -22,7 +30,7 @@
             "difficulty": 2,
             "stars": 2,
             "fullcombo": false,
-            "userName": "rubqyyy"
+            "userName": null
         }
     ]
 }

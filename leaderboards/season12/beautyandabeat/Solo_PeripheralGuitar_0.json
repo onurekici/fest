@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 130536,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "iwum"
+        },
+        {
+            "accuracy": 100,
             "score": 127644,
             "difficulty": 3,
             "stars": 6,
@@ -289,6 +297,14 @@
             "userName": "Skylanderz"
         },
         {
+            "accuracy": 95,
+            "score": 72504,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OhmyitsRy"
+        },
+        {
             "accuracy": 96,
             "score": 67398,
             "difficulty": 2,
@@ -303,6 +319,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "InfiniteJoshyy"
+        },
+        {
+            "accuracy": 100,
+            "score": 55752,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Inko_Mate"
         },
         {
             "accuracy": 96,
@@ -439,14 +463,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Winterbugu"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 1,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "Inko_Mate"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 98568,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "oDinomite"
+        },
+        {
             "accuracy": 100,
             "score": 98532,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DevilsFeed"
-        },
-        {
-            "accuracy": 100,
-            "score": 95820,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "chuy13013"
         }
     ]
 }

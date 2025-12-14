@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 36885,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "WolfDragon217"
+        },
+        {
+            "accuracy": 100,
+            "score": 36594,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Skippersonne"
+        },
+        {
             "accuracy": 97,
             "score": 36379,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ValdeMire"
-        },
-        {
-            "accuracy": 98,
-            "score": 23290,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "xxLiamWhite96Xx"
-        },
-        {
-            "accuracy": 98,
-            "score": 23279,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "StarrBomba"
         }
     ]
 }

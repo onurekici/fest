@@ -41,6 +41,14 @@
             "userName": "Voodoo-Hendrix"
         },
         {
+            "accuracy": 100,
+            "score": 192414,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Xeldon"
+        },
+        {
             "accuracy": 99,
             "score": 192348,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TampOnTampOff"
-        },
-        {
-            "accuracy": 97,
-            "score": 154314,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TiTaN 2112"
         }
     ]
 }

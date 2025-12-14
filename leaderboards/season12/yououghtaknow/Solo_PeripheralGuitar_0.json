@@ -42,6 +42,14 @@
         },
         {
             "accuracy": 100,
+            "score": 163824,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "btbarns"
+        },
+        {
+            "accuracy": 100,
             "score": 163333,
             "difficulty": 3,
             "stars": 6,
@@ -705,6 +713,14 @@
             "userName": "INOSCOPEDFTW"
         },
         {
+            "accuracy": 98,
+            "score": 82778,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MyFodder"
+        },
+        {
             "accuracy": 100,
             "score": 82199,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Enby_Onyx"
-        },
-        {
-            "accuracy": 91,
-            "score": 75112,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LillySellsBud"
-        },
-        {
-            "accuracy": 81,
-            "score": 74428,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "kaseyjevo"
         }
     ]
 }

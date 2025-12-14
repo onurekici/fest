@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 42324,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Michael Scarn SA"
+        },
+        {
+            "accuracy": 100,
             "score": 42279,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "daedsiairam"
-        },
-        {
-            "accuracy": 100,
-            "score": 41349,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Elouvange"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 131655,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Subtle Noodle"
+        },
+        {
             "accuracy": 96,
             "score": 131586,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "An Armless Boy"
-        },
-        {
-            "accuracy": 96,
-            "score": 116530,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pweffle"
         }
     ]
 }

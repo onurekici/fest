@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 118551,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "BigJoe201"
+        },
+        {
+            "accuracy": 99,
+            "score": 118152,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FancyFlamingo43"
+        },
+        {
             "accuracy": 99,
             "score": 118002,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "kikiwasalrtaken"
-        },
-        {
-            "accuracy": 99,
-            "score": 102207,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Twice.CD"
-        },
-        {
-            "accuracy": 99,
-            "score": 102201,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "donaldmanhole"
         }
     ]
 }

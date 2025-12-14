@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 47840,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mattman019"
+        },
+        {
             "accuracy": 98,
             "score": 47752,
             "difficulty": 2,
@@ -218,11 +226,27 @@
         },
         {
             "accuracy": 98,
+            "score": 45476,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Placid_ZombieBud"
+        },
+        {
+            "accuracy": 98,
             "score": 45406,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "aylinYRL"
+        },
+        {
+            "accuracy": 99,
+            "score": 45379,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HaggerTG"
         },
         {
             "accuracy": 97,
@@ -231,6 +255,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "michusツ"
+        },
+        {
+            "accuracy": 98,
+            "score": 45144,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LinusVader"
         },
         {
             "accuracy": 98,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TonyPokester"
-        },
-        {
-            "accuracy": 100,
-            "score": 40023,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "BaronNightmare"
-        },
-        {
-            "accuracy": 98,
-            "score": 39997,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "zaku fist"
-        },
-        {
-            "accuracy": 100,
-            "score": 39947,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Dunckyz"
-        },
-        {
-            "accuracy": 100,
-            "score": 39900,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ToastierAbyss39"
         }
     ]
 }

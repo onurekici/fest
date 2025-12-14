@@ -74,6 +74,14 @@
         },
         {
             "accuracy": 100,
+            "score": 198561,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "local doofus"
+        },
+        {
+            "accuracy": 100,
             "score": 194653,
             "difficulty": 3,
             "stars": 6,
@@ -665,6 +673,14 @@
             "userName": "TDF_QC"
         },
         {
+            "accuracy": 99,
+            "score": 111943,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Pikazilla3"
+        },
+        {
             "accuracy": 98,
             "score": 108165,
             "difficulty": 3,
@@ -711,6 +727,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Jaylynn_sweets"
+        },
+        {
+            "accuracy": 96,
+            "score": 99708,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "mrgratuity"
         },
         {
             "accuracy": 95,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Rusty Sabi"
-        },
-        {
-            "accuracy": 92,
-            "score": 76244,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Zerogravitytrash"
-        },
-        {
-            "accuracy": 100,
-            "score": 75854,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Silverwolfheart"
-        },
-        {
-            "accuracy": 100,
-            "score": 75374,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Goode133"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 42594,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GwenKa"
+        },
+        {
+            "accuracy": 100,
+            "score": 42546,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mxribund"
+        },
+        {
+            "accuracy": 100,
             "score": 42546,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "YaleCHG"
-        },
-        {
-            "accuracy": 100,
-            "score": 40038,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "tilin_elcreador_"
-        },
-        {
-            "accuracy": 100,
-            "score": 40026,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "artorrian"
         }
     ]
 }
