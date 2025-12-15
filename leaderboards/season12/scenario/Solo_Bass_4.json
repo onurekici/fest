@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 38540,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CityLineGuru"
+        },
+        {
             "accuracy": 99,
             "score": 38301,
             "difficulty": 1,
@@ -143,6 +151,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GroovyPunk"
+        },
+        {
+            "accuracy": 94,
+            "score": 36869,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "CabageWater"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "abbiewinterbone"
-        },
-        {
-            "accuracy": 96,
-            "score": 24380,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Baked Food"
-        },
-        {
-            "accuracy": 97,
-            "score": 24111,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "IntenseSnipe8760"
         }
     ]
 }

@@ -74,6 +74,14 @@
         },
         {
             "accuracy": 99,
+            "score": 129048,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MardyShards"
+        },
+        {
+            "accuracy": 99,
             "score": 127428,
             "difficulty": 3,
             "stars": 6,
@@ -106,11 +114,19 @@
         },
         {
             "accuracy": 99,
-            "score": 121104,
+            "score": 121206,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Cyber-kero"
+        },
+        {
+            "accuracy": 99,
+            "score": 120300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BumpyLumpy01"
         },
         {
             "accuracy": 99,
@@ -127,14 +143,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Florgendorp13"
-        },
-        {
-            "accuracy": 94,
-            "score": 110226,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MardyShards"
         },
         {
             "accuracy": 99,
@@ -633,6 +641,14 @@
             "userName": "Kobalt Samu"
         },
         {
+            "accuracy": 95,
+            "score": 22332,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Archsaver"
+        },
+        {
             "accuracy": 79,
             "score": 21354,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "PrinceFranky"
-        },
-        {
-            "accuracy": 78,
-            "score": 12676,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "Blardnoc"
-        },
-        {
-            "accuracy": 78,
-            "score": 12642,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "sombrio_ps_edu"
         }
     ]
 }

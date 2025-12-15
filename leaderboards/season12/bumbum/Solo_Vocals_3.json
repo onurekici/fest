@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 172045,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ebic Destroyer"
+        },
+        {
+            "accuracy": 100,
+            "score": 172039,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ReGiRoMAn"
+        },
+        {
             "accuracy": 100,
             "score": 172015,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "dying_euphoria"
-        },
-        {
-            "accuracy": 100,
-            "score": 169591,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PandaChou"
-        },
-        {
-            "accuracy": 100,
-            "score": 169579,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TwilightSky023"
         }
     ]
 }

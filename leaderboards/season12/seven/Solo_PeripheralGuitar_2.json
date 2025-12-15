@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 81863,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Warmind225"
+        },
+        {
+            "accuracy": 97,
+            "score": 81625,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HROW94"
+        },
+        {
             "accuracy": 98,
             "score": 81245,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "burknasty420"
-        },
-        {
-            "accuracy": 96,
-            "score": 58296,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Domoothy"
-        },
-        {
-            "accuracy": 91,
-            "score": 57982,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ReadymadeNewt"
         }
     ]
 }

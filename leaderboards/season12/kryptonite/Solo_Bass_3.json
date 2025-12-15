@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 92175,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Neonidas22"
+        },
+        {
             "accuracy": 98,
             "score": 92112,
             "difficulty": 3,
@@ -542,7 +550,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Shigarakin_It"
+            "userName": "RavenT3amLeader"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ViCD_2812"
-        },
-        {
-            "accuracy": 99,
-            "score": 87667,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Blades_999"
         }
     ]
 }

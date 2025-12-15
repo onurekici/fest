@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 251598,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RavenousRichard"
+        },
+        {
             "accuracy": 99,
             "score": 251425,
             "difficulty": 3,
@@ -279,6 +287,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LurkerKraid"
+        },
+        {
+            "accuracy": 100,
+            "score": 249279,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Big_lisp"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kyle-XY_1"
-        },
-        {
-            "accuracy": 100,
-            "score": 245968,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "dark.angelz"
-        },
-        {
-            "accuracy": 100,
-            "score": 245931,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tiachuin"
         }
     ]
 }

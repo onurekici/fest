@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ᴍʀ_ᴇᴍɪツ"
+        },
+        {
+            "accuracy": 100,
             "score": 119462,
             "difficulty": 3,
             "stars": 6,
@@ -41,6 +49,14 @@
             "userName": "szymuss2205"
         },
         {
+            "accuracy": 97,
+            "score": 67282,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AmmJayz"
+        },
+        {
             "accuracy": 98,
             "score": 61743,
             "difficulty": 2,
@@ -55,14 +71,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "RadiatedKhajiit"
-        },
-        {
-            "accuracy": 91,
-            "score": 35292,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "AmmJayz"
         },
         {
             "accuracy": 84,

@@ -681,6 +681,14 @@
             "userName": null
         },
         {
+            "accuracy": 97,
+            "score": 74310,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 95,
             "score": 73896,
             "difficulty": 3,
@@ -738,6 +746,22 @@
         },
         {
             "accuracy": 100,
+            "score": 68922,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 98,
+            "score": 68682,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
             "score": 68508,
             "difficulty": 2,
             "stars": 5,
@@ -773,30 +797,6 @@
             "score": 65622,
             "difficulty": 2,
             "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 65298,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 96,
-            "score": 65226,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 94,
-            "score": 64992,
-            "difficulty": 3,
-            "stars": 4,
             "fullcombo": false,
             "userName": null
         }

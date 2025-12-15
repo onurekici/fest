@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 76272,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Captain Carroll"
+        },
+        {
+            "accuracy": 100,
+            "score": 76230,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Irondoom2"
+        },
+        {
+            "accuracy": 98,
             "score": 76068,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "manuev94"
-        },
-        {
-            "accuracy": 100,
-            "score": 66155,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Stitchshape420"
-        },
-        {
-            "accuracy": 99,
-            "score": 66125,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "l DinoSan I"
         }
     ]
 }

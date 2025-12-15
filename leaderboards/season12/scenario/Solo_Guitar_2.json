@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 41501,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "lets eat grandpa"
+        },
+        {
+            "accuracy": 100,
+            "score": 41491,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Enryelle"
+        },
+        {
+            "accuracy": 100,
             "score": 41490,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "2girlsand1pump"
-        },
-        {
-            "accuracy": 100,
-            "score": 39986,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PapaBoli"
-        },
-        {
-            "accuracy": 97,
-            "score": 39965,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "2girls1pump."
         }
     ]
 }

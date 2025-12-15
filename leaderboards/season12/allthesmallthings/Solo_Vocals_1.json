@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 107664,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Felix Outsider"
+        },
+        {
+            "accuracy": 100,
             "score": 107640,
             "difficulty": 3,
             "stars": 6,
@@ -199,6 +207,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Adam_PunK"
+        },
+        {
+            "accuracy": 100,
+            "score": 106826,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mowing Aces 2025"
         },
         {
             "accuracy": 100,
@@ -514,14 +530,6 @@
         },
         {
             "accuracy": 100,
-            "score": 106053,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mowing Aces 2025"
-        },
-        {
-            "accuracy": 100,
             "score": 106039,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "mkrr2"
-        },
-        {
-            "accuracy": 100,
-            "score": 105371,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "glethaijam"
         }
     ]
 }
