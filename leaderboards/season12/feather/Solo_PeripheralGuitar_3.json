@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 55540,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Letus Bray"
+        },
+        {
+            "accuracy": 97,
+            "score": 55462,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TheLaw1151"
+        },
+        {
             "accuracy": 98,
             "score": 55443,
             "difficulty": 2,
@@ -263,6 +279,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "nadilopez7"
+        },
+        {
+            "accuracy": 93,
+            "score": 52547,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Hit Me Witha Bus"
         },
         {
             "accuracy": 90,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Spitfire ZX"
-        },
-        {
-            "accuracy": 87,
-            "score": 45751,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "JTF_MERCY"
-        },
-        {
-            "accuracy": 87,
-            "score": 45704,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "StupidInhuman"
-        },
-        {
-            "accuracy": 92,
-            "score": 45664,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "King_dedede"
         }
     ]
 }

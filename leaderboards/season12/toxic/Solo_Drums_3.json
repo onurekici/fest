@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 103416,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sportacus_3000"
+        },
+        {
+            "accuracy": 100,
+            "score": 103416,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Genius14"
+        },
+        {
             "accuracy": 100,
             "score": 103398,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Sneakyturtle183"
-        },
-        {
-            "accuracy": 100,
-            "score": 101532,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MONEY_MD-"
-        },
-        {
-            "accuracy": 100,
-            "score": 101514,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LukemonPlay"
         }
     ]
 }

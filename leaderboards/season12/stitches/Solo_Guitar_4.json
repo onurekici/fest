@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 225725,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Draven227"
+        },
+        {
+            "accuracy": 100,
+            "score": 225720,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zer9224"
+        },
+        {
             "accuracy": 99,
             "score": 225694,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Air Pup"
-        },
-        {
-            "accuracy": 100,
-            "score": 223883,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Therealmslady"
-        },
-        {
-            "accuracy": 100,
-            "score": 223878,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ConceptCanine99"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 50113,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 97,
+            "score": 49970,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 49815,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 99,
             "score": 49808,
             "difficulty": 1,
@@ -545,18 +569,18 @@
             "userName": null
         },
         {
+            "accuracy": 100,
+            "score": 22680,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 95,
             "score": 22060,
             "difficulty": 1,
             "stars": 4,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 21263,
-            "difficulty": 0,
-            "stars": 5,
             "fullcombo": false,
             "userName": null
         },
@@ -773,30 +797,6 @@
             "score": 9959,
             "difficulty": 1,
             "stars": 2,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 95,
-            "score": 9890,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 78,
-            "score": 9511,
-            "difficulty": 2,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 93,
-            "score": 9453,
-            "difficulty": 0,
-            "stars": 4,
             "fullcombo": false,
             "userName": null
         }

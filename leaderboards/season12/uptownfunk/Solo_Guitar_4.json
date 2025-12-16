@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 122412,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MasterCheifFew"
+        },
+        {
+            "accuracy": 99,
+            "score": 122402,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ttturr0n."
+        },
+        {
             "accuracy": 99,
             "score": 122375,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GabelC"
-        },
-        {
-            "accuracy": 99,
-            "score": 120273,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Eavontide"
-        },
-        {
-            "accuracy": 99,
-            "score": 120264,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "La Vare"
         }
     ]
 }

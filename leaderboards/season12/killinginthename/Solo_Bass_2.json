@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 251502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Saucestad"
+        },
+        {
+            "accuracy": 100,
+            "score": 251460,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Florgendorp13"
+        },
+        {
             "accuracy": 100,
             "score": 251327,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Deedoo_05"
-        },
-        {
-            "accuracy": 99,
-            "score": 248094,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ramen_Tacos"
-        },
-        {
-            "accuracy": 99,
-            "score": 248060,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Survival Rain"
         }
     ]
 }

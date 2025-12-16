@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 95900,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HoH_182"
+        },
+        {
+            "accuracy": 99,
+            "score": 95820,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "07hondaprelude"
+        },
+        {
             "accuracy": 99,
             "score": 95405,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "tings2.0"
-        },
-        {
-            "accuracy": 97,
-            "score": 78600,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kikin jr TJ"
-        },
-        {
-            "accuracy": 89,
-            "score": 78505,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "MellyMelBetter"
         }
     ]
 }

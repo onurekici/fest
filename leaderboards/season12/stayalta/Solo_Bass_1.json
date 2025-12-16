@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 61505,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Hiepii"
+        },
+        {
+            "accuracy": 100,
             "score": 61397,
             "difficulty": 1,
             "stars": 5,
@@ -255,6 +263,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SAGRAQUI"
+        },
+        {
+            "accuracy": 99,
+            "score": 50430,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "suggie-"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "ra_1nam3"
-        },
-        {
-            "accuracy": 93,
-            "score": 17710,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Guru 0"
-        },
-        {
-            "accuracy": 97,
-            "score": 17586,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Fredou39L"
         }
     ]
 }

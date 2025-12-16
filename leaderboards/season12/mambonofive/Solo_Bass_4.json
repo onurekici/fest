@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 115367,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wigglylicense"
+        },
+        {
+            "accuracy": 100,
+            "score": 115365,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kilimac"
+        },
+        {
             "accuracy": 100,
             "score": 115363,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "40hertzgod"
-        },
-        {
-            "accuracy": 100,
-            "score": 114527,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Vitamine1991"
-        },
-        {
-            "accuracy": 100,
-            "score": 114510,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KxCOBRA"
         }
     ]
 }

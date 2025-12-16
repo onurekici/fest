@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 245412,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Oktoberfest03"
+        },
+        {
             "accuracy": 99,
             "score": 245407,
             "difficulty": 3,
@@ -497,6 +505,14 @@
             "userName": "ViperWitDuhSnipe"
         },
         {
+            "accuracy": 98,
+            "score": 232014,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Gashmoygen"
+        },
+        {
             "accuracy": 97,
             "score": 231689,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ArikadoXIII"
-        },
-        {
-            "accuracy": 98,
-            "score": 226641,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "PH SENTA FOFO"
-        },
-        {
-            "accuracy": 98,
-            "score": 226290,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HoneyHawk"
         }
     ]
 }

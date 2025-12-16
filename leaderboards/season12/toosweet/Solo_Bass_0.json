@@ -10,6 +10,14 @@
         },
         {
             "accuracy": 100,
+            "score": 132445,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dmasy"
+        },
+        {
+            "accuracy": 100,
             "score": 130159,
             "difficulty": 3,
             "stars": 6,
@@ -226,6 +234,14 @@
         },
         {
             "accuracy": 99,
+            "score": 117490,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Misaki Nikato"
+        },
+        {
+            "accuracy": 99,
             "score": 115762,
             "difficulty": 3,
             "stars": 6,
@@ -391,6 +407,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sunsoul03"
+        },
+        {
+            "accuracy": 100,
+            "score": 103968,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Saigotsu"
         },
         {
             "accuracy": 93,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Groovy_Gaymer"
-        },
-        {
-            "accuracy": 99,
-            "score": 75944,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Iris.Loveheart"
-        },
-        {
-            "accuracy": 98,
-            "score": 75474,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ライトニングOG"
-        },
-        {
-            "accuracy": 98,
-            "score": 74213,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ya Dead Homie"
         }
     ]
 }

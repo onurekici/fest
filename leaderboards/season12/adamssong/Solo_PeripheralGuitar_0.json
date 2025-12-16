@@ -257,6 +257,14 @@
             "userName": "HelsieMelodyᵀᵀ"
         },
         {
+            "accuracy": 100,
+            "score": 251988,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gashmoygen"
+        },
+        {
             "accuracy": 99,
             "score": 250192,
             "difficulty": 3,
@@ -354,10 +362,18 @@
         },
         {
             "accuracy": 99,
-            "score": 232681,
+            "score": 236057,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VRteeth"
+        },
+        {
+            "accuracy": 100,
+            "score": 234192,
             "difficulty": 2,
             "stars": 5,
-            "fullcombo": false,
+            "fullcombo": true,
             "userName": "LordOfTheL1quor"
         },
         {
@@ -569,6 +585,14 @@
             "userName": "General_Louis"
         },
         {
+            "accuracy": 99,
+            "score": 193496,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Darkbatty94"
+        },
+        {
             "accuracy": 97,
             "score": 193451,
             "difficulty": 3,
@@ -670,7 +694,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Ph1zzle123"
+            "userName": "tt.ph1zzle123"
         },
         {
             "accuracy": 93,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TyLaR18"
-        },
-        {
-            "accuracy": 81,
-            "score": 100487,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Airelii"
-        },
-        {
-            "accuracy": 62,
-            "score": 95302,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "IRocketRaccoonl"
-        },
-        {
-            "accuracy": 96,
-            "score": 91057,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jesko300"
         }
     ]
 }

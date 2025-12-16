@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 37004,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LoadingGun"
+        },
+        {
             "accuracy": 95,
             "score": 36885,
             "difficulty": 3,
@@ -553,6 +561,14 @@
             "userName": "PirateInXbox"
         },
         {
+            "accuracy": 100,
+            "score": 27047,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "xSilver_Voltagex"
+        },
+        {
             "accuracy": 84,
             "score": 27006,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "EXHUNTER240"
-        },
-        {
-            "accuracy": 97,
-            "score": 23552,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "lumpyheadman"
-        },
-        {
-            "accuracy": 95,
-            "score": 23533,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "CactusSquack"
         }
     ]
 }

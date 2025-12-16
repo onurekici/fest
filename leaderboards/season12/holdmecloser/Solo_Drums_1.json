@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 92328,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Snid_8719"
+        },
+        {
+            "accuracy": 99,
+            "score": 92250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mighty_Graham"
+        },
+        {
             "accuracy": 99,
             "score": 92148,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "brendan30817"
-        },
-        {
-            "accuracy": 100,
-            "score": 79415,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "danwizard2022"
-        },
-        {
-            "accuracy": 99,
-            "score": 79320,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "mamafumi"
         }
     ]
 }

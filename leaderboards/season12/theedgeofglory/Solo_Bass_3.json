@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 205697,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MeliMatty"
+        },
+        {
+            "accuracy": 100,
+            "score": 205658,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Fraser Stratford"
+        },
+        {
             "accuracy": 100,
             "score": 205309,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "obstacle.1"
-        },
-        {
-            "accuracy": 99,
-            "score": 194188,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shortty_08"
-        },
-        {
-            "accuracy": 99,
-            "score": 194102,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "HurricaneLoot"
         }
     ]
 }

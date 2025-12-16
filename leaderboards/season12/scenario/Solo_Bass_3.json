@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 51889,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Yxng_Jacob"
+        },
+        {
+            "accuracy": 100,
+            "score": 51797,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "graciemfer"
+        },
+        {
             "accuracy": 92,
             "score": 51731,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Lord_Thunder009"
-        },
-        {
-            "accuracy": 98,
-            "score": 38865,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "fr0gkween"
-        },
-        {
-            "accuracy": 95,
-            "score": 38783,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Meronpang"
         }
     ]
 }

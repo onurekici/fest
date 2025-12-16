@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 33510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "septile1010"
+        },
+        {
             "accuracy": 100,
             "score": 33504,
             "difficulty": 3,
@@ -110,7 +118,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "Blue Venom 1st"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -423,6 +431,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Gaboroel"
+        },
+        {
+            "accuracy": 100,
+            "score": 33174,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BoggersTheFish"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "mrsworldwide888"
-        },
-        {
-            "accuracy": 99,
-            "score": 32952,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "queefjar"
-        },
-        {
-            "accuracy": 100,
-            "score": 32940,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "EvilJonesy21"
         }
     ]
 }

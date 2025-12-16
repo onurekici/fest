@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 111111,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "пiдарас"
+        },
+        {
+            "accuracy": 100,
             "score": 111102,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "NotGaryIDK"
+        },
+        {
+            "accuracy": 100,
+            "score": 110952,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OmnisLucis"
         },
         {
             "accuracy": 100,
@@ -391,6 +407,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Valkimia"
+        },
+        {
+            "accuracy": 100,
+            "score": 110586,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ExiledErmine225"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DarkkWolf9012"
-        },
-        {
-            "accuracy": 100,
-            "score": 110032,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "kizumirri"
-        },
-        {
-            "accuracy": 100,
-            "score": 110022,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Defguy1984"
-        },
-        {
-            "accuracy": 100,
-            "score": 110017,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Aeros Deathwish"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 94357,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ti-994a"
+        },
+        {
+            "accuracy": 96,
+            "score": 94289,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ARZEDIUS"
+        },
+        {
+            "accuracy": 100,
             "score": 94097,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "twopeashooters"
-        },
-        {
-            "accuracy": 95,
-            "score": 81443,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "geek_fox"
-        },
-        {
-            "accuracy": 83,
-            "score": 81296,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Jaimy laz"
         }
     ]
 }

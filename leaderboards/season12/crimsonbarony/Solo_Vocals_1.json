@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 57241,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Khynasta"
+        },
+        {
+            "accuracy": 99,
+            "score": 57158,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kaiser Ruinstone"
+        },
+        {
             "accuracy": 99,
             "score": 56971,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "FewMicrowave5513"
-        },
-        {
-            "accuracy": 100,
-            "score": 45922,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "kingboss148"
-        },
-        {
-            "accuracy": 100,
-            "score": 45836,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Sponkygod"
         }
     ]
 }

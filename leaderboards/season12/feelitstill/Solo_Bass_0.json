@@ -18,7 +18,15 @@
         },
         {
             "accuracy": 100,
-            "score": 116721,
+            "score": 117786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AyyKenzo"
+        },
+        {
+            "accuracy": 100,
+            "score": 116857,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
@@ -130,6 +138,14 @@
         },
         {
             "accuracy": 99,
+            "score": 105105,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dark_Alicorn"
+        },
+        {
+            "accuracy": 99,
             "score": 103634,
             "difficulty": 3,
             "stars": 6,
@@ -207,6 +223,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Kimiko_Glazer"
+        },
+        {
+            "accuracy": 99,
+            "score": 87138,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kingvegeta7384"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "ChanyaPlaysGames"
-        },
-        {
-            "accuracy": 91,
-            "score": 24621,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "FullMetal151"
-        },
-        {
-            "accuracy": 81,
-            "score": 24605,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Angiem.m"
-        },
-        {
-            "accuracy": 90,
-            "score": 24563,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "clastic_carbon5"
         }
     ]
 }

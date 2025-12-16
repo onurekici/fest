@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 125748,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "gnarrxzoro"
+        },
+        {
+            "accuracy": 100,
             "score": 125700,
             "difficulty": 3,
             "stars": 6,
@@ -702,7 +710,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "stnyi"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NinjaSlime77119"
-        },
-        {
-            "accuracy": 100,
-            "score": 120120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "hidtactalon7"
         }
     ]
 }

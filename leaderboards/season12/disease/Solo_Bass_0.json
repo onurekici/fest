@@ -241,6 +241,14 @@
             "userName": "Benpoint"
         },
         {
+            "accuracy": 100,
+            "score": 141398,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KENIAOSMIPATRÓNA"
+        },
+        {
             "accuracy": 99,
             "score": 141397,
             "difficulty": 3,
@@ -409,6 +417,14 @@
             "userName": "Ali Caulfield"
         },
         {
+            "accuracy": 99,
+            "score": 136910,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mmit03"
+        },
+        {
             "accuracy": 100,
             "score": 136886,
             "difficulty": 3,
@@ -447,6 +463,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kold Prime"
+        },
+        {
+            "accuracy": 100,
+            "score": 136046,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CallGhostBusters"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "CadenceAB"
-        },
-        {
-            "accuracy": 99,
-            "score": 122494,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "WaffleWasBlue"
-        },
-        {
-            "accuracy": 99,
-            "score": 122315,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Daros_obs"
-        },
-        {
-            "accuracy": 100,
-            "score": 121538,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Sunamano"
         }
     ]
 }

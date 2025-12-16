@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 271700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "randomzombie09"
+        },
+        {
             "accuracy": 100,
             "score": 271700,
             "difficulty": 3,
@@ -47,6 +55,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kiririn_FY"
+        },
+        {
+            "accuracy": 100,
+            "score": 271640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SmoggySausage"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Slick_Goober"
-        },
-        {
-            "accuracy": 100,
-            "score": 270312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dax UwU"
-        },
-        {
-            "accuracy": 100,
-            "score": 270289,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Goofy-Woofy"
         }
     ]
 }

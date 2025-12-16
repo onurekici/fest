@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ImAbigNoob776"
+        },
+        {
+            "accuracy": 100,
+            "score": 85473,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Acenamor"
+        },
+        {
             "accuracy": 100,
             "score": 85449,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "The_Lunatic_999"
-        },
-        {
-            "accuracy": 100,
-            "score": 82754,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ScrumptiousGamer"
-        },
-        {
-            "accuracy": 100,
-            "score": 82687,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Lyulff"
         }
     ]
 }

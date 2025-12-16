@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 96978,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "RIDE987"
+        },
+        {
+            "accuracy": 100,
+            "score": 96774,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Willbedone2018"
+        },
+        {
             "accuracy": 93,
             "score": 96440,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Silver_Nøé_74"
-        },
-        {
-            "accuracy": 97,
-            "score": 77592,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GrosGars7"
-        },
-        {
-            "accuracy": 88,
-            "score": 77567,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "stxrg"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 88,
+            "score": 51456,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Savitzen"
+        },
+        {
             "accuracy": 99,
             "score": 51383,
             "difficulty": 1,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Kjekking"
-        },
-        {
-            "accuracy": 89,
-            "score": 35020,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ReverieRosa"
         }
     ]
 }

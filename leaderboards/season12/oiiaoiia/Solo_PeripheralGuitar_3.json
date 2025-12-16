@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 31553,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Toyota Tacoma 82"
+        },
+        {
             "accuracy": 95,
             "score": 31550,
             "difficulty": 3,
@@ -470,7 +478,7 @@
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": "Subnetra"
+            "userName": "Astrotox."
         },
         {
             "accuracy": 95,
@@ -791,14 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Evolify"
-        },
-        {
-            "accuracy": 95,
-            "score": 28672,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "finlopp"
         }
     ]
 }

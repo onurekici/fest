@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 50535,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KS96cocherita"
+        },
+        {
+            "accuracy": 100,
+            "score": 50530,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tacos De Cebiche"
+        },
+        {
             "accuracy": 100,
             "score": 50471,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Decayed_Whisper"
-        },
-        {
-            "accuracy": 100,
-            "score": 49262,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Poppa Gorda"
-        },
-        {
-            "accuracy": 100,
-            "score": 49261,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "GreenHillbilly3"
         }
     ]
 }

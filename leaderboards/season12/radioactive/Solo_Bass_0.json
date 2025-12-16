@@ -130,6 +130,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] JustAClown13"
+        },
+        {
+            "accuracy": 100,
             "score": 123705,
             "difficulty": 3,
             "stars": 6,
@@ -143,6 +151,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Cosmic_Catalyst"
+        },
+        {
+            "accuracy": 100,
+            "score": 123225,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Octowave07"
         },
         {
             "accuracy": 100,
@@ -522,6 +538,14 @@
         },
         {
             "accuracy": 100,
+            "score": 113392,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Grto_Lion"
+        },
+        {
+            "accuracy": 100,
             "score": 113316,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "LoryLima"
-        },
-        {
-            "accuracy": 99,
-            "score": 106419,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DellamaH20"
-        },
-        {
-            "accuracy": 99,
-            "score": 106093,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kakashiH2"
-        },
-        {
-            "accuracy": 100,
-            "score": 106061,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ironic_Ionic"
         }
     ]
 }

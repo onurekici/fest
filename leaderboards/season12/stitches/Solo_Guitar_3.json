@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 227748,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "3456789887"
+        },
+        {
+            "accuracy": 100,
+            "score": 227734,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OMGitsBearz"
+        },
+        {
+            "accuracy": 99,
             "score": 227716,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Stella_S2_"
-        },
-        {
-            "accuracy": 100,
-            "score": 225725,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Draven227"
-        },
-        {
-            "accuracy": 100,
-            "score": 225720,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "zer9224"
         }
     ]
 }

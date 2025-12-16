@@ -330,6 +330,14 @@
         },
         {
             "accuracy": 99,
+            "score": 71801,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mercenary_Georg"
+        },
+        {
+            "accuracy": 99,
             "score": 71600,
             "difficulty": 3,
             "stars": 6,
@@ -383,6 +391,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "I Am Bulba"
+        },
+        {
+            "accuracy": 100,
+            "score": 68529,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Seiunghey"
         },
         {
             "accuracy": 99,
@@ -519,14 +535,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Twitch6340"
-        },
-        {
-            "accuracy": 100,
-            "score": 63658,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Seiunghey"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "IIZaltuII"
-        },
-        {
-            "accuracy": 97,
-            "score": 53261,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "EveL0re"
         }
     ]
 }

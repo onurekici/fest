@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 66225,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "LEISHHAA"
+        },
+        {
+            "accuracy": 100,
+            "score": 66180,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "manuev94"
+        },
+        {
             "accuracy": 100,
             "score": 66155,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Larry Lam"
-        },
-        {
-            "accuracy": 99,
-            "score": 61385,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Slever1294"
-        },
-        {
-            "accuracy": 99,
-            "score": 61305,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mafia Mike"
         }
     ]
 }
