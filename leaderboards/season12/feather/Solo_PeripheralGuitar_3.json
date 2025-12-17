@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 55686,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "aesterisk_"
+        },
+        {
+            "accuracy": 90,
+            "score": 55584,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "micrizzo"
+        },
+        {
+            "accuracy": 100,
             "score": 55540,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "B_Ewing28"
-        },
-        {
-            "accuracy": 94,
-            "score": 45848,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "eric14345654"
-        },
-        {
-            "accuracy": 96,
-            "score": 45819,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Spitfire ZX"
         }
     ]
 }

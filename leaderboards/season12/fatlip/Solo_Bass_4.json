@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 105752,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Psy_Scythe"
+        },
+        {
+            "accuracy": 100,
+            "score": 105720,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] c-nastybass"
+        },
+        {
+            "accuracy": 98,
+            "score": 105696,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lumierdenuit"
+        },
+        {
             "accuracy": 99,
             "score": 105688,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Light_snow"
-        },
-        {
-            "accuracy": 98,
-            "score": 98667,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Audjeajon"
-        },
-        {
-            "accuracy": 98,
-            "score": 98404,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DeathTulas"
-        },
-        {
-            "accuracy": 99,
-            "score": 98394,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "arhael85"
         }
     ]
 }

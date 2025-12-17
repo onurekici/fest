@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 135972,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fire Onyx"
+        },
+        {
+            "accuracy": 100,
+            "score": 135966,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hedgehog174"
+        },
+        {
             "accuracy": 100,
             "score": 135930,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "zoclou"
-        },
-        {
-            "accuracy": 99,
-            "score": 135168,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GhostGuyHU"
-        },
-        {
-            "accuracy": 100,
-            "score": 135138,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BiggSteve420"
         }
     ]
 }

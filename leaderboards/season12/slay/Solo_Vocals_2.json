@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 53850,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sarea Stars"
+        },
+        {
             "accuracy": 99,
             "score": 53760,
             "difficulty": 2,
@@ -14,7 +22,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Lightererer"
+            "userName": "The Lone Cyborg"
         },
         {
             "accuracy": 96,
@@ -98,6 +106,14 @@
         },
         {
             "accuracy": 99,
+            "score": 51875,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "DC black"
+        },
+        {
+            "accuracy": 99,
             "score": 51735,
             "difficulty": 2,
             "stars": 5,
@@ -111,6 +127,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "RеnBau"
+        },
+        {
+            "accuracy": 97,
+            "score": 51235,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Biel_Moreno"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "WackyWhiWhi"
-        },
-        {
-            "accuracy": 96,
-            "score": 37960,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ArcaNexus9062"
-        },
-        {
-            "accuracy": 87,
-            "score": 37730,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LeeMarshall_KATO"
-        },
-        {
-            "accuracy": 100,
-            "score": 37730,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Playermade926"
         }
     ]
 }

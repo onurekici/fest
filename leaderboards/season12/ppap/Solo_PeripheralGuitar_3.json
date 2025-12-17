@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 13826,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Flyin-Spagetti"
+        },
+        {
             "accuracy": 95,
             "score": 13787,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Oilfan69"
-        },
-        {
-            "accuracy": 100,
-            "score": 10733,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "NightWolfKnight"
         }
     ]
 }

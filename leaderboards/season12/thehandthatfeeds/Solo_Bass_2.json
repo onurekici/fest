@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 135558,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jedi_tats"
+        },
+        {
+            "accuracy": 100,
+            "score": 135372,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HyperLoopXFan"
+        },
+        {
             "accuracy": 99,
             "score": 135306,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "murr3r"
-        },
-        {
-            "accuracy": 99,
-            "score": 126252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BushWookieJo"
-        },
-        {
-            "accuracy": 99,
-            "score": 126216,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheBigP0ppa"
         }
     ]
 }

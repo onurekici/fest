@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 116511,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "UFOCommander"
+        },
+        {
+            "accuracy": 99,
             "score": 116254,
             "difficulty": 3,
             "stars": 6,
@@ -258,6 +266,14 @@
         },
         {
             "accuracy": 100,
+            "score": 108985,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Backuparian"
+        },
+        {
+            "accuracy": 100,
             "score": 108666,
             "difficulty": 2,
             "stars": 5,
@@ -295,14 +311,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RomanOwO"
-        },
-        {
-            "accuracy": 100,
-            "score": 107554,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Backuparian"
         },
         {
             "accuracy": 99,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Macaroni Newbie"
-        },
-        {
-            "accuracy": 99,
-            "score": 94332,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "dragonstar541"
         }
     ]
 }

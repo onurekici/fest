@@ -46,7 +46,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "User-d8e38f5ea8"
+            "userName": "User-eab9d4ecef"
         },
         {
             "accuracy": 100,
@@ -362,6 +362,14 @@
         },
         {
             "accuracy": 100,
+            "score": 20694,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NexusWolf.W"
+        },
+        {
+            "accuracy": 100,
             "score": 20430,
             "difficulty": 2,
             "stars": 5,
@@ -399,14 +407,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PewpewSimSmurf"
-        },
-        {
-            "accuracy": 99,
-            "score": 19626,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NexusWolf.W"
         },
         {
             "accuracy": 98,
@@ -554,11 +554,35 @@
         },
         {
             "accuracy": 100,
+            "score": 15835,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "shoopdude"
+        },
+        {
+            "accuracy": 100,
             "score": 15795,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "[XBL] HarleyQuinn7608"
+        },
+        {
+            "accuracy": 100,
+            "score": 15690,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MunguiazZz"
+        },
+        {
+            "accuracy": 99,
+            "score": 15515,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "dracubruv"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "DarkveinKing23"
-        },
-        {
-            "accuracy": 100,
-            "score": 8800,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BallerLouKing17"
-        },
-        {
-            "accuracy": 99,
-            "score": 8600,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "CalamityBash"
-        },
-        {
-            "accuracy": 100,
-            "score": 8580,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "InvincibleNube"
         }
     ]
 }

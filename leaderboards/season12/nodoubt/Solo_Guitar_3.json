@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 69915,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AudioMythic"
+        },
+        {
+            "accuracy": 100,
+            "score": 69910,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FunnyPumpkin982"
+        },
+        {
+            "accuracy": 99,
             "score": 69903,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ult1freya"
-        },
-        {
-            "accuracy": 97,
-            "score": 67656,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "5alaxar"
-        },
-        {
-            "accuracy": 99,
-            "score": 67655,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Jet-Hawk"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 60831,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Spuddries"
+        },
+        {
+            "accuracy": 100,
             "score": 60388,
             "difficulty": 3,
             "stars": 6,
@@ -642,6 +650,14 @@
         },
         {
             "accuracy": 98,
+            "score": 42201,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "C0WB0YLYKEME"
+        },
+        {
+            "accuracy": 98,
             "score": 41330,
             "difficulty": 2,
             "stars": 5,
@@ -703,6 +719,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SoKyleFYI"
+        },
+        {
+            "accuracy": 99,
+            "score": 39582,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jojotonico"
         },
         {
             "accuracy": 98,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "runaway_carpet1"
-        },
-        {
-            "accuracy": 98,
-            "score": 37077,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LoX Solstice"
-        },
-        {
-            "accuracy": 98,
-            "score": 36841,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Jsn-M"
-        },
-        {
-            "accuracy": 99,
-            "score": 35922,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GCFN."
         }
     ]
 }

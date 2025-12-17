@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 116548,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NELU_NERU"
+        },
+        {
             "accuracy": 100,
             "score": 116388,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RadarSenses"
-        },
-        {
-            "accuracy": 100,
-            "score": 109952,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sh3bst3r"
         }
     ]
 }

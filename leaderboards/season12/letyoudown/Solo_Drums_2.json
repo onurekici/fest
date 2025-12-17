@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 89508,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AMG SMOKE"
+        },
+        {
+            "accuracy": 100,
+            "score": 89496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "shrimpman09w"
+        },
+        {
             "accuracy": 100,
             "score": 89394,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "jupitersjazz"
-        },
-        {
-            "accuracy": 99,
-            "score": 87306,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Camping Chair"
-        },
-        {
-            "accuracy": 99,
-            "score": 87282,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Consul_17"
         }
     ]
 }

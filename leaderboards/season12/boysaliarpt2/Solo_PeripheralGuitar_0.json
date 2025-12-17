@@ -33,12 +33,28 @@
             "userName": "Joon717"
         },
         {
+            "accuracy": 100,
+            "score": 85250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Caramel Cluster"
+        },
+        {
             "accuracy": 99,
             "score": 82912,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Gashmoygen"
+        },
+        {
+            "accuracy": 99,
+            "score": 80024,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Excalibur x-x"
         },
         {
             "accuracy": 99,
@@ -311,6 +327,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "SillyBois"
+        },
+        {
+            "accuracy": 89,
+            "score": 4143,
+            "difficulty": 0,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Born2Rock01"
         }
     ]
 }

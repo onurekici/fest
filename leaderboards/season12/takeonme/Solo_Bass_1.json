@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 156762,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MONSTA-_-KILLA"
+        },
+        {
+            "accuracy": 100,
+            "score": 156702,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hiroky Nagae"
+        },
+        {
             "accuracy": 100,
             "score": 156696,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "katvalentinee"
-        },
-        {
-            "accuracy": 100,
-            "score": 153708,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gamcard23"
-        },
-        {
-            "accuracy": 100,
-            "score": 153696,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TheMikeRomero"
         }
     ]
 }

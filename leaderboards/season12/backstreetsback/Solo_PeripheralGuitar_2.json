@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 48261,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "nickganga"
+        },
+        {
             "accuracy": 96,
             "score": 48195,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "KnightlyHQ"
+        },
+        {
+            "accuracy": 100,
+            "score": 47956,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "RPG_Crash"
         },
         {
             "accuracy": 89,
@@ -433,6 +449,14 @@
             "userName": "aking541"
         },
         {
+            "accuracy": 75,
+            "score": 35479,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "YuriFonz"
+        },
+        {
             "accuracy": 95,
             "score": 34966,
             "difficulty": 2,
@@ -745,6 +769,14 @@
             "userName": "Tenfold_record"
         },
         {
+            "accuracy": 72,
+            "score": 17032,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "TheTituIar"
+        },
+        {
             "accuracy": 74,
             "score": 17000,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "WoozyJest3r"
-        },
-        {
-            "accuracy": 78,
-            "score": 15170,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "LilMissDitsy."
-        },
-        {
-            "accuracy": 74,
-            "score": 14893,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "H7perRL"
-        },
-        {
-            "accuracy": 74,
-            "score": 14888,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Stylerz93"
-        },
-        {
-            "accuracy": 75,
-            "score": 14736,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "MalMoney121"
         }
     ]
 }

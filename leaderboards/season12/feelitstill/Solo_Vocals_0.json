@@ -386,6 +386,14 @@
         },
         {
             "accuracy": 100,
+            "score": 105228,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Infernum3023"
+        },
+        {
+            "accuracy": 100,
             "score": 104935,
             "difficulty": 3,
             "stars": 6,
@@ -567,6 +575,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Sond3r00"
+        },
+        {
+            "accuracy": 99,
+            "score": 101760,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "victor_h001"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Cosmic931"
-        },
-        {
-            "accuracy": 100,
-            "score": 97329,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JANCKAR-2000"
-        },
-        {
-            "accuracy": 99,
-            "score": 97329,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Stanbrough_URIS"
         }
     ]
 }

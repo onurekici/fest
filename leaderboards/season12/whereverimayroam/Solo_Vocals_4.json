@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 133113,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pocket-89"
+        },
+        {
+            "accuracy": 100,
+            "score": 133103,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Slaytown1456"
+        },
+        {
             "accuracy": 100,
             "score": 133100,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Zwinkster101"
-        },
-        {
-            "accuracy": 99,
-            "score": 131803,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StinkyTurt1e"
-        },
-        {
-            "accuracy": 100,
-            "score": 131787,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CaptainNuke76"
         }
     ]
 }

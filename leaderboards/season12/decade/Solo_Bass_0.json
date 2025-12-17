@@ -106,6 +106,14 @@
         },
         {
             "accuracy": 100,
+            "score": 150711,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bobattorney"
+        },
+        {
+            "accuracy": 100,
             "score": 150000,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Fugitive Blake"
-        },
-        {
-            "accuracy": 99,
-            "score": 107907,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Anarteras"
         }
     ]
 }

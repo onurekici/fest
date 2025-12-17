@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 177906,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "KeyblademasterX"
+        },
+        {
+            "accuracy": 99,
+            "score": 177906,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PuppyAvenger"
+        },
+        {
+            "accuracy": 100,
             "score": 177894,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Djs32699"
-        },
-        {
-            "accuracy": 100,
-            "score": 176796,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "freckled soul"
-        },
-        {
-            "accuracy": 99,
-            "score": 176778,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "colbysdead7"
         }
     ]
 }

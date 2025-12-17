@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 168488,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dudemann1234"
+        },
+        {
             "accuracy": 99,
             "score": 157793,
             "difficulty": 3,
@@ -119,6 +127,14 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "zMoksim"
+        },
+        {
+            "accuracy": 34,
+            "score": 9564,
+            "difficulty": 2,
+            "stars": 1,
+            "fullcombo": false,
+            "userName": "Quality Bot"
         }
     ]
 }

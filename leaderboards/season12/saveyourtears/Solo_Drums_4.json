@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 167172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "René Noble"
+        },
+        {
+            "accuracy": 100,
             "score": 167124,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Doc-Mimon"
-        },
-        {
-            "accuracy": 99,
-            "score": 164826,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "grizzlybirds"
         }
     ]
 }

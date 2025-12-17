@@ -537,6 +537,14 @@
             "userName": "Meep 0.o"
         },
         {
+            "accuracy": 98,
+            "score": 138059,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheTrueOdyssey"
+        },
+        {
             "accuracy": 100,
             "score": 137947,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "SparkTheFloof"
-        },
-        {
-            "accuracy": 97,
-            "score": 130776,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lil Nuggs X"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 66225,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Bobby_der_Kater"
+        },
+        {
             "accuracy": 97,
             "score": 66181,
             "difficulty": 2,
@@ -55,14 +63,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "oMermaido"
-        },
-        {
-            "accuracy": 97,
-            "score": 64093,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Gamergrill2008"
         },
         {
             "accuracy": 98,
@@ -790,7 +790,7 @@
             "difficulty": 0,
             "stars": 0,
             "fullcombo": false,
-            "userName": "Jonathan1416"
+            "userName": "Rustychikn1"
         }
     ]
 }

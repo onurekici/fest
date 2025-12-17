@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 66080,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xanitics"
+        },
+        {
+            "accuracy": 100,
+            "score": 66078,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dazza Yoghurto"
+        },
+        {
+            "accuracy": 100,
             "score": 66076,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "vampy.vices"
-        },
-        {
-            "accuracy": 100,
-            "score": 65548,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "r3surgentis"
-        },
-        {
-            "accuracy": 99,
-            "score": 65546,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Naj1ro"
         }
     ]
 }

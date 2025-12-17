@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 99471,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sleepymutt96"
+        },
+        {
+            "accuracy": 100,
+            "score": 99458,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "OlympiaDarkstar"
+        },
+        {
             "accuracy": 99,
             "score": 99426,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KFC Bucket7"
-        },
-        {
-            "accuracy": 100,
-            "score": 96784,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "d_ot"
-        },
-        {
-            "accuracy": 100,
-            "score": 96782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Devy419"
         }
     ]
 }

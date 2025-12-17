@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 42152,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kugisaki Kurosu"
+        },
+        {
             "accuracy": 100,
             "score": 42137,
             "difficulty": 3,
@@ -722,6 +730,14 @@
         },
         {
             "accuracy": 100,
+            "score": 39614,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ground beef taco"
+        },
+        {
+            "accuracy": 100,
             "score": 39591,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Skadíツ"
-        },
-        {
-            "accuracy": 100,
-            "score": 39525,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "tgiraul"
-        },
-        {
-            "accuracy": 100,
-            "score": 39522,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "THE MESSIΛH"
         }
     ]
 }

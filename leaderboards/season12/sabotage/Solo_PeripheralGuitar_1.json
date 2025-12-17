@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 134132,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Frothy Fridge"
+        },
+        {
+            "accuracy": 98,
+            "score": 134038,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Daemonkey"
+        },
+        {
             "accuracy": 97,
             "score": 133679,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "beccaxbubbles"
-        },
-        {
-            "accuracy": 98,
-            "score": 82627,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Krauwm85"
-        },
-        {
-            "accuracy": 93,
-            "score": 82450,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "AllHollowEve"
         }
     ]
 }

@@ -50,6 +50,14 @@
         },
         {
             "accuracy": 100,
+            "score": 125214,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SoapySack"
+        },
+        {
+            "accuracy": 100,
             "score": 122820,
             "difficulty": 3,
             "stars": 6,
@@ -641,6 +649,14 @@
             "userName": "Diamondback46"
         },
         {
+            "accuracy": 94,
+            "score": 64434,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "juicyregular"
+        },
+        {
             "accuracy": 96,
             "score": 63045,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "KeriLuvsTeddy"
-        },
-        {
-            "accuracy": 93,
-            "score": 52905,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "TradyerGam"
-        },
-        {
-            "accuracy": 99,
-            "score": 52605,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "lil_yokai"
         }
     ]
 }

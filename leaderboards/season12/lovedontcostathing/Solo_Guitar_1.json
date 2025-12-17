@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127975,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "yamacchi."
+        },
+        {
             "accuracy": 99,
             "score": 127919,
             "difficulty": 3,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "drobot568"
+        },
+        {
+            "accuracy": 99,
+            "score": 125297,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[XBL] Tec Tempest"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Horror_Girl03"
-        },
-        {
-            "accuracy": 100,
-            "score": 121202,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lyricho77"
-        },
-        {
-            "accuracy": 99,
-            "score": 121082,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "poyoboy-02"
         }
     ]
 }

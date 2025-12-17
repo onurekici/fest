@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 99876,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "msa.AKANE"
+        },
+        {
+            "accuracy": 99,
+            "score": 99762,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BRI10_Magno"
+        },
+        {
+            "accuracy": 100,
             "score": 99750,
             "difficulty": 3,
             "stars": 6,
@@ -602,6 +618,14 @@
         },
         {
             "accuracy": 100,
+            "score": 83526,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PAREPORI"
+        },
+        {
+            "accuracy": 100,
             "score": 83310,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Offizier_Karl"
-        },
-        {
-            "accuracy": 100,
-            "score": 75630,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Rudetrvp"
-        },
-        {
-            "accuracy": 99,
-            "score": 74868,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Fresh_air0152"
-        },
-        {
-            "accuracy": 99,
-            "score": 74215,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "rafaelhq_"
         }
     ]
 }

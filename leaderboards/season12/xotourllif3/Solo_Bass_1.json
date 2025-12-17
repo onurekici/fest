@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 79350,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MrsDeath06"
+        },
+        {
+            "accuracy": 99,
+            "score": 79348,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "islaby"
+        },
+        {
+            "accuracy": 100,
             "score": 79286,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "WhiteBoy_Daniel"
-        },
-        {
-            "accuracy": 100,
-            "score": 76497,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "xLRockstarr"
-        },
-        {
-            "accuracy": 99,
-            "score": 76465,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Eater Of Pi"
         }
     ]
 }

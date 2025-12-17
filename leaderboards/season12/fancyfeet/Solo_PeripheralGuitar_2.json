@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 65114,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Papacrn"
+        },
+        {
+            "accuracy": 95,
+            "score": 65060,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kattanaita"
+        },
+        {
             "accuracy": 92,
             "score": 64841,
             "difficulty": 3,
@@ -394,6 +410,14 @@
         },
         {
             "accuracy": 100,
+            "score": 54341,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Lovato316"
+        },
+        {
+            "accuracy": 100,
             "score": 54323,
             "difficulty": 2,
             "stars": 5,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Foonerism"
-        },
-        {
-            "accuracy": 87,
-            "score": 44649,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "RoskoTheGreat"
-        },
-        {
-            "accuracy": 91,
-            "score": 44542,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "DanRobNav"
-        },
-        {
-            "accuracy": 90,
-            "score": 44365,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Matcomic"
         }
     ]
 }
