@@ -194,6 +194,14 @@
         },
         {
             "accuracy": 99,
+            "score": 106588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ZenyamMusic3"
+        },
+        {
+            "accuracy": 99,
             "score": 105416,
             "difficulty": 3,
             "stars": 6,
@@ -673,6 +681,14 @@
             "userName": "PumpkinNDunkin"
         },
         {
+            "accuracy": 100,
+            "score": 56254,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "petetheboss_23"
+        },
+        {
             "accuracy": 96,
             "score": 54727,
             "difficulty": 2,
@@ -687,6 +703,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "PunishedGarfield"
+        },
+        {
+            "accuracy": 100,
+            "score": 54135,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "bombfirstjr1"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "cheesytoco"
-        },
-        {
-            "accuracy": 99,
-            "score": 49372,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MikeMovesPLK"
-        },
-        {
-            "accuracy": 99,
-            "score": 49208,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "flowered_board4"
-        },
-        {
-            "accuracy": 99,
-            "score": 48896,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Expo370"
         }
     ]
 }

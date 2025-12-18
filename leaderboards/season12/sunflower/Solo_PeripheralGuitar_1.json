@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 42365,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Thiccatus"
+        },
+        {
             "accuracy": 98,
             "score": 41960,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Medc90"
-        },
-        {
-            "accuracy": 99,
-            "score": 26103,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "King Adofo"
         }
     ]
 }

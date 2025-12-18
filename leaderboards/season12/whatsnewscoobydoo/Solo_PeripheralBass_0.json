@@ -58,6 +58,14 @@
         },
         {
             "accuracy": 100,
+            "score": 61588,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MinerParker"
+        },
+        {
+            "accuracy": 100,
             "score": 61510,
             "difficulty": 3,
             "stars": 6,
@@ -183,6 +191,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "uhtceare"
+        },
+        {
+            "accuracy": 98,
+            "score": 49059,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hungry_Zealot"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Am Very sad"
-        },
-        {
-            "accuracy": 92,
-            "score": 8739,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Esc Key"
-        },
-        {
-            "accuracy": 90,
-            "score": 8701,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SnowingDark"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 102596,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "PumpkinQueen0712"
+        },
+        {
+            "accuracy": 99,
+            "score": 102461,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "juliancrs17"
+        },
+        {
+            "accuracy": 100,
+            "score": 102354,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vasitor"
+        },
+        {
             "accuracy": 99,
             "score": 102330,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Sterlingsoftware"
-        },
-        {
-            "accuracy": 99,
-            "score": 95559,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Risettra"
-        },
-        {
-            "accuracy": 100,
-            "score": 95559,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "2Ultra_Instinct4"
-        },
-        {
-            "accuracy": 99,
-            "score": 95510,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "panoptica"
         }
     ]
 }

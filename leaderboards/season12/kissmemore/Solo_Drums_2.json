@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 151350,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Occyulus"
+        },
+        {
+            "accuracy": 100,
+            "score": 151344,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "zmanmurphy"
+        },
+        {
+            "accuracy": 100,
+            "score": 151332,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MsMakayl4"
+        },
+        {
             "accuracy": 99,
             "score": 151314,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "AppleSchaus"
-        },
-        {
-            "accuracy": 99,
-            "score": 148212,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cosmic_Catalyst"
-        },
-        {
-            "accuracy": 99,
-            "score": 148206,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "boyz11"
-        },
-        {
-            "accuracy": 99,
-            "score": 148134,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Waal93"
         }
     ]
 }

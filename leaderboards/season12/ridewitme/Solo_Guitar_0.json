@@ -550,7 +550,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "VeryPlatypus1148"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -730,6 +730,14 @@
         },
         {
             "accuracy": 100,
+            "score": 400231,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tinyashtonxo"
+        },
+        {
+            "accuracy": 100,
             "score": 399995,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mythemim"
-        },
-        {
-            "accuracy": 100,
-            "score": 399413,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "PapaCarlos_"
         }
     ]
 }

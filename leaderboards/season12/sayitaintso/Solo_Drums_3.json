@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 159978,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cadudi"
+        },
+        {
+            "accuracy": 99,
+            "score": 159972,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kiwiadee"
+        },
+        {
+            "accuracy": 100,
             "score": 159930,
             "difficulty": 3,
             "stars": 6,
@@ -55,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Undertyom"
+        },
+        {
+            "accuracy": 100,
+            "score": 159798,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "i d3ATH KILL"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DaSaltySpitoon"
-        },
-        {
-            "accuracy": 100,
-            "score": 158166,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Qxilla"
-        },
-        {
-            "accuracy": 99,
-            "score": 158142,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ToxicNomand"
-        },
-        {
-            "accuracy": 99,
-            "score": 158124,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "m1ketsuu"
         }
     ]
 }

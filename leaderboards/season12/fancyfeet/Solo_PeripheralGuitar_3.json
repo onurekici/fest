@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 89,
+            "score": 44787,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Foonerism"
+        },
+        {
             "accuracy": 87,
             "score": 44649,
             "difficulty": 3,
@@ -279,6 +287,14 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Mehh.-_ -."
+        },
+        {
+            "accuracy": 100,
+            "score": 37442,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Alkaiser1987"
         },
         {
             "accuracy": 87,
@@ -681,6 +697,14 @@
             "userName": "GlitchGlider"
         },
         {
+            "accuracy": 79,
+            "score": 28851,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "AkumaOkami1993"
+        },
+        {
             "accuracy": 93,
             "score": 28813,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "User-cafd8de734"
-        },
-        {
-            "accuracy": 96,
-            "score": 24758,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "majen022"
-        },
-        {
-            "accuracy": 77,
-            "score": 24503,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "EchoFocus"
-        },
-        {
-            "accuracy": 80,
-            "score": 24398,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "SakuraPrincess9"
         }
     ]
 }

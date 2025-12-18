@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 136398,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "wolvesplayer63"
+        },
+        {
+            "accuracy": 99,
+            "score": 136284,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "jahpodi_almossar"
+        },
+        {
             "accuracy": 99,
             "score": 136278,
             "difficulty": 3,
@@ -383,6 +399,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TheGlitchedOni"
+        },
+        {
+            "accuracy": 99,
+            "score": 128922,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JhonyYeager"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Atendente do SUS"
-        },
-        {
-            "accuracy": 99,
-            "score": 123020,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Thiago-r007"
-        },
-        {
-            "accuracy": 98,
-            "score": 122856,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ViniTrust"
-        },
-        {
-            "accuracy": 98,
-            "score": 122760,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Lord_VRP"
         }
     ]
 }

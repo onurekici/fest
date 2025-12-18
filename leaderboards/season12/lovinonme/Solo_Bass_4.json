@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 32453,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "passing_ruffian"
+        },
+        {
+            "accuracy": 96,
+            "score": 32361,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Keemvegas"
+        },
+        {
             "accuracy": 100,
             "score": 32328,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "TJ34 5T"
-        },
-        {
-            "accuracy": 98,
-            "score": 26617,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BaileyG94"
-        },
-        {
-            "accuracy": 98,
-            "score": 26610,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Chachi-star_615"
         }
     ]
 }
