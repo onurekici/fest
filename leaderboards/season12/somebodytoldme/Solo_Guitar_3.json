@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 244404,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] wolverine010607"
+        },
+        {
+            "accuracy": 99,
+            "score": 244385,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PenAttack"
+        },
+        {
+            "accuracy": 100,
             "score": 244341,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TTxLuvMattie"
-        },
-        {
-            "accuracy": 100,
-            "score": 241317,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "alexislml20"
-        },
-        {
-            "accuracy": 100,
-            "score": 241283,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "gabriel_230"
         }
     ]
 }

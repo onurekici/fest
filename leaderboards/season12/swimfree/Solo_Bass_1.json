@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123671,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "soler82"
+        },
+        {
+            "accuracy": 100,
+            "score": 123360,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "N3veri"
+        },
+        {
             "accuracy": 98,
             "score": 123355,
             "difficulty": 3,
@@ -175,14 +191,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "yasmine_kb"
-        },
-        {
-            "accuracy": 99,
-            "score": 119349,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "The Deglover"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MynxTheOrigin"
-        },
-        {
-            "accuracy": 99,
-            "score": 107113,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ꞓ h ä ř"
         }
     ]
 }

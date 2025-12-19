@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 188502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JakReaper72"
+        },
+        {
+            "accuracy": 99,
+            "score": 188425,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-bca906f41f"
+        },
+        {
             "accuracy": 99,
             "score": 188418,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Paper_Torpedo"
-        },
-        {
-            "accuracy": 100,
-            "score": 182114,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "banxoh"
-        },
-        {
-            "accuracy": 100,
-            "score": 182094,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ElmoTheKing8"
         }
     ]
 }

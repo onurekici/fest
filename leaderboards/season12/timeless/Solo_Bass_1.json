@@ -474,11 +474,27 @@
         },
         {
             "accuracy": 99,
+            "score": 50165,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ian Peters"
+        },
+        {
+            "accuracy": 99,
             "score": 50084,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "aguspro xd"
+        },
+        {
+            "accuracy": 100,
+            "score": 50003,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] BlazinHatch"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "WhiteKittyAngel"
-        },
-        {
-            "accuracy": 100,
-            "score": 43156,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "specscientia"
-        },
-        {
-            "accuracy": 100,
-            "score": 43093,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Moonlight.404"
         }
     ]
 }

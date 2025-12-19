@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 103626,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rickster_rick"
+        },
+        {
+            "accuracy": 99,
+            "score": 103614,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "magnario"
+        },
+        {
+            "accuracy": 100,
             "score": 103494,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Venomous kal"
-        },
-        {
-            "accuracy": 99,
-            "score": 102102,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": null
-        },
-        {
-            "accuracy": 99,
-            "score": 102078,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BillieEliesh"
         }
     ]
 }

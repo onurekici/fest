@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 83956,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "AtlasMugged_"
+        },
+        {
+            "accuracy": 98,
             "score": 83687,
             "difficulty": 3,
             "stars": 6,
@@ -158,7 +166,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "kasia_ch17"
+            "userName": null
         },
         {
             "accuracy": 97,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "isaprototype"
-        },
-        {
-            "accuracy": 92,
-            "score": 54097,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "meatcutternick"
         }
     ]
 }

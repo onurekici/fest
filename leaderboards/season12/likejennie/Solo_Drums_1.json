@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 100080,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NoahtheLawnMowah"
+        },
+        {
+            "accuracy": 100,
             "score": 99876,
             "difficulty": 3,
             "stars": 6,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "marisalct"
+        },
+        {
+            "accuracy": 99,
+            "score": 97842,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kyubi 1999"
         },
         {
             "accuracy": 100,
@@ -593,6 +609,14 @@
             "userName": "Fox_Mcloud_"
         },
         {
+            "accuracy": 100,
+            "score": 84216,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fluid ponders"
+        },
+        {
             "accuracy": 99,
             "score": 84066,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "annaballecter"
-        },
-        {
-            "accuracy": 100,
-            "score": 78800,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "tubbycustarrrd"
-        },
-        {
-            "accuracy": 99,
-            "score": 78140,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ruda04."
-        },
-        {
-            "accuracy": 99,
-            "score": 78072,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ValTino I"
         }
     ]
 }

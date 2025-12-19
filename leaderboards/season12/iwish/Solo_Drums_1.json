@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 54190,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jackbuckley19"
+        },
+        {
             "accuracy": 99,
             "score": 53170,
             "difficulty": 1,
@@ -343,6 +351,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Beef Boss306"
+        },
+        {
+            "accuracy": 99,
+            "score": 35530,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Flo der coole"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Bobby8387"
-        },
-        {
-            "accuracy": 75,
-            "score": 9375,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "CptCueball"
-        },
-        {
-            "accuracy": 64,
-            "score": 8125,
-            "difficulty": 1,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": null
         }
     ]
 }

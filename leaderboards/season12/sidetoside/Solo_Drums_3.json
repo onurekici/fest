@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 151590,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Alexoui11e"
+        },
+        {
+            "accuracy": 100,
+            "score": 151584,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Astrophiilia"
+        },
+        {
             "accuracy": 100,
             "score": 151566,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Everock"
-        },
-        {
-            "accuracy": 100,
-            "score": 149886,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SrCuicos"
-        },
-        {
-            "accuracy": 100,
-            "score": 149850,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Moonlit.kay"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 114483,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Real-Shinoda"
+        },
+        {
+            "accuracy": 99,
+            "score": 114483,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NIN aNuar darko"
+        },
+        {
+            "accuracy": 100,
             "score": 114469,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MattKill 殺"
-        },
-        {
-            "accuracy": 100,
-            "score": 113782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "lilss.08"
-        },
-        {
-            "accuracy": 100,
-            "score": 113781,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "zvvor"
         }
     ]
 }

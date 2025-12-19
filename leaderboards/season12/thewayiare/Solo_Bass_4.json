@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42818,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "OkamiConn"
+        },
+        {
+            "accuracy": 99,
+            "score": 42807,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SayenModz V2"
+        },
+        {
+            "accuracy": 100,
+            "score": 42763,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Kur0ish"
+        },
+        {
             "accuracy": 99,
             "score": 42688,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Yasydoodles"
-        },
-        {
-            "accuracy": 99,
-            "score": 39386,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "xTheTomás878"
-        },
-        {
-            "accuracy": 99,
-            "score": 39310,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MetalSlugBum"
-        },
-        {
-            "accuracy": 100,
-            "score": 39307,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "gnilobaiter"
         }
     ]
 }

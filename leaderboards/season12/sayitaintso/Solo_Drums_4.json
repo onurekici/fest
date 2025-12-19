@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 158220,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "eejrth"
+        },
+        {
+            "accuracy": 100,
+            "score": 158190,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DaSaltySpitoon"
+        },
+        {
             "accuracy": 100,
             "score": 158166,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RinneganPanda"
-        },
-        {
-            "accuracy": 99,
-            "score": 156156,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nahmmi_"
-        },
-        {
-            "accuracy": 99,
-            "score": 156126,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Baplivion"
         }
     ]
 }

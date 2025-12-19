@@ -162,6 +162,14 @@
         },
         {
             "accuracy": 100,
+            "score": 109209,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Tenshi 420"
+        },
+        {
+            "accuracy": 100,
             "score": 109182,
             "difficulty": 3,
             "stars": 6,
@@ -257,6 +265,22 @@
             "userName": "Sawamatsu93"
         },
         {
+            "accuracy": 100,
+            "score": 105266,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SystemBlocked"
+        },
+        {
+            "accuracy": 99,
+            "score": 105200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PixeIGhost"
+        },
+        {
             "accuracy": 99,
             "score": 104865,
             "difficulty": 3,
@@ -295,14 +319,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kattegat86"
-        },
-        {
-            "accuracy": 99,
-            "score": 101271,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tenshi 420"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Ruffieox"
-        },
-        {
-            "accuracy": 99,
-            "score": 75181,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Diamond-emerald9"
-        },
-        {
-            "accuracy": 99,
-            "score": 74006,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ádámka1"
         }
     ]
 }

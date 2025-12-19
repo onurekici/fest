@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 92,
+            "score": 65132,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SakuraPrincess9"
+        },
+        {
+            "accuracy": 97,
+            "score": 64994,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ferretbk"
+        },
+        {
+            "accuracy": 92,
             "score": 64774,
             "difficulty": 3,
             "stars": 4,
@@ -199,6 +215,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "ArmchairRabbit"
+        },
+        {
+            "accuracy": 100,
+            "score": 61186,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SillyBois"
         },
         {
             "accuracy": 98,
@@ -649,14 +673,6 @@
             "userName": "Zack el Cuervi"
         },
         {
-            "accuracy": 98,
-            "score": 53698,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SillyBois"
-        },
-        {
             "accuracy": 99,
             "score": 53633,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MrTux08"
-        },
-        {
-            "accuracy": 91,
-            "score": 50901,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ButternutGod"
-        },
-        {
-            "accuracy": 93,
-            "score": 50858,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "His Rose"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123480,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[PSN] RavenClaw69844"
+        },
+        {
             "accuracy": 100,
             "score": 123456,
             "difficulty": 3,
@@ -223,6 +231,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "code niflayz"
+        },
+        {
+            "accuracy": 100,
+            "score": 122796,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MoDog96"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "cloudkitichu"
-        },
-        {
-            "accuracy": 100,
-            "score": 121848,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "XXSINSANGRARXX"
-        },
-        {
-            "accuracy": 100,
-            "score": 121830,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Station Alpha"
         }
     ]
 }

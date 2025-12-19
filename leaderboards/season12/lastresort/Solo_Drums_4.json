@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 155748,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DrunkenSailor457"
+        },
+        {
+            "accuracy": 99,
+            "score": 155628,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jethas"
+        },
+        {
             "accuracy": 99,
             "score": 155568,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheDarkling97"
-        },
-        {
-            "accuracy": 99,
-            "score": 152460,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ElectricFox37"
-        },
-        {
-            "accuracy": 99,
-            "score": 152412,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ULTIMATE-JACK"
         }
     ]
 }

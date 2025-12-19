@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 16309,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "nannerBALLS"
+        },
+        {
+            "accuracy": 99,
+            "score": 16309,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "0fficerFri3ndly"
+        },
+        {
+            "accuracy": 100,
             "score": 16229,
             "difficulty": 0,
             "stars": 5,
@@ -23,6 +39,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "MsWheelchair"
+        },
+        {
+            "accuracy": 99,
+            "score": 15978,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "mo.ibrah"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "The grid 2.0"
-        },
-        {
-            "accuracy": 91,
-            "score": 6962,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ALEXANDER_MEX_08"
-        },
-        {
-            "accuracy": 92,
-            "score": 6752,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "neo the protogen"
-        },
-        {
-            "accuracy": 74,
-            "score": 6673,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "[XBL] DanGeR Plague"
         }
     ]
 }

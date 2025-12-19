@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 95952,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mizzrizzjr"
+        },
+        {
             "accuracy": 99,
             "score": 63864,
             "difficulty": 2,
@@ -25,6 +33,22 @@
             "userName": "The_IrishMexican"
         },
         {
+            "accuracy": 96,
+            "score": 36286,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jsknight1093"
+        },
+        {
+            "accuracy": 87,
+            "score": 30087,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Kyatt22"
+        },
+        {
             "accuracy": 94,
             "score": 29089,
             "difficulty": 3,
@@ -33,12 +57,28 @@
             "userName": "SebasDK529"
         },
         {
+            "accuracy": 96,
+            "score": 20999,
+            "difficulty": 0,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Brendan Warren"
+        },
+        {
             "accuracy": 95,
             "score": 16690,
             "difficulty": 0,
             "stars": 3,
             "fullcombo": false,
             "userName": "Coolkid691345"
+        },
+        {
+            "accuracy": 82,
+            "score": 9766,
+            "difficulty": 1,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Socalnite"
         }
     ]
 }

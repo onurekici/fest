@@ -90,6 +90,14 @@
         },
         {
             "accuracy": 100,
+            "score": 41370,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BEESTG"
+        },
+        {
+            "accuracy": 100,
             "score": 41268,
             "difficulty": 3,
             "stars": 6,
@@ -482,11 +490,27 @@
         },
         {
             "accuracy": 99,
+            "score": 36018,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vintage Manix"
+        },
+        {
+            "accuracy": 99,
             "score": 36000,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Riiiely"
+        },
+        {
+            "accuracy": 99,
+            "score": 35790,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "jinxisthebae55"
         },
         {
             "accuracy": 99,
@@ -650,14 +674,6 @@
         },
         {
             "accuracy": 100,
-            "score": 33935,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Vintage Manix"
-        },
-        {
-            "accuracy": 100,
             "score": 33900,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Mexgio12"
-        },
-        {
-            "accuracy": 100,
-            "score": 32515,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Amphitec"
-        },
-        {
-            "accuracy": 100,
-            "score": 32505,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Gemini_Nox"
         }
     ]
 }

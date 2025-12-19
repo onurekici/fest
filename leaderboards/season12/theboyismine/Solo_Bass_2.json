@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 59193,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "EmpressOfInfamy"
+        },
+        {
+            "accuracy": 100,
             "score": 59120,
             "difficulty": 3,
             "stars": 6,
@@ -657,6 +665,14 @@
             "userName": "Leaf_salad"
         },
         {
+            "accuracy": 99,
+            "score": 54058,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "notname27"
+        },
+        {
             "accuracy": 100,
             "score": 53879,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "JINXSICK"
-        },
-        {
-            "accuracy": 100,
-            "score": 53492,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Wood168"
-        },
-        {
-            "accuracy": 100,
-            "score": 53452,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Aslinix"
         }
     ]
 }

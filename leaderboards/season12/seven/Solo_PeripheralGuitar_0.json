@@ -138,6 +138,14 @@
         },
         {
             "accuracy": 100,
+            "score": 101155,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "greg-whatever"
+        },
+        {
+            "accuracy": 100,
             "score": 101072,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheBelukaWhale"
-        },
-        {
-            "accuracy": 99,
-            "score": 93689,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rip Van Winkle."
         }
     ]
 }

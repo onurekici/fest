@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 18667,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "morochii"
+        },
+        {
+            "accuracy": 98,
+            "score": 18585,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Esc Key"
+        },
+        {
             "accuracy": 95,
             "score": 18533,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "M.I.K.E-"
-        },
-        {
-            "accuracy": 97,
-            "score": 15534,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ItDaRealGP"
-        },
-        {
-            "accuracy": 94,
-            "score": 15498,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Ms. Abigail"
         }
     ]
 }

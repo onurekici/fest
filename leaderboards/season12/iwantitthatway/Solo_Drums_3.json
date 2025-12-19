@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127692,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mr_Jellyson"
+        },
+        {
+            "accuracy": 99,
+            "score": 127662,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SenorSheep"
+        },
+        {
             "accuracy": 99,
             "score": 127644,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LexyWolf"
-        },
-        {
-            "accuracy": 99,
-            "score": 123306,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KAORU4529"
-        },
-        {
-            "accuracy": 99,
-            "score": 123300,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "parlanes"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 80,
+            "score": 51828,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Plimz"
+        },
+        {
+            "accuracy": 79,
+            "score": 51312,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "TheLevos"
+        },
+        {
             "accuracy": 84,
             "score": 51174,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "A Human Person"
-        },
-        {
-            "accuracy": 83,
-            "score": 31944,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Geckomaster2025"
-        },
-        {
-            "accuracy": 92,
-            "score": 31806,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "hxhstan"
         }
     ]
 }

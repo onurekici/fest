@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 97218,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "steakncakes"
+        },
+        {
+            "accuracy": 100,
             "score": 97170,
             "difficulty": 3,
             "stars": 6,
@@ -178,6 +186,14 @@
         },
         {
             "accuracy": 100,
+            "score": 96726,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MooninMoo"
+        },
+        {
+            "accuracy": 100,
             "score": 96706,
             "difficulty": 3,
             "stars": 6,
@@ -207,6 +223,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Muikkunuuskanen"
+        },
+        {
+            "accuracy": 99,
+            "score": 96642,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Sadistic.Moth"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "itsrogey"
-        },
-        {
-            "accuracy": 100,
-            "score": 94384,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kirbalco"
-        },
-        {
-            "accuracy": 99,
-            "score": 94354,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lexka2020"
-        },
-        {
-            "accuracy": 99,
-            "score": 94352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Deividcsr"
         }
     ]
 }

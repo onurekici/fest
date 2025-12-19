@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 137502,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BMC_15"
+        },
+        {
+            "accuracy": 100,
+            "score": 137496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Vayorken"
+        },
+        {
+            "accuracy": 100,
             "score": 137490,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Icyroom12140"
-        },
-        {
-            "accuracy": 100,
-            "score": 132246,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "login102"
-        },
-        {
-            "accuracy": 100,
-            "score": 132210,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SFentonX"
         }
     ]
 }

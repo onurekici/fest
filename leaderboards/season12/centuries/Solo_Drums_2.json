@@ -337,6 +337,14 @@
             "userName": "By Mars"
         },
         {
+            "accuracy": 100,
+            "score": 100452,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kuro okumara"
+        },
+        {
             "accuracy": 99,
             "score": 100446,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Akuma_iice"
-        },
-        {
-            "accuracy": 99,
-            "score": 98952,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Corvelay"
         }
     ]
 }
