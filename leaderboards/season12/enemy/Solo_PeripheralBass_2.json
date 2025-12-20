@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 28295,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Gluri"
+        },
+        {
+            "accuracy": 100,
             "score": 28226,
             "difficulty": 1,
             "stars": 5,
@@ -577,6 +585,14 @@
             "userName": "Roxyyxz."
         },
         {
+            "accuracy": 97,
+            "score": 24415,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "D0ct0rPhant0m"
+        },
+        {
             "accuracy": 99,
             "score": 24412,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ShackPack"
-        },
-        {
-            "accuracy": 85,
-            "score": 22929,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NullElephant56"
-        },
-        {
-            "accuracy": 100,
-            "score": 22877,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "AngelTricops"
         }
     ]
 }

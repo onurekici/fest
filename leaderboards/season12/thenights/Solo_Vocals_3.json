@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 112275,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Bionic.YT"
+        },
+        {
+            "accuracy": 100,
+            "score": 112270,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FestivalWarrior"
+        },
+        {
+            "accuracy": 100,
             "score": 112255,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "dolafc"
-        },
-        {
-            "accuracy": 100,
-            "score": 111651,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "scdonny107"
-        },
-        {
-            "accuracy": 100,
-            "score": 111644,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mitnnyl"
         }
     ]
 }

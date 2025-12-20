@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 115973,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "The Cinematic"
+        },
+        {
+            "accuracy": 100,
+            "score": 115967,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Leva_Ponozka"
+        },
+        {
+            "accuracy": 99,
+            "score": 115897,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Caramba90"
+        },
+        {
             "accuracy": 99,
             "score": 115875,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Two Sox Sim"
-        },
-        {
-            "accuracy": 100,
-            "score": 106232,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SinithChild"
-        },
-        {
-            "accuracy": 99,
-            "score": 106086,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "The Mehyor"
-        },
-        {
-            "accuracy": 97,
-            "score": 106059,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Shadow Quaker"
         }
     ]
 }

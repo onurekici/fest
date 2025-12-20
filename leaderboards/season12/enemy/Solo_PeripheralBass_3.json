@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 85,
+            "score": 22929,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NullElephant56"
+        },
+        {
+            "accuracy": 100,
+            "score": 22877,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AngelTricops"
+        },
+        {
             "accuracy": 98,
             "score": 22824,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PreciseSpice"
-        },
-        {
-            "accuracy": 97,
-            "score": 18669,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hansson78"
-        },
-        {
-            "accuracy": 98,
-            "score": 18669,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nexus_ow"
         }
     ]
 }

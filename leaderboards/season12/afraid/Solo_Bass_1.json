@@ -234,6 +234,14 @@
         },
         {
             "accuracy": 100,
+            "score": 111009,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MainstreamPlayer"
+        },
+        {
+            "accuracy": 100,
             "score": 110984,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Nvrple"
-        },
-        {
-            "accuracy": 99,
-            "score": 108190,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Exitel"
         }
     ]
 }

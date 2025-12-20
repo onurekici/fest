@@ -442,6 +442,14 @@
         },
         {
             "accuracy": 100,
+            "score": 85212,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Kira Sizuki"
+        },
+        {
+            "accuracy": 100,
             "score": 84948,
             "difficulty": 3,
             "stars": 6,
@@ -511,6 +519,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gosjiro"
+        },
+        {
+            "accuracy": 100,
+            "score": 80364,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "YAVR"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BladesiteProject"
-        },
-        {
-            "accuracy": 100,
-            "score": 72410,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "HumanFern"
-        },
-        {
-            "accuracy": 98,
-            "score": 72402,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ethansatheraccou"
         }
     ]
 }

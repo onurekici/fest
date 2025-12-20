@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 68240,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "deadfist669"
+        },
+        {
+            "accuracy": 99,
+            "score": 68217,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SourTurnips"
+        },
+        {
             "accuracy": 100,
             "score": 68208,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Subtemple"
-        },
-        {
-            "accuracy": 100,
-            "score": 54799,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "PabloCast0405"
-        },
-        {
-            "accuracy": 97,
-            "score": 54779,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Menina Snow"
         }
     ]
 }

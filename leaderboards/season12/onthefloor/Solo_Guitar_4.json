@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 127577,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tamagoechii"
+        },
+        {
+            "accuracy": 100,
+            "score": 127557,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "LeBlanc12345"
+        },
+        {
             "accuracy": 100,
             "score": 127539,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "tywu"
-        },
-        {
-            "accuracy": 100,
-            "score": 126771,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ADP3R3Z29"
-        },
-        {
-            "accuracy": 100,
-            "score": 126765,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "cupcake exspress"
         }
     ]
 }

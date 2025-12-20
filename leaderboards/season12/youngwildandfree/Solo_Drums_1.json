@@ -418,6 +418,14 @@
         },
         {
             "accuracy": 100,
+            "score": 173124,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "King-Leon-2013"
+        },
+        {
+            "accuracy": 100,
             "score": 173100,
             "difficulty": 3,
             "stars": 6,
@@ -745,12 +753,28 @@
             "userName": "DairyStitch"
         },
         {
+            "accuracy": 100,
+            "score": 170496,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Renegade Dwarf"
+        },
+        {
             "accuracy": 99,
             "score": 170442,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "thevikingchicken"
+        },
+        {
+            "accuracy": 99,
+            "score": 170256,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Rymere Woods"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "nocokezero"
-        },
-        {
-            "accuracy": 100,
-            "score": 170004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Fizzco Games"
-        },
-        {
-            "accuracy": 100,
-            "score": 169920,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Fefe415"
-        },
-        {
-            "accuracy": 99,
-            "score": 169896,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Stunning-bug0"
         }
     ]
 }

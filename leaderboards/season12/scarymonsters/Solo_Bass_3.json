@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 87077,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "bearpilled"
+        },
+        {
+            "accuracy": 100,
+            "score": 87033,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Spartan241"
+        },
+        {
             "accuracy": 99,
             "score": 87005,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Max228sos"
-        },
-        {
-            "accuracy": 99,
-            "score": 83237,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JoNaK_"
-        },
-        {
-            "accuracy": 99,
-            "score": 83223,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Apokalyto_melvin"
         }
     ]
 }

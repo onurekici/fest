@@ -258,6 +258,14 @@
         },
         {
             "accuracy": 100,
+            "score": 29070,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tnt_firedrake"
+        },
+        {
+            "accuracy": 100,
             "score": 29034,
             "difficulty": 3,
             "stars": 6,
@@ -399,6 +407,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ディッシュウォーター"
+        },
+        {
+            "accuracy": 100,
+            "score": 27660,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "pianoplaya43"
         },
         {
             "accuracy": 100,
@@ -689,6 +705,14 @@
             "userName": "Óliver 177"
         },
         {
+            "accuracy": 100,
+            "score": 21072,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mandenbagmasken"
+        },
+        {
             "accuracy": 98,
             "score": 21006,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Fresh Rider_FRG"
-        },
-        {
-            "accuracy": 100,
-            "score": 20010,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "puchun001"
-        },
-        {
-            "accuracy": 100,
-            "score": 19905,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Kaizerdu35"
-        },
-        {
-            "accuracy": 98,
-            "score": 19860,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "pdro69"
         }
     ]
 }

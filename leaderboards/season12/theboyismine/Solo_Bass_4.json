@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 50630,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Osiah3"
+        },
+        {
             "accuracy": 99,
             "score": 50627,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Dizmiolado"
-        },
-        {
-            "accuracy": 99,
-            "score": 47255,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mr snapp"
         }
     ]
 }

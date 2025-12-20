@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 87654,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Rikudo-Drako"
+        },
+        {
+            "accuracy": 100,
+            "score": 87585,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "markgnufc"
+        },
+        {
             "accuracy": 100,
             "score": 87435,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "GeonnaSword21"
-        },
-        {
-            "accuracy": 99,
-            "score": 73060,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mikeydz7"
-        },
-        {
-            "accuracy": 98,
-            "score": 72894,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JotapeHerobrine"
         }
     ]
 }

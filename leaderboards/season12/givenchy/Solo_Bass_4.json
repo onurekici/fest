@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 28829,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-56c1c05e92"
+        },
+        {
+            "accuracy": 100,
+            "score": 28826,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sunnyday1424"
+        },
+        {
             "accuracy": 100,
             "score": 28818,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "meowcacao"
-        },
-        {
-            "accuracy": 100,
-            "score": 27812,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "くじらbro"
-        },
-        {
-            "accuracy": 100,
-            "score": 27806,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KatesYoyo"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 49312,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "bmth.ari"
+        },
+        {
             "accuracy": 98,
             "score": 49124,
             "difficulty": 3,
@@ -143,6 +151,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "tylerchep"
+        },
+        {
+            "accuracy": 99,
+            "score": 48509,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "recklessflux"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "jairdurand3125"
-        },
-        {
-            "accuracy": 99,
-            "score": 45054,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "gustamelow"
-        },
-        {
-            "accuracy": 100,
-            "score": 44857,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "GrimmDuval904"
         }
     ]
 }

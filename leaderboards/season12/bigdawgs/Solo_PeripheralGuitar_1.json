@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 59425,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JaceBush"
+        },
+        {
             "accuracy": 98,
             "score": 59132,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Hansson78"
-        },
-        {
-            "accuracy": 100,
-            "score": 45144,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Kopmanis"
         }
     ]
 }

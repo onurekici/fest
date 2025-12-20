@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 56516,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Jacehal"
+        },
+        {
+            "accuracy": 92,
+            "score": 55864,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Clash_Kicker"
+        },
+        {
             "accuracy": 97,
             "score": 55834,
             "difficulty": 2,
@@ -729,6 +745,14 @@
             "userName": "DylanMRAD"
         },
         {
+            "accuracy": 85,
+            "score": 47257,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Doggiest Dog Dog"
+        },
+        {
             "accuracy": 96,
             "score": 47236,
             "difficulty": 2,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Roberto-Kun"
-        },
-        {
-            "accuracy": 94,
-            "score": 46744,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "WolfFangy97"
-        },
-        {
-            "accuracy": 91,
-            "score": 46715,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cht1ek"
-        },
-        {
-            "accuracy": 99,
-            "score": 46411,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Al_The_Killer_2"
         }
     ]
 }

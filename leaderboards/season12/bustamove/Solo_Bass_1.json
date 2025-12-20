@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 188666,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hobo Taco"
+        },
+        {
+            "accuracy": 100,
             "score": 188502,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Jake webby"
-        },
-        {
-            "accuracy": 100,
-            "score": 182127,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Paper_Torpedo"
         }
     ]
 }

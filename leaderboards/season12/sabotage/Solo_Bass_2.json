@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 175032,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Karmicbike"
+        },
+        {
+            "accuracy": 99,
+            "score": 174832,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Candyinator"
+        },
+        {
             "accuracy": 98,
             "score": 174620,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Greg Knoll"
-        },
-        {
-            "accuracy": 98,
-            "score": 159836,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ebarriosl"
-        },
-        {
-            "accuracy": 99,
-            "score": 159755,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "itsGabywest"
         }
     ]
 }

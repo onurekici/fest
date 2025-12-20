@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 234322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Its_a_vix"
+        },
+        {
+            "accuracy": 100,
             "score": 234318,
             "difficulty": 3,
             "stars": 6,
@@ -489,6 +497,14 @@
             "userName": "Názgûl Sheik"
         },
         {
+            "accuracy": 99,
+            "score": 231125,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Digitally Fazed"
+        },
+        {
             "accuracy": 100,
             "score": 231104,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HolyRoninBenoni"
-        },
-        {
-            "accuracy": 100,
-            "score": 229439,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Scarlet Mansion"
-        },
-        {
-            "accuracy": 99,
-            "score": 229408,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nyxarie."
         }
     ]
 }

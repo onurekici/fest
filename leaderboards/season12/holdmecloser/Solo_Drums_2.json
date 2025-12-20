@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 80400,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Maceto Kaiba"
+        },
+        {
+            "accuracy": 100,
+            "score": 80185,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Wing Xero"
+        },
+        {
+            "accuracy": 100,
+            "score": 80080,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "gamesfromcloud_2"
+        },
+        {
             "accuracy": 99,
             "score": 79884,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ADV_Panda"
-        },
-        {
-            "accuracy": 98,
-            "score": 71365,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ste0207"
-        },
-        {
-            "accuracy": 99,
-            "score": 71070,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SIC1515"
-        },
-        {
-            "accuracy": 99,
-            "score": 71065,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheKingSlayer762"
         }
     ]
 }

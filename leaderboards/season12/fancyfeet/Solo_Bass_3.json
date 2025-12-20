@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 84028,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Heartlessgxx"
+        },
+        {
             "accuracy": 99,
             "score": 83961,
             "difficulty": 3,
@@ -215,6 +223,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "vRaven99"
+        },
+        {
+            "accuracy": 100,
+            "score": 82214,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Amiya_Bean12"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NixRoses436"
-        },
-        {
-            "accuracy": 100,
-            "score": 77241,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Pikachuman2510"
-        },
-        {
-            "accuracy": 99,
-            "score": 77241,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Fia74"
         }
     ]
 }

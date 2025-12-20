@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 21066,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DevilsWings."
+        },
+        {
+            "accuracy": 100,
+            "score": 21050,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "criticalmonkey12"
+        },
+        {
             "accuracy": 100,
             "score": 21046,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "NewFace0fFear"
-        },
-        {
-            "accuracy": 99,
-            "score": 19559,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "BurgerBoy7606"
-        },
-        {
-            "accuracy": 100,
-            "score": 19552,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "daaany05"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 156792,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IFurtively"
+        },
+        {
+            "accuracy": 100,
+            "score": 156786,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "CheBoinkey"
+        },
+        {
             "accuracy": 100,
             "score": 156772,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "grillerbigmonky"
-        },
-        {
-            "accuracy": 100,
-            "score": 154122,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sgt SnackDaddy"
-        },
-        {
-            "accuracy": 99,
-            "score": 154116,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sir.Dadu"
         }
     ]
 }

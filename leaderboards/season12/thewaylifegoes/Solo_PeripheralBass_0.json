@@ -6,7 +6,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "BBC Overlord"
+            "userName": null
         },
         {
             "accuracy": 98,
@@ -14,7 +14,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "Diabetorodriguez"
+            "userName": null
         },
         {
             "accuracy": 100,
@@ -22,7 +22,7 @@
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
-            "userName": "RadiatedKhajiit"
+            "userName": null
         },
         {
             "accuracy": 96,
@@ -30,7 +30,15 @@
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": "Corrupted_colors"
+            "userName": null
+        },
+        {
+            "accuracy": 83,
+            "score": 3172,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
         },
         {
             "accuracy": 88,
@@ -38,7 +46,7 @@
             "difficulty": 0,
             "stars": 3,
             "fullcombo": false,
-            "userName": "BigOleGoof"
+            "userName": null
         }
     ]
 }
