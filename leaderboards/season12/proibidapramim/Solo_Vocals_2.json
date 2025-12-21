@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 74421,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DiegoAntonio80"
+        },
+        {
+            "accuracy": 100,
             "score": 74310,
             "difficulty": 3,
             "stars": 6,
@@ -617,6 +625,14 @@
             "userName": "Ravnetka"
         },
         {
+            "accuracy": 99,
+            "score": 69850,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "liam sabbath"
+        },
+        {
             "accuracy": 100,
             "score": 69770,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Djoodyy"
-        },
-        {
-            "accuracy": 99,
-            "score": 68722,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MoonSarito"
-        },
-        {
-            "accuracy": 100,
-            "score": 68705,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "JKsamuraicz"
         }
     ]
 }

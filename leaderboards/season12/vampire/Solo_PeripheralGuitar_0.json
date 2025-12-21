@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 199662,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jorge_rockr"
+        },
+        {
             "accuracy": 99,
             "score": 197924,
             "difficulty": 3,
@@ -247,6 +255,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HollyweedGum"
+        },
+        {
+            "accuracy": 99,
+            "score": 178566,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheKirbo"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Jakubek1999"
-        },
-        {
-            "accuracy": 94,
-            "score": 119814,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Thistlestar22"
-        },
-        {
-            "accuracy": 93,
-            "score": 119259,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Sirius12177"
         }
     ]
 }

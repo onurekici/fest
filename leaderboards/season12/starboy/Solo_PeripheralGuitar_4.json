@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 95,
+            "score": 33376,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "rhythmbit"
+        },
+        {
+            "accuracy": 96,
+            "score": 33176,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "bigblueminer"
+        },
+        {
+            "accuracy": 95,
             "score": 33016,
             "difficulty": 2,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "tomance"
-        },
-        {
-            "accuracy": 100,
-            "score": 23533,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "RecklessRoy88"
-        },
-        {
-            "accuracy": 91,
-            "score": 23400,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Legendary_Ryno_"
         }
     ]
 }

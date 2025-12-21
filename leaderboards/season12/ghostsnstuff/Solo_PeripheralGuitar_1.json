@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42548,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "90sMK4Life"
+        },
+        {
             "accuracy": 98,
             "score": 42547,
             "difficulty": 3,
@@ -673,6 +681,14 @@
             "userName": "Christiankeel"
         },
         {
+            "accuracy": 93,
+            "score": 22738,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "gaspo98"
+        },
+        {
             "accuracy": 90,
             "score": 22621,
             "difficulty": 2,
@@ -703,6 +719,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Nerblesporkchop"
+        },
+        {
+            "accuracy": 92,
+            "score": 22007,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "[XBL] ULTRABOWSER"
         },
         {
             "accuracy": 88,
@@ -775,30 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "[XBL] Waurgodz"
-        },
-        {
-            "accuracy": 91,
-            "score": 17825,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "iluvfitch"
-        },
-        {
-            "accuracy": 80,
-            "score": 16349,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "ninja has di3d"
-        },
-        {
-            "accuracy": 75,
-            "score": 15194,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "clcktwn"
         }
     ]
 }

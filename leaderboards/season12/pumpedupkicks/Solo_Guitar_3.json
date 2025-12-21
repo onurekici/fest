@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 87290,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GlibGlumbo"
+        },
+        {
+            "accuracy": 100,
+            "score": 87240,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Papo_Via95"
+        },
+        {
+            "accuracy": 100,
             "score": 87218,
             "difficulty": 3,
             "stars": 6,
@@ -111,6 +127,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Tinkshimmy11"
+        },
+        {
+            "accuracy": 99,
+            "score": 87066,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Binkie ジ"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Iamabir"
-        },
-        {
-            "accuracy": 100,
-            "score": 85841,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "MinMercy3"
-        },
-        {
-            "accuracy": 100,
-            "score": 85841,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Required ID"
-        },
-        {
-            "accuracy": 100,
-            "score": 85840,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Clippit317"
         }
     ]
 }

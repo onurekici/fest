@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 95090,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DR4G0N-F1RE22"
+        },
+        {
+            "accuracy": 99,
+            "score": 95085,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Roasted Cep"
+        },
+        {
             "accuracy": 99,
             "score": 95083,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SpareReptile4000"
-        },
-        {
-            "accuracy": 99,
-            "score": 91520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "The_Last_of_Us."
-        },
-        {
-            "accuracy": 99,
-            "score": 91515,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EightPounder"
         }
     ]
 }

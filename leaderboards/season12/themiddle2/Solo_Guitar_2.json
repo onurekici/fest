@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 217136,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mickicorn"
+        },
+        {
+            "accuracy": 99,
+            "score": 217136,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Og_tiql"
+        },
+        {
+            "accuracy": 100,
             "score": 217004,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "vmpwrrldd"
-        },
-        {
-            "accuracy": 100,
-            "score": 212352,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Abby Sutton"
-        },
-        {
-            "accuracy": 100,
-            "score": 212311,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "KF2015"
         }
     ]
 }

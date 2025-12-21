@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 184374,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vexa_TTV"
+        },
+        {
+            "accuracy": 99,
+            "score": 184254,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Atagogo"
+        },
+        {
             "accuracy": 99,
             "score": 184236,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BlackArcanine"
-        },
-        {
-            "accuracy": 99,
-            "score": 177480,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SLiicK0"
-        },
-        {
-            "accuracy": 100,
-            "score": 177348,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "The_Punisher_530"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 98,
+            "score": 48334,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CollapseStar"
+        },
+        {
+            "accuracy": 100,
+            "score": 48331,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Saarawatt"
+        },
+        {
+            "accuracy": 98,
             "score": 48329,
             "difficulty": 3,
             "stars": 6,
@@ -338,6 +354,14 @@
         },
         {
             "accuracy": 100,
+            "score": 47304,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "MinahRose"
+        },
+        {
+            "accuracy": 100,
             "score": 47275,
             "difficulty": 2,
             "stars": 5,
@@ -382,7 +406,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
-            "userName": "adryxqt0"
+            "userName": "yujididntsavehim"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Cosmic Nomad865"
-        },
-        {
-            "accuracy": 100,
-            "score": 45930,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "canniball18"
-        },
-        {
-            "accuracy": 100,
-            "score": 45895,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "VEN0MPLANET"
-        },
-        {
-            "accuracy": 100,
-            "score": 45872,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "puggy923"
         }
     ]
 }

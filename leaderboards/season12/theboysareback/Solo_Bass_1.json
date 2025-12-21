@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 283480,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TheHannias"
+        },
+        {
             "accuracy": 99,
             "score": 283467,
             "difficulty": 3,
@@ -618,6 +626,14 @@
         },
         {
             "accuracy": 99,
+            "score": 253493,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NickCanadaCore"
+        },
+        {
+            "accuracy": 99,
             "score": 253394,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "rd_rg"
-        },
-        {
-            "accuracy": 98,
-            "score": 247321,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "lexa4piece"
-        },
-        {
-            "accuracy": 99,
-            "score": 246991,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "namlinz"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 116790,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Sneijderi"
+        },
+        {
+            "accuracy": 98,
+            "score": 115099,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "SpaceAce1976"
+        },
+        {
             "accuracy": 94,
             "score": 113551,
             "difficulty": 3,
@@ -79,6 +95,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Joe Reagan"
+        },
+        {
+            "accuracy": 100,
+            "score": 103967,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Aurelius Rex Lux"
         },
         {
             "accuracy": 95,
@@ -775,30 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "RGalazki"
-        },
-        {
-            "accuracy": 74,
-            "score": 26719,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "SAGEPoet"
-        },
-        {
-            "accuracy": 76,
-            "score": 25576,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "jtightbabytooth"
-        },
-        {
-            "accuracy": 96,
-            "score": 25469,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "lil-green-bean"
         }
     ]
 }

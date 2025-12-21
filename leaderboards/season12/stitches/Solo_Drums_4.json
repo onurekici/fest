@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 88194,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Angello.-"
+        },
+        {
+            "accuracy": 100,
+            "score": 88194,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mgulstad24"
+        },
+        {
             "accuracy": 99,
             "score": 88188,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "EmpirePrincess"
-        },
-        {
-            "accuracy": 99,
-            "score": 87180,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Excho 7"
-        },
-        {
-            "accuracy": 100,
-            "score": 87168,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "chaumont12"
         }
     ]
 }

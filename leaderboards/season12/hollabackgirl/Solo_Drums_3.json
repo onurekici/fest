@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 80670,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DeltaFenix"
+        },
+        {
+            "accuracy": 100,
             "score": 80664,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ShakenWithTerror"
-        },
-        {
-            "accuracy": 100,
-            "score": 80142,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FlackJacketDog"
         }
     ]
 }

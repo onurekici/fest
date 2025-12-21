@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 44604,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Sleepy Sketch"
+        },
+        {
+            "accuracy": 91,
+            "score": 44479,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Hvackiller"
+        },
+        {
             "accuracy": 89,
             "score": 44323,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Str8Savage04"
-        },
-        {
-            "accuracy": 98,
-            "score": 36335,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "AllJordan03"
-        },
-        {
-            "accuracy": 90,
-            "score": 36157,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "JinkusPinkus185"
         }
     ]
 }

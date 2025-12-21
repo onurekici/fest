@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 117376,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "vampy.vices"
+        },
+        {
+            "accuracy": 100,
+            "score": 117232,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dairykari"
+        },
+        {
+            "accuracy": 100,
             "score": 117210,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MainstreamPlayer"
-        },
-        {
-            "accuracy": 100,
-            "score": 111124,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mabsw"
-        },
-        {
-            "accuracy": 99,
-            "score": 111121,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Zuzi454"
         }
     ]
 }

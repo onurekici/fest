@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 208200,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "DaCableGuy"
+        },
+        {
+            "accuracy": 100,
             "score": 208098,
             "difficulty": 3,
             "stars": 6,
@@ -769,6 +777,14 @@
             "userName": "kid rei"
         },
         {
+            "accuracy": 98,
+            "score": 172950,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JAARLOS"
+        },
+        {
             "accuracy": 99,
             "score": 172530,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Stowned25"
-        },
-        {
-            "accuracy": 99,
-            "score": 171708,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DVinxy"
-        },
-        {
-            "accuracy": 99,
-            "score": 171336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "kotawota x"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 220185,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Abby Sutton"
+        },
+        {
+            "accuracy": 100,
             "score": 219963,
             "difficulty": 3,
             "stars": 6,
@@ -47,6 +55,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Waskalot"
+        },
+        {
+            "accuracy": 99,
+            "score": 219694,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tornadosan66"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[XBL] FR3MONT"
-        },
-        {
-            "accuracy": 100,
-            "score": 215364,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "full_dart"
-        },
-        {
-            "accuracy": 100,
-            "score": 215298,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HydraxWhite"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 143622,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Jenny_bee1"
+        },
+        {
+            "accuracy": 100,
+            "score": 143618,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shahzry_Gaming"
+        },
+        {
             "accuracy": 100,
             "score": 143616,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Xenomorph_Licker"
-        },
-        {
-            "accuracy": 100,
-            "score": 142632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "AnheL.S"
-        },
-        {
-            "accuracy": 100,
-            "score": 142620,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tenacitie"
         }
     ]
 }

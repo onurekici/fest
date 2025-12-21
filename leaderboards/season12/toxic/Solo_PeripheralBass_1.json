@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 58457,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] BiscuitLake"
+        },
+        {
             "accuracy": 97,
             "score": 57894,
             "difficulty": 3,
@@ -569,6 +577,14 @@
             "userName": "Seabass4life"
         },
         {
+            "accuracy": 92,
+            "score": 29856,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "dragonspit999"
+        },
+        {
             "accuracy": 93,
             "score": 29152,
             "difficulty": 3,
@@ -599,14 +615,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "SupremeSaleen16"
-        },
-        {
-            "accuracy": 93,
-            "score": 27497,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "dragonspit999"
         },
         {
             "accuracy": 96,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "DrPPrincess"
-        },
-        {
-            "accuracy": 87,
-            "score": 17024,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "ShadeGrimm"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 200040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "bigbcake"
+        },
+        {
+            "accuracy": 100,
+            "score": 199962,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Xavri24"
+        },
+        {
+            "accuracy": 99,
             "score": 199953,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "eepyquaso"
-        },
-        {
-            "accuracy": 99,
-            "score": 194011,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CardiBsImplants"
-        },
-        {
-            "accuracy": 99,
-            "score": 193958,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "that1outlander"
         }
     ]
 }

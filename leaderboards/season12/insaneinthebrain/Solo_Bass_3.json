@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 95259,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "11CeeJay11"
+        },
+        {
+            "accuracy": 100,
+            "score": 95248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "wShadow T.tv"
+        },
+        {
             "accuracy": 100,
             "score": 95245,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Laughing_Luck"
-        },
-        {
-            "accuracy": 99,
-            "score": 93611,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "asian_eth"
-        },
-        {
-            "accuracy": 100,
-            "score": 93592,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "5MinuteMovieGuy"
         }
     ]
 }

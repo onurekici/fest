@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 63,
+            "score": 2123,
+            "difficulty": 0,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
+            "accuracy": 9,
+            "score": 1338,
+            "difficulty": 3,
+            "stars": 0,
+            "fullcombo": false,
+            "userName": null
+        },
+        {
             "accuracy": 30,
             "score": 972,
             "difficulty": 0,
             "stars": 1,
             "fullcombo": false,
-            "userName": "Brett Benfer"
+            "userName": null
         },
         {
             "accuracy": 5,
@@ -14,7 +30,7 @@
             "difficulty": 0,
             "stars": 0,
             "fullcombo": false,
-            "userName": "blademastr91"
+            "userName": null
         },
         {
             "accuracy": 0,
@@ -22,7 +38,7 @@
             "difficulty": 3,
             "stars": 0,
             "fullcombo": false,
-            "userName": "wsaaasnmj"
+            "userName": null
         }
     ]
 }

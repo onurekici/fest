@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 68715,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Redspiderking"
+        },
+        {
+            "accuracy": 99,
+            "score": 68710,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "tifffy6"
+        },
+        {
             "accuracy": 99,
             "score": 68696,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Rilvxr"
-        },
-        {
-            "accuracy": 99,
-            "score": 66333,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Aneyrer"
-        },
-        {
-            "accuracy": 99,
-            "score": 66329,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ℤemu"
         }
     ]
 }

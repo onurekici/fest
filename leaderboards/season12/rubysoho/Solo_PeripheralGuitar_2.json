@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 139613,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Nightscape_00"
+        },
+        {
             "accuracy": 95,
             "score": 139536,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Tonesdude"
-        },
-        {
-            "accuracy": 89,
-            "score": 102690,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Aapelikaapeli."
         }
     ]
 }

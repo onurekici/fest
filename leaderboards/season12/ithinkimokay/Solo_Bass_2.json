@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 59817,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "KingML4498"
+        },
+        {
+            "accuracy": 98,
+            "score": 59795,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "viosakumi"
+        },
+        {
             "accuracy": 99,
             "score": 59758,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Shellrock.Thor"
-        },
-        {
-            "accuracy": 100,
-            "score": 49129,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "GreenCat119"
-        },
-        {
-            "accuracy": 98,
-            "score": 49059,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] MARCO_ALLEN0"
         }
     ]
 }

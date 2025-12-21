@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 68895,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SteelJaw67"
+        },
+        {
             "accuracy": 98,
             "score": 68268,
             "difficulty": 3,
@@ -119,6 +127,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "TheDeuteragonist"
+        },
+        {
+            "accuracy": 99,
+            "score": 66630,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Bleh_.Crowz"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "narkopop_wave"
-        },
-        {
-            "accuracy": 100,
-            "score": 45805,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "NoAimJane9420"
-        },
-        {
-            "accuracy": 98,
-            "score": 45760,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LikelyIron6702"
         }
     ]
 }

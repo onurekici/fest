@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 47574,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "FallenStorm03"
+        },
+        {
+            "accuracy": 93,
+            "score": 46913,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Ward33009"
+        },
+        {
             "accuracy": 96,
             "score": 46847,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Plysm"
-        },
-        {
-            "accuracy": 87,
-            "score": 33135,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "AshedBrown"
-        },
-        {
-            "accuracy": 89,
-            "score": 33021,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "sylserket"
         }
     ]
 }

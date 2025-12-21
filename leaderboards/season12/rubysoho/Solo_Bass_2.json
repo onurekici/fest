@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123052,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Obfuscatorn"
+        },
+        {
+            "accuracy": 100,
             "score": 123037,
             "difficulty": 3,
             "stars": 6,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Xx-Eliina-xX"
+        },
+        {
+            "accuracy": 99,
+            "score": 122943,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TacosDeBirria_1"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Durslack"
-        },
-        {
-            "accuracy": 99,
-            "score": 117163,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ushroo"
-        },
-        {
-            "accuracy": 99,
-            "score": 117158,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "IronAvenger6491"
         }
     ]
 }

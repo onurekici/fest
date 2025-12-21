@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 141590,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThatGuy72929"
+        },
+        {
             "accuracy": 99,
             "score": 141544,
             "difficulty": 3,
@@ -151,6 +159,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "StellarChoonk"
+        },
+        {
+            "accuracy": 99,
+            "score": 139578,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FeedNateDogg21"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "phutch98"
-        },
-        {
-            "accuracy": 99,
-            "score": 129444,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kungusker"
-        },
-        {
-            "accuracy": 99,
-            "score": 129384,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LavaError_LP"
         }
     ]
 }
