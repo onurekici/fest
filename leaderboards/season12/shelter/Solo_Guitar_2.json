@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 222555,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Twitch BeylerTS"
+        },
+        {
+            "accuracy": 100,
             "score": 222550,
             "difficulty": 3,
             "stars": 6,
@@ -633,6 +641,14 @@
             "userName": "FloraI_And_Fox"
         },
         {
+            "accuracy": 99,
+            "score": 219123,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Blush Suou"
+        },
+        {
             "accuracy": 100,
             "score": 219072,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TTV_PBSDev"
-        },
-        {
-            "accuracy": 99,
-            "score": 218481,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Gadallin"
-        },
-        {
-            "accuracy": 99,
-            "score": 218456,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ReynisNoob"
         }
     ]
 }

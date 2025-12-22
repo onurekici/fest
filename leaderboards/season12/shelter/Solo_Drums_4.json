@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 189600,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "xCompanion_"
+        },
+        {
+            "accuracy": 100,
+            "score": 189510,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Meownotone"
+        },
+        {
+            "accuracy": 100,
             "score": 189480,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "100couy"
-        },
-        {
-            "accuracy": 99,
-            "score": 187494,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lowy.7"
-        },
-        {
-            "accuracy": 100,
-            "score": 187488,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Miss_Syv"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 160074,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Twitson"
+        },
+        {
             "accuracy": 99,
             "score": 160050,
             "difficulty": 3,
@@ -537,6 +545,14 @@
             "userName": "ThanosCrypt"
         },
         {
+            "accuracy": 99,
+            "score": 158946,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "RedRunn3r"
+        },
+        {
             "accuracy": 100,
             "score": 158934,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Escanali"
-        },
-        {
-            "accuracy": 99,
-            "score": 158322,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MercurysDrivel"
-        },
-        {
-            "accuracy": 99,
-            "score": 158304,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "joojo99_"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 210960,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Suzumist"
+        },
+        {
             "accuracy": 99,
             "score": 210954,
             "difficulty": 3,
@@ -111,6 +119,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "LeSpiki"
+        },
+        {
+            "accuracy": 99,
+            "score": 210492,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Basic0000"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bandithefox623"
-        },
-        {
-            "accuracy": 99,
-            "score": 207306,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SpasticSausage70"
-        },
-        {
-            "accuracy": 100,
-            "score": 207258,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SWR71"
         }
     ]
 }

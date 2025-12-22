@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 68743,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BlackGokuNews_"
+        },
+        {
+            "accuracy": 99,
+            "score": 68730,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Thido432"
+        },
+        {
+            "accuracy": 100,
+            "score": 68729,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Djoodyy"
+        },
+        {
             "accuracy": 99,
             "score": 68722,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "binado123"
-        },
-        {
-            "accuracy": 99,
-            "score": 62621,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Domy_Angel"
-        },
-        {
-            "accuracy": 97,
-            "score": 62601,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ThiagusElric"
-        },
-        {
-            "accuracy": 100,
-            "score": 62485,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "00ffTheGrid"
         }
     ]
 }

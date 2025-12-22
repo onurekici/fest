@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 50448,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Nyra Lawliet"
+        },
+        {
+            "accuracy": 100,
             "score": 50016,
             "difficulty": 3,
             "stars": 6,
@@ -238,7 +246,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "luxtra1968"
+            "userName": "Biffa1968"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ZarpenDaster"
-        },
-        {
-            "accuracy": 100,
-            "score": 45600,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NewSilverMoon"
         }
     ]
 }

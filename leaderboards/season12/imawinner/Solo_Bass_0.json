@@ -178,6 +178,14 @@
         },
         {
             "accuracy": 100,
+            "score": 74321,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lPerfections"
+        },
+        {
+            "accuracy": 100,
             "score": 73692,
             "difficulty": 3,
             "stars": 6,
@@ -450,11 +458,27 @@
         },
         {
             "accuracy": 98,
+            "score": 49772,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "HealthRiskPrime"
+        },
+        {
+            "accuracy": 98,
             "score": 49173,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "Jones Nova"
+        },
+        {
+            "accuracy": 97,
+            "score": 48963,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JadeTheWitch517"
         },
         {
             "accuracy": 99,
@@ -775,14 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "SpiderboyNAN"
-        },
-        {
-            "accuracy": 0,
-            "score": 0,
-            "difficulty": 3,
-            "stars": 0,
-            "fullcombo": false,
-            "userName": "paulinaami"
         }
     ]
 }

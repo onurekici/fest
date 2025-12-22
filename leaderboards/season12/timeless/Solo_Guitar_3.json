@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 36840,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "MiruWolf"
+        },
+        {
+            "accuracy": 100,
+            "score": 36840,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Angrywaffles77"
+        },
+        {
             "accuracy": 100,
             "score": 36825,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "paganSVK"
-        },
-        {
-            "accuracy": 97,
-            "score": 33162,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Ghéza"
-        },
-        {
-            "accuracy": 99,
-            "score": 33110,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Raven_Claw619"
         }
     ]
 }

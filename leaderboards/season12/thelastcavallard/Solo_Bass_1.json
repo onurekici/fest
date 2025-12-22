@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 92226,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wurstbrokkoli"
+        },
+        {
+            "accuracy": 100,
+            "score": 92190,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "pug37 Official"
+        },
+        {
+            "accuracy": 99,
+            "score": 92007,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "xXrat_sewerXx"
+        },
+        {
             "accuracy": 100,
             "score": 91864,
             "difficulty": 2,
@@ -239,6 +263,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Crying Star"
+        },
+        {
+            "accuracy": 99,
+            "score": 85729,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "I0.28"
         },
         {
             "accuracy": 100,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ukrtek"
-        },
-        {
-            "accuracy": 100,
-            "score": 60638,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "ApplejackSpix"
-        },
-        {
-            "accuracy": 100,
-            "score": 60255,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "azuru-neko"
-        },
-        {
-            "accuracy": 87,
-            "score": 60222,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "insane.bat"
-        },
-        {
-            "accuracy": 100,
-            "score": 60073,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MissTHC-Blazaa"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 147084,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "cheirie"
+        },
+        {
+            "accuracy": 100,
+            "score": 147078,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HoundMaul"
+        },
+        {
+            "accuracy": 100,
             "score": 147048,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Alphabear20"
-        },
-        {
-            "accuracy": 100,
-            "score": 145704,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Głaive"
-        },
-        {
-            "accuracy": 100,
-            "score": 145692,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ItsFalconzz"
         }
     ]
 }

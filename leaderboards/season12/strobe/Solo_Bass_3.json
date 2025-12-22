@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 129876,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "InnerDs"
+        },
+        {
+            "accuracy": 99,
+            "score": 129864,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ezodeus"
+        },
+        {
+            "accuracy": 100,
             "score": 129852,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "[PSN] caffeinenjoyer"
-        },
-        {
-            "accuracy": 99,
-            "score": 127848,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "marceljipo"
-        },
-        {
-            "accuracy": 100,
-            "score": 127842,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Partenope_7"
         }
     ]
 }

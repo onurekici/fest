@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 49379,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lrac170"
+        },
+        {
+            "accuracy": 100,
             "score": 42688,
             "difficulty": 2,
             "stars": 5,
@@ -25,12 +33,28 @@
             "userName": "rosefuneral12"
         },
         {
+            "accuracy": 86,
+            "score": 16835,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "ArmoredAssau1t"
+        },
+        {
             "accuracy": 91,
             "score": 9523,
             "difficulty": 1,
             "stars": 3,
             "fullcombo": false,
             "userName": "Pr3ttyGirl15"
+        },
+        {
+            "accuracy": 95,
+            "score": 4876,
+            "difficulty": 0,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "URLORD Andy"
         }
     ]
 }

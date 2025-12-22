@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 193695,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DrCyn"
+        },
+        {
+            "accuracy": 100,
+            "score": 193656,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IsekaiLover"
+        },
+        {
+            "accuracy": 99,
             "score": 193555,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "FeelsPadgeMan"
-        },
-        {
-            "accuracy": 99,
-            "score": 184976,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RanklingYou"
-        },
-        {
-            "accuracy": 98,
-            "score": 184945,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "skate sensei"
         }
     ]
 }

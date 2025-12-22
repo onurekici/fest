@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 41274,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "GvA17Here"
+        },
+        {
+            "accuracy": 100,
             "score": 41268,
             "difficulty": 3,
             "stars": 6,
@@ -401,6 +409,14 @@
             "userName": "ultmatezombiewin"
         },
         {
+            "accuracy": 99,
+            "score": 38766,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LithiumBits"
+        },
+        {
             "accuracy": 100,
             "score": 38736,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "victorysoko"
-        },
-        {
-            "accuracy": 99,
-            "score": 36840,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MiruWolf"
-        },
-        {
-            "accuracy": 100,
-            "score": 36840,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Angrywaffles77"
         }
     ]
 }

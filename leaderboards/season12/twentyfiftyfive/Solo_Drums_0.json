@@ -338,6 +338,14 @@
         },
         {
             "accuracy": 100,
+            "score": 31512,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RadioDino"
+        },
+        {
+            "accuracy": 100,
             "score": 31422,
             "difficulty": 3,
             "stars": 6,
@@ -665,6 +673,14 @@
             "userName": "LilNugget27"
         },
         {
+            "accuracy": 99,
+            "score": 25830,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "The_speckle"
+        },
+        {
             "accuracy": 100,
             "score": 25770,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Kitty Cat Tamer"
-        },
-        {
-            "accuracy": 100,
-            "score": 21250,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Panda_KingBenste"
-        },
-        {
-            "accuracy": 99,
-            "score": 21085,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hassan_Campbell"
         }
     ]
 }

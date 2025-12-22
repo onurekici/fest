@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 33162,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ghéza"
+        },
+        {
+            "accuracy": 99,
+            "score": 33110,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Raven_Claw619"
+        },
+        {
             "accuracy": 95,
             "score": 33084,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Kyrian022"
-        },
-        {
-            "accuracy": 96,
-            "score": 26478,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Muikkunuuskanen"
-        },
-        {
-            "accuracy": 99,
-            "score": 26400,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NotServed"
         }
     ]
 }

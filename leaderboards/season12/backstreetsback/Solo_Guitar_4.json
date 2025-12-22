@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 83109,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "brawlyzero"
+        },
+        {
+            "accuracy": 100,
+            "score": 83034,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "alhatal126"
+        },
+        {
             "accuracy": 100,
             "score": 83016,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Shengmo22"
-        },
-        {
-            "accuracy": 100,
-            "score": 81565,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mako_Garca"
-        },
-        {
-            "accuracy": 99,
-            "score": 81561,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "FaZe_Sway-03"
         }
     ]
 }

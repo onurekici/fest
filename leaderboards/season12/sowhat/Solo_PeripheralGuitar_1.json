@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 148676,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "UnDeAD UniON"
+        },
+        {
+            "accuracy": 97,
+            "score": 148618,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Klinecars"
+        },
+        {
+            "accuracy": 99,
+            "score": 148141,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "King Gorp"
+        },
+        {
             "accuracy": 99,
             "score": 147188,
             "difficulty": 2,
@@ -47,14 +71,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ThePlanet55555"
-        },
-        {
-            "accuracy": 96,
-            "score": 144372,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "HistoricPlane745"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "meechthelittle"
-        },
-        {
-            "accuracy": 92,
-            "score": 83584,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[XBL] Pushytable2"
-        },
-        {
-            "accuracy": 93,
-            "score": 82709,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Brett Benfer"
         }
     ]
 }

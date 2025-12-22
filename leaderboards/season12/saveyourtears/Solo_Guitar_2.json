@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 116861,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Chеrb"
+        },
+        {
+            "accuracy": 100,
             "score": 116855,
             "difficulty": 3,
             "stars": 6,
@@ -737,6 +745,14 @@
             "userName": "Brisfillans"
         },
         {
+            "accuracy": 99,
+            "score": 115092,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Joey Santo"
+        },
+        {
             "accuracy": 100,
             "score": 115087,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Omnerack"
-        },
-        {
-            "accuracy": 100,
-            "score": 115027,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "CorndogWaterGrab"
-        },
-        {
-            "accuracy": 99,
-            "score": 115024,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheWolfRaccoon"
         }
     ]
 }

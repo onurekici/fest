@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 28851,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "akaflexter"
+        },
+        {
+            "accuracy": 96,
+            "score": 28839,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Eggplanterino"
+        },
+        {
             "accuracy": 96,
             "score": 28832,
             "difficulty": 3,
@@ -446,7 +462,7 @@
             "difficulty": 2,
             "stars": 5,
             "fullcombo": true,
-            "userName": "SnakeSevenfold"
+            "userName": "OldSnakeSevenfol"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Spazdrew"
-        },
-        {
-            "accuracy": 92,
-            "score": 26852,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "naracha49"
-        },
-        {
-            "accuracy": 96,
-            "score": 26852,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "spеc"
         }
     ]
 }

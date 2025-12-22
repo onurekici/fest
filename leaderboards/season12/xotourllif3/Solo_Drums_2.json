@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 123528,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Scarlet Mansion"
+        },
+        {
+            "accuracy": 100,
+            "score": 123372,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "XDeadthgunX"
+        },
+        {
+            "accuracy": 99,
             "score": 123318,
             "difficulty": 3,
             "stars": 6,
@@ -686,7 +702,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "zays dﱞіh"
+            "userName": null
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "guygotracks"
-        },
-        {
-            "accuracy": 100,
-            "score": 117054,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "xiaomou74"
-        },
-        {
-            "accuracy": 99,
-            "score": 117042,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RoseTheWolf54"
         }
     ]
 }

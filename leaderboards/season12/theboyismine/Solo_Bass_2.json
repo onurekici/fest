@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 59329,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ElLoboMestizo"
+        },
+        {
             "accuracy": 100,
             "score": 59268,
             "difficulty": 3,
@@ -263,6 +271,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Cburd23mob"
+        },
+        {
+            "accuracy": 100,
+            "score": 57140,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "wizzlewizzle"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "QueenLantern"
-        },
-        {
-            "accuracy": 100,
-            "score": 53557,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MaiMiseryツ"
-        },
-        {
-            "accuracy": 100,
-            "score": 53518,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Swagboyboy23"
         }
     ]
 }

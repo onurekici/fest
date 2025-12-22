@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 218494,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Killershark0993"
+        },
+        {
+            "accuracy": 99,
+            "score": 218448,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "BabyDono123"
+        },
+        {
             "accuracy": 99,
             "score": 218414,
             "difficulty": 3,
@@ -742,7 +758,7 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
-            "userName": "ghxstly_void"
+            "userName": "ghostlyxvoid"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "oTiffB"
-        },
-        {
-            "accuracy": 99,
-            "score": 215732,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "king.n0thing"
-        },
-        {
-            "accuracy": 99,
-            "score": 215698,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "panda el jefe"
         }
     ]
 }

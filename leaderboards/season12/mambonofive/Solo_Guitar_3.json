@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 120873,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "vitrente"
+        },
+        {
+            "accuracy": 100,
+            "score": 120872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sm0k3Jr210"
+        },
+        {
             "accuracy": 100,
             "score": 120870,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "T-mac1236"
-        },
-        {
-            "accuracy": 100,
-            "score": 119348,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "dumpy_on_control"
-        },
-        {
-            "accuracy": 100,
-            "score": 119342,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Bhurgs"
         }
     ]
 }

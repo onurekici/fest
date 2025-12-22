@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 129234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NSFW Brandon."
+        },
+        {
+            "accuracy": 100,
+            "score": 129222,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Felix Outsider"
+        },
+        {
+            "accuracy": 100,
             "score": 129192,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +119,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Theo1mil"
+        },
+        {
+            "accuracy": 100,
+            "score": 128904,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Silversage15"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Layton20"
-        },
-        {
-            "accuracy": 99,
-            "score": 127062,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Vectium"
-        },
-        {
-            "accuracy": 100,
-            "score": 127062,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sharkamako"
-        },
-        {
-            "accuracy": 100,
-            "score": 127062,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "POORTHINGG"
         }
     ]
 }

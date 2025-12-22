@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 99006,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lande06"
+        },
+        {
+            "accuracy": 100,
+            "score": 99000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Sticky94"
+        },
+        {
+            "accuracy": 99,
             "score": 98994,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gaelelpapz26"
-        },
-        {
-            "accuracy": 100,
-            "score": 97494,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Monchim123"
-        },
-        {
-            "accuracy": 99,
-            "score": 97488,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "epixest"
         }
     ]
 }

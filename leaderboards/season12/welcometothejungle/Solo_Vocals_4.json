@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 123000,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MrsShuffle"
+        },
+        {
+            "accuracy": 100,
+            "score": 122978,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SnuggyNuggi"
+        },
+        {
+            "accuracy": 100,
+            "score": 122960,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Zektus"
+        },
+        {
             "accuracy": 100,
             "score": 122950,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dirts Win"
-        },
-        {
-            "accuracy": 100,
-            "score": 122015,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "freddy10bobby"
-        },
-        {
-            "accuracy": 100,
-            "score": 122014,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "evieee_17"
-        },
-        {
-            "accuracy": 100,
-            "score": 122004,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "annacados"
         }
     ]
 }
