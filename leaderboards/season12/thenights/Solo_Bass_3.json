@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 40897,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "TakeThatSteve"
+        },
+        {
             "accuracy": 99,
             "score": 40863,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NEERVAN"
-        },
-        {
-            "accuracy": 99,
-            "score": 39140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Alex_Babayaga21"
         }
     ]
 }

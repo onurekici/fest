@@ -418,6 +418,14 @@
         },
         {
             "accuracy": 100,
+            "score": 111120,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Byun Baekhyuna"
+        },
+        {
+            "accuracy": 100,
             "score": 110250,
             "difficulty": 3,
             "stars": 6,
@@ -537,6 +545,14 @@
             "userName": "asian_pumpum"
         },
         {
+            "accuracy": 99,
+            "score": 106104,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mushy potato"
+        },
+        {
             "accuracy": 100,
             "score": 106038,
             "difficulty": 3,
@@ -567,6 +583,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dekill_Rebus"
+        },
+        {
+            "accuracy": 99,
+            "score": 105234,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ezioemilio44"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PoppinsAnime"
-        },
-        {
-            "accuracy": 98,
-            "score": 92328,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "mangleTY"
-        },
-        {
-            "accuracy": 99,
-            "score": 91935,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Blank149126"
-        },
-        {
-            "accuracy": 99,
-            "score": 90816,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "whokilledkevenn"
         }
     ]
 }

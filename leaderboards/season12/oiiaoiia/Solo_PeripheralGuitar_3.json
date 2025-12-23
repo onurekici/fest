@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 31849,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Syndromania"
+        },
+        {
+            "accuracy": 96,
+            "score": 31835,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jason1681"
+        },
+        {
             "accuracy": 96,
             "score": 31744,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Austin1201 on IG"
-        },
-        {
-            "accuracy": 92,
-            "score": 28929,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "User-b286f32dbf"
-        },
-        {
-            "accuracy": 95,
-            "score": 28908,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "UmbranOcto"
         }
     ]
 }

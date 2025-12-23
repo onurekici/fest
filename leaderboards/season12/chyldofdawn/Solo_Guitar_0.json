@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123396,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MR_Duck is buns"
+        },
+        {
+            "accuracy": 100,
             "score": 122698,
             "difficulty": 3,
             "stars": 6,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "IVY_ME0W"
+        },
+        {
+            "accuracy": 100,
+            "score": 119883,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "omontoya9"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "JadedSteed_"
-        },
-        {
-            "accuracy": 99,
-            "score": 103778,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kermit4Life85"
-        },
-        {
-            "accuracy": 99,
-            "score": 103560,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EggOfVoid"
         }
     ]
 }

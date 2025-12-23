@@ -1,12 +1,36 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 48332,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "toasterslinger"
+        },
+        {
+            "accuracy": 98,
+            "score": 48277,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "AmloDesporter"
+        },
+        {
             "accuracy": 100,
             "score": 48263,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": true,
             "userName": "reign_of_terror7"
+        },
+        {
+            "accuracy": 85,
+            "score": 48245,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "8RIGHTS"
         },
         {
             "accuracy": 97,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Cherry5."
-        },
-        {
-            "accuracy": 98,
-            "score": 41357,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "EggplantFatty"
-        },
-        {
-            "accuracy": 94,
-            "score": 41100,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Tasran44"
-        },
-        {
-            "accuracy": 90,
-            "score": 41049,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "aidenbuds17"
         }
     ]
 }

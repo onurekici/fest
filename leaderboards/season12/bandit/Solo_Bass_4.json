@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 42349,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LeoTh3Shadow"
+        },
+        {
+            "accuracy": 100,
+            "score": 42316,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FixedKoi5755"
+        },
+        {
             "accuracy": 100,
             "score": 42302,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Skizzzix"
-        },
-        {
-            "accuracy": 100,
-            "score": 39738,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "GeorgeRicardo18"
-        },
-        {
-            "accuracy": 98,
-            "score": 39738,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CHIMJUCHIM"
         }
     ]
 }

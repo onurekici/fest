@@ -129,6 +129,14 @@
             "userName": "SuperBaby_08"
         },
         {
+            "accuracy": 100,
+            "score": 123665,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SpookySartini"
+        },
+        {
             "accuracy": 99,
             "score": 123598,
             "difficulty": 3,
@@ -626,6 +634,14 @@
         },
         {
             "accuracy": 99,
+            "score": 121279,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Amberliene"
+        },
+        {
+            "accuracy": 99,
             "score": 121183,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Smith I 42"
-        },
-        {
-            "accuracy": 99,
-            "score": 120275,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Fosterlez28"
-        },
-        {
-            "accuracy": 99,
-            "score": 120253,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Egulësito WoX"
         }
     ]
 }

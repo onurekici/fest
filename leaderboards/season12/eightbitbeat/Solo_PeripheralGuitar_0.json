@@ -81,6 +81,14 @@
             "userName": "ホワイティーさん"
         },
         {
+            "accuracy": 100,
+            "score": 86064,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "COOLCAVEMAN"
+        },
+        {
             "accuracy": 98,
             "score": 85644,
             "difficulty": 3,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Twitch Aireiy"
+        },
+        {
+            "accuracy": 100,
+            "score": 79878,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Alexnvdy"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ShyChip"
-        },
-        {
-            "accuracy": 89,
-            "score": 54156,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "1011gingin"
-        },
-        {
-            "accuracy": 90,
-            "score": 53748,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "x_bandit_x"
         }
     ]
 }

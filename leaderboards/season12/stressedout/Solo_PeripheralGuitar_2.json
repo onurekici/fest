@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42169,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Alostarre"
+        },
+        {
+            "accuracy": 98,
+            "score": 42054,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "aadigga_"
+        },
+        {
             "accuracy": 96,
             "score": 41747,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Cosmicform"
-        },
-        {
-            "accuracy": 95,
-            "score": 32606,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "psycho.ward"
-        },
-        {
-            "accuracy": 97,
-            "score": 32604,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "DärķSöüł"
         }
     ]
 }

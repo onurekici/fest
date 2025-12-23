@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 248457,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Doja_Neko"
+        },
+        {
+            "accuracy": 100,
+            "score": 248410,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "gdlaflare"
+        },
+        {
             "accuracy": 100,
             "score": 248404,
             "difficulty": 3,
@@ -127,6 +143,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ROA_Sou-Ari"
+        },
+        {
+            "accuracy": 99,
+            "score": 248192,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Twitch Nuddey"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Moment1803"
-        },
-        {
-            "accuracy": 100,
-            "score": 247424,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Dazza Yoghurto"
-        },
-        {
-            "accuracy": 100,
-            "score": 247424,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KrabbeDieLetti"
-        },
-        {
-            "accuracy": 100,
-            "score": 247405,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "P1dgeynuggets"
         }
     ]
 }

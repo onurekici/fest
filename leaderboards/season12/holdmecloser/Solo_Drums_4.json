@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 60390,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Nex988819"
+        },
+        {
+            "accuracy": 98,
+            "score": 60355,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BaNdItP06"
+        },
+        {
             "accuracy": 98,
             "score": 60355,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "y0urfav.m1"
-        },
-        {
-            "accuracy": 100,
-            "score": 54515,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Dragun52052"
-        },
-        {
-            "accuracy": 99,
-            "score": 54450,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cookabeara"
         }
     ]
 }

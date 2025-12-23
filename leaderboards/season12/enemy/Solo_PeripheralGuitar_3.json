@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 112503,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MrPeanut8utter"
+        },
+        {
             "accuracy": 98,
             "score": 112457,
             "difficulty": 3,
@@ -71,6 +79,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "8BitF0x"
+        },
+        {
+            "accuracy": 99,
+            "score": 112248,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NickTinku"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Jarachic"
-        },
-        {
-            "accuracy": 99,
-            "score": 109361,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TOD10_26"
-        },
-        {
-            "accuracy": 99,
-            "score": 109317,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StrayGrayMuttt"
         }
     ]
 }

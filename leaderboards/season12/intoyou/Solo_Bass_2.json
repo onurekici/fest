@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 99289,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "niglie"
+        },
+        {
+            "accuracy": 99,
+            "score": 99203,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mandel31"
+        },
+        {
+            "accuracy": 100,
             "score": 99202,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "trxdemxrked"
-        },
-        {
-            "accuracy": 100,
-            "score": 95079,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ArjonM"
-        },
-        {
-            "accuracy": 99,
-            "score": 95075,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MARI-TwistedGio"
         }
     ]
 }

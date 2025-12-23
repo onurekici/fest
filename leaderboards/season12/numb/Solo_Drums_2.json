@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 197358,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fogo nitrogenado"
+        },
+        {
+            "accuracy": 100,
+            "score": 197334,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AquaMiniRally"
+        },
+        {
             "accuracy": 100,
             "score": 197286,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "KeiraNx"
-        },
-        {
-            "accuracy": 100,
-            "score": 195360,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Etnet26"
-        },
-        {
-            "accuracy": 100,
-            "score": 195336,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "VierreJayy"
         }
     ]
 }

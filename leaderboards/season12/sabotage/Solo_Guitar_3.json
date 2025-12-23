@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 176305,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JackSpeedwagön"
+        },
+        {
+            "accuracy": 100,
+            "score": 176300,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dundermiff22"
+        },
+        {
             "accuracy": 100,
             "score": 176296,
             "difficulty": 3,
@@ -450,14 +466,6 @@
         },
         {
             "accuracy": 100,
-            "score": 174754,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "jupitersjazz"
-        },
-        {
-            "accuracy": 100,
             "score": 174746,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Thomamaru"
-        },
-        {
-            "accuracy": 100,
-            "score": 173380,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DankToasters"
         }
     ]
 }

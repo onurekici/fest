@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 68571,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "User-57e9e86115"
+        },
+        {
+            "accuracy": 100,
+            "score": 68470,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "overland maker"
+        },
+        {
             "accuracy": 98,
             "score": 68415,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "PitbullausStahl"
-        },
-        {
-            "accuracy": 100,
-            "score": 55126,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "RevientaSap0s"
-        },
-        {
-            "accuracy": 100,
-            "score": 55051,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "I_beans5"
         }
     ]
 }

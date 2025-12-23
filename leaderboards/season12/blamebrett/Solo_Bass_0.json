@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 223050,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Aapelikaapeli."
+        },
+        {
+            "accuracy": 100,
             "score": 222629,
             "difficulty": 3,
             "stars": 6,
@@ -737,6 +745,14 @@
             "userName": "supershaun2014"
         },
         {
+            "accuracy": 99,
+            "score": 178512,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Samy7129911"
+        },
+        {
             "accuracy": 98,
             "score": 177769,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Blurry Bunion"
-        },
-        {
-            "accuracy": 99,
-            "score": 171904,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "synchroBishaa"
-        },
-        {
-            "accuracy": 100,
-            "score": 171034,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MufasaTheWookiee"
         }
     ]
 }

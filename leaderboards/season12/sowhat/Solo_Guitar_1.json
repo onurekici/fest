@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 192271,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "STARS KIWI"
+        },
+        {
+            "accuracy": 100,
             "score": 192174,
             "difficulty": 3,
             "stars": 6,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "DanFortune"
+        },
+        {
+            "accuracy": 99,
+            "score": 191153,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Trappy_-"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TehExtremeWolf"
-        },
-        {
-            "accuracy": 99,
-            "score": 184434,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yez nan"
-        },
-        {
-            "accuracy": 99,
-            "score": 184236,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "gizmooreo2"
         }
     ]
 }

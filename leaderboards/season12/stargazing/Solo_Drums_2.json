@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 89832,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "JjJohanovic"
+        },
+        {
+            "accuracy": 100,
             "score": 89796,
             "difficulty": 3,
             "stars": 6,
@@ -231,6 +239,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ZanlovesKoRn09"
+        },
+        {
+            "accuracy": 99,
+            "score": 89166,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mr _Nasty"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Astaalis"
-        },
-        {
-            "accuracy": 100,
-            "score": 87828,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "sad-gittarius"
-        },
-        {
-            "accuracy": 100,
-            "score": 87822,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Yodateusz"
         }
     ]
 }

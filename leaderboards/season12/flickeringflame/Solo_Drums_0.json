@@ -34,6 +34,14 @@
         },
         {
             "accuracy": 100,
+            "score": 123768,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Lumpistielzchenシ"
+        },
+        {
+            "accuracy": 100,
             "score": 123228,
             "difficulty": 3,
             "stars": 6,
@@ -231,6 +239,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "BLUE-NEYTAN"
+        },
+        {
+            "accuracy": 100,
+            "score": 117120,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FireLife37"
         },
         {
             "accuracy": 100,
@@ -681,6 +697,14 @@
             "userName": "Kamanuwai60"
         },
         {
+            "accuracy": 99,
+            "score": 109416,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hasdied112"
+        },
+        {
             "accuracy": 100,
             "score": 108834,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lunar Nights"
-        },
-        {
-            "accuracy": 99,
-            "score": 106944,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Not Vorr"
-        },
-        {
-            "accuracy": 99,
-            "score": 106266,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mitty.K"
-        },
-        {
-            "accuracy": 99,
-            "score": 105954,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "d3t4ched"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 110154,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "chimichingado"
+        },
+        {
+            "accuracy": 99,
+            "score": 110154,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "mitnrific"
+        },
+        {
             "accuracy": 99,
             "score": 110130,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "unthinkiblekible"
-        },
-        {
-            "accuracy": 99,
-            "score": 103710,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CamaroPrincess79"
-        },
-        {
-            "accuracy": 99,
-            "score": 103638,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RirichiyoZ"
         }
     ]
 }

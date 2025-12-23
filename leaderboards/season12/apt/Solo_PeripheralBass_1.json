@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 50841,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SilentMess6"
+        },
+        {
             "accuracy": 98,
             "score": 50831,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "BigOleGoof"
-        },
-        {
-            "accuracy": 88,
-            "score": 6746,
-            "difficulty": 0,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Raizznn"
         }
     ]
 }

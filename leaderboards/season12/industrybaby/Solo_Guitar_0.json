@@ -146,6 +146,14 @@
         },
         {
             "accuracy": 100,
+            "score": 83798,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ion Dragulverine"
+        },
+        {
+            "accuracy": 100,
             "score": 83183,
             "difficulty": 3,
             "stars": 6,
@@ -455,6 +463,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Raider_Extreme"
+        },
+        {
+            "accuracy": 99,
+            "score": 77181,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "F3RX1"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "N0rth T0w3r"
-        },
-        {
-            "accuracy": 98,
-            "score": 69725,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Captain_Warthog"
-        },
-        {
-            "accuracy": 99,
-            "score": 69680,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ねむりぶた"
         }
     ]
 }

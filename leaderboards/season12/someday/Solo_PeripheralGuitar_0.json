@@ -1,12 +1,20 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 377349,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DCA_EE"
+        },
+        {
             "accuracy": 100,
-            "score": 377017,
+            "score": 375403,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
-            "userName": "DCA_EE"
+            "userName": "kennyoungx"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BungusFunguses"
-        },
-        {
-            "accuracy": 98,
-            "score": 220739,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Strangue"
         }
     ]
 }

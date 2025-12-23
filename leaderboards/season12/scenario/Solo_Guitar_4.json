@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 36952,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] eoin1158"
+        },
+        {
+            "accuracy": 100,
+            "score": 36940,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "StarSeed_Simon"
+        },
+        {
             "accuracy": 98,
             "score": 36940,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "littleespo11"
-        },
-        {
-            "accuracy": 98,
-            "score": 32617,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Scarecrowboy"
-        },
-        {
-            "accuracy": 96,
-            "score": 32447,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Hawkmald"
         }
     ]
 }

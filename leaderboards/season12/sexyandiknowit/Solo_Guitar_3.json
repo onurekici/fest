@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 40470,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FGCReach"
+        },
+        {
+            "accuracy": 99,
+            "score": 40428,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "優勝者ヅ"
+        },
+        {
             "accuracy": 98,
             "score": 40290,
             "difficulty": 3,
@@ -23,6 +39,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Braybeast694"
+        },
+        {
+            "accuracy": 99,
+            "score": 40158,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "[PSN] Kramrobot"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Dr Dejarz"
-        },
-        {
-            "accuracy": 99,
-            "score": 37788,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ar1061"
-        },
-        {
-            "accuracy": 100,
-            "score": 37785,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Darkmarie69"
-        },
-        {
-            "accuracy": 100,
-            "score": 37782,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tommy_no"
         }
     ]
 }

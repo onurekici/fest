@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 88631,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Dagozu Laruzo"
+        },
+        {
+            "accuracy": 100,
+            "score": 88617,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Artcvn"
+        },
+        {
             "accuracy": 98,
             "score": 88603,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "leonxx17xx"
-        },
-        {
-            "accuracy": 100,
-            "score": 85565,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Gemkeeper"
-        },
-        {
-            "accuracy": 100,
-            "score": 85565,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Kpetterson123"
         }
     ]
 }

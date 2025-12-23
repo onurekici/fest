@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 19634,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "PixelSpectre05"
+        },
+        {
+            "accuracy": 99,
+            "score": 19626,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TTV_Zaca2414"
+        },
+        {
             "accuracy": 99,
             "score": 19609,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Twitch l0ckty"
-        },
-        {
-            "accuracy": 100,
-            "score": 16898,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "PharohZyme"
-        },
-        {
-            "accuracy": 100,
-            "score": 16850,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Mibo2599"
         }
     ]
 }

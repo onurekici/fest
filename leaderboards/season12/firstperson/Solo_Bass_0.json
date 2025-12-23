@@ -753,6 +753,14 @@
             "userName": "Dr. Gravy Chain"
         },
         {
+            "accuracy": 99,
+            "score": 42350,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JimmyFroggins"
+        },
+        {
             "accuracy": 98,
             "score": 42158,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "tammy-boii"
-        },
-        {
-            "accuracy": 99,
-            "score": 41618,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Petru2k"
         }
     ]
 }

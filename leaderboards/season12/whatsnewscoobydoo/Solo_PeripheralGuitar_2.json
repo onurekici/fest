@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 51057,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Armin Leopold"
+        },
+        {
+            "accuracy": 99,
+            "score": 51043,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JonnyParkour"
+        },
+        {
+            "accuracy": 99,
+            "score": 50997,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "IM-SO_DERPY"
+        },
+        {
             "accuracy": 99,
             "score": 50936,
             "difficulty": 3,
@@ -15,14 +39,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "TheTrueOdyssey"
-        },
-        {
-            "accuracy": 97,
-            "score": 50901,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "IM-SO_DERPY"
         },
         {
             "accuracy": 100,
@@ -55,14 +71,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Knappsack35"
-        },
-        {
-            "accuracy": 99,
-            "score": 50846,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "EzoRedFox_KEMOV"
         },
         {
             "accuracy": 99,
@@ -151,6 +159,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Little TAD X"
+        },
+        {
+            "accuracy": 99,
+            "score": 50056,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Doofus_Dan"
         },
         {
             "accuracy": 99,
@@ -279,6 +295,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MadGERMAN375"
+        },
+        {
+            "accuracy": 96,
+            "score": 49006,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ItsBigJuicyJ"
         },
         {
             "accuracy": 96,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sadMiranda"
-        },
-        {
-            "accuracy": 97,
-            "score": 45224,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Adri.257"
-        },
-        {
-            "accuracy": 98,
-            "score": 45152,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ZacharyShow"
-        },
-        {
-            "accuracy": 95,
-            "score": 45057,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cheetoman696"
         }
     ]
 }

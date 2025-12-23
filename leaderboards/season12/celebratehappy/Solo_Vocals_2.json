@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 47188,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Leowyld"
+        },
+        {
+            "accuracy": 95,
+            "score": 46965,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "LionBlackmane"
+        },
+        {
+            "accuracy": 100,
             "score": 46754,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "grenhawk"
-        },
-        {
-            "accuracy": 83,
-            "score": 16059,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Leah_B40"
-        },
-        {
-            "accuracy": 85,
-            "score": 15436,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Sofia Green"
         }
     ]
 }

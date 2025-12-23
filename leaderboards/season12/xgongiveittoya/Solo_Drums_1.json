@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 143310,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ShredMasterJMS"
+        },
+        {
+            "accuracy": 100,
+            "score": 143202,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lilribbon"
+        },
+        {
+            "accuracy": 100,
             "score": 143178,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BackXerinae8990"
-        },
-        {
-            "accuracy": 100,
-            "score": 139770,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Tazmania486"
-        },
-        {
-            "accuracy": 100,
-            "score": 139752,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "DrPicafresa"
         }
     ]
 }

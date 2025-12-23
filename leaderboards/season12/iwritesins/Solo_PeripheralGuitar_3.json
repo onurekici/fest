@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 208939,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ramiro_4223"
+        },
+        {
+            "accuracy": 99,
+            "score": 208903,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ValkosipulPatong"
+        },
+        {
             "accuracy": 99,
             "score": 208736,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Męmö"
-        },
-        {
-            "accuracy": 97,
-            "score": 202091,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "BrianG54"
-        },
-        {
-            "accuracy": 99,
-            "score": 201983,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "thall243"
         }
     ]
 }
