@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 95,
+            "score": 102276,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Riffiiing"
+        },
+        {
+            "accuracy": 92,
+            "score": 102262,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ShadowStreak"
+        },
+        {
             "accuracy": 97,
             "score": 102038,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Veranthe"
-        },
-        {
-            "accuracy": 94,
-            "score": 82394,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Q - RaVEN"
-        },
-        {
-            "accuracy": 93,
-            "score": 82380,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ImNotYoSon"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130731,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "k8tbell"
+        },
+        {
+            "accuracy": 99,
+            "score": 130701,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Hiikaruxz"
+        },
+        {
             "accuracy": 99,
             "score": 130688,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DARK SOULS l"
-        },
-        {
-            "accuracy": 100,
-            "score": 128823,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Julio_Caeser"
-        },
-        {
-            "accuracy": 100,
-            "score": 128806,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Kemuri_vlr"
         }
     ]
 }

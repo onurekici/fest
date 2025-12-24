@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 62892,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Aurelius Rex Lux"
+        },
+        {
             "accuracy": 93,
             "score": 62723,
             "difficulty": 3,
@@ -167,6 +175,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Mehh.-_ -."
+        },
+        {
+            "accuracy": 90,
+            "score": 54713,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kira of Clover"
         },
         {
             "accuracy": 99,
@@ -638,7 +654,7 @@
             "difficulty": 1,
             "stars": 3,
             "fullcombo": false,
-            "userName": "[PSN] wlodi2001"
+            "userName": "wlodi2001"
         },
         {
             "accuracy": 85,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Cade.T.C"
-        },
-        {
-            "accuracy": 93,
-            "score": 11088,
-            "difficulty": 0,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "o Plart o"
-        },
-        {
-            "accuracy": 90,
-            "score": 10161,
-            "difficulty": 0,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "musturdsauce"
         }
     ]
 }

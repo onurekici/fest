@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 104006,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "yourbeliefs"
+        },
+        {
             "accuracy": 97,
             "score": 103539,
             "difficulty": 3,
@@ -761,6 +769,14 @@
             "userName": "CHARKI300"
         },
         {
+            "accuracy": 98,
+            "score": 68370,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Certified Blaze"
+        },
+        {
             "accuracy": 97,
             "score": 66674,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "[PSN] colescan69"
-        },
-        {
-            "accuracy": 97,
-            "score": 63434,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "toxic-broq"
-        },
-        {
-            "accuracy": 93,
-            "score": 63360,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Al.Synner"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 94922,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Aushindae"
+        },
+        {
             "accuracy": 100,
             "score": 94912,
             "difficulty": 3,
@@ -473,6 +481,14 @@
             "userName": "light_ntj7"
         },
         {
+            "accuracy": 100,
+            "score": 93545,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shoebox4"
+        },
+        {
             "accuracy": 99,
             "score": 93532,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Fishbot_ _"
-        },
-        {
-            "accuracy": 99,
-            "score": 92805,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "zLegend Cube"
-        },
-        {
-            "accuracy": 100,
-            "score": 92804,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Rūfus"
         }
     ]
 }

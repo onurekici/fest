@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 55519,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] cdburnettfam"
+        },
+        {
             "accuracy": 99,
             "score": 44329,
             "difficulty": 3,
@@ -25,12 +33,28 @@
             "userName": "Dark_Hunter2369"
         },
         {
+            "accuracy": 85,
+            "score": 18387,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "BurgundyBullet"
+        },
+        {
             "accuracy": 97,
             "score": 16208,
             "difficulty": 1,
             "stars": 5,
             "fullcombo": false,
             "userName": "GWBlueberry"
+        },
+        {
+            "accuracy": 96,
+            "score": 12204,
+            "difficulty": 2,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Ferhh2012-2"
         }
     ]
 }

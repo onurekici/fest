@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 28865,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Zeitimus"
+        },
+        {
+            "accuracy": 100,
+            "score": 28843,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Tinytaurus40"
+        },
+        {
             "accuracy": 93,
             "score": 28782,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ZackoryC."
-        },
-        {
-            "accuracy": 98,
-            "score": 24608,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NightWolfKnight"
-        },
-        {
-            "accuracy": 98,
-            "score": 24595,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "YourFavMex05"
         }
     ]
 }

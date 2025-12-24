@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 92898,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Leon_071329"
+        },
+        {
+            "accuracy": 99,
             "score": 92894,
             "difficulty": 3,
             "stars": 6,
@@ -15,6 +23,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Illuminaticat12"
+        },
+        {
+            "accuracy": 100,
+            "score": 92873,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "장미 ItsLuisRM10"
         },
         {
             "accuracy": 100,
@@ -327,14 +343,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Maayan2403"
-        },
-        {
-            "accuracy": 100,
-            "score": 92449,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "장미 ItsLuisRM10"
         },
         {
             "accuracy": 100,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Erina Yumi"
-        },
-        {
-            "accuracy": 100,
-            "score": 91749,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hunterboywolf"
         }
     ]
 }

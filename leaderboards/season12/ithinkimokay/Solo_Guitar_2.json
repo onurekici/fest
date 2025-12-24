@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123208,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FireFateXWolf"
+        },
+        {
             "accuracy": 99,
             "score": 123203,
             "difficulty": 3,
@@ -239,6 +247,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "hatchdaddy19"
+        },
+        {
+            "accuracy": 100,
+            "score": 122017,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "xDollyKissx"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "gamma-ray_12"
-        },
-        {
-            "accuracy": 100,
-            "score": 118946,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TwoM13"
-        },
-        {
-            "accuracy": 99,
-            "score": 118939,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Smooveg69"
         }
     ]
 }

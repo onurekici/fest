@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 92,
+            "score": 141275,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Sneijderi"
+        },
+        {
+            "accuracy": 95,
+            "score": 140615,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "CurlyChunk"
+        },
+        {
             "accuracy": 91,
             "score": 140579,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "HummerSister"
-        },
-        {
-            "accuracy": 88,
-            "score": 115859,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "DuskedSky"
-        },
-        {
-            "accuracy": 92,
-            "score": 115565,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Fear of Gingers"
         }
     ]
 }

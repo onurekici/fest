@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 105205,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "RipprFynn"
+        },
+        {
+            "accuracy": 100,
+            "score": 104135,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "xMalkox"
+        },
+        {
             "accuracy": 95,
             "score": 103979,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Jace7292"
-        },
-        {
-            "accuracy": 77,
-            "score": 25308,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "berg343"
-        },
-        {
-            "accuracy": 71,
-            "score": 25121,
-            "difficulty": 1,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "alexotine_TTV"
         }
     ]
 }

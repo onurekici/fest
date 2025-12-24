@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127781,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ThatOneKoala2"
+        },
+        {
             "accuracy": 99,
             "score": 127779,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "plaayerYT"
+        },
+        {
+            "accuracy": 99,
+            "score": 127761,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Aspekt.gg"
         },
         {
             "accuracy": 100,
@@ -127,6 +143,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ScorpioVH515023"
+        },
+        {
+            "accuracy": 99,
+            "score": 126617,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Ferretmon"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NightFireSoldier"
-        },
-        {
-            "accuracy": 99,
-            "score": 121778,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bob D. Awesome"
-        },
-        {
-            "accuracy": 99,
-            "score": 121750,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wolfmax09"
-        },
-        {
-            "accuracy": 100,
-            "score": 121735,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "OG JU5T"
         }
     ]
 }

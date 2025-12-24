@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 123136,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Black Zadock"
+        },
+        {
             "accuracy": 99,
             "score": 123134,
             "difficulty": 3,
@@ -159,6 +167,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HOT DOG PLANET"
+        },
+        {
+            "accuracy": 100,
+            "score": 121874,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SkullySG"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gomaz55"
-        },
-        {
-            "accuracy": 99,
-            "score": 114109,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mastagamer1432"
-        },
-        {
-            "accuracy": 99,
-            "score": 114059,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Violet Sinclair"
         }
     ]
 }

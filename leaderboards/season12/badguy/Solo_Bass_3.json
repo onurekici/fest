@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 84797,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ztwddles."
+        },
+        {
+            "accuracy": 99,
+            "score": 84792,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "MilSimNavi"
+        },
+        {
+            "accuracy": 99,
+            "score": 84745,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Geometrical01"
+        },
+        {
             "accuracy": 99,
             "score": 84735,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "MadAlyona"
-        },
-        {
-            "accuracy": 99,
-            "score": 81991,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Butch_lezza"
-        },
-        {
-            "accuracy": 100,
-            "score": 81981,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Grindsler"
-        },
-        {
-            "accuracy": 100,
-            "score": 81947,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Glenn_winn"
         }
     ]
 }

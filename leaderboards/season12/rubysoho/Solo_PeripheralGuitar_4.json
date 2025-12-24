@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 74657,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Skatervans91"
+        },
+        {
+            "accuracy": 86,
+            "score": 73994,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "FreddyMercurysMo"
+        },
+        {
             "accuracy": 89,
             "score": 73991,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Egoangell"
-        },
-        {
-            "accuracy": 83,
-            "score": 45307,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "ComuneInFesta"
-        },
-        {
-            "accuracy": 83,
-            "score": 45257,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "TwoBrothas"
         }
     ]
 }

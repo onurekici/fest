@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 114870,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Danielson_450"
+        },
+        {
+            "accuracy": 100,
+            "score": 114864,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vanquish.Evil"
+        },
+        {
             "accuracy": 100,
             "score": 114858,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "mikejr6025"
-        },
-        {
-            "accuracy": 100,
-            "score": 114006,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Rｅz"
-        },
-        {
-            "accuracy": 100,
-            "score": 114000,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Falexx444"
         }
     ]
 }

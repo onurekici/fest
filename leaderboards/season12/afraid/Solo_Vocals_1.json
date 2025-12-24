@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 114191,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Henry Kenobi"
+        },
+        {
+            "accuracy": 100,
             "score": 114166,
             "difficulty": 3,
             "stars": 6,
@@ -729,6 +737,14 @@
             "userName": "Vіnа"
         },
         {
+            "accuracy": 99,
+            "score": 112738,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Pink_Phanny"
+        },
+        {
             "accuracy": 100,
             "score": 112729,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MrOstach"
-        },
-        {
-            "accuracy": 100,
-            "score": 112641,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Mrs-Panda."
-        },
-        {
-            "accuracy": 100,
-            "score": 112632,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Lonoid"
         }
     ]
 }

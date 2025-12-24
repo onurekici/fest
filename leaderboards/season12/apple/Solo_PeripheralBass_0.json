@@ -26,6 +26,14 @@
         },
         {
             "accuracy": 100,
+            "score": 142911,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "shaeman23"
+        },
+        {
+            "accuracy": 100,
             "score": 142425,
             "difficulty": 3,
             "stars": 6,
@@ -561,6 +569,14 @@
             "userName": "ChasingRedLights"
         },
         {
+            "accuracy": 94,
+            "score": 40022,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "linkistim"
+        },
+        {
             "accuracy": 98,
             "score": 39804,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "Kobalt Samu"
-        },
-        {
-            "accuracy": 63,
-            "score": 14948,
-            "difficulty": 3,
-            "stars": 1,
-            "fullcombo": false,
-            "userName": "MarmaladeJelly"
-        },
-        {
-            "accuracy": 75,
-            "score": 14466,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "EcoboomLol"
         }
     ]
 }

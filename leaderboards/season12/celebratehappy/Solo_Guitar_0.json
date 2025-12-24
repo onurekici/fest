@@ -18,6 +18,14 @@
         },
         {
             "accuracy": 100,
+            "score": 48769,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "雨とチミとザワえもん"
+        },
+        {
+            "accuracy": 100,
             "score": 48629,
             "difficulty": 3,
             "stars": 6,
@@ -103,14 +111,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Simonette369"
-        },
-        {
-            "accuracy": 100,
-            "score": 47919,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "雨とチミとザワえもん"
         },
         {
             "accuracy": 100,
@@ -785,20 +785,20 @@
             "userName": "ElBlackcube2006"
         },
         {
+            "accuracy": 99,
+            "score": 35215,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Spacemancw2011"
+        },
+        {
             "accuracy": 98,
             "score": 34801,
             "difficulty": 3,
             "stars": 5,
             "fullcombo": false,
             "userName": "MR.Ducknugget"
-        },
-        {
-            "accuracy": 99,
-            "score": 34626,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "NM_Coastertoonz"
         }
     ]
 }

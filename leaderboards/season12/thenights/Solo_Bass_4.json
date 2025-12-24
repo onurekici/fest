@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 39186,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Guilhermerj25"
+        },
+        {
+            "accuracy": 99,
+            "score": 39172,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NEERVAN"
+        },
+        {
             "accuracy": 99,
             "score": 39140,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Mono_ _eye"
-        },
-        {
-            "accuracy": 100,
-            "score": 37002,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GauNt3r"
-        },
-        {
-            "accuracy": 100,
-            "score": 37001,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": null
         }
     ]
 }

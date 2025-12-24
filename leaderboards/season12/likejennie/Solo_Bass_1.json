@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 85649,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "The Yarheeguy"
+        },
+        {
+            "accuracy": 100,
             "score": 85571,
             "difficulty": 3,
             "stars": 6,
@@ -159,14 +167,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Black_StarX"
-        },
-        {
-            "accuracy": 99,
-            "score": 83923,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "GINSIOUX_WARRIOR"
         },
         {
             "accuracy": 100,
@@ -618,6 +618,14 @@
         },
         {
             "accuracy": 99,
+            "score": 77435,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Gemriee"
+        },
+        {
+            "accuracy": 99,
             "score": 77397,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Mysstygry"
-        },
-        {
-            "accuracy": 100,
-            "score": 74992,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Athrash18"
         }
     ]
 }

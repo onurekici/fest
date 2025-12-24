@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 130583,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Hez104164"
+        },
+        {
+            "accuracy": 96,
+            "score": 130130,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Harvey0C"
+        },
+        {
             "accuracy": 96,
             "score": 129340,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "[PSN] WoodMakerMaster"
-        },
-        {
-            "accuracy": 93,
-            "score": 92389,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Dupey Donuts"
-        },
-        {
-            "accuracy": 96,
-            "score": 92212,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "YaaBoiKyle"
         }
     ]
 }

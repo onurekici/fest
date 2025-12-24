@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85033,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "spacey_q"
+        },
+        {
+            "accuracy": 100,
+            "score": 84994,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Twitch Biqiuwu"
+        },
+        {
             "accuracy": 100,
             "score": 84959,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "RAVEN_VAN_WINKLE"
-        },
-        {
-            "accuracy": 100,
-            "score": 81522,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "HunchoZar"
-        },
-        {
-            "accuracy": 100,
-            "score": 81491,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "愛フラミンゴ"
         }
     ]
 }

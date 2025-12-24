@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 45840,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "gazellia264"
+        },
+        {
+            "accuracy": 97,
+            "score": 45840,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "narkopop_wave"
+        },
+        {
+            "accuracy": 100,
             "score": 45805,
             "difficulty": 1,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "nanaINme"
-        },
-        {
-            "accuracy": 97,
-            "score": 36355,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FireFury88"
-        },
-        {
-            "accuracy": 96,
-            "score": 36310,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Xavierljohnson"
         }
     ]
 }

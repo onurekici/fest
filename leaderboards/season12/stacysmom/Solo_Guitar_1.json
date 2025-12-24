@@ -82,6 +82,14 @@
         },
         {
             "accuracy": 100,
+            "score": 170012,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gambit_MvC"
+        },
+        {
+            "accuracy": 100,
             "score": 169941,
             "difficulty": 3,
             "stars": 6,
@@ -529,6 +537,14 @@
             "userName": "Evil Baby Killer"
         },
         {
+            "accuracy": 99,
+            "score": 166409,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Animated Muckles"
+        },
+        {
             "accuracy": 100,
             "score": 166380,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "TheGooseCaboose."
-        },
-        {
-            "accuracy": 100,
-            "score": 164650,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nocturnal-Reaper"
-        },
-        {
-            "accuracy": 99,
-            "score": 164594,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Vortex101"
         }
     ]
 }

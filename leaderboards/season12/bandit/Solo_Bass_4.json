@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 42389,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MrHalsey22"
+        },
+        {
+            "accuracy": 98,
+            "score": 42378,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Slurmonkey"
+        },
+        {
             "accuracy": 99,
             "score": 42349,
             "difficulty": 3,
@@ -410,6 +426,14 @@
         },
         {
             "accuracy": 100,
+            "score": 41078,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheTesseract"
+        },
+        {
+            "accuracy": 100,
             "score": 41063,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Gian_79"
-        },
-        {
-            "accuracy": 100,
-            "score": 39811,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "emmafrxncesca"
-        },
-        {
-            "accuracy": 100,
-            "score": 39780,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "wennybenny92"
-        },
-        {
-            "accuracy": 100,
-            "score": 39761,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Skizzzix"
         }
     ]
 }

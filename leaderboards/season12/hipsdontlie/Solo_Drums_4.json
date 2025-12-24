@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 160872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "sophi ya"
+        },
+        {
+            "accuracy": 100,
+            "score": 160866,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "S13Piotr"
+        },
+        {
+            "accuracy": 100,
             "score": 160860,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Mojofang"
-        },
-        {
-            "accuracy": 100,
-            "score": 159912,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ChillOutSis"
-        },
-        {
-            "accuracy": 100,
-            "score": 159906,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TrashyBoy47"
         }
     ]
 }

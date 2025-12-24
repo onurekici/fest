@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 127548,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Suzumist"
+        },
+        {
+            "accuracy": 99,
+            "score": 127542,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Linya Naeri X"
+        },
+        {
             "accuracy": 99,
             "score": 127482,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "DinoDaddy2003"
-        },
-        {
-            "accuracy": 99,
-            "score": 122442,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Royal_Blood2009"
-        },
-        {
-            "accuracy": 98,
-            "score": 122376,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ElectroJuan2008"
         }
     ]
 }

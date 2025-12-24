@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 111287,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "SlayerTheFox115"
+        },
+        {
+            "accuracy": 99,
+            "score": 111283,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Trongahhr"
+        },
+        {
             "accuracy": 99,
             "score": 111278,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Ank997"
-        },
-        {
-            "accuracy": 100,
-            "score": 106549,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "KZR RFF Martine"
-        },
-        {
-            "accuracy": 100,
-            "score": 106532,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Claysouls"
         }
     ]
 }

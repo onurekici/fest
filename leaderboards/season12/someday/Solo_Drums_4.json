@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 94,
+            "score": 81828,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "[PSN] BobertMcstuffins"
+        },
+        {
+            "accuracy": 100,
+            "score": 81800,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Der_SS_Kommissar"
+        },
+        {
+            "accuracy": 98,
+            "score": 81775,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Mikeyroni"
+        },
+        {
             "accuracy": 95,
             "score": 81678,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Hyhtyg"
-        },
-        {
-            "accuracy": 99,
-            "score": 67425,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MinaDaBatata"
-        },
-        {
-            "accuracy": 98,
-            "score": 67275,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "antonio_dem"
-        },
-        {
-            "accuracy": 98,
-            "score": 67200,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "T0M_1235"
         }
     ]
 }

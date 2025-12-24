@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 87,
+            "score": 95107,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "PineappleZFresh"
+        },
+        {
+            "accuracy": 100,
+            "score": 95000,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Panther1105"
+        },
+        {
             "accuracy": 90,
             "score": 94949,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Rockband 4"
-        },
-        {
-            "accuracy": 98,
-            "score": 82717,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tpacks24"
-        },
-        {
-            "accuracy": 98,
-            "score": 82336,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Deessii"
         }
     ]
 }

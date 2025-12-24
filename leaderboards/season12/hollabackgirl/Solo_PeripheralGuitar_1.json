@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 37333,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "geek_fox"
+        },
+        {
             "accuracy": 100,
             "score": 37320,
             "difficulty": 3,
@@ -135,6 +143,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "aDrunken Noodle"
+        },
+        {
+            "accuracy": 98,
+            "score": 36588,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Imor77"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Cmdr_Chip"
-        },
-        {
-            "accuracy": 98,
-            "score": 32695,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JCMendoza"
-        },
-        {
-            "accuracy": 98,
-            "score": 32645,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "rickesh28"
         }
     ]
 }
