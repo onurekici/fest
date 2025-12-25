@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 37204,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "ScytheZun"
+        },
+        {
+            "accuracy": 100,
+            "score": 37041,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "O_u_ch"
+        },
+        {
             "accuracy": 99,
             "score": 37031,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "kevinvitagamer"
-        },
-        {
-            "accuracy": 99,
-            "score": 33116,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pharmageddon1610"
-        },
-        {
-            "accuracy": 96,
-            "score": 33029,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SlimShadyJayy"
         }
     ]
 }

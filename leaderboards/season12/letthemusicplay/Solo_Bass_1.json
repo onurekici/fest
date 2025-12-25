@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 61245,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Ajopper"
+        },
+        {
+            "accuracy": 99,
             "score": 61221,
             "difficulty": 2,
             "stars": 5,
@@ -327,6 +335,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "trebor doom"
+        },
+        {
+            "accuracy": 99,
+            "score": 53416,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "ScytheSoftware"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Zwei_Lowe"
-        },
-        {
-            "accuracy": 100,
-            "score": 47893,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "diegopro0803"
-        },
-        {
-            "accuracy": 97,
-            "score": 47685,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "alonsolura"
         }
     ]
 }

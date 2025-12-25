@@ -610,6 +610,14 @@
         },
         {
             "accuracy": 100,
+            "score": 146562,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Support Lemon"
+        },
+        {
+            "accuracy": 100,
             "score": 146508,
             "difficulty": 3,
             "stars": 6,
@@ -785,20 +793,12 @@
             "userName": "Your Guitarist ツ"
         },
         {
-            "accuracy": 100,
-            "score": 145656,
+            "accuracy": 99,
+            "score": 145668,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": true,
-            "userName": "AXflops"
-        },
-        {
-            "accuracy": 100,
-            "score": 145656,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Zanklol"
+            "fullcombo": false,
+            "userName": "King Luigi 08"
         }
     ]
 }

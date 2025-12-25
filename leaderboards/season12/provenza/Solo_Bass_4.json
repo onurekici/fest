@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 66459,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Humilis"
+        },
+        {
+            "accuracy": 100,
+            "score": 66451,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kurryx3"
+        },
+        {
+            "accuracy": 100,
             "score": 66391,
             "difficulty": 3,
             "stars": 6,
@@ -279,6 +295,14 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ImpureHeartXBL"
+        },
+        {
+            "accuracy": 98,
+            "score": 65101,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Psyphira"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "itadorableyuji"
-        },
-        {
-            "accuracy": 99,
-            "score": 63140,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ApocketCrocketE"
-        },
-        {
-            "accuracy": 100,
-            "score": 63131,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "JonBarty"
-        },
-        {
-            "accuracy": 99,
-            "score": 63111,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ray-Sanchez"
         }
     ]
 }

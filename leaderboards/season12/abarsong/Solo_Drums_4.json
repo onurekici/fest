@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 121830,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Fubá."
+        },
+        {
+            "accuracy": 100,
+            "score": 121824,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "AlphaElite_X"
+        },
+        {
             "accuracy": 100,
             "score": 121818,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Apto-109"
-        },
-        {
-            "accuracy": 100,
-            "score": 120702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "werewolf_k9"
-        },
-        {
-            "accuracy": 100,
-            "score": 120702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Hdog_2005"
         }
     ]
 }

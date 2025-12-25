@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 46112,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tiger Wheadon"
+        },
+        {
+            "accuracy": 99,
             "score": 46090,
             "difficulty": 3,
             "stars": 6,
@@ -737,6 +745,14 @@
             "userName": "Emraldmetal"
         },
         {
+            "accuracy": 100,
+            "score": 43609,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Skullz Noble"
+        },
+        {
             "accuracy": 97,
             "score": 43604,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NicolaaJune"
-        },
-        {
-            "accuracy": 100,
-            "score": 43405,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "reg 345"
-        },
-        {
-            "accuracy": 100,
-            "score": 43405,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "AlmostRex"
         }
     ]
 }

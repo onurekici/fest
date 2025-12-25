@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 104680,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Russ鶏肉"
+        },
+        {
+            "accuracy": 100,
+            "score": 104438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "irralyth"
+        },
+        {
             "accuracy": 99,
             "score": 104292,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "CharlienSnoop"
-        },
-        {
-            "accuracy": 99,
-            "score": 97830,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Personator1518"
-        },
-        {
-            "accuracy": 100,
-            "score": 97769,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "KillamityJane"
         }
     ]
 }

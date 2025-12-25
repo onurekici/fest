@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 160667,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mike3307"
+        },
+        {
+            "accuracy": 99,
+            "score": 160653,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "unvaxx"
+        },
+        {
+            "accuracy": 100,
             "score": 160636,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kuroashy9000"
-        },
-        {
-            "accuracy": 99,
-            "score": 155251,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "lylevi"
-        },
-        {
-            "accuracy": 99,
-            "score": 155215,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Vallenium2"
         }
     ]
 }

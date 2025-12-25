@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 85914,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ヒクシー"
+        },
+        {
+            "accuracy": 100,
             "score": 85902,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "PurpleTrigga"
-        },
-        {
-            "accuracy": 99,
-            "score": 83016,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Yushikt"
         }
     ]
 }

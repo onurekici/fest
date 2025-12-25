@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 234780,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Vocaloid Fan"
+        },
+        {
             "accuracy": 99,
             "score": 234414,
             "difficulty": 3,
@@ -191,6 +199,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Jufro2002"
+        },
+        {
+            "accuracy": 99,
+            "score": 228960,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GeminiBronco"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KamurochoMuncher"
-        },
-        {
-            "accuracy": 99,
-            "score": 209478,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "LelyAltara"
-        },
-        {
-            "accuracy": 99,
-            "score": 209262,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SluggishSSB"
         }
     ]
 }

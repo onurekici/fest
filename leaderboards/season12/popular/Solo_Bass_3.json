@@ -521,6 +521,14 @@
             "userName": "Fake Tendies"
         },
         {
+            "accuracy": 98,
+            "score": 42156,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "jason_campbell06"
+        },
+        {
             "accuracy": 100,
             "score": 42150,
             "difficulty": 3,
@@ -758,6 +766,14 @@
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
+            "userName": "DeadlyRose124"
+        },
+        {
+            "accuracy": 100,
+            "score": 42096,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
             "userName": "Twine_Peaks_144"
         },
         {
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "HBOverload"
-        },
-        {
-            "accuracy": 100,
-            "score": 42088,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FloridianDon"
-        },
-        {
-            "accuracy": 100,
-            "score": 42084,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "konrad78914"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 200320,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BernerdDog"
+        },
+        {
+            "accuracy": 100,
             "score": 199864,
             "difficulty": 3,
             "stars": 6,
@@ -697,8 +705,8 @@
             "userName": "Cosmic_smoke-_-"
         },
         {
-            "accuracy": 92,
-            "score": 65215,
+            "accuracy": 91,
+            "score": 71224,
             "difficulty": 2,
             "stars": 4,
             "fullcombo": false,
@@ -791,14 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "IM A MOLLUSK"
-        },
-        {
-            "accuracy": 77,
-            "score": 29357,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "A SHMiGGZ"
         }
     ]
 }

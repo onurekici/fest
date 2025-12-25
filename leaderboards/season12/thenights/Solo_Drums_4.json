@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 82992,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FelixtheFolf245"
+        },
+        {
+            "accuracy": 100,
+            "score": 82986,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "delluraa"
+        },
+        {
             "accuracy": 100,
             "score": 82980,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "tub_cazy"
-        },
-        {
-            "accuracy": 99,
-            "score": 82146,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Skellistar21"
-        },
-        {
-            "accuracy": 100,
-            "score": 82146,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "SvenCrafter"
         }
     ]
 }

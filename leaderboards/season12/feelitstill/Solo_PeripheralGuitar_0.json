@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 62548,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ali_Alturkii"
+        },
+        {
+            "accuracy": 100,
             "score": 62389,
             "difficulty": 3,
             "stars": 6,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Forklift10"
+        },
+        {
+            "accuracy": 95,
+            "score": 48384,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TrrbleTerryTate"
         },
         {
             "accuracy": 98,
@@ -257,12 +273,28 @@
             "userName": "TeigrMaguire"
         },
         {
+            "accuracy": 81,
+            "score": 13228,
+            "difficulty": 2,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "DarthNova1"
+        },
+        {
             "accuracy": 82,
             "score": 12856,
             "difficulty": 2,
             "stars": 2,
             "fullcombo": false,
             "userName": "Unsaidpie85"
+        },
+        {
+            "accuracy": 73,
+            "score": 12694,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Fenrir.GH"
         }
     ]
 }

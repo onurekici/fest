@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 88208,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "dlc6123"
+        },
+        {
+            "accuracy": 100,
+            "score": 88126,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Skrlliciusdoom"
+        },
+        {
             "accuracy": 99,
             "score": 88101,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Eggplanterino"
-        },
-        {
-            "accuracy": 99,
-            "score": 84166,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "penguin_lilp"
-        },
-        {
-            "accuracy": 99,
-            "score": 84157,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Grant_Delbs42"
         }
     ]
 }

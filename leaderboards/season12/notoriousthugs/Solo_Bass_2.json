@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123721,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Netflix_N_Nochil"
+        },
+        {
+            "accuracy": 100,
+            "score": 123700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Lord_saladpants"
+        },
+        {
+            "accuracy": 100,
             "score": 123634,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Indikuhd"
-        },
-        {
-            "accuracy": 100,
-            "score": 120118,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Ruki Ruki."
-        },
-        {
-            "accuracy": 99,
-            "score": 120098,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "l_MANA_l"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 139998,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "mysaveloy2"
+        },
+        {
+            "accuracy": 100,
             "score": 139968,
             "difficulty": 3,
             "stars": 6,
@@ -265,6 +273,14 @@
             "userName": "redwingkid1993"
         },
         {
+            "accuracy": 99,
+            "score": 139446,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Aether-_-RL"
+        },
+        {
             "accuracy": 100,
             "score": 139440,
             "difficulty": 3,
@@ -423,6 +439,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Thunderus632"
+        },
+        {
+            "accuracy": 100,
+            "score": 139014,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Game_TYme"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "toweley420"
-        },
-        {
-            "accuracy": 100,
-            "score": 138084,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Astradoodle"
-        },
-        {
-            "accuracy": 100,
-            "score": 138030,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "WillyKemp"
-        },
-        {
-            "accuracy": 100,
-            "score": 138006,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "NoJohns"
         }
     ]
 }

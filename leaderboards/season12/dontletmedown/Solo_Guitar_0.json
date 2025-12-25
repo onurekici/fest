@@ -218,6 +218,14 @@
         },
         {
             "accuracy": 100,
+            "score": 99780,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Shadow_master019"
+        },
+        {
+            "accuracy": 100,
             "score": 99608,
             "difficulty": 3,
             "stars": 6,
@@ -585,6 +593,14 @@
             "userName": "Ms.Bugsy"
         },
         {
+            "accuracy": 100,
+            "score": 91607,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Luca Binhammer"
+        },
+        {
             "accuracy": 99,
             "score": 91573,
             "difficulty": 3,
@@ -671,6 +687,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ITS-FUTILE"
+        },
+        {
+            "accuracy": 99,
+            "score": 90520,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "X.VoidBorn.X"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "dawgdomain"
-        },
-        {
-            "accuracy": 99,
-            "score": 87764,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MaskedPhantomOG"
-        },
-        {
-            "accuracy": 100,
-            "score": 87751,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "N3veri"
-        },
-        {
-            "accuracy": 99,
-            "score": 87234,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "twisty_co"
         }
     ]
 }

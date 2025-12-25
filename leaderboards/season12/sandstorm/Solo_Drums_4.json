@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 215188,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "amethyst.ashh"
+        },
+        {
+            "accuracy": 99,
+            "score": 215167,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VoldaireNA"
+        },
+        {
             "accuracy": 99,
             "score": 215130,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Louis_hki"
-        },
-        {
-            "accuracy": 99,
-            "score": 212000,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Littleman6026"
-        },
-        {
-            "accuracy": 99,
-            "score": 211917,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "xXshelbygamingXx"
         }
     ]
 }

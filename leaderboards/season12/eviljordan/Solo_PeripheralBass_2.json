@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 25248,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Tonyy Soprano"
+        },
+        {
+            "accuracy": 100,
+            "score": 25194,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "abigdogg424"
+        },
+        {
             "accuracy": 100,
             "score": 25175,
             "difficulty": 1,
@@ -326,7 +342,7 @@
             "difficulty": 3,
             "stars": 4,
             "fullcombo": false,
-            "userName": "OHYEAH JUJU"
+            "userName": "ILY JUJU"
         },
         {
             "accuracy": 96,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "andrevvve"
-        },
-        {
-            "accuracy": 97,
-            "score": 17429,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Nabrok7"
-        },
-        {
-            "accuracy": 95,
-            "score": 17138,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Seafudo"
         }
     ]
 }

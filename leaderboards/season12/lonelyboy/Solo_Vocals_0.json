@@ -514,6 +514,14 @@
         },
         {
             "accuracy": 100,
+            "score": 69667,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Darkpit06"
+        },
+        {
+            "accuracy": 100,
             "score": 68940,
             "difficulty": 3,
             "stars": 6,
@@ -697,6 +705,14 @@
             "userName": "dr_macro_microbe"
         },
         {
+            "accuracy": 99,
+            "score": 63490,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CrescentJuice"
+        },
+        {
             "accuracy": 84,
             "score": 63333,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Brillhouse"
-        },
-        {
-            "accuracy": 100,
-            "score": 62235,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Matthew_p03"
-        },
-        {
-            "accuracy": 100,
-            "score": 62210,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "G0ryDem0n"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 95742,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "OrangeMonster23"
+        },
+        {
+            "accuracy": 100,
+            "score": 95741,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "kombatfreak"
+        },
+        {
+            "accuracy": 100,
             "score": 95736,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "serge01919"
-        },
-        {
-            "accuracy": 100,
-            "score": 95009,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "landon2713"
-        },
-        {
-            "accuracy": 100,
-            "score": 95000,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Leogzz0715"
         }
     ]
 }

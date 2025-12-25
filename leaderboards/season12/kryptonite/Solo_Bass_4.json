@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 95831,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fishnoo"
+        },
+        {
+            "accuracy": 100,
+            "score": 95642,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "RealCastielAngel"
+        },
+        {
+            "accuracy": 99,
             "score": 95529,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Blitzmatcrank"
-        },
-        {
-            "accuracy": 100,
-            "score": 91960,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "daddyp1169"
-        },
-        {
-            "accuracy": 100,
-            "score": 91831,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "mileIlie"
         }
     ]
 }

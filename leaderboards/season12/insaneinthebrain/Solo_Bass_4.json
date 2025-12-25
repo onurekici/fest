@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 93652,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tsumimiki"
+        },
+        {
+            "accuracy": 100,
             "score": 93644,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GauzeRavines"
-        },
-        {
-            "accuracy": 99,
-            "score": 91860,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rozinari"
         }
     ]
 }

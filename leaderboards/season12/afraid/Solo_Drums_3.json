@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 130572,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ily.douglas"
+        },
+        {
             "accuracy": 100,
             "score": 130560,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Bałzer"
-        },
-        {
-            "accuracy": 100,
-            "score": 128316,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "a.m.sleeper"
         }
     ]
 }

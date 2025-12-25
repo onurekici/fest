@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 161500,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Itztriggerfish"
+        },
+        {
+            "accuracy": 100,
             "score": 161429,
             "difficulty": 3,
             "stars": 6,
@@ -737,6 +745,14 @@
             "userName": "SpottierStone99"
         },
         {
+            "accuracy": 99,
+            "score": 150120,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Cracker_barrel69"
+        },
+        {
             "accuracy": 100,
             "score": 149952,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "sora_archetype"
-        },
-        {
-            "accuracy": 100,
-            "score": 148926,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TeikuTHTSlayer"
-        },
-        {
-            "accuracy": 99,
-            "score": 148702,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lavg333"
         }
     ]
 }

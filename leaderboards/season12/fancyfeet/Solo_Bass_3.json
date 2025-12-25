@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 84898,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Xkari_45X"
+        },
+        {
+            "accuracy": 99,
+            "score": 84872,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Strider.GOG"
+        },
+        {
+            "accuracy": 100,
             "score": 84868,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "StarElphy"
-        },
-        {
-            "accuracy": 99,
-            "score": 78161,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ManaKusho"
-        },
-        {
-            "accuracy": 99,
-            "score": 78061,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MassiveMuffin"
         }
     ]
 }

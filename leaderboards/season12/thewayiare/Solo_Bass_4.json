@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 43405,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "reg 345"
+        },
+        {
+            "accuracy": 100,
+            "score": 43405,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AlmostRex"
+        },
+        {
             "accuracy": 99,
             "score": 43373,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "ReverendTerry"
-        },
-        {
-            "accuracy": 99,
-            "score": 40039,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Pinkmyss"
-        },
-        {
-            "accuracy": 99,
-            "score": 39994,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "[PSN] hmoneyygzz"
         }
     ]
 }

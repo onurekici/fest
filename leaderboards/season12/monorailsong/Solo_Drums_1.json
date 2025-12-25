@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 31224,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wizisagod"
+        },
+        {
+            "accuracy": 100,
+            "score": 31176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Wingedcow"
+        },
+        {
+            "accuracy": 100,
             "score": 31044,
             "difficulty": 3,
             "stars": 6,
@@ -159,6 +175,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Lu_tendo"
+        },
+        {
+            "accuracy": 100,
+            "score": 28860,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Adam Poulden"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "Iloveher18"
-        },
-        {
-            "accuracy": 96,
-            "score": 15678,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Yanithaa"
-        },
-        {
-            "accuracy": 96,
-            "score": 15630,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "ThePCGeek"
-        },
-        {
-            "accuracy": 96,
-            "score": 15630,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Ironhades"
         }
     ]
 }

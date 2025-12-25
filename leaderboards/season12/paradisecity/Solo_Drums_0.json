@@ -170,6 +170,14 @@
         },
         {
             "accuracy": 100,
+            "score": 355176,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "M3meSaurusRex"
+        },
+        {
+            "accuracy": 100,
             "score": 354959,
             "difficulty": 3,
             "stars": 6,
@@ -415,14 +423,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Aambeienzalf."
-        },
-        {
-            "accuracy": 99,
-            "score": 349188,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "M3meSaurusRex"
         },
         {
             "accuracy": 100,
@@ -794,11 +794,11 @@
         },
         {
             "accuracy": 100,
-            "score": 343067,
+            "score": 343560,
             "difficulty": 3,
             "stars": 6,
-            "fullcombo": false,
-            "userName": "Yummiedonutz"
+            "fullcombo": true,
+            "userName": "99bmario"
         }
     ]
 }

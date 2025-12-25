@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 81825,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "i_love_kermit"
+        },
+        {
+            "accuracy": 100,
             "score": 81815,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Lourd.MC"
-        },
-        {
-            "accuracy": 99,
-            "score": 80103,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Pauloescarlate"
         }
     ]
 }

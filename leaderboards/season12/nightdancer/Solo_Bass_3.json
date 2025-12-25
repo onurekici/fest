@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 85070,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
+            "accuracy": 100,
+            "score": 85061,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ВТG"
+        },
+        {
             "accuracy": 99,
             "score": 85033,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Aritz Ramos"
-        },
-        {
-            "accuracy": 99,
-            "score": 81608,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Armzek"
-        },
-        {
-            "accuracy": 99,
-            "score": 81590,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RAVEN_VAN_WINKLE"
         }
     ]
 }

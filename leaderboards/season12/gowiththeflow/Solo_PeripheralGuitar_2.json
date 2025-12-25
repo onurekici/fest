@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 201835,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "NotTheRealMemo"
+        },
+        {
+            "accuracy": 99,
+            "score": 201783,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Snafu-AJ"
+        },
+        {
             "accuracy": 99,
             "score": 201530,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ShaTzNoGiggLeS"
-        },
-        {
-            "accuracy": 99,
-            "score": 193980,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Orang3s"
-        },
-        {
-            "accuracy": 99,
-            "score": 193963,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ben_eats_drywall"
         }
     ]
 }

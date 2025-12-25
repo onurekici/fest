@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 62366,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ReBlizzard"
+        },
+        {
             "accuracy": 100,
             "score": 62362,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "VeryBigMonkey"
-        },
-        {
-            "accuracy": 100,
-            "score": 61408,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ItsJamieDodgr"
         }
     ]
 }
