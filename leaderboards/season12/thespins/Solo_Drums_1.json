@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 138102,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Omnerack"
+        },
+        {
+            "accuracy": 100,
             "score": 137976,
             "difficulty": 3,
             "stars": 6,
@@ -55,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "FishProdigy"
+        },
+        {
+            "accuracy": 99,
+            "score": 137604,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kamka499"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "NathanTheLeopard"
-        },
-        {
-            "accuracy": 100,
-            "score": 130698,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Ten Khada"
-        },
-        {
-            "accuracy": 99,
-            "score": 130614,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "TheGoatDylan360"
         }
     ]
 }

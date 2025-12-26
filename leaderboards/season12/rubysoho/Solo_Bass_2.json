@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 123242,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Hawaiian Houdini"
+        },
+        {
+            "accuracy": 100,
             "score": 123172,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "justfien_vg"
-        },
-        {
-            "accuracy": 99,
-            "score": 117469,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Slim-Shady72."
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 201185,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "SolidStandsDad"
+        },
+        {
+            "accuracy": 99,
+            "score": 200958,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "fizzyle"
+        },
+        {
+            "accuracy": 100,
             "score": 200946,
             "difficulty": 3,
             "stars": 6,
@@ -47,6 +63,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Periquito Luz"
+        },
+        {
+            "accuracy": 99,
+            "score": 200745,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "LauTi-FH"
         },
         {
             "accuracy": 100,
@@ -761,44 +785,20 @@
             "userName": "User-bd5a2d0074"
         },
         {
+            "accuracy": 99,
+            "score": 198459,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "クリス松村60歳"
+        },
+        {
             "accuracy": 100,
             "score": 198445,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": true,
             "userName": "pjijn"
-        },
-        {
-            "accuracy": 99,
-            "score": 198435,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JohnnyNSX"
-        },
-        {
-            "accuracy": 99,
-            "score": 198428,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Sh4rky4"
-        },
-        {
-            "accuracy": 99,
-            "score": 198408,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "elliectrode"
-        },
-        {
-            "accuracy": 100,
-            "score": 198357,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "4floras2coolant0"
         }
     ]
 }

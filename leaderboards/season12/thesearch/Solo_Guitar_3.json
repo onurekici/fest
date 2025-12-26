@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 73178,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Johnny Burito"
+        },
+        {
+            "accuracy": 100,
+            "score": 73168,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MamaCUnicorn"
+        },
+        {
             "accuracy": 100,
             "score": 73149,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Neko_09hp"
-        },
-        {
-            "accuracy": 99,
-            "score": 70243,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Addiieeexxx"
-        },
-        {
-            "accuracy": 99,
-            "score": 70237,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mordifiedone"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 69384,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Insite-Dark"
+        },
+        {
+            "accuracy": 100,
+            "score": 69378,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "itsJacobii"
+        },
+        {
             "accuracy": 100,
             "score": 69372,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Gnarsqi"
-        },
-        {
-            "accuracy": 100,
-            "score": 67848,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Curlierwind686"
-        },
-        {
-            "accuracy": 100,
-            "score": 67830,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BattleMaster527"
         }
     ]
 }

@@ -122,6 +122,14 @@
         },
         {
             "accuracy": 100,
+            "score": 119250,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Yopsitus"
+        },
+        {
+            "accuracy": 100,
             "score": 119220,
             "difficulty": 3,
             "stars": 6,
@@ -565,6 +573,14 @@
             "score": 118020,
             "difficulty": 3,
             "stars": 6,
+            "fullcombo": false,
+            "userName": "RockKnot2321775"
+        },
+        {
+            "accuracy": 100,
+            "score": 118020,
+            "difficulty": 3,
+            "stars": 6,
             "fullcombo": true,
             "userName": "Lycan243"
         },
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Y0Squiddy"
-        },
-        {
-            "accuracy": 100,
-            "score": 117636,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Felix Outsider"
-        },
-        {
-            "accuracy": 100,
-            "score": 117618,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Massive-Taper"
         }
     ]
 }

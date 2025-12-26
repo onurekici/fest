@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 115680,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Pizza Hotline"
+        },
+        {
+            "accuracy": 100,
             "score": 115679,
             "difficulty": 3,
             "stars": 6,
@@ -63,6 +71,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "UrielOso"
+        },
+        {
+            "accuracy": 100,
+            "score": 115319,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "PeanutGee"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Joe.b1rd"
-        },
-        {
-            "accuracy": 99,
-            "score": 112289,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "cusedcannible"
-        },
-        {
-            "accuracy": 99,
-            "score": 112285,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "iiMxBaCon"
         }
     ]
 }

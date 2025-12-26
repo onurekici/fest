@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 96,
+            "score": 65401,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Japan 2025"
+        },
+        {
+            "accuracy": 96,
             "score": 65221,
             "difficulty": 2,
             "stars": 5,
@@ -47,6 +55,14 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "kurekasu"
+        },
+        {
+            "accuracy": 95,
+            "score": 62985,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "IKERSTG-40"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ImHappilySad"
-        },
-        {
-            "accuracy": 94,
-            "score": 47291,
-            "difficulty": 3,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Charzard506"
-        },
-        {
-            "accuracy": 99,
-            "score": 47258,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Inori Aria"
         }
     ]
 }

@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 152030,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Saltyliam4465"
+        },
+        {
+            "accuracy": 100,
+            "score": 151805,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Yoru.wav"
+        },
+        {
+            "accuracy": 99,
             "score": 151368,
             "difficulty": 3,
             "stars": 5,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "darkless30"
-        },
-        {
-            "accuracy": 98,
-            "score": 82795,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "JCGROOVEZ"
-        },
-        {
-            "accuracy": 97,
-            "score": 82780,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "ChiefyDP"
         }
     ]
 }

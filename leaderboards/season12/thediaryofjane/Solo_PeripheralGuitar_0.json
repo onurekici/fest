@@ -330,6 +330,14 @@
         },
         {
             "accuracy": 100,
+            "score": 148438,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Mythix Unix"
+        },
+        {
+            "accuracy": 100,
             "score": 148155,
             "difficulty": 3,
             "stars": 6,
@@ -511,6 +519,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "GhostlyObserver"
+        },
+        {
+            "accuracy": 99,
+            "score": 143593,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "ICauseDarkDays"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SupremeCookiee"
-        },
-        {
-            "accuracy": 99,
-            "score": 138438,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Fedora Fielder"
-        },
-        {
-            "accuracy": 99,
-            "score": 138234,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Bluesoap2112"
         }
     ]
 }

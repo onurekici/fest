@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 40390,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "UnknownBogey"
+        },
+        {
+            "accuracy": 91,
+            "score": 40269,
+            "difficulty": 2,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "SeanPSTT"
+        },
+        {
             "accuracy": 99,
             "score": 40259,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "ninsepinse"
-        },
-        {
-            "accuracy": 85,
-            "score": 23208,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Callie0213"
-        },
-        {
-            "accuracy": 83,
-            "score": 23081,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Creager_13"
         }
     ]
 }

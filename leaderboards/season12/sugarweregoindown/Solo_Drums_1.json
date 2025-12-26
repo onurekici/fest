@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 193116,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "VOOCLUE"
+        },
+        {
+            "accuracy": 100,
+            "score": 193062,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "fort-guykiller"
+        },
+        {
             "accuracy": 100,
             "score": 192978,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Goopy Voyager"
-        },
-        {
-            "accuracy": 99,
-            "score": 189312,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Mommie Loves Me"
-        },
-        {
-            "accuracy": 100,
-            "score": 189252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "FloodS6"
         }
     ]
 }

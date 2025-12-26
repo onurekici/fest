@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 60971,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "GotDiesel"
+        },
+        {
             "accuracy": 92,
             "score": 60786,
             "difficulty": 2,
@@ -343,6 +351,14 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "MCMXC_MMXXlll"
+        },
+        {
+            "accuracy": 85,
+            "score": 41216,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "La Fupacabra"
         },
         {
             "accuracy": 93,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "zombot131313"
-        },
-        {
-            "accuracy": 80,
-            "score": 22415,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Thánatos"
-        },
-        {
-            "accuracy": 60,
-            "score": 22284,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Clashdrop"
         }
     ]
 }

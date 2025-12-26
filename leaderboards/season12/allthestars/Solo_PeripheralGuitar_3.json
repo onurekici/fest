@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 48521,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LukeTheChap"
+        },
+        {
             "accuracy": 98,
             "score": 48387,
             "difficulty": 2,
@@ -239,6 +247,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Tsuuga"
+        },
+        {
+            "accuracy": 92,
+            "score": 46284,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Piers 24"
         },
         {
             "accuracy": 95,
@@ -697,14 +713,6 @@
             "userName": "CooperIsPog"
         },
         {
-            "accuracy": 94,
-            "score": 42937,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Piers 24"
-        },
-        {
             "accuracy": 96,
             "score": 42843,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "thepojostick"
-        },
-        {
-            "accuracy": 96,
-            "score": 41638,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Tigbantay"
         }
     ]
 }

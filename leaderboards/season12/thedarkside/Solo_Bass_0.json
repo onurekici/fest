@@ -362,6 +362,14 @@
         },
         {
             "accuracy": 100,
+            "score": 111479,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Dragon1_1"
+        },
+        {
+            "accuracy": 100,
             "score": 111264,
             "difficulty": 3,
             "stars": 6,
@@ -487,6 +495,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SkyJagga"
+        },
+        {
+            "accuracy": 99,
+            "score": 107185,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "пiкмi монстр"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "IGGM"
-        },
-        {
-            "accuracy": 99,
-            "score": 94765,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Skeksis Scum"
-        },
-        {
-            "accuracy": 99,
-            "score": 94478,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Caitlanii"
         }
     ]
 }

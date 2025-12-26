@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 19648,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Zakareto"
+        },
+        {
+            "accuracy": 100,
+            "score": 19647,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "jogador XTX"
+        },
+        {
             "accuracy": 100,
             "score": 19635,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Prawnathon2000"
-        },
-        {
-            "accuracy": 100,
-            "score": 16922,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "[PSN] THELIBYANS"
-        },
-        {
-            "accuracy": 99,
-            "score": 16922,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kustomplex"
         }
     ]
 }

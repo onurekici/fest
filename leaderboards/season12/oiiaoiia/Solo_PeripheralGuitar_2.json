@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 36842,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TTVSHANO003"
+        },
+        {
             "accuracy": 93,
             "score": 36825,
             "difficulty": 3,
@@ -673,6 +681,14 @@
             "userName": "Chickerino"
         },
         {
+            "accuracy": 100,
+            "score": 32442,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "yurafi"
+        },
+        {
             "accuracy": 97,
             "score": 32439,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Pico de Ramen"
-        },
-        {
-            "accuracy": 97,
-            "score": 32084,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "MustyDadbod"
-        },
-        {
-            "accuracy": 98,
-            "score": 32079,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Robson Bogard"
         }
     ]
 }

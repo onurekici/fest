@@ -1,6 +1,38 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 49043,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "I Eat Da Bees"
+        },
+        {
+            "accuracy": 100,
+            "score": 48979,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "DeadendHitman"
+        },
+        {
+            "accuracy": 99,
+            "score": 48949,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "JuanMi_Olvera"
+        },
+        {
+            "accuracy": 100,
+            "score": 48889,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Birb_man123"
+        },
+        {
             "accuracy": 91,
             "score": 48714,
             "difficulty": 3,
@@ -767,38 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "InverGold"
-        },
-        {
-            "accuracy": 100,
-            "score": 32664,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Tuff_76"
-        },
-        {
-            "accuracy": 100,
-            "score": 32579,
-            "difficulty": 0,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ferralghost124"
-        },
-        {
-            "accuracy": 91,
-            "score": 32554,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "kung fu gomes"
-        },
-        {
-            "accuracy": 73,
-            "score": 32479,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "G_MA_LOVE"
         }
     ]
 }

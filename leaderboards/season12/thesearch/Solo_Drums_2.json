@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 68760,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "qas2008"
+        },
+        {
+            "accuracy": 99,
+            "score": 68736,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "broken_child07"
+        },
+        {
+            "accuracy": 99,
+            "score": 68724,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "D4ni3l_60fps"
+        },
+        {
+            "accuracy": 100,
             "score": 68712,
             "difficulty": 3,
             "stars": 6,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "KCrunchtastic"
-        },
-        {
-            "accuracy": 99,
-            "score": 65568,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "valiwilliams"
-        },
-        {
-            "accuracy": 100,
-            "score": 65514,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Stevens Egg"
-        },
-        {
-            "accuracy": 99,
-            "score": 65460,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Nookapix"
         }
     ]
 }

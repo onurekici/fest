@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 47316,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Purple_Link"
+        },
+        {
+            "accuracy": 100,
             "score": 47310,
             "difficulty": 3,
             "stars": 6,
@@ -289,6 +297,14 @@
             "userName": "Sonicflame23"
         },
         {
+            "accuracy": 98,
+            "score": 45330,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Mytichwall"
+        },
+        {
             "accuracy": 100,
             "score": 45209,
             "difficulty": 3,
@@ -545,6 +561,14 @@
             "userName": "Hаtsuոе Mіku"
         },
         {
+            "accuracy": 100,
+            "score": 43490,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Gav1tar"
+        },
+        {
             "accuracy": 99,
             "score": 43436,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "chiclosky"
-        },
-        {
-            "accuracy": 100,
-            "score": 42225,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Dawildebeest"
-        },
-        {
-            "accuracy": 100,
-            "score": 42143,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "HomelesWaffle"
-        },
-        {
-            "accuracy": 100,
-            "score": 42120,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Groudon0199"
         }
     ]
 }

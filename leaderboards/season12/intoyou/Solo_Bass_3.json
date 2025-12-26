@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 95221,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "johnaksnes"
+        },
+        {
+            "accuracy": 100,
+            "score": 95204,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ToRuN_67"
+        },
+        {
+            "accuracy": 99,
             "score": 95189,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ImMrBonkers"
-        },
-        {
-            "accuracy": 100,
-            "score": 91441,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Antikiller2010"
-        },
-        {
-            "accuracy": 99,
-            "score": 91367,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "DarkYulon"
         }
     ]
 }

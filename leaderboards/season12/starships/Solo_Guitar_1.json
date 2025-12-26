@@ -1,6 +1,30 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 110076,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "iMarty64"
+        },
+        {
+            "accuracy": 99,
+            "score": 109948,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Pokemon_RWBY"
+        },
+        {
+            "accuracy": 99,
+            "score": 109181,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Krucer13"
+        },
+        {
             "accuracy": 98,
             "score": 109128,
             "difficulty": 3,
@@ -737,14 +761,6 @@
             "userName": "goingbacktomars"
         },
         {
-            "accuracy": 100,
-            "score": 88321,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Furisode Obi"
-        },
-        {
             "accuracy": 99,
             "score": 88214,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "PerkyMal"
-        },
-        {
-            "accuracy": 100,
-            "score": 87607,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "keith122180"
-        },
-        {
-            "accuracy": 100,
-            "score": 87551,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "GingerSmeagol"
         }
     ]
 }

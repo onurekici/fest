@@ -145,6 +145,14 @@
             "userName": "aDrunken Noodle"
         },
         {
+            "accuracy": 100,
+            "score": 144093,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "BBC Overlord"
+        },
+        {
             "accuracy": 99,
             "score": 143823,
             "difficulty": 3,
@@ -215,14 +223,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Korangarr_"
-        },
-        {
-            "accuracy": 100,
-            "score": 140968,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "BBC Overlord"
         },
         {
             "accuracy": 99,
@@ -786,19 +786,19 @@
         },
         {
             "accuracy": 99,
+            "score": 124475,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "KingNDerpz"
+        },
+        {
+            "accuracy": 99,
             "score": 124249,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Potassiumm_"
-        },
-        {
-            "accuracy": 99,
-            "score": 123943,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "NikyH00000004"
         }
     ]
 }

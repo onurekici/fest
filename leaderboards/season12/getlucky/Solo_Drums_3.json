@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 444648,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "vanilla extract."
+        },
+        {
+            "accuracy": 100,
+            "score": 444594,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ItsBound"
+        },
+        {
             "accuracy": 100,
             "score": 444570,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Drope_1133"
-        },
-        {
-            "accuracy": 100,
-            "score": 441264,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Nichip"
-        },
-        {
-            "accuracy": 100,
-            "score": 441252,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ツDante"
         }
     ]
 }

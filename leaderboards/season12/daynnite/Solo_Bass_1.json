@@ -426,6 +426,14 @@
         },
         {
             "accuracy": 100,
+            "score": 50958,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Edgar de Oliveir"
+        },
+        {
+            "accuracy": 100,
             "score": 50930,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Whackjr"
-        },
-        {
-            "accuracy": 99,
-            "score": 48736,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "TheRoMaster"
         }
     ]
 }

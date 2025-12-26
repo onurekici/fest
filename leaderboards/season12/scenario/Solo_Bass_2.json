@@ -1,12 +1,28 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 67060,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "CaptainBlackjak"
+        },
+        {
             "accuracy": 99,
             "score": 67044,
             "difficulty": 2,
             "stars": 5,
             "fullcombo": false,
             "userName": "desirenone"
+        },
+        {
+            "accuracy": 99,
+            "score": 67018,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Kotaro_sol"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "TwiDashPie"
-        },
-        {
-            "accuracy": 100,
-            "score": 52880,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "MaijaMehis"
-        },
-        {
-            "accuracy": 100,
-            "score": 52842,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "AmbiAntagonist"
         }
     ]
 }

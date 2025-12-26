@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 96,
+            "score": 204287,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "SkibidiCheesus"
+        },
+        {
             "accuracy": 98,
             "score": 204070,
             "difficulty": 3,
@@ -87,6 +95,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "SundayParkingLot"
+        },
+        {
+            "accuracy": 100,
+            "score": 202216,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Chucknutnorris16"
         },
         {
             "accuracy": 98,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "niqp"
-        },
-        {
-            "accuracy": 99,
-            "score": 188593,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Knecinedit"
-        },
-        {
-            "accuracy": 97,
-            "score": 188350,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "bluecrater"
         }
     ]
 }

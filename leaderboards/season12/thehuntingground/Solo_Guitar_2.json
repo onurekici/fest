@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 99,
+            "score": 89495,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Longdonkey_kong"
+        },
+        {
+            "accuracy": 98,
+            "score": 89341,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "zuknut"
+        },
+        {
+            "accuracy": 99,
             "score": 88826,
             "difficulty": 3,
             "stars": 6,
@@ -23,6 +39,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "ItsMacsWay"
+        },
+        {
+            "accuracy": 100,
+            "score": 88682,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Ammonomi_C4T"
         },
         {
             "accuracy": 99,
@@ -239,14 +263,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Γ27狙撃兵"
-        },
-        {
-            "accuracy": 100,
-            "score": 86322,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Ammonomi_C4T"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Avenger-Lagart0"
-        },
-        {
-            "accuracy": 99,
-            "score": 80696,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "froggyicedtea"
-        },
-        {
-            "accuracy": 99,
-            "score": 80664,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "LordFrostMuc"
         }
     ]
 }

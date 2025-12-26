@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 167700,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "FrSharpshooter"
+        },
+        {
+            "accuracy": 100,
             "score": 167682,
             "difficulty": 3,
             "stars": 6,
@@ -327,6 +335,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "OT2020-T"
+        },
+        {
+            "accuracy": 99,
+            "score": 167340,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TigerCoin123"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Vinellliees"
-        },
-        {
-            "accuracy": 100,
-            "score": 166728,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Doppelgänger 997"
-        },
-        {
-            "accuracy": 100,
-            "score": 166698,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Caribouflou"
         }
     ]
 }

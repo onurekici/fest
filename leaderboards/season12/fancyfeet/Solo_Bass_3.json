@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 85120,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "lea-fushiguro"
+        },
+        {
+            "accuracy": 100,
+            "score": 85003,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": null
+        },
+        {
             "accuracy": 100,
             "score": 84898,
             "difficulty": 3,
@@ -223,6 +239,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "justfien_vg"
+        },
+        {
+            "accuracy": 99,
+            "score": 83340,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Firt421"
         },
         {
             "accuracy": 100,
@@ -775,30 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "amberǃ"
-        },
-        {
-            "accuracy": 99,
-            "score": 78259,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "RayDioFox"
-        },
-        {
-            "accuracy": 99,
-            "score": 78246,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "MadBecca15"
-        },
-        {
-            "accuracy": 99,
-            "score": 78225,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "StarElphy"
         }
     ]
 }

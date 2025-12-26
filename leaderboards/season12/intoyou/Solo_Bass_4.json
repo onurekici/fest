@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 91441,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Antikiller2010"
+        },
+        {
+            "accuracy": 99,
+            "score": 91367,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DarkYulon"
+        },
+        {
             "accuracy": 99,
             "score": 91333,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Sembe00"
-        },
-        {
-            "accuracy": 99,
-            "score": 87485,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Tornadosan66"
-        },
-        {
-            "accuracy": 99,
-            "score": 87467,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Just a Dragon ツ"
         }
     ]
 }

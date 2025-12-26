@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 244770,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "flannel_unicorn"
+        },
+        {
             "accuracy": 98,
             "score": 244767,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "anime_mtz15"
-        },
-        {
-            "accuracy": 100,
-            "score": 242112,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "radicaldumb"
         }
     ]
 }

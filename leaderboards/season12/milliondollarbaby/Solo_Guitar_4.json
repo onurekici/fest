@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 47217,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Bubba staten"
+        },
+        {
             "accuracy": 100,
             "score": 47205,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kotoura"
-        },
-        {
-            "accuracy": 100,
-            "score": 46325,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Prettykoolguy"
         }
     ]
 }

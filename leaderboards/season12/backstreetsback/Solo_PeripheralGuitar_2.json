@@ -129,6 +129,14 @@
             "userName": "Mr MizPal"
         },
         {
+            "accuracy": 100,
+            "score": 47445,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "LeDairyman"
+        },
+        {
             "accuracy": 98,
             "score": 47340,
             "difficulty": 1,
@@ -791,14 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "Dark K_oz"
-        },
-        {
-            "accuracy": 83,
-            "score": 23597,
-            "difficulty": 1,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "MrTchiang"
         }
     ]
 }

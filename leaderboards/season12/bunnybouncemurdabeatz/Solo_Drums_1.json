@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 68484,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DarlingSaeko"
+        },
+        {
+            "accuracy": 100,
+            "score": 68430,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "tashistired"
+        },
+        {
             "accuracy": 99,
             "score": 68406,
             "difficulty": 3,
@@ -287,6 +303,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "カッフェのネッコです"
+        },
+        {
+            "accuracy": 99,
+            "score": 65040,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Annabobbanna"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Sneakyturtle183"
-        },
-        {
-            "accuracy": 99,
-            "score": 59004,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "SabiRatty"
-        },
-        {
-            "accuracy": 99,
-            "score": 58974,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Nachokingpop"
-        },
-        {
-            "accuracy": 100,
-            "score": 58910,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "CannaMan_562"
         }
     ]
 }

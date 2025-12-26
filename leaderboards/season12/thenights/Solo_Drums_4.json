@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 83004,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "MrCatrín"
+        },
+        {
             "accuracy": 99,
             "score": 82992,
             "difficulty": 3,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Miel Devooght"
-        },
-        {
-            "accuracy": 99,
-            "score": 82152,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "tub_cazy"
         }
     ]
 }

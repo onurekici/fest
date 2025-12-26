@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 218640,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "ETB Cap"
+        },
+        {
+            "accuracy": 100,
             "score": 218556,
             "difficulty": 3,
             "stars": 6,
@@ -649,6 +657,14 @@
             "userName": "rotdvx"
         },
         {
+            "accuracy": 99,
+            "score": 215880,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Черный лотос"
+        },
+        {
             "accuracy": 100,
             "score": 215874,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Kujo_GV"
-        },
-        {
-            "accuracy": 100,
-            "score": 215472,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "emmaf8089"
-        },
-        {
-            "accuracy": 99,
-            "score": 215424,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "bum bun"
         }
     ]
 }

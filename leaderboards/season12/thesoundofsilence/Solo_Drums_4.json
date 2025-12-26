@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 12345,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Froggy Friend52"
+        },
+        {
+            "accuracy": 100,
             "score": 12339,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Xycba5683"
-        },
-        {
-            "accuracy": 100,
-            "score": 12146,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "shørt føenix"
         }
     ]
 }

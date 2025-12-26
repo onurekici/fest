@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 115440,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "TheAcquisitioner"
+        },
+        {
             "accuracy": 100,
             "score": 115428,
             "difficulty": 3,
@@ -546,6 +554,14 @@
         },
         {
             "accuracy": 100,
+            "score": 109806,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "weinerman999"
+        },
+        {
+            "accuracy": 100,
             "score": 109794,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "BAD-DOCTOR"
-        },
-        {
-            "accuracy": 99,
-            "score": 107634,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "JustPrismo"
-        },
-        {
-            "accuracy": 99,
-            "score": 107490,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "fulmine111jack"
         }
     ]
 }
