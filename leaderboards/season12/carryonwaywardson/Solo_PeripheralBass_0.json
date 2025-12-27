@@ -2,11 +2,27 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 213732,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "spookyluke60"
+        },
+        {
+            "accuracy": 100,
             "score": 207156,
             "difficulty": 3,
             "stars": 6,
             "fullcombo": false,
             "userName": "Thebeatle65"
+        },
+        {
+            "accuracy": 99,
+            "score": 205530,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DCA_EE"
         },
         {
             "accuracy": 99,
@@ -649,6 +665,14 @@
             "userName": "Strongholdwolf1"
         },
         {
+            "accuracy": 96,
+            "score": 54387,
+            "difficulty": 1,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "Foxy-04"
+        },
+        {
             "accuracy": 87,
             "score": 53429,
             "difficulty": 3,
@@ -775,30 +799,6 @@
             "stars": 2,
             "fullcombo": false,
             "userName": "Mr.Reemann"
-        },
-        {
-            "accuracy": 88,
-            "score": 35156,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "sdurkin"
-        },
-        {
-            "accuracy": 86,
-            "score": 33742,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "VannahRay"
-        },
-        {
-            "accuracy": 85,
-            "score": 32963,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Babayaga 710"
         }
     ]
 }

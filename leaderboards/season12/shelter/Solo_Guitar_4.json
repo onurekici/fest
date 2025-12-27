@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 214515,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "surargentino0810"
+        },
+        {
+            "accuracy": 100,
+            "score": 214464,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Ghostshade21"
+        },
+        {
             "accuracy": 99,
             "score": 214454,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Nether Spectre"
-        },
-        {
-            "accuracy": 99,
-            "score": 211331,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "SkyGraphics"
-        },
-        {
-            "accuracy": 99,
-            "score": 211328,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Racer1919"
         }
     ]
 }

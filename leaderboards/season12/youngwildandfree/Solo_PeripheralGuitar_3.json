@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 72558,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "JVD55x"
+        },
+        {
+            "accuracy": 97,
+            "score": 72537,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "KingSack"
+        },
+        {
             "accuracy": 97,
             "score": 72471,
             "difficulty": 2,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "SilverSparda"
-        },
-        {
-            "accuracy": 93,
-            "score": 57491,
-            "difficulty": 2,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "H4lien32"
-        },
-        {
-            "accuracy": 90,
-            "score": 57261,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Boterbalman"
         }
     ]
 }

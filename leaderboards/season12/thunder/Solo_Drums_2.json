@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 98478,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "[PSN] DeadlyProtogen"
+        },
+        {
             "accuracy": 99,
             "score": 98472,
             "difficulty": 3,
@@ -103,6 +111,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "P-nut-25"
+        },
+        {
+            "accuracy": 100,
+            "score": 98268,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "CHEEZBREEZGEEZ"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Xilvoisloved98"
-        },
-        {
-            "accuracy": 99,
-            "score": 95334,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "ballbouncer491"
-        },
-        {
-            "accuracy": 100,
-            "score": 95334,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Chaiz_Lancorn"
         }
     ]
 }

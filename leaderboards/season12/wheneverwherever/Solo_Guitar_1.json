@@ -2,6 +2,30 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 170679,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "dntmakm3laugh"
+        },
+        {
+            "accuracy": 100,
+            "score": 170641,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "jupitersjazz"
+        },
+        {
+            "accuracy": 99,
+            "score": 170165,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Wolfpup1305"
+        },
+        {
+            "accuracy": 100,
             "score": 170014,
             "difficulty": 3,
             "stars": 6,
@@ -226,6 +250,14 @@
         },
         {
             "accuracy": 99,
+            "score": 157680,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "twobigdudes"
+        },
+        {
+            "accuracy": 99,
             "score": 157569,
             "difficulty": 3,
             "stars": 6,
@@ -439,14 +471,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "ShadowKid165"
-        },
-        {
-            "accuracy": 98,
-            "score": 148529,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "twobigdudes"
         },
         {
             "accuracy": 99,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Gaspe421"
-        },
-        {
-            "accuracy": 97,
-            "score": 126071,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "issroxx"
-        },
-        {
-            "accuracy": 98,
-            "score": 125736,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "teknik-dev"
-        },
-        {
-            "accuracy": 99,
-            "score": 125025,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Cx0z"
         }
     ]
 }

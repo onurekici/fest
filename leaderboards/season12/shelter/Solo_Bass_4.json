@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 58882,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "higgy1995"
+        },
+        {
+            "accuracy": 100,
             "score": 58760,
             "difficulty": 3,
             "stars": 6,
@@ -39,6 +47,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Danneman.83"
+        },
+        {
+            "accuracy": 99,
+            "score": 58332,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "FeelsPadgeMan"
         },
         {
             "accuracy": 100,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Sir Friar"
-        },
-        {
-            "accuracy": 99,
-            "score": 55231,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Rias Bike Seat"
-        },
-        {
-            "accuracy": 100,
-            "score": 55226,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Silver-gamer759"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 90,
+            "score": 8741,
+            "difficulty": 3,
+            "stars": 3,
+            "fullcombo": false,
+            "userName": "Gorugot"
+        },
+        {
             "accuracy": 92,
             "score": 8699,
             "difficulty": 2,
@@ -618,6 +626,14 @@
         },
         {
             "accuracy": 100,
+            "score": 4223,
+            "difficulty": 0,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "Benchitos"
+        },
+        {
+            "accuracy": 100,
             "score": 4031,
             "difficulty": 1,
             "stars": 4,
@@ -783,22 +799,6 @@
             "stars": 1,
             "fullcombo": false,
             "userName": "INEEDTHATSLUGMAN"
-        },
-        {
-            "accuracy": 93,
-            "score": 3011,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "KingTruLove"
-        },
-        {
-            "accuracy": 56,
-            "score": 2933,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "M4ndaP4nda"
         }
     ]
 }

@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 103674,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rolme22"
+        },
+        {
+            "accuracy": 100,
             "score": 103660,
             "difficulty": 3,
             "stars": 6,
@@ -625,6 +633,14 @@
             "userName": "StevieRodger72"
         },
         {
+            "accuracy": 99,
+            "score": 101065,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "HellKaiman"
+        },
+        {
             "accuracy": 100,
             "score": 101059,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Megatallica27"
-        },
-        {
-            "accuracy": 100,
-            "score": 100453,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Lottishottis"
-        },
-        {
-            "accuracy": 99,
-            "score": 100435,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Cheddar Cheesey"
         }
     ]
 }

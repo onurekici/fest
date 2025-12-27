@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 97,
+            "score": 45777,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "jacobnicholl"
+        },
+        {
+            "accuracy": 100,
+            "score": 45195,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[PSN] MisterFox217"
+        },
+        {
             "accuracy": 96,
             "score": 44586,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Sudiar"
-        },
-        {
-            "accuracy": 91,
-            "score": 14574,
-            "difficulty": 1,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "Gromwich2"
-        },
-        {
-            "accuracy": 83,
-            "score": 14385,
-            "difficulty": 2,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "César neko"
         }
     ]
 }

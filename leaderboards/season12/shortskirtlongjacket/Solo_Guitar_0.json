@@ -66,6 +66,14 @@
         },
         {
             "accuracy": 100,
+            "score": 99220,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jessie Grey"
+        },
+        {
+            "accuracy": 100,
             "score": 99188,
             "difficulty": 3,
             "stars": 6,
@@ -617,6 +625,14 @@
             "userName": "User-112f58ed60"
         },
         {
+            "accuracy": 100,
+            "score": 92965,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JKopper"
+        },
+        {
             "accuracy": 99,
             "score": 92937,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "MatMyers"
-        },
-        {
-            "accuracy": 100,
-            "score": 92504,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "LeedleDoodle"
-        },
-        {
-            "accuracy": 100,
-            "score": 92490,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "ツTCI"
         }
     ]
 }

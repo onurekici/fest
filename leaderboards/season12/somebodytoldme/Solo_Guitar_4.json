@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 242322,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "lweezus"
+        },
+        {
+            "accuracy": 99,
+            "score": 242292,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "GunZ_Softy"
+        },
+        {
             "accuracy": 99,
             "score": 242280,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Kloms_"
-        },
-        {
-            "accuracy": 99,
-            "score": 239243,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "User-7ca305ef94"
-        },
-        {
-            "accuracy": 100,
-            "score": 239207,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Michagames10"
         }
     ]
 }

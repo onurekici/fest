@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 43104,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "clean.user"
+        },
+        {
+            "accuracy": 98,
+            "score": 42674,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "OppositeCrab4282"
+        },
+        {
             "accuracy": 100,
             "score": 42093,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "WiseBathroom3029"
-        },
-        {
-            "accuracy": 96,
-            "score": 38371,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Vannah_Leigh"
-        },
-        {
-            "accuracy": 99,
-            "score": 38369,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "FishyYStorm"
         }
     ]
 }

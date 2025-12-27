@@ -626,6 +626,14 @@
         },
         {
             "accuracy": 100,
+            "score": 111175,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "kenaji"
+        },
+        {
+            "accuracy": 100,
             "score": 111174,
             "difficulty": 3,
             "stars": 6,
@@ -791,14 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Woetertie"
-        },
-        {
-            "accuracy": 100,
-            "score": 111028,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "mird_low"
         }
     ]
 }

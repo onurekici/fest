@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 72440,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Operation Raven"
+        },
+        {
             "accuracy": 98,
             "score": 71961,
             "difficulty": 3,
@@ -127,6 +135,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "R0n1ndrak3"
+        },
+        {
+            "accuracy": 99,
+            "score": 64710,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "WorthyLamp277-れい"
         },
         {
             "accuracy": 97,
@@ -391,6 +407,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "BoubieBeatz"
+        },
+        {
+            "accuracy": 93,
+            "score": 50055,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "hoetani"
         },
         {
             "accuracy": 96,
@@ -775,30 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Jeremi Guditis"
-        },
-        {
-            "accuracy": 100,
-            "score": 39973,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Pipe19960493"
-        },
-        {
-            "accuracy": 100,
-            "score": 39873,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "arrozmg"
-        },
-        {
-            "accuracy": 99,
-            "score": 39819,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Kuttenzwerg"
         }
     ]
 }

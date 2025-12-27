@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 173958,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IllusoryRanger18"
+        },
+        {
+            "accuracy": 99,
+            "score": 173958,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "elucium"
+        },
+        {
+            "accuracy": 100,
             "score": 173916,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "Yshtoku_Rohka"
-        },
-        {
-            "accuracy": 99,
-            "score": 170712,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "D_isc"
-        },
-        {
-            "accuracy": 99,
-            "score": 170712,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "CollapseStar"
         }
     ]
 }

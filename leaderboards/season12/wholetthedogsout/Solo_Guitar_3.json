@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 70521,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "sigil scum"
+        },
+        {
             "accuracy": 99,
             "score": 70514,
             "difficulty": 3,
@@ -231,6 +239,14 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "vei18293"
+        },
+        {
+            "accuracy": 99,
+            "score": 69935,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Kaptainkidd23"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "OwenRacer66"
-        },
-        {
-            "accuracy": 99,
-            "score": 68520,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "mxdsr"
-        },
-        {
-            "accuracy": 99,
-            "score": 68509,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Toilet3e"
         }
     ]
 }

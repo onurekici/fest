@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 255071,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "chud._."
+        },
+        {
+            "accuracy": 100,
+            "score": 255067,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "IFurtively"
+        },
+        {
             "accuracy": 100,
             "score": 255057,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "morbithial"
-        },
-        {
-            "accuracy": 100,
-            "score": 253923,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "WaifuValak"
-        },
-        {
-            "accuracy": 100,
-            "score": 253888,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Teno - Z"
         }
     ]
 }

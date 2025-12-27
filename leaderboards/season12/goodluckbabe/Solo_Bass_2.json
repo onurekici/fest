@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 93,
+            "score": 132558,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "serge01919"
+        },
+        {
+            "accuracy": 100,
+            "score": 132503,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "bruffalo1"
+        },
+        {
             "accuracy": 99,
             "score": 132180,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "oddest_goddess"
-        },
-        {
-            "accuracy": 87,
-            "score": 119334,
-            "difficulty": 3,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Yareth_Rikers"
-        },
-        {
-            "accuracy": 99,
-            "score": 118980,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "UK_Chihuahua"
         }
     ]
 }

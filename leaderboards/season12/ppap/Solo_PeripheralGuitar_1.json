@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 25267,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "TaliSoprano"
+        },
+        {
             "accuracy": 91,
             "score": 24956,
             "difficulty": 3,
@@ -55,6 +63,14 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "VyktorX"
+        },
+        {
+            "accuracy": 95,
+            "score": 24082,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "NickMudry"
         },
         {
             "accuracy": 93,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "Undertow13"
-        },
-        {
-            "accuracy": 98,
-            "score": 17849,
-            "difficulty": 2,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "Chriswarkidd"
-        },
-        {
-            "accuracy": 95,
-            "score": 17831,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Sciamacky"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 98485,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "sebasnegraloka1"
+        },
+        {
+            "accuracy": 94,
+            "score": 98376,
+            "difficulty": 3,
+            "stars": 4,
+            "fullcombo": false,
+            "userName": "bossmanAK4"
+        },
+        {
             "accuracy": 95,
             "score": 98136,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 5,
             "fullcombo": true,
             "userName": "Sceptile1993"
-        },
-        {
-            "accuracy": 100,
-            "score": 79490,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "disasterboy21"
-        },
-        {
-            "accuracy": 100,
-            "score": 79360,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "OldFireWolf"
         }
     ]
 }

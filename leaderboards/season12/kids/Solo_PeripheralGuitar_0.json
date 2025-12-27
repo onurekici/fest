@@ -66,6 +66,14 @@
         },
         {
             "accuracy": 100,
+            "score": 101125,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "RecklessPrinny"
+        },
+        {
+            "accuracy": 100,
             "score": 99848,
             "difficulty": 3,
             "stars": 6,
@@ -111,6 +119,14 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "OMG Its Panda"
+        },
+        {
+            "accuracy": 98,
+            "score": 92432,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Blackmagemasher"
         },
         {
             "accuracy": 99,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "mrpxnnn"
-        },
-        {
-            "accuracy": 99,
-            "score": 38478,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "fukama"
-        },
-        {
-            "accuracy": 99,
-            "score": 37837,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "oscar360_gamerr"
         }
     ]
 }

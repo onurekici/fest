@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 126276,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Jerop461"
+        },
+        {
+            "accuracy": 99,
+            "score": 126216,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Nacioシ"
+        },
+        {
             "accuracy": 99,
             "score": 126210,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "黒鉄Ikkiッ"
-        },
-        {
-            "accuracy": 100,
-            "score": 124746,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Michael Afton 09"
-        },
-        {
-            "accuracy": 99,
-            "score": 124734,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "Wojkracy"
         }
     ]
 }

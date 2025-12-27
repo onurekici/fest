@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 142857,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Enkɨ"
+        },
+        {
+            "accuracy": 100,
+            "score": 142851,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Rota_82"
+        },
+        {
             "accuracy": 99,
             "score": 142833,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "CarlitosAdmin"
-        },
-        {
-            "accuracy": 100,
-            "score": 140409,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "TibbyWibbyOut"
-        },
-        {
-            "accuracy": 100,
-            "score": 140348,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Shortdust04"
         }
     ]
 }

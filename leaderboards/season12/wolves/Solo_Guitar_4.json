@@ -2,6 +2,22 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 103926,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "Flamoott"
+        },
+        {
+            "accuracy": 99,
+            "score": 103918,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "Tuxedo Todoroki"
+        },
+        {
+            "accuracy": 100,
             "score": 103916,
             "difficulty": 3,
             "stars": 6,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "ask for the moon"
-        },
-        {
-            "accuracy": 100,
-            "score": 103346,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Thronkasoris"
-        },
-        {
-            "accuracy": 100,
-            "score": 103327,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "KingMarsden"
         }
     ]
 }

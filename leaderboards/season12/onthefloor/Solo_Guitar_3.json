@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 128798,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "DangerPetya_"
+        },
+        {
+            "accuracy": 100,
+            "score": 128763,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TastyTacos34"
+        },
+        {
             "accuracy": 100,
             "score": 128733,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "Omnerack"
-        },
-        {
-            "accuracy": 100,
-            "score": 127693,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "frosty5701"
-        },
-        {
-            "accuracy": 100,
-            "score": 127688,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "E R U U"
         }
     ]
 }

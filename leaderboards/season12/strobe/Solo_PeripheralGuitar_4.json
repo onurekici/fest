@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 52740,
+            "difficulty": 1,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "steve10765"
+        },
+        {
             "accuracy": 85,
             "score": 52680,
             "difficulty": 3,
@@ -617,6 +625,14 @@
             "userName": "Bio551"
         },
         {
+            "accuracy": 72,
+            "score": 39096,
+            "difficulty": 3,
+            "stars": 2,
+            "fullcombo": false,
+            "userName": "Wh1teGuyFromD12"
+        },
+        {
             "accuracy": 97,
             "score": 38778,
             "difficulty": 1,
@@ -783,22 +799,6 @@
             "stars": 3,
             "fullcombo": false,
             "userName": "cabollo"
-        },
-        {
-            "accuracy": 89,
-            "score": 33846,
-            "difficulty": 2,
-            "stars": 3,
-            "fullcombo": false,
-            "userName": "CatDonkey"
-        },
-        {
-            "accuracy": 70,
-            "score": 33738,
-            "difficulty": 3,
-            "stars": 2,
-            "fullcombo": false,
-            "userName": "Spazdrew"
         }
     ]
 }

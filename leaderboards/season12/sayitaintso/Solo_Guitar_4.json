@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 160161,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "JohnStamosIsDead"
+        },
+        {
+            "accuracy": 100,
+            "score": 160151,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "TrisWinGames"
+        },
+        {
             "accuracy": 100,
             "score": 160146,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": true,
             "userName": "seanngpr"
-        },
-        {
-            "accuracy": 100,
-            "score": 159431,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Sesar Puyo"
-        },
-        {
-            "accuracy": 100,
-            "score": 159414,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Encebollado XXL"
         }
     ]
 }

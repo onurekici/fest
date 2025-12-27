@@ -2,6 +2,14 @@
     "entries": [
         {
             "accuracy": 100,
+            "score": 70000,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "AlotOfBean-"
+        },
+        {
+            "accuracy": 100,
             "score": 69730,
             "difficulty": 2,
             "stars": 5,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "JUDEEEEEEE 10"
-        },
-        {
-            "accuracy": 99,
-            "score": 46005,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": false,
-            "userName": "alexis-3007"
         }
     ]
 }

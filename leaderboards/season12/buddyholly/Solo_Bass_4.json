@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 99,
+            "score": 145110,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": false,
+            "userName": "NotStormyToday"
+        },
+        {
+            "accuracy": 100,
+            "score": 145098,
+            "difficulty": 3,
+            "stars": 6,
+            "fullcombo": true,
+            "userName": "bree_ateez"
+        },
+        {
             "accuracy": 100,
             "score": 145068,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 6,
             "fullcombo": false,
             "userName": "mrBlixy"
-        },
-        {
-            "accuracy": 99,
-            "score": 142620,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": false,
-            "userName": "b0t_nugget"
-        },
-        {
-            "accuracy": 100,
-            "score": 142596,
-            "difficulty": 3,
-            "stars": 6,
-            "fullcombo": true,
-            "userName": "Rooks_2"
         }
     ]
 }

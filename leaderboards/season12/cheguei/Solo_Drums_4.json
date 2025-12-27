@@ -1,6 +1,14 @@
 {
     "entries": [
         {
+            "accuracy": 98,
+            "score": 73524,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "tyn.andy"
+        },
+        {
             "accuracy": 99,
             "score": 73215,
             "difficulty": 2,
@@ -791,14 +799,6 @@
             "stars": 5,
             "fullcombo": false,
             "userName": "HankBorgato"
-        },
-        {
-            "accuracy": 100,
-            "score": 58175,
-            "difficulty": 1,
-            "stars": 5,
-            "fullcombo": true,
-            "userName": "Real_hasta6"
         }
     ]
 }

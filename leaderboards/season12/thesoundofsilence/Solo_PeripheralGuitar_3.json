@@ -1,6 +1,22 @@
 {
     "entries": [
         {
+            "accuracy": 100,
+            "score": 92899,
+            "difficulty": 2,
+            "stars": 5,
+            "fullcombo": true,
+            "userName": "[XBL] NEW7979"
+        },
+        {
+            "accuracy": 95,
+            "score": 92850,
+            "difficulty": 3,
+            "stars": 5,
+            "fullcombo": false,
+            "userName": "Capathian Forest"
+        },
+        {
             "accuracy": 94,
             "score": 92195,
             "difficulty": 3,
@@ -783,22 +799,6 @@
             "stars": 4,
             "fullcombo": false,
             "userName": "SC0RREN"
-        },
-        {
-            "accuracy": 94,
-            "score": 76793,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Breelsteel09"
-        },
-        {
-            "accuracy": 92,
-            "score": 76318,
-            "difficulty": 3,
-            "stars": 4,
-            "fullcombo": false,
-            "userName": "Mr-_-Dolf"
         }
     ]
 }
