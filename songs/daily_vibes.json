@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-07-02T05:56:12.939570Z",
+  "name": "Daily Vibes",
+  "activeSince": "2026-07-02T00:00:00.000Z",
+  "activeUntil": "2026-07-03T00:00:00.000Z",
+  "songCount": 2,
+  "songs": [
+    {
+      "_title": "migente",
+      "track": {
+        "tt": "Mi Gente",
+        "ry": 2017,
+        "nu": "2024-04-23T08:00:00.000Z",
+        "dn": 190,
+        "sib": "Bass",
+        "sid": "Drum",
+        "sig": "Keyboard",
+        "qi": "{\"sid\":\"43b5f38d-d008-48e1-afab-c3e34155e15b\",\"pid\":\"7eacf554-80c8-492e-afa1-81926d61ee80\",\"stereoId\":\"eb186d8e-400c-4ed6-96ba-6a8aa4907f05\",\"instrumentalId\":\"4f63bdfc-2944-4b0a-a8af-37586373ee5c\",\"title\":\"migente\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":85.7143}}",
+        "sn": "migente",
+        "mk": "E",
+        "mm": "Minor",
+        "ab": "Mi Gente",
+        "siv": "Vocals",
+        "su": "9454e19d-1f2d-4d4e-9536-b23330c22016",
+        "in": {
+          "bd": 4,
+          "pb": 0,
+          "pd": 3,
+          "vl": 4,
+          "pg": 0,
+          "_type": "SparkTrackIntensities",
+          "gr": 0,
+          "ds": 4,
+          "ba": 0
+        },
+        "mt": 105,
+        "_type": "SparkTrack",
+        "mu": "https://cdn2.unrealengine.com/dqscqoawii1mvxfu-fc2c1713e72a.dat",
+        "isrc": "FR22F1701790",
+        "gt": [
+          "Jam-LoopIsUnpitched-Beat"
+        ],
+        "an": "J Balvin & Willy William",
+        "ar": "E",
+        "au": "https://cdn2.unrealengine.com/snvyq9y2o6aaxfqz-512x512-10328c96f23e.jpg",
+        "ti": "SparksSong:sid_placeholder_34",
+        "ld": "https://cdn2.unrealengine.com/migente-81ab6203d13a.lad",
+        "jc": "1943-8028-9061"
+      },
+      "_noIndex": false,
+      "_activeDate": "2023-10-10T14:59:13.021Z",
+      "lastModified": "2026-04-21T18:26:42.186Z",
+      "_locale": "en-US",
+      "_templateName": "track"
+    },
+    {
+      "_title": "stupidlove",
+      "track": {
+        "tt": "Stupid Love",
+        "ry": 2020,
+        "nu": "2024-02-24T00:00:00.000Z",
+        "dn": 197,
+        "sib": "Bass",
+        "mmo": 59,
+        "sid": "Drum",
+        "sig": "Keyboard",
+        "qi": "{\"sid\":\"26586c94-902a-4eb7-a62f-d5c955f36735\",\"pid\":\"6c3fad36-6d2e-4471-87c8-9d718316f0bd\",\"stereoId\":\"0c80ca52-06b0-4393-b1fd-d904b219ecd5\",\"instrumentalId\":\"f8da24fa-7e56-46d1-a1f9-fa441131d5c6\",\"title\":\"stupidlove\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":56.4706}}",
+        "sn": "stupidlove",
+        "mk": "Bb",
+        "mm": "Major",
+        "siv": "Vocals",
+        "su": "b79112db-b6e3-492c-a732-9fabbc2f1788",
+        "in": {
+          "bd": 5,
+          "pb": 3,
+          "pd": 3,
+          "vl": 3,
+          "pg": 0,
+          "_type": "SparkTrackIntensities",
+          "gr": 0,
+          "ds": 3,
+          "ba": 4
+        },
+        "mt": 118,
+        "_type": "SparkTrack",
+        "mu": "https://cdn2.unrealengine.com/zecgqvydzqsebxks-f1853ede26dc.dat",
+        "isrc": "USUM71917357",
+        "gt": [
+          "Jam-LoopIsUnpitched-Beat"
+        ],
+        "an": "Lady Gaga",
+        "ar": "E",
+        "au": "https://cdn2.unrealengine.com/hdavfy8ufdnrh6oq-512x512-ec6a4bc8a9c3.jpg",
+        "ti": "SparksSong:sid_placeholder_146",
+        "ld": "https://cdn2.unrealengine.com/stupidlove-215844ee91fc.lad",
+        "jc": "4617-8037-7617"
+      },
+      "_noIndex": false,
+      "_activeDate": "2025-03-11T08:00:00.000Z",
+      "lastModified": "2026-02-06T18:41:43.234Z",
+      "_locale": "en-US",
+      "_templateName": "track"
+    }
+  ]
+}

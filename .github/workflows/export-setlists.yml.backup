@@ -1,0 +1,56 @@
+name: Export Festival Setlists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: export-festival-setlists
+  cancel-in-progress: true
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+          lfs: false
+          submodules: false
+          sparse-checkout: |
+            setlists.py
+            requirements.txt
+            songs
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run exporter
+        env:
+          EPIC_BASIC_AUTH: ${{ secrets.EPIC_BASIC_AUTH }}
+          EPIC_DAILY: ${{ secrets.EPIC_DAILY }}
+        run: python setlists.py
+
+      - name: Commit and push songs JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add songs
+          git diff --staged --quiet || git commit -m "update festival setlists"
+          git push

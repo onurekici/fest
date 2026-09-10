@@ -1,0 +1,174 @@
+name: Skor Sorgulama
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Her gece 00:00'da çalışır
+
+# Node.js 24'e geçiş için tüm iş akışını kapsayan zorunlu ortam değişkeni
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  scrape:
+    name: ${{ matrix.gorunen_isim }}
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 3 # Tüm enstrümanlar için limiti artırdık
+      matrix:
+        include:
+          - instrument: 'Solo_Guitar'
+            token_secret: 'EPIC_REFRESH_TOKEN'
+            gorunen_isim: 'Gitar Sorgusu'
+
+          - instrument: 'Solo_Bass'
+            token_secret: 'EPIC_REFRESH_TOKEN'
+            gorunen_isim: 'Bass Sorgusu'
+
+          - instrument: 'Solo_Drums'
+            token_secret: 'EPIC_REFRESH_TOKEN'
+            gorunen_isim: 'Bateri Sorgusu'
+
+          - instrument: 'Solo_Vocals'
+            token_secret: 'EPIC_REFRESH_TOKEN_1'
+            gorunen_isim: 'Vokal Sorgusu'
+
+          - instrument: 'Solo_PeripheralGuitar'
+            token_secret: 'EPIC_REFRESH_TOKEN_1'
+            gorunen_isim: 'Pro Gitar Sorgusu'
+
+          - instrument: 'Solo_PeripheralBass'
+            token_secret: 'EPIC_REFRESH_TOKEN_1'
+            gorunen_isim: 'Pro Bass Sorgusu'
+
+          # --- YENİ EKLENEN ENSTRÜMANLAR ---
+          - instrument: 'Solo_PeripheralDrums'
+            token_secret: 'EPIC_REFRESH_TOKEN_2'
+            gorunen_isim: 'Pro Bateri Sorgusu'
+
+          - instrument: 'Solo_PeripheralCymbals'
+            token_secret: 'EPIC_REFRESH_TOKEN_2'
+            gorunen_isim: 'Pro Zil Sorgusu'
+
+          - instrument: 'Solo_PeripheralVocals'
+            token_secret: 'EPIC_REFRESH_TOKEN_2'
+            gorunen_isim: 'Pro Vokal Sorgusu'
+
+      fail-fast: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          sparse-checkout: |
+            actions.py
+            seasons.json
+          sparse-checkout-cone-mode: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests cryptography
+
+      - name: Create output directory
+        run: mkdir -p ./output/leaderboards/
+
+      - name: Veriler İndiriliyor...
+        env:
+          EPIC_REFRESH_TOKEN: ${{ secrets[matrix.token_secret] }}
+          EPIC_BASIC_AUTH: ${{ secrets.EPIC_BASIC_AUTH }}
+          DATA_ENCRYPTION_KEY: ${{ secrets.DATA_ENCRYPTION_KEY }}
+        run: python actions.py ${{ matrix.instrument }} ./output
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v5
+        with:
+          name: leaderboards-${{ matrix.instrument }}
+          path: ./output/leaderboards/
+
+  commit-files:
+    name: Depoyu Şişirmeden Güncelle
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v5
+        with:
+          pattern: leaderboards-*
+          merge-multiple: true
+          path: temp_leaderboards/
+
+      - name: Update and Optimize Size
+        run: |
+          git config --global user.name "Onur Ekici"
+          git config --global user.email "onurekicki@users.noreply.github.com"
+          
+          # Transfer limitlerini rahatlatan ayarlar
+          git config --global http.postBuffer 2097152000
+          git config --global http.maxRequestSize 2097152000
+          git config --global core.compression 9
+          git config --global http.lowSpeedLimit 0
+          git config --global http.lowSpeedTime 999999
+
+          # Yeni gelen skor dosyalarını klasöre taşı ve temizle
+          mkdir -p leaderboards/
+          cp -r temp_leaderboards/* leaderboards/
+          rm -rf temp_leaderboards/
+
+          # GEÇMİŞİ SIFIRLA VE TEMİZ BİR DAL (BRANCH) OLUŞTUR
+          git checkout --orphan gecici_dal
+          git branch -D main || true
+          git branch -m main
+
+          # 1. AŞAMA: Sadece temel repo dosyalarını ekle ve ilk temiz push'u yap
+          git add .github/ actions.py season.json setlists.py songs/ requirements.txt README.md .gitignore || true
+          
+          # Eğer temel dosyalarda eklenecek bir şey varsa commit at (çökmesini engeller)
+          if ! git diff --staged --quiet; then
+            git commit -m "Temel repo dosyalari"
+            git push origin main --force
+          fi
+
+          # 2. AŞAMA: Skor dosyalarını gruplar halinde parçalayarak yükle
+          echo "Skorlar parca parca yukleniyor..."
+          count=0
+          
+          for season_dir in leaderboards/*; do
+            if [ -d "$season_dir" ]; then
+              # Dosya veya klasör ayırt etmeksizin her öğeyi ekle
+              for item in "$season_dir"/*; do
+                git add "$item"
+                count=$((count+1))
+                
+                # Her 40 öğede bir paketi gönder
+                if [ $count -eq 40 ]; then
+                  # Sadece yeni bir değişiklik varsa commit at
+                  if ! git diff --staged --quiet; then
+                    git commit -m "Skor Guncellemesi (Parca)"
+                    git push origin main
+                  fi
+                  count=0
+                fi
+              done
+            fi
+          done
+          
+          # 3. AŞAMA: Gözden kaçan son dosyaları topla ve işlemi bitir
+          git add leaderboards/
+          if ! git diff --staged --quiet; then
+            git commit -m "Skor Guncellemesi (Son Parca)"
+            git push origin main
+          fi
+          
+          echo "✅ Tum yuklemeler basariyla tamamlandi."
